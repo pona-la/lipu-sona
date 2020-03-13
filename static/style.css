@@ -1,0 +1,13 @@
+html {
+	background:#eeeeec;
+	min-height: 100%;
+}
+
+body {
+	background: white;
+	border-left: 1px solid #babdb6;
+	border-right: 1px solid #babdb6;
+	max-width: 720pt;
+	margin: auto;
+	min-height: 100%;
+}
