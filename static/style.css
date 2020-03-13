@@ -11,3 +11,33 @@ body {
 	margin: auto;
 	min-height: 100%;
 }
+
+body a {
+	color: #204a87;
+}
+
+body a:visited {
+	color: #5c3566;
+}
+
+.header {
+	background: #2e3436;
+	color: #eeeeec;
+	font-family: sans-serif;
+	min-height: 1px;
+}
+
+.header a, .header a:visited {
+	color: white;
+}
+
+.header h2, .header h3 {
+	display: inline-block;
+}
+
+.footer {
+	background: #d3d7cf;
+	color: #555753;
+	font-family: sans-serif:
+	font-size: 0.8em;
+}

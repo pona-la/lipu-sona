@@ -1,3 +1,5 @@
+-include Makefile.pwd
+
 OUTDIR=out
 PAGEDIR=pages
 SRCDIR=src
@@ -14,7 +16,7 @@ OUT_STATIC = $(patsubst static/%,out/%,$(_STATIC))
 
 
 .SUFFIXES:
-.PHONY: all
+.PHONY: all upload
 
 all: $(PAGES_HTML) $(OUT_STATIC)
 
