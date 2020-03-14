@@ -38,8 +38,20 @@ body a:visited {
 .footer {
 	background: #d3d7cf;
 	color: #555753;
-	font-family: sans-serif:
+	font-family: sans-serif;
 	font-size: 0.8em;
+	padding: 12pt 6pt;
+}
+
+.content {
+	margin: 0 6pt;
+	color: #2e3436;
+}
+
+.info, .warning, .error {
+	margin: 6pt;
+	padding: 6pt;
+	font-family: sans-serif;
 }
 
 .info {
@@ -62,4 +74,9 @@ body a:visited {
 	color: white;
 }
 
-
+.spoiler {
+	border-left: 4px solid #2e3436;
+	background: #d3d7cf;
+	color: #2e3436;
+	visibility: hidden;
+}
