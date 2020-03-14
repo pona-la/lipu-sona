@@ -41,3 +41,25 @@ body a:visited {
 	font-family: sans-serif:
 	font-size: 0.8em;
 }
+
+.info {
+	border-left: 4px solid #3465a4;
+	background:#729fcf;
+}
+
+.warning {
+	border-left: 4px solid #c4a000;
+	background:#fce94f;
+}
+
+.error {
+	border-left: 4px solid #a40000;
+	background:#cc0000;
+	color:white;
+}
+
+.error a, .error a:visited {
+	color: white;
+}
+
+

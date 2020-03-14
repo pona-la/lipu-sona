@@ -20,14 +20,14 @@ OUT_STATIC = $(patsubst static/%,out/%,$(_STATIC))
 
 all: $(PAGES_HTML) $(OUT_STATIC)
 
-$(OUTDIR)/%.html: $(PAGEDIR)/%.md $(TPLDIR)/default.tpl
+$(OUTDIR)/%.html: $(PAGEDIR)/%.md $(TPLDIR)/default.tpl $(OUTDIR)
 	theme -t $(TPLDIR)/default.tpl -o $@ $<
 
 $(OUTDIR)/%: static/%
 	cp -r $< $@
 
 $(OUTDIR):
-	mkdir $(OUTDIR)
+	mkdir -p $(OUTDIR)
 
 clean:
 	rm -rf out/*
