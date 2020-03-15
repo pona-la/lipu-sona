@@ -1,3 +1,7 @@
-# Simple site template
+# rnd's website source code
 
-An attempt to use makefiles, markdown and a bit of bash to make a simple static website and easily upload it to neocities.
+This is the source code to rnd's website at <https://rnd.neocities.org/>.
+
+Included are all the files and scripts used to build it, with the exception of
+the `upload.pwd` file containing the account password and possibly some files
+containing other identifying information.

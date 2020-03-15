@@ -1,0 +1,123 @@
+
+| word     | page    |
+|----------|---------|
+| a/kin    |         |
+| akesi    |         |
+| ala      | 3       |
+| alasa    |         |
+| ale/ali  | 3       |
+| anpa     |         |
+| ante     | 6       |
+| anu      |         |
+| awen     | 6       |
+| e        | 4       |
+| en       | 6       |
+| esun     |         |
+| ijo      | 4       |
+| ike      | 2       |
+| ilo      | 4       |
+| insa     |         |
+| jaki     |         |
+| jan      | 3       |
+| jelo     |         |
+| jo       | 5       |
+| kala     | 5       |
+| kalama   | 6       |
+| kama     |         |
+| kasi     | 5       |
+| ken      |         |
+| kepeken  | 7       |
+| kili     | 2       |
+| kiwen    | 5       |
+| ko       | 5       |
+| kon      |         |
+| kule     |         |
+| kulupu   | 6       |
+| kute     |         |
+| la       |         |
+| lape     | 6       |
+| laso     |         |
+| lawa     |         |
+| len      |         |
+| lete     |         |
+| li       | 2       |
+| lili     | 2       |
+| linja    |         |
+| lipu     | 4       |
+| loje     |         |
+| lon      | 7       |
+| luka     |         |
+| lukin    | 4       |
+| lupa     |         |
+| ma       | 5       |
+| mama     | 3       |
+| mani     |         |
+| meli     | 3       |
+| mi       | 2       |
+| mije     | 3       |
+| moku     | 3       |
+| moli     |         |
+| monsi    | 7       |
+| mu       |         |
+| mun      | 6       |
+| musi     |         |
+| mute     | 6       |
+| nanpa    |         |
+| nasa     |         |
+| nasin    |         |
+| nena     |         |
+| ni       | 6       |
+| nimi     |         |
+| noka     | 7       |
+| o        |         |
+| olin     | 4       |
+| ona      | 2       |
+| open     |         |
+| pakala   | 6       |
+| pali     | 4       |
+| palisa   |         |
+| pan      |         |
+| pana     | 4       |
+| pi       |         |
+| pilin    |         |
+| pimeja   |         |
+| pini     |         |
+| pipi     | 5       |
+| poka     | 7       |
+| poki     |         |
+| pona     | 2       |
+| pu       |         |
+| sama     | 7       |
+| seli     | 6       |
+| selo     |         |
+| seme     |         |
+| sewi     | 7       |
+| sijelo   |         |
+| sike     |         |
+| sin      |         |
+| sina     | 2       |
+| sinpin   | 7       |
+| sitelen  | 5       |
+| sona     |         |
+| soweli   | 2       |
+| suli     | 2       |
+| suno     |         |
+| supa     |         |
+| suwi     | 3       |
+| tan      | 7       |
+| taso     |         |
+| tawa     | 7       |
+| telo     | 4       |
+| tenpo    |         |
+| toki     | 5       |
+| tomo     | 4       |
+| tu       |         |
+| unpa     |         |
+| uta      |         |
+| utala    | 3       |
+| walo     |         |
+| wan      |         |
+| waso     | 5       |
+| wawa     | 3       |
+| weka     |         |
+| wile     |         |
