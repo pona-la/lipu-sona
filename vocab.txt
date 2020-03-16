@@ -6,7 +6,7 @@
 | ala      | 3       |
 | alasa    |         |
 | ale/ali  | 3       |
-| anpa     | 7       |
+| anpa     | 8       |
 | ante     | 6       |
 | anu      | 8       |
 | awen     | 6       |
@@ -16,7 +16,7 @@
 | ijo      | 4       |
 | ike      | 2       |
 | ilo      | 4       |
-| insa     |         |
+| insa     | 8       |
 | jaki     |         |
 | jan      | 3       |
 | jelo     |         |
@@ -37,7 +37,7 @@
 | la       |         |
 | lape     | 6       |
 | laso     |         |
-| lawa     | 7       |
+| lawa     |         |
 | len      |         |
 | lete     |         |
 | li       | 2       |
@@ -72,7 +72,7 @@
 | o        | 8       |
 | olin     | 4       |
 | ona      | 2       |
-| open     |         |
+| open     | 8       |
 | pakala   | 6       |
 | pali     | 4       |
 | palisa   |         |
@@ -81,7 +81,7 @@
 | pi       |         |
 | pilin    |         |
 | pimeja   |         |
-| pini     |         |
+| pini     | 8       |
 | pipi     | 5       |
 | poka     | 7       |
 | poki     |         |
