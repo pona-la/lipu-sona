@@ -17,9 +17,9 @@
 | ike      | 2       |
 | ilo      | 4       |
 | insa     | 8       |
-| jaki     |         |
+| jaki     | 9       |
 | jan      | 3       |
-| jelo     |         |
+| jelo     | 9       |
 | jo       | 5       |
 | kala     | 5       |
 | kalama   | 6       |
@@ -31,22 +31,22 @@
 | kiwen    | 5       |
 | ko       | 5       |
 | kon      |         |
-| kule     |         |
+| kule     | 9       |
 | kulupu   | 6       |
 | kute     | 8       |
-| la       |         |
+| la       | 10      |
 | lape     | 6       |
-| laso     |         |
-| lawa     |         |
-| len      |         |
-| lete     |         |
+| laso     | 9       |
+| lawa     | 8       |
+| len      | 10      |
+| lete     | 10      |
 | li       | 2       |
 | lili     | 2       |
-| linja    |         |
+| linja    | 10      |
 | lipu     | 4       |
-| loje     |         |
+| loje     | 9       |
 | lon      | 7       |
-| luka     |         |
+| luka     | 10      |
 | lukin    | 4       |
 | lupa     |         |
 | ma       | 5       |
@@ -56,32 +56,32 @@
 | mi       | 2       |
 | mije     | 3       |
 | moku     | 3       |
-| moli     |         |
+| moli     | 9       |
 | monsi    | 7       |
 | mu       | 8       |
-| mun      | 6       |
-| musi     |         |
+| mun      |         |
+| musi     | 10      |
 | mute     | 6       |
 | nanpa    |         |
-| nasa     |         |
+| nasa     | 9       |
 | nasin    |         |
 | nena     |         |
 | ni       | 6       |
-| nimi     |         |
+| nimi     | 8       |
 | noka     | 7       |
 | o        | 8       |
 | olin     | 4       |
 | ona      | 2       |
-| open     | 8       |
+| open     |         |
 | pakala   | 6       |
 | pali     | 4       |
 | palisa   |         |
 | pan      |         |
 | pana     | 4       |
-| pi       |         |
+| pi       | 10      |
 | pilin    |         |
-| pimeja   |         |
-| pini     | 8       |
+| pimeja   | 9       |
+| pini     |         |
 | pipi     | 5       |
 | poka     | 7       |
 | poki     |         |
@@ -89,10 +89,10 @@
 | pu       |         |
 | sama     | 7       |
 | seli     | 6       |
-| selo     |         |
+| selo     | 10      |
 | seme     | 8       |
 | sewi     | 7       |
-| sijelo   |         |
+| sijelo   | 10      |
 | sike     |         |
 | sin      |         |
 | sina     | 2       |
@@ -112,10 +112,10 @@
 | toki     | 5       |
 | tomo     | 4       |
 | tu       |         |
-| unpa     |         |
+| unpa     | 9       |
 | uta      |         |
 | utala    | 3       |
-| walo     |         |
+| walo     | 9       |
 | wan      |         |
 | waso     | 5       |
 | wawa     | 3       |
