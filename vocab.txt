@@ -1,14 +1,14 @@
 
 | word     | page    |
 |----------|---------|
-| a/kin    |         |
+| a/kin    | 8       |
 | akesi    |         |
 | ala      | 3       |
 | alasa    |         |
 | ale/ali  | 3       |
-| anpa     |         |
+| anpa     | 7       |
 | ante     | 6       |
-| anu      |         |
+| anu      | 8       |
 | awen     | 6       |
 | e        | 4       |
 | en       | 6       |
@@ -33,11 +33,11 @@
 | kon      |         |
 | kule     |         |
 | kulupu   | 6       |
-| kute     |         |
+| kute     | 8       |
 | la       |         |
 | lape     | 6       |
 | laso     |         |
-| lawa     |         |
+| lawa     | 7       |
 | len      |         |
 | lete     |         |
 | li       | 2       |
@@ -58,7 +58,7 @@
 | moku     | 3       |
 | moli     |         |
 | monsi    | 7       |
-| mu       |         |
+| mu       | 8       |
 | mun      | 6       |
 | musi     |         |
 | mute     | 6       |
@@ -69,7 +69,7 @@
 | ni       | 6       |
 | nimi     |         |
 | noka     | 7       |
-| o        |         |
+| o        | 8       |
 | olin     | 4       |
 | ona      | 2       |
 | open     |         |
@@ -90,7 +90,7 @@
 | sama     | 7       |
 | seli     | 6       |
 | selo     |         |
-| seme     |         |
+| seme     | 8       |
 | sewi     | 7       |
 | sijelo   |         |
 | sike     |         |
