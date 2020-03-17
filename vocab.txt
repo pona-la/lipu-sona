@@ -23,9 +23,9 @@
 | jo       | 5       |
 | kala     | 5       |
 | kalama   | 6       |
-| kama     |         |
+| kama     | 11      |
 | kasi     | 5       |
-| ken      |         |
+| ken      | 11      |
 | kepeken  | 7       |
 | kili     | 2       |
 | kiwen    | 5       |
@@ -48,7 +48,7 @@
 | lon      | 7       |
 | luka     | 10      |
 | lukin    | 4       |
-| lupa     |         |
+| lupa     | 11      |
 | ma       | 5       |
 | mama     | 3       |
 | mani     |         |
@@ -64,15 +64,15 @@
 | mute     | 6       |
 | nanpa    |         |
 | nasa     | 9       |
-| nasin    |         |
-| nena     |         |
+| nasin    | 11      |
+| nena     | 11      |
 | ni       | 6       |
 | nimi     | 8       |
 | noka     | 7       |
 | o        | 8       |
 | olin     | 4       |
 | ona      | 2       |
-| open     |         |
+| open     | 11      |
 | pakala   | 6       |
 | pali     | 4       |
 | palisa   |         |
@@ -81,7 +81,7 @@
 | pi       | 10      |
 | pilin    |         |
 | pimeja   | 9       |
-| pini     |         |
+| pini     | 11      |
 | pipi     | 5       |
 | poka     | 7       |
 | poki     |         |
@@ -98,7 +98,7 @@
 | sina     | 2       |
 | sinpin   | 7       |
 | sitelen  | 5       |
-| sona     |         |
+| sona     | 11      |
 | soweli   | 2       |
 | suli     | 2       |
 | suno     |         |
@@ -108,7 +108,7 @@
 | taso     |         |
 | tawa     | 7       |
 | telo     | 4       |
-| tenpo    |         |
+| tenpo    | 11      |
 | toki     | 5       |
 | tomo     | 4       |
 | tu       |         |
@@ -120,4 +120,4 @@
 | waso     | 5       |
 | wawa     | 3       |
 | weka     |         |
-| wile     |         |
+| wile     | 11      |
