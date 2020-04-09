@@ -1,4 +1,4 @@
-% toki pona (WIP course)
+% toki pona
 % /dev/urandom
 % march 2020
 
@@ -83,9 +83,9 @@ pronunciation, and each page past that will introduce 10 new words.
 
 ---
 
-* [page x1 - (extra) old and new words](x1.html)
+* [extra page 1 - old and new words](x1.html)
 
-* [page x2 - (extra) other writing systems](x2.html)
+* [extra page 2 - other writing systems](x2.html)
 
 * [credits and acknowledgements](credits.html)
 
