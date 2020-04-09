@@ -27,7 +27,7 @@ upload:
 
 $(OUTDIR)/%.html: $(PAGEDIR)/%.md $(TPLDIR)/default.tpl
 	@mkdir -p $(@D)
-	theme -t $(TPLDIR)/default.tpl -o $@ $<
+	theme -C style -t $(TPLDIR)/default.tpl -o $@ $<
 
 $(OUTDIR)/%: static/%
 	@mkdir -p $(@D)

@@ -85,6 +85,10 @@ pronunciation, and each page past that will introduce 10 new words.
 
 * [page x1 - (extra) old and new words](x1.html)
 
+* [page x2 - (extra) other writing systems](x2.html)
+
+* [credits and acknowledgements](credits.html)
+
 ---
 
 ## Useful resources
