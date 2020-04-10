@@ -17,7 +17,8 @@
      <?theme body?>
    </div>
    <div class="footer">
-     Website created and updated by /dev/urandom.
+     Website created and updated by /dev/urandom. Source code available on the 
+     <a href="https://gitlab.com/dev_urandom/simple-site">GitLab page</a>.
    </div>
   </body>
 </html>
