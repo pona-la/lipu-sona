@@ -11,7 +11,7 @@ Special thanks:
 
 * **jan Misali** (Mitch Halley) for creating the "Conlang Critic" web series,
   from which I discovered toki pona
-* the administrators of the **ma pona pi toki pona** Discord server and the
+* the participants of the **ma pona pi toki pona** Discord server and the
   **toki pona** Telegram group
 * **jan Sonja** (Sonja Lang) for, well, creating toki pona itself
 

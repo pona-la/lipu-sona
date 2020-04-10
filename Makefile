@@ -14,7 +14,7 @@ PAGES_HTML = $(patsubst $(PAGEDIR)/%.md,$(OUTDIR)/%.html,$(_PAGES))
 _DIRECTORIES = $(shell find $(PAGEDIR)/* -type d)
 DIRECTORIES = $(patsubst $(PAGEDIR)/, $(OUTDIR)/, $(_PAGES))
 
-_STATIC = $(shell find static/ -name \*)
+_STATIC = $(shell find -L static/ -type f -name \*)
 OUT_STATIC = $(patsubst static/%,out/%,$(_STATIC))
 
 .SUFFIXES:
