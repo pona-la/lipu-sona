@@ -6,9 +6,7 @@ html {
 body {
 	background: #fafafa;
 	color:#4b4b4b;
-	border-style: solid;
-	border-color: #9d9d9d;
-	border-width: 1px;
+	box-shadow: 0 0 0 1px #9d9d9d;
 	max-width: 720pt;
 	margin: auto;
 	min-height: 100%;
@@ -24,8 +22,7 @@ body a:visited {
 
 blockquote {
 	margin: 6pt;
-	padding-inline-start: 1em;
-	padding-inline-end: 1em;
+	padding-inline: 1em;
 	border-inline-start: 4px solid #9d9d9d;
 }
 
@@ -48,6 +45,9 @@ th, td {
 	color: #fafafa;
 	font-family: sans-serif;
 	min-height: 1px;
+	padding-inline: 2em;
+	padding-block: 1em;
+
 }
 
 .header a, .header a:visited {
@@ -70,6 +70,8 @@ th, td {
 .content {
 	margin: 0 6pt;
 	color: #4b4b4b;
+	font-family: serif;
+	padding-inline: 1em;
 }
 
 .info, .warning, .error {
