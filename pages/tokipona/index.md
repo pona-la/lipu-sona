@@ -53,7 +53,7 @@ pronunciation, and each page past that will introduce 10 new words.
 
 ## Table of Contents
 
-* [page 0 - spelling and pronunciation](0.html)
+* [page 0 - spelling and pronunciation](0.html) [(普通话)](zh_0.html)
 
 * [page 1 - basic sentences](1.html)
 

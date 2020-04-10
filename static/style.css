@@ -33,6 +33,16 @@ p {
 	line-height: 1.5em;
 }
 
+table {
+	border: 2px solid #9D9D9D;
+	border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #d4d4d4;
+    padding: 4pt;
+}
+
 .header {
 	background: #4b4b4b;
 	color: #fafafa;

@@ -2,12 +2,6 @@
 % jan Sose (人天爱知)
 % april 2020
 
-<style>
-th, td {
-    border: 1px solid #d4d4d4;
-    padding: 4pt;
-</style>
-
 对不起，我在学习中文，我的普通话不很好。
 
 语言”toki pona” （你会说没有商调：太开破那）只有14个罗马字的字。都toki pona的字说这道：a，e，i，j, k, l, m, n, o, p, s, t, u, w.
