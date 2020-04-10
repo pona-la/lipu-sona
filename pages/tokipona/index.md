@@ -49,9 +49,9 @@ differences will be covered.
 The page numbered zero will provide basic info on the language's spelling and
 pronunciation, and each page past that will introduce 10 new words.
 
----
-
 ## Table of Contents
+
+### Course pages
 
 * [page 0 - spelling and pronunciation](0.html) [(普通话)](zh_0.html)
 
@@ -81,15 +81,13 @@ pronunciation, and each page past that will introduce 10 new words.
 
 * [page 12 - the final countdown](12.html)
 
----
+### Extra pages
 
 * [extra page 1 - old and new words](x1.html)
 
 * [extra page 2 - other writing systems](x2.html)
 
 * [credits and acknowledgements](credits.html)
-
----
 
 ## Useful resources
 
