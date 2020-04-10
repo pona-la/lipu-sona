@@ -6,6 +6,8 @@ Here is a list of all the people who have since contributed to this toki pona
 course:
 
 * **jan Inkepa** -- suggested fixes and additional examples for page 10
+* **jan Sose** ([u/Dhwtyhotep](https://reddit.com/u/Dhwtyhotep)) for submitting
+  page 0 in Mandarin Chinese
 
 Special thanks:
 
