@@ -5,7 +5,7 @@
 Here is a list of all the people who have since contributed to this toki pona
 course:
 
-* **jan Inkepa** -- suggested additional examples for page 10
+* **jan Inkepa** -- suggested fixes and additional examples for page 10
 
 Special thanks:
 
