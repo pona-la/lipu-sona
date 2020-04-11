@@ -1,15 +1,12 @@
 html {
-	background:#d4d4d4;
 	min-height: 100%;
 }
 
 body {
 	background: #fafafa;
 	color:#4b4b4b;
-	box-shadow: 0 0 0 1px #9d9d9d;
-	max-width: 720pt;
-	margin: auto;
 	min-height: 100%;
+	margin: 0;
 }
 
 body a {
@@ -31,6 +28,7 @@ p {
 }
 
 table {
+	background: #fafafa;
 	border: 2px solid #9D9D9D;
 	border-collapse: collapse;
 }
@@ -45,7 +43,6 @@ th, td {
 	color: #fafafa;
 	font-family: sans-serif;
 	min-height: 1px;
-	padding-inline: 2em;
 	padding-block: 1em;
 
 }
@@ -55,7 +52,7 @@ th, td {
 }
 
 .header h2, .header h3 {
-	display: inline-block;
+	display: inline;
 }
 
 .footer {
@@ -71,13 +68,11 @@ th, td {
 	margin: 0 6pt;
 	color: #4b4b4b;
 	font-family: serif;
-	padding-inline: 1em;
 }
 
 .info, .warning, .error {
 	margin: 6pt;
-	padding: 6pt;
-	padding-inline-start: 1em;
+	padding-inline-start: 0.5em;
 	font-family: sans-serif;
 }
 
@@ -101,4 +96,31 @@ th, td {
 	background: #d4d4d4;
 	color:#4b4b4b;
 	visibility: hidden;
+}
+
+@media screen and (min-width: 480px) {
+
+	.header {
+		padding-inline: 2em;
+	}
+	.content {
+		padding-inline: 1em;
+	}
+
+	.info, .warning, .error {
+		padding: 6pt;
+		padding-inline-start: 1em;
+		font-family: sans-serif;
+	}
+}
+
+@media screen and (min-width:720pt) {
+	html {
+		background:#d4d4d4;
+	}
+	body {
+		box-shadow: 0 0 0 1px #9d9d9d;
+		max-width: 720pt;
+		margin: auto;
+	}
 }
