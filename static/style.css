@@ -3,24 +3,24 @@ html {
 }
 
 body {
-	background: #fafafa;
-	color:#4b4b4b;
+	background: #fefefe;
+	color:#221f31;
 	min-height: 100%;
 	margin: 0;
 }
 
-body a {
-	color: #58aeee;
+body a, body a:visited {
+	color: #404a68;
 }
 
 body a:visited {
-	color: #9569c8;
+	color: #678fcb;
 }
 
 blockquote {
 	margin: 6pt;
 	padding-inline: 1em;
-	border-inline-start: 4px solid #9d9d9d;
+	border-inline-start: 4px solid #9a93b7;
 }
 
 p {
@@ -28,19 +28,19 @@ p {
 }
 
 table {
-	background: #fafafa;
-	border: 2px solid #9D9D9D;
+	background: #fefefe;
+	border: 2px solid #9a93b7;
 	border-collapse: collapse;
 }
 
 th, td {
-    border: 1px solid #d4d4d4;
+    border: 1px solid #9a93b7;
     padding: 4pt;
 }
 
 .header {
-	background: #4b4b4b;
-	color: #fafafa;
+	background: #221f31;
+	color: #fefefe;
 	font-family: sans-serif;
 	min-height: 1px;
 	padding-block: 1em;
@@ -48,7 +48,7 @@ th, td {
 }
 
 .header a, .header a:visited {
-	color: #fafafa;
+	color: #fefefe;
 }
 
 .header h2, .header h3 {
@@ -56,17 +56,21 @@ th, td {
 }
 
 .footer {
-	background: #d4d4d4;
-	color: #4b4b4b;
+	background: #404a68;
+	color: #fefefe;
 	text-align: center;
 	font-family: sans-serif;
 	font-size: 0.8em;
 	padding: 12pt 6pt;
 }
 
+.footer a, .footer a:visited {
+	color: #8be1e0;
+}
+
 .content {
 	margin: 0 6pt;
-	color: #4b4b4b;
+	color: #221f31;
 	font-family: serif;
 }
 
@@ -77,24 +81,27 @@ th, td {
 }
 
 .info {
-	border-inline-start: 4px solid #44c55b;
-	background:#8deda7;
+	border-inline-start: 4px solid #316f23;
+	background:#7cc264;
+	color: #316f23;
 }
 
 .warning {
-	border-inline-start: 4px solid #eaaf4d;
-	background:#f9d381;
+	border-inline-start: 4px solid #9b6e2d;
+	background:#f5ee9b;
+	color:#543516;
 }
 
 .error {
-	border-inline-start: 4px solid #e75952;
-	background:#f9938a;
+	border-inline-start: 4px solid #a14d3f;
+	background:#ea9182;
+	color:#543516;
 }
 
 .spoiler {
-	border-inline-start: 4px solid #4b4b4b;
-	background: #d4d4d4;
-	color:#4b4b4b;
+	border-inline-start: 4px solid #221f31;
+	background: #9a93b7;
+	color:#221f31;
 	visibility: hidden;
 }
 
@@ -110,16 +117,15 @@ th, td {
 	.info, .warning, .error {
 		padding: 6pt;
 		padding-inline-start: 1em;
-		font-family: sans-serif;
 	}
 }
 
 @media screen and (min-width:720pt) {
 	html {
-		background:#d4d4d4;
+		background:#9a93b7;
 	}
 	body {
-		box-shadow: 0 0 0 1px #9d9d9d;
+		box-shadow: 0 0 0 1px #404a68;
 		max-width: 720pt;
 		margin: auto;
 	}
