@@ -1,26 +1,41 @@
+#define C_WHITE #ecf0f1
+#define C_GRAY1 #bdc3c7
+#define C_GRAY2 #95a5a6
+#define C_GRAY3 #7f8c8d
+#define C_BLACK #2c3e50
+#define C_BLACK2 #34495e
+#define C_RED1 #e74c3c
+#define C_RED2 #c0392b
+#define C_GRN1 #2ecc71
+#define C_GRN2 #27ae60
+#define C_YEL1 #f1c40f
+#define C_YEL2 #f39c12
+#define C_BLU1 #3498db
+#define C_BLU2 #2980b9 
+
 html {
 	min-height: 100%;
 }
 
 body {
-	background: #fefefe;
-	color:#221f31;
+	background: C_WHITE;
+	color:C_BLACK;
 	min-height: 100%;
 	margin: 0;
 }
 
 body a, body a:visited {
-	color: #404a68;
+	color: C_BLU2;
 }
 
 body a:visited {
-	color: #678fcb;
+	color: C_BLU1;
 }
 
 blockquote {
 	margin: 6pt;
 	padding-inline: 1em;
-	border-inline-start: 4px solid #9a93b7;
+	border-inline-start: 4px solid C_GRAY2;
 }
 
 p {
@@ -29,18 +44,18 @@ p {
 
 table {
 	background: #fefefe;
-	border: 2px solid #9a93b7;
+	border: 2px solid C_GRAY2;
 	border-collapse: collapse;
 }
 
 th, td {
-    border: 1px solid #9a93b7;
+    border: 1px solid C_GRAY1;
     padding: 4pt;
 }
 
 .header {
-	background: #221f31;
-	color: #fefefe;
+	background: C_BLACK2;
+	color: C_WHITE;
 	font-family: sans-serif;
 	min-height: 1px;
 	padding-block: 1em;
@@ -48,7 +63,7 @@ th, td {
 }
 
 .header a, .header a:visited {
-	color: #fefefe;
+	color: C_WHITE;
 }
 
 .header h2, .header h3 {
@@ -56,8 +71,8 @@ th, td {
 }
 
 .footer {
-	background: #404a68;
-	color: #fefefe;
+	background: C_GRAY3;
+	color: C_BLACK;
 	text-align: center;
 	font-family: sans-serif;
 	font-size: 0.8em;
@@ -65,12 +80,12 @@ th, td {
 }
 
 .footer a, .footer a:visited {
-	color: #8be1e0;
+	color: C_BLACK2;
 }
 
 .content {
 	margin: 0 6pt;
-	color: #221f31;
+	color: C_BLACK;
 	font-family: serif;
 }
 
@@ -81,27 +96,24 @@ th, td {
 }
 
 .info {
-	border-inline-start: 4px solid #316f23;
-	background:#7cc264;
-	color: #316f23;
+	border-inline-start: 4px solid C_GRN1;
+	color: C_GRN2;
 }
 
 .warning {
-	border-inline-start: 4px solid #9b6e2d;
-	background:#f5ee9b;
-	color:#543516;
+	border-inline-start: 4px solid C_YEL1;
+	color: C_YEL2;
 }
 
 .error {
-	border-inline-start: 4px solid #a14d3f;
-	background:#ea9182;
-	color:#543516;
+	border-inline-start: 4px solid C_RED1;
+	color: C_RED2;
 }
 
 .spoiler {
-	border-inline-start: 4px solid #221f31;
-	background: #9a93b7;
-	color:#221f31;
+	border-inline-start: 4px solid C_BLACK2;
+	background: C_GRAY2;
+	color:C_BLACK2;
 	visibility: hidden;
 }
 
@@ -122,10 +134,10 @@ th, td {
 
 @media screen and (min-width:720pt) {
 	html {
-		background:#9a93b7;
+		background:C_GRAY1;
 	}
 	body {
-		box-shadow: 0 0 0 1px #404a68;
+		box-shadow: 0 0 0 1px C_GRAY2;
 		max-width: 720pt;
 		margin: auto;
 	}
