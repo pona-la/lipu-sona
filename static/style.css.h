@@ -1,17 +1,22 @@
-#define C_WHITE #ecf0f1
-#define C_GRAY1 #bdc3c7
-#define C_GRAY2 #95a5a6
-#define C_GRAY3 #7f8c8d
-#define C_BLACK #2c3e50
-#define C_BLACK2 #34495e
-#define C_RED1 #e74c3c
-#define C_RED2 #c0392b
-#define C_GRN1 #2ecc71
-#define C_GRN2 #27ae60
-#define C_YEL1 #f1c40f
-#define C_YEL2 #f39c12
-#define C_BLU1 #3498db
-#define C_BLU2 #2980b9 
+#define C_WHITE #eeeeec
+#define C_GRAY1 #d3d7cf
+#define C_GRAY2 #babdb6
+#define C_GRAY3 #888a85
+#define C_BLACK #2e3436
+#define C_BLACK2 #555753
+#define C_RED1 #cc0000
+#define C_RED2 #a40000
+#define C_GRN1 #73d216
+#define C_GRN2 #4e9a06
+#define C_YEL1 #edd400
+#define C_YEL2 #c4a000
+#define C_BLU1 #3465a4
+#define C_BLU2 #204a87 
+
+@font-face {
+	font-family: "Xolonium";
+	src: url("/Xolonium-Regular.otf");
+}
 
 html {
 	min-height: 100%;
@@ -93,6 +98,25 @@ th, td {
 	margin: 6pt;
 	padding-inline-start: 0.5em;
 	font-family: sans-serif;
+}
+
+.info:before, .warning:before, .error:before {
+	font-family: "Xolonium", sans-serif;
+	float:inline-end;
+	font-size: 3em;
+	padding-inline-end: 0.2em;
+}
+
+.info:before {
+	content: "★";
+}
+
+.warning:before {
+	content: "⚠";
+}
+
+.error:before {
+	content: "⛔";
 }
 
 .info {

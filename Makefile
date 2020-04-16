@@ -14,7 +14,7 @@ PAGES_HTML = $(patsubst $(PAGEDIR)/%.md,$(OUTDIR)/%.html,$(_PAGES))
 _DIRECTORIES = $(shell find $(PAGEDIR)/* -type d)
 DIRECTORIES = $(patsubst $(PAGEDIR)/, $(OUTDIR)/, $(_PAGES))
 
-_STATIC_FILES = $(shell find -L static/ -type f -name \*i | grep -v \.h$)
+_STATIC_FILES = $(shell find -L static/ -type f -name \* | grep -v \.h$)
 _STATIC_HEADERS = $(shell find -L static/ -type f -name \*.h)
 OUT_STATIC = $(patsubst static/%,out/%,$(_STATIC_FILES)) $(patsubst static/%.h,out/%,$(_STATIC_HEADERS))
 
