@@ -22,6 +22,13 @@ Expressing many concepts and ideas in toki pona will require one to come up with
 their own phrases or rephrase them completely (which, as mentioned before, is
 part of the language's idea).
 
+Speaking of context, toki pona is a very context-sensitive language. Different
+people may describe the same basic ideas or things in completely different ways.
+This is also part of the language's idea. Even some of the rules of the language
+are also interpreted differently by different people, whether depending on what
+their native language is or their opinions on what's the best way to communicate
+something.
+
 In addition, toki pona is also designed to be easy to use regardless of one's
 native language. The sounds and syllable structure used in toki pona are
 distinct from one another and common across many languages, whereas the
@@ -44,10 +51,13 @@ their bigoted content, but it's also a well-made course.
 My goal here is to try and present a version that tries to account for the
 different ways people speak and write toki pona and the way it is being used
 now. Some pages will include "Dialectal differences" sections, in which these
-differences will be covered.
+differences will be covered. Some of the larger differences will be described
+right away. I will provide my personal opinions on some of these differences, so
+while this course does try to be exhaustive, it is not impartial.
 
 The page numbered zero will provide basic info on the language's spelling and
-pronunciation, and each page past that will introduce 10 new words.
+pronunciation, and each page past that will introduce 10 words from the
+language's 120 word dictionary.
 
 ## Table of Contents
 
