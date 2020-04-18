@@ -11,13 +11,22 @@
   </head>
 <body>
    <div class="header">
-	<h2><a href="/">rnd's website</a> | </h2><h3><?theme title?></h3>
+	<h2><a href="/">rnd's website</a><span class="titlesep"> | </span></h2><h3><?theme title?></h3>
    </div>
    <div class="content">
      <?theme body?>
    </div>
    <div class="footer">
-     Website created and updated by /dev/urandom. Source code available on the 
+   <a rel="me" href="https://cybre.space/@devurandom"><img src="/mastodon.gif"
+   width="88px" height="31px" alt="Follow me on Mastodon"></img></a>
+   <a href="https://vim.org"><img src="/vim.gif"
+   width="88px" height="31px" alt="This page made with Vim"></img></a>
+   <a
+   href="https://gitlab.com/dev_urandom/simple-site/-/blob/master/LICENSE"><img
+   src="/mit_license.gif"
+   width="88px" height="31px" alt="MIT license" title="This website, and the scripts used to build it, are available under the conditions of the MIT license."></img></a>
+   <br />
+   Website created and updated by /dev/urandom. Source code available on the 
      <a href="https://gitlab.com/dev_urandom/simple-site">GitLab page</a>.
    </div>
   </body>
