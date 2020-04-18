@@ -1,17 +1,27 @@
-#define C_WHITE #eeeeec
-#define C_GRAY1 #d3d7cf
-#define C_GRAY2 #babdb6
-#define C_GRAY3 #888a85
-#define C_BLACK #2e3436
-#define C_BLACK2 #555753
-#define C_RED1 #cc0000
-#define C_RED2 #a40000
-#define C_GRN1 #73d216
-#define C_GRN2 #4e9a06
-#define C_YEL1 #edd400
-#define C_YEL2 #c4a000
-#define C_BLU1 #3465a4
-#define C_BLU2 #204a87 
+#define C_PAGEBG #9a93b7
+#define C_HEADERBG #221f31
+#define C_BODYBG #fefefe
+#define C_FOOTERBG #404a68
+
+#define C_HEADERFG #fefefe
+#define C_BODYFG #050403
+#define C_FOOTERFG #9a93b7
+#define C_BLEAKFG #9a93b7
+
+#define C_DLINK #221f31
+#define C_LINK #404a68
+#define C_VISLINK #678fcb
+#define C_FOOTLINK #9a93b7
+
+#define C_DBORDER #404a68
+#define C_LBORDER #9a93b7
+
+#define C_DERR #a14d3f
+#define C_LERR #ea9182
+#define C_DINF #221f31
+#define C_LINF #8be1e0
+#define C_DWRN #9b6e2d
+#define C_LWRN #f5ee9b
 
 @font-face {
 	font-family: "Xolonium";
@@ -23,24 +33,17 @@ html {
 }
 
 body {
-	background: C_WHITE;
-	color:C_BLACK;
+	background: C_BODYBG;
+	color:C_BODYFG;
 	min-height: 100%;
 	margin: 0;
 }
 
-body a, body a:visited {
-	color: C_BLU2;
-}
-
-body a:visited {
-	color: C_BLU1;
-}
 
 blockquote {
 	margin: 6pt;
 	padding-inline: 1em;
-	border-inline-start: 4px solid C_GRAY2;
+	border-inline-start: 4px solid C_LBORDER;
 }
 
 p {
@@ -49,18 +52,18 @@ p {
 
 table {
 	background: #fefefe;
-	border: 2px solid C_GRAY2;
+	border: 2px solid C_LBORDER;
 	border-collapse: collapse;
 }
 
 th, td {
-    border: 1px solid C_GRAY1;
+    border: 1px solid C_DBORDER;
     padding: 4pt;
 }
 
 .header {
-	background: C_BLACK2;
-	color: C_WHITE;
+	background: C_HEADERBG;
+	color: C_HEADERFG;
 	font-family: sans-serif;
 	min-height: 1px;
 	padding-block: 1em;
@@ -68,7 +71,7 @@ th, td {
 }
 
 .header a, .header a:visited {
-	color: C_WHITE;
+	color: C_HEADERFG;
 }
 
 .header h2, .header h3 {
@@ -76,8 +79,8 @@ th, td {
 }
 
 .footer {
-	background: C_GRAY3;
-	color: C_BLACK;
+	background: C_FOOTERBG;
+	color: C_FOOTERFG;
 	text-align: center;
 	font-family: sans-serif;
 	font-size: 0.8em;
@@ -85,13 +88,21 @@ th, td {
 }
 
 .footer a, .footer a:visited {
-	color: C_BLACK2;
+	color: C_FOOTLINK;
 }
 
 .content {
 	margin: 0 6pt;
-	color: C_BLACK;
+	color: C_BODYFG;
 	font-family: serif;
+}
+
+.content a, .content a:visited {
+	color: C_LINK;
+}
+
+.content a:focus, .content a:hover {
+	color: C_DLINK;
 }
 
 .info, .warning, .error {
@@ -120,24 +131,26 @@ th, td {
 }
 
 .info {
-	border-inline-start: 4px solid C_GRN1;
-	color: C_GRN2;
+	border-inline-start: 4px solid C_DINF;
+	background: C_LINF;
+	color: C_DINF;
 }
 
 .warning {
-	border-inline-start: 4px solid C_YEL1;
-	color: C_YEL2;
+	border-inline-start: 4px solid C_DWRN;
+	background: C_LWRN;
+	color: C_DWRN;
 }
 
 .error {
-	border-inline-start: 4px solid C_RED1;
-	color: C_RED2;
+	border-inline-start: 4px solid C_DERR;
+	background: C_LERR;
+	color: C_DERR;
 }
 
 .spoiler {
-	border-inline-start: 4px solid C_BLACK2;
-	background: C_GRAY2;
-	color:C_BLACK2;
+	border-inline-start: 4px solid C_DBORDER;
+	color:;
 	visibility: hidden;
 }
 
@@ -158,10 +171,10 @@ th, td {
 
 @media screen and (min-width:720pt) {
 	html {
-		background:C_GRAY1;
+		background:C_PAGEBG;
 	}
 	body {
-		box-shadow: 0 0 0 1px C_GRAY2;
+		box-shadow: 0 0 0 1px C_LBORDER;
 		max-width: 720pt;
 		margin: auto;
 	}
