@@ -8,6 +8,8 @@
 #define C_FOOTERFG #9a93b7
 #define C_BLEAKFG #9a93b7
 
+#define C_BBORDER #404a68
+
 #define C_DLINK #221f31
 #define C_LINK #404a68
 #define C_VISLINK #678fcb
@@ -174,7 +176,7 @@ th, td {
 		background:C_PAGEBG;
 	}
 	body {
-		box-shadow: 0 0 0 1px C_LBORDER;
+		box-shadow: 0 0 0 1px C_BBORDER;
 		max-width: 720pt;
 		margin: auto;
 	}
