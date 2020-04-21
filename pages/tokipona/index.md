@@ -1,4 +1,4 @@
-% toki pona
+% lipu sona pona (toki pona course)
 % /dev/urandom
 % march 2020
 

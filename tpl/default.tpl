@@ -22,6 +22,10 @@
    <a href="https://vim.org"><img src="/vim.gif"
    width="88px" height="31px" alt="This page made with Vim"></img></a>
    <a
+   href="https://twitter.com/AdigunPolack/status/978086591485882368"><img
+   src="/simplejpc16.gif"
+   width="88px" height="31px" alt="SimpleJPC-16" title="This website uses the SimpleJPC-16 palette for its design."></img></a>
+   <a
    href="https://gitlab.com/dev_urandom/simple-site/-/blob/master/LICENSE"><img
    src="/mit_license.gif"
    width="88px" height="31px" alt="MIT license" title="This website, and the scripts used to build it, are available under the conditions of the MIT license."></img></a>
