@@ -1,19 +1,19 @@
-#define C_PAGEBG #9a93b7
+#define C_PAGEBG #404a68
 #define C_HEADERBG #221f31
 #define C_BODYBG #fefefe
-#define C_FOOTERBG #404a68
+#define C_FOOTERBG #9a93b7
 
 #define C_HEADERFG #fefefe
 #define C_BODYFG #050403
-#define C_FOOTERFG #9a93b7
+#define C_FOOTERFG #404a68
 #define C_BLEAKFG #9a93b7
 
-#define C_BBORDER #404a68
+#define C_BBORDER #221f31
 
 #define C_DLINK #221f31
 #define C_LINK #404a68
 #define C_VISLINK #678fcb
-#define C_FOOTLINK #9a93b7
+#define C_FOOTLINK #404a68
 
 #define C_DBORDER #404a68
 #define C_LBORDER #9a93b7
