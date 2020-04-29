@@ -99,6 +99,10 @@ language's 120 word dictionary.
 
 * [credits and acknowledgements](credits.html)
 
+### Original content
+
+* [phonetic alphabet](phonetic_alphabet.html)
+
 ## Useful resources
 
 Apart from the above-mentioned book and courses, here are some good resources
