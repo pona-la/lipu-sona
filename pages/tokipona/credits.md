@@ -11,6 +11,8 @@ course:
 * **jan Sose** ([u/Dhwtyhotep](https://reddit.com/u/Dhwtyhotep)) for submitting
   a version of page 0 in Mandarin Chinese
 
+* **Harrison** (@hpincket on GitLab) for fixing a typo on page 6
+
 Special thanks:
 
 * **jan Misali** (Mitch Halley) for creating the "Conlang Critic" web series,
