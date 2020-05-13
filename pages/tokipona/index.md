@@ -106,7 +106,7 @@ language's 120 word dictionary.
 
 ### Original content
 
-* [phonetic alphabet](phonetic_alphabet.html)
+* [phonetic alphabet (EN/RU)](phonetic_alphabet.html)
 
 ## Useful resources
 
