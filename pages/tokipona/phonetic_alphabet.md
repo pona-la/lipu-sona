@@ -159,7 +159,7 @@ sina toki e sitelen suli la, sina wile toki e nimi pi sitelen e nimi "suli".
 |        ц | Sapija [цапля] / Sente [центр]                           |
 |        ч | Seloweki [человек]                                       |
 |        ш | Sula [Шура]                                              |
-|        щ | Suka [щука]                                              |
+|        щ | Sijuka [щука]                                            |
 |        ъ | sitelen kiwen [твёрдый знак]                             |
 |        ы | Eli / Jeli [еры]                                         |
 |        ь | sitelen pi kiwen ala [мягкий знак]                       |
