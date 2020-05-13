@@ -163,6 +163,7 @@ th, td {
 	}
 	.content {
 		padding-inline: 1em;
+		padding-block-end: 1em;
 	}
 
 	.info, .warning, .error {
