@@ -2,6 +2,11 @@
 % /dev/urandom
 % march 2020
 
+>%info%
+> Теперь курс также доступен [на русском языке](ru_index.html)! (все основные
+> страницы переведены, но могут быть стилистические ошибки или
+> недопущения)
+
 This is the a series of pages comprising an attempt at an educational course
 about *toki pona*, a constructed language originally designed in 2001 and
 then gradually revised over the years by Sonja Lang.
