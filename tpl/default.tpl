@@ -5,13 +5,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?theme title?></title>
     <link href="/style.css" rel="stylesheet" type="text/css" media="all">
+    <link href="xstyle.css" rel="stylesheet" type="text/css" media="all">
     <link rel="icon" type="image/png" href="favicon.png">
     <?theme style?>
     <script src="/scripts.js"></script>
   </head>
 <body>
    <div class="header">
+	<div class="header_image"></div>
+	<div class="header_text">
 	<h2><a href="/">rnd's website</a><span class="titlesep"> | </span></h2><h3><?theme title?></h3>
+	</div>
    </div>
    <div class="content">
      <?theme body?>

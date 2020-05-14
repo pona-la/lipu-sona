@@ -1,5 +1,6 @@
 #define C_PAGEBG #404a68
 #define C_HEADERBG #221f31
+#define C_HEADERBGHALF rgba(34,31,49,0.5)
 #define C_BODYBG #fefefe
 #define C_FOOTERBG #9a93b7
 
@@ -68,12 +69,15 @@ th, td {
 	color: C_HEADERFG;
 	font-family: sans-serif;
 	min-height: 1px;
-	padding-block: 1em;
 
 }
 
+.header_text {
+	padding-block: 0.5em;
+}
+
 .header a, .header a:visited {
-	color: C_HEADERFG;
+	color: inherit;
 }
 
 .header h2, .header h3 {
@@ -159,6 +163,10 @@ th, td {
 @media screen and (min-width: 480px) {
 
 	.header {
+	}
+
+	.header_text {
+		background: C_HEADERBGHALF;
 		padding-inline: 2em;
 	}
 	.content {
@@ -172,13 +180,13 @@ th, td {
 	}
 }
 
-@media screen and (min-width:720pt) {
+@media screen and (min-width:768pt) {
 	html {
 		background:C_PAGEBG;
 	}
 	body {
 		box-shadow: 0 0 0 1px C_BBORDER;
-		max-width: 720pt;
+		max-width: 768pt;
 		margin: auto;
 	}
 }

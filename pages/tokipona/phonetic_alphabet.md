@@ -50,8 +50,9 @@ kulupu Neto [NATO]. sitelen ante li sin, li kepeken nimi pi toki pona taso. jan
 kute li ken ala kama sona ike e toki sina la, sina ken weka e nimi "sitelen", e
 nimi "nanpa".
 
-sitelen Losi ale li kama tan nasin Losi pi ilo kute pi kalama weka pi jan ni:
-ona li lawa ala. ona mute suli li kama tan nimi pi jan Losi.
+kulupu lawa Losi li jo e nasin tawa ni: jan pi lipu ken ala li wile pana e
+kalama lon kon tawa weka. nimi pi sitelen Losi kama tan nasin ni. ona mute suli
+li kama tan nimi Losi.
 
 nimi lon insa poki kiwen li nimi tan. o toki ala e ona.
 
@@ -86,7 +87,7 @@ sina toki e sitelen suli la, sina wile toki e nimi pi sitelen e nimi "suli".
 |        8 | nanpa Eto [eight] / nanpa luka tu wan                    |
 |        9 | nanpa Nana [niner] / nanpa luka tu tu                    |
 |        : | sitelen pi pini tu                                       |
-|        ; | sitelen pi pini pi la                                    |
+|        ; | sitelen pi pini pi la / sitelen pi pini en la            |
 |        < | sitelen pi suli lili                                     |
 |        = | sitelen sama                                             |
 |        > | sitelen pi suli mute                                     |
