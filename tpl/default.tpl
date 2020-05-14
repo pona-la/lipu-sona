@@ -29,6 +29,9 @@
    href="https://twitter.com/AdigunPolack/status/978086591485882368"><img
    src="/simplejpc16.gif"
    width="88px" height="31px" alt="SimpleJPC-16" title="This website uses the SimpleJPC-16 palette for its design."></img></a>
+   <a
+   href="https://mozilla.org/en-US/firefox/"><img src="/firefox.gif"
+   width="88px" height="31px" alt="Best viewed in Firefox" title="This website is best viewed in the Firefox web browser."></img></a>
    <br />
    Website created and updated by /dev/urandom. Source code available on the 
      <a href="https://gitlab.com/dev_urandom/simple-site">GitLab page</a>.
