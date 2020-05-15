@@ -21,8 +21,8 @@
 
 #define C_DERR #a14d3f
 #define C_LERR #ea9182
-#define C_DINF #221f31
-#define C_LINF #8be1e0
+#define C_DINF #316f23
+#define C_LINF #7cc264
 #define C_DWRN #9b6e2d
 #define C_LWRN #f5ee9b
 
