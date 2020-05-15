@@ -119,6 +119,8 @@ and links for people who want to learn or use toki pona:
 
 * [/r/tokipona subreddit](https://reddit.com/r/tokipona)
 
+* ["lipu lili pona", a description of toki pona's rules and vocabulary on 2 pages](https://neocities.org/site/lipu-lili-pona)
+
 * ["ma pona pi toki pona" Discord server](https://discord.gg/XKzj3ex)
 
 * [toki pona Telegram group](https://telegram.me/joinchat/BLVsYz92zHUp2h2TYp9kTA)
