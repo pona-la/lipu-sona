@@ -4,6 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?theme title?></title>
+    <meta property="og:site_name" content="rnd's website"/>
+    <meta property="og:title" content="<?theme title?>"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="https://rnd.neocities.org/<?theme dir?><?theme source?>"/>
     <link href="/style.css" rel="stylesheet" type="text/css" media="all">
     <link href="xstyle.css" rel="stylesheet" type="text/css" media="all">
     <link rel="icon" type="image/png" href="favicon.png">
