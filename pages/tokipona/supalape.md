@@ -1,11 +1,11 @@
-% toki pona extra page 2 - other writing systems
+% insa pi supa lape -- a sitelen pona font
 % /dev/urandom
-% april 2020
+% may 2020
 
 <style>
 @font-face {
-    font-family: "sitelen pona";
-    src: url("linjapimeja19.woff")
+    font-family: "insa pi supa lape";
+    src: url("supa lape.woff")
 }
 
 .sp {
@@ -15,7 +15,6 @@
 }
 
 .spflex {
-display: none;
 flex-direction: row;
 flex-wrap: wrap;
 border: 2px solid #9b9b9b;
@@ -41,83 +40,13 @@ border-radius: 4pt;
 
 </style>
 
-While the most common writing system for toki pona by far is the Latin alphabet,
-there have been others adapted, or created specifically, for toki pona.
+## insa pi supa lape
 
-## Adapted writing systems
-
-With toki pona only using 5 vowel and 9 consonant sounds, converting another
-language's writing system to toki pona can become rather easy. For example,
-here's how they can be converted to Greek and Cyrillic:
-
-| Latin | Greek | Cyrillic |
-|:-----:|:-----:|:--------:|
-| a | α | а |
-| e | ε | е |
-| i | ι | и |
-| j | γ | й |
-| k | κ | к |
-| l | λ | л |
-| m | μ | м |
-| n | ν | н |
-| o | ο | о |
-| p | π | п |
-| s | σ | с |
-| t | τ | т |
-| u | υ | у |
-| w | β | в |
-
-The language also only has 92 possible syllables (47 if "-n" is treated as a
-separate syllable). This means it can also be adapted for many syllabic writing
-systems as well.
-
-For example, here are some suggestions for a way to write toki pona using
-Hangul, the writing system of Korean. (While in features symbols representing
-individual sounds much like an alphabet, they're arranged in syllabic blocks.)
-
-* ["Writing Toki Pona with Korean Hangul" (archived)][hangularch]
-* ["Hangul for Toki Pona" on Reddit][hangulred]
-
-[hangularch]:https://web.archive.org/web/20070313181500/http://www.tokipona.bravehost.com/korean.html
-[hangulred]:https://www.reddit.com/r/tokipona/comments/8mx951/hangul_for_toki_pona/
-
-Or here is a page on converting toki pona to Devanagari:
-
-* ["Toki Pona in Devanāgarī" (archived)][devanagari]
-
-[devanagari]:https://web.archive.org/web/20060727115116/http://www.deadlybrain.org/projects/tokipona/deva_guja.php
-
-With some relatively small changes in sounds, it can also be written with the
-Japanese Hiragana system, as proposed here:
-
-* ["Hiragana for Toki Pona"][hiragana1]
-* ["sitelen Hiragana (ひらがな)" on Reddit][hiragana_red]
-
-[hiragana1]:https://www.deviantart.com/derroflcopter/journal/Hiragana-for-Toki-Pona-339541633
-[hiragana_red]:https://www.reddit.com/r/tokipona/comments/e7g91u/sitelen_hiragana_%E3%81%B2%E3%82%89%E3%81%8C%E3%81%AA/
-
-## sitelen pona
-
-The most common writing system created for toki pona is the logographic *sitelen pona*
-("simple writing"), created by Sonja Lang herself and published in the official
-book.
-
-> %info%
-> The part of the book describing sitelen pona was published with a
-> non-commercial [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) 
-> license. Hence, it's easily available online in other courses,
-> such as ["o kama sona e toki pona!"'s
-> page](http://tokipona.net/tp/janpije/hieroglyphs.php) on the system, which
-> describes it almost exactly the same as the official book.
->
-
-<noscript>
-<div class="error">
-Your web browser has JavaScript disabled. Without it, this page cannot check
-whether or not the "linja pimeja" font has successfully loaded. Therefore, the
-sitelen pona table will remain hidden.
-</div>
-</noscript>
+"insa pi supa lape" is a sitelen pona font I designed, based on
+"[Bedstead](https://bjh21.me.uk/bedstead/)". It's a vector font that is built
+from a bunch of 5x9 bitmaps for each character. The font includes all 120
+official words, several community-added ones (such as tonsi and leko) and
+loanword brackets (as replacement for cartouches).
 
 <div class="spflex">
 <div class="spitem"><div class="sp">a</div>		a/kin</div>
@@ -242,77 +171,26 @@ sitelen pona table will remain hidden.
 <div class="spitem"><div class="sp">wile</div>		wile</div>
 </div>
 
-<script>
-document.fonts.load("12pt 'sitelen pona'").then(function () {
-  var box = document.getElementsByClassName('spflex');
-  for (var i=0; i < box.length; i++)
-   box[i].style.display = "flex"; 
-});
-</script>
-
-Much like the Latin alphabet, it is written left-to-right and top-to-bottom.
-Each character represents one word (or sometimes even a phrase), or one letter
-in a proper name.
-
-Since toki pona's basic dictionary only uses 120 words, there are only 120
-characters one needs to learn. And most of these characters are, in one way or
-another, direct representations of the words they mean.
-
-For example, "lawa", meaning "head", is literally a symbol of a head with a cap
-on. "nanpa", meaning "number", is based on the "#" number sign, etc.
-
-An adjective character can be put inside or over/under a noun character to
-represent a noun phrase.
-
-> %info%
-> You might notice that toki pona's "logo", used on the cover of the official
-> book and on most websites to represent it, is, in fact, sitelen pona's
-> composite character for "toki pona", with the "pona" symbol written inside the
-> "toki" symbol.
-
-Unofficial words are written inside a "cartouche" symbol (a rounded shape that
-surrounds all the characters), with characters for words that start with their
-first letters. For the example linked above (and used in the official book), "ma
-Kanata" is written as "ma [kasi alasa nasin awen telo a]".
-
-Since the question mark is used as the character for "seme", question sentences
-may be ended with a period (or a smaller question mark) instead, depending on
-the text.
-
 Here's some basic text written in sitelen pona. 
-
-> %warning%
-> (If your browser is unable to load the ["linja pimeja" font](https://github.com/increpare/linja_pimeja), 
-> the text below would just show up in large Latin characters.
 
 > %sp%
 > wan ni pi lipu ni li sitelen kepeken sitelen pona. sina ken ala ken sona e ni.
 >
 
+Loanword brackets test:
+
+> %sp%
+> ma [_kasi_alasa_nasin_awen_telo_a] li suli.
+>
+
 <a name="answers" href="#answers" onclick="revealSpoilers();">Reveal translation</a>
 
-> %spoiler%
-> This part of this document is written using sitelen pona. Can you understand
-> it?
+## download
 
-For some other texts written in sitelen pona, including a page that tries to
-teach someone to read it without using any other writing system, check out the
-website ["tomo pi sitelen pona"](https://davidar.github.io/tp/) by jan Tepu.
-
-## sitelen sitelen
-
-Jonathan Gabel's ["sitelen sitelen"](https://jonathangabel.com/toki-pona/)
-writing system was designed as a more aesthetically pleasant method to write texts in
-toki pona. It's a non-linear system visually inspired by the Mayan script.
-
-Compared to writing toki pona in Latin alphabet or sitelen pona, sitelen sitelen
-is significantly more difficult to understand, and therefore is only used rarely
-by the community. However, the impressive visual style of texts written in it --
-such as [this
-contract](https://www.jonathangabel.com/archive/2012/artworks_lipu-lawa-pi-esun-kama.html)
-or the toki pona
-[proverbs](https://jonathangabel.com/toki-pona/dictionaries/gallery/) -- many of
-which are also used in the official book -- cannot be denied.
+The font's source code is in public domain and is available [on my GitLab
+page](https://gitlab.com/dev_urandom/insa-pi-supa-lape/), and is also provided
+in a more standard form on the [releases
+page](https://gitlab.com/dev_urandom/insa-pi-supa-lape/-/releases).
 
 [Top page](index.html)
 
