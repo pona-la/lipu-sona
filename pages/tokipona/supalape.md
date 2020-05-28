@@ -5,12 +5,12 @@
 <style>
 @font-face {
     font-family: "insa pi supa lape";
-    src: url("supa lape.woff")
+    src: url("supalape.woff")
 }
 
 .sp {
     font-size:3em;
-    font-family:"sitelen pona";
+    font-family:"insa pi supa lape";
     font-variant-ligatures: common-ligatures;
 }
 
@@ -48,7 +48,7 @@ from a bunch of 5x9 bitmaps for each character. The font includes all 120
 official words, several community-added ones (such as tonsi and leko) and
 loanword brackets (as replacement for cartouches).
 
-<div class="spflex">
+<div class="spflex" style="display: flex;">
 <div class="spitem"><div class="sp">a</div>		a/kin</div>
 <div class="spitem"><div class="sp">akesi</div>		akesi</div>
 <div class="spitem"><div class="sp">ala</div>		ala</div>
