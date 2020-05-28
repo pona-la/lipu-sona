@@ -108,6 +108,10 @@ language's 120 word dictionary.
 
 * [phonetic alphabet (EN/RU)](phonetic_alphabet.html)
 
+* [keyboard layout](keyboard.html)
+
+* ["insa pi supa lape" -- an original sitelen pona font](supa lape.html)
+
 ## Useful resources
 
 Apart from the above-mentioned book and courses, here are some good resources
