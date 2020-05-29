@@ -110,7 +110,7 @@ language's 120 word dictionary.
 
 * [keyboard layout](keyboard.html)
 
-* ["insa pi supa lape" -- an original sitelen pona font](supa lape.html)
+* ["insa pi supa lape" -- an original sitelen pona font](supalape.html)
 
 ## Useful resources
 
