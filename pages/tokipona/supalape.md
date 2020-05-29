@@ -169,21 +169,23 @@ loanword brackets (as replacement for cartouches).
 <div class="spitem"><div class="sp">wawa</div>		wawa</div>
 <div class="spitem"><div class="sp">weka</div>		weka</div>
 <div class="spitem"><div class="sp">wile</div>		wile</div>
+<div class="spitem"><div class="sp">kin</div>		<b>kin</b></div>
+<div class="spitem"><div class="sp">tonsi</div>		<b>tonsi</b></div>
+<div class="spitem"><div class="sp">monsuta</div>	<b>monsuta</b></div>
+<div class="spitem"><div class="sp">leko</div>		<b>leko</b></div>
+<div class="spitem"><div class="sp">kipisi</div>	<b>kipisi</b></div>
 </div>
 
 Here's some basic text written in sitelen pona. 
 
 > %sp%
 > wan ni pi lipu ni li sitelen kepeken sitelen pona. sina ken ala ken sona e ni.
->
 
 Loanword brackets test:
 
 > %sp%
 > ma [_kasi_alasa_nasin_awen_telo_a] li suli.
 >
-
-<a name="answers" href="#answers" onclick="revealSpoilers();">Reveal translation</a>
 
 ## download
 
