@@ -174,6 +174,8 @@ loanword brackets (as replacement for cartouches).
 <div class="spitem"><div class="sp">monsuta</div>	<b>monsuta</b></div>
 <div class="spitem"><div class="sp">leko</div>		<b>leko</b></div>
 <div class="spitem"><div class="sp">kipisi</div>	<b>kipisi</b></div>
+<div class="spitem"><div class="sp">oko</div>		<b>oko</b></div>
+<div class="spitem"><div class="sp">namako</div>	<b>namako</b></div>
 </div>
 
 Here's some basic text written in sitelen pona. 
@@ -183,9 +185,18 @@ Here's some basic text written in sitelen pona.
 
 Loanword brackets test:
 
+> ma [_kasi_alasa_nasin_awen_telo_a] li suli. (ma Kanata li suli.)
+
 > %sp%
 > ma [_kasi_alasa_nasin_awen_telo_a] li suli.
 >
+
+Composite "pi" test:
+
+> ona li jan _pi_sona_mute.
+
+> %sp%
+> ona li jan _pi_sona_mute.
 
 ## download
 
