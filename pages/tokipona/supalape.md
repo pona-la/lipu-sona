@@ -30,6 +30,7 @@ border-radius: 4pt;
 	border-radius: 4pt;
 	text-align: center;
 	overflow: hidden;
+	word-break: break-all;
 }
 
 @media tty {
@@ -169,11 +170,17 @@ loanword brackets (as replacement for cartouches).
 <div class="spitem"><div class="sp">wawa</div>		wawa</div>
 <div class="spitem"><div class="sp">weka</div>		weka</div>
 <div class="spitem"><div class="sp">wile</div>		wile</div>
+<div style="display:flex; flex-basis:100%; text-align:center;">Characters for words not in the
+official book:</div>
 <div class="spitem"><div class="sp">kin</div>		<b>kin</b></div>
 <div class="spitem"><div class="sp">tonsi</div>		<b>tonsi</b></div>
 <div class="spitem"><div class="sp">monsuta</div>	<b>monsuta</b></div>
 <div class="spitem"><div class="sp">leko</div>		<b>leko</b></div>
 <div class="spitem"><div class="sp">kipisi</div>	<b>kipisi</b></div>
+<div class="spitem"><div class="sp">namako</div>	<b>namako</b></div>
+<div class="spitem"><div class="sp">oko</div>		<b>oko</b></div>
+<div class="spitem"><div class="sp">pake</div>		<b>pake</b></div>
+<div class="spitem"><div class="sp">kijetesantakalu</div><b>kijetesantakalu</b></div>
 </div>
 
 Here's some basic text written in sitelen pona. 
