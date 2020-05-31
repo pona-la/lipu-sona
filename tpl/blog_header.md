@@ -1,4 +1,4 @@
-% rnd\'s blog
+% rnd's blog
 % /dev/urandom
 % may 2020
 
