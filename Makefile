@@ -11,6 +11,8 @@ PNGS = $(patsubst $(PAGEDIR)/%,$(OUTDIR)/%,$(_PNGS))
 _PAGES = $(shell find $(PAGEDIR) -name \*.md)
 PAGES_HTML = $(patsubst $(PAGEDIR)/%.md,$(OUTDIR)/%.html,$(_PAGES))
 
+_BLOG_PAGES = $(shell find $(PAGEDIR)/blog -name \*.md | grep -v $(PAGEDIR)/blog/index\.md$)
+
 _DIRECTORIES = $(shell find $(PAGEDIR)/* -type d)
 DIRECTORIES = $(patsubst $(PAGEDIR)/, $(OUTDIR)/, $(_PAGES))
 
@@ -21,10 +23,14 @@ OUT_STATIC = $(patsubst static/%,out/%,$(_STATIC_FILES)) $(patsubst static/%.h,o
 .SUFFIXES:
 .PHONY: all upload
 
-all: $(PAGES_HTML) $(OUT_STATIC)
+all: $(OUTDIR)/blog/index.html $(PAGES_HTML) $(OUT_STATIC)
 
 upload:
 	./upload.sh
+
+$(OUTDIR)/blog/index.html: $(_BLOG_PAGES) $(TPLDIR)/blog_header.md $(TPLDIR)/blog_footer.md $(TPLDIR)/default.tpl
+	@mkdir -p $(@D)
+	./blogindex.sh | theme -C style -t $(TPLDIR)/default.tpl -p blog/index.html -o $@
 
 $(OUTDIR)/%.html: $(PAGEDIR)/%.md $(TPLDIR)/default.tpl
 	@mkdir -p $(@D)
@@ -39,4 +45,4 @@ $(OUTDIR)/%: static/%
 	cp -r $< $@
 
 clean:
-	rm -rf out/*
+	rm -rf out/* pages/blog/index.md
