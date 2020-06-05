@@ -1,9 +1,13 @@
--include Makefile.pwd
+-include Makefile.cfg
 
 OUTDIR=out
 PAGEDIR=pages
 SRCDIR=src
 TPLDIR=tpl
+
+ifndef THEME
+THEME=theme
+endif
 
 _PNGS = $(shell find $(PAGEDIR) -name \*.png)
 PNGS = $(patsubst $(PAGEDIR)/%,$(OUTDIR)/%,$(_PNGS))
@@ -30,11 +34,11 @@ upload:
 
 $(OUTDIR)/blog/index.html: $(_BLOG_PAGES) $(TPLDIR)/blog_header.md $(TPLDIR)/blog_footer.md $(TPLDIR)/default.tpl
 	@mkdir -p $(@D)
-	./blogindex.sh | theme -C style -t $(TPLDIR)/default.tpl -p blog/index.html -o $@
+	./blogindex.sh | $(THEME) -C style -t $(TPLDIR)/default.tpl -p blog/index.html -o $@
 
 $(OUTDIR)/%.html: $(PAGEDIR)/%.md $(TPLDIR)/default.tpl
 	@mkdir -p $(@D)
-	theme -C style -t $(TPLDIR)/default.tpl -p $(patsubst $(OUTDIR)/%,%,$@) -o $@ $<
+	$(THEME) -C style -t $(TPLDIR)/default.tpl -p $(patsubst $(OUTDIR)/%,%,$@) -o $@ $<
 
 $(OUTDIR)/%: static/%.h
 	@mkdir -p $(@D)

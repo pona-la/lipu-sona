@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 if ! [[ -f upload.pwd ]]; then
 	echo "You need a file named upload.pwd with the following format:"
