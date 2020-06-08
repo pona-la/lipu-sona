@@ -112,6 +112,20 @@ language's 120 word dictionary.
 
 * ["insa pi supa lape" -- an original sitelen pona font](supalape.html)
 
+## Software
+
+Here are links to some software that I personally found useful:
+
+* ["ding" dictionary tool](http://www-user.tu-chemnitz.de/~fri/ding/) is a
+simple-looking and easy to use dictionary tool that, by default, comes bundled
+with German-to-English dictionaries, but toki pona-to-English files for it are
+also available [on this
+page](https://jan-lope.github.io/Toki_Pona_lessons_English/).
+
+* [toki pona keyboard](https://github.com/timeopochin/tokiponakeyboard) for
+  Android phones. Supports both Latin (with some sitelen pona font features) and
+  sitelen emoji. (WIP)
+
 ## Useful resources
 
 Apart from the above-mentioned book and courses, here are some good resources
@@ -129,3 +143,5 @@ and links for people who want to learn or use toki pona:
 
 * [toki pona Telegram group](https://telegram.me/joinchat/BLVsYz92zHUp2h2TYp9kTA)
 
+* ["kulupu pi toki pona" Telegram group](https://t.me/kulupupitokipona) (this
+  one is usually more about talking _in_ toki pona)
