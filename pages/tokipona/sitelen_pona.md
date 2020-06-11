@@ -258,6 +258,14 @@ the most common ones.
    modification to toki pona text in order to look good. In particular, this is
    my favorite font.
 
+> %info%
+> Some pages on this website may offer an ability to toggle between Latin and
+> sitelen pona displays. The latter option will use the "sitelen pona pona"
+> font, since it works best with unmodified toki pona texts and falls back
+> nicely in texts that use non-pu, unofficial or outright non-toki-pona
+> words in them.
+>
+
  * I have also designed a font for sitelen pona, called "[insa pi supa
  lape](supalape.html). It is based on the font "Bedstead"(hence the name) and
 uses the same algorithm to convert small bitmaps of different characters into a
