@@ -40,23 +40,27 @@ For uppercase letters, say "suli" after the name of the letter in question.
 Слова в квадратных скобках указывают, от каких слов происходит название того или
 иного знака.
 
-# nasin pi kalama sitelen pi toki pona
+<button onclick="toggle_sitelen_pona();">(sitelen pona?)</button>
 
-ni li nasin pi kalama sitelen pi toki pona. sina ken toki e sitelen ale Inli, e
-sitelen ale Losi, e sitelen ale Asuki [ASCII] kepeken ona.
-
-sitelen Inli ale en sitelen nanpa mute li kama tan nasin pi kalama sitelen pi
-kulupu Neto [NATO]. sitelen ante li sin, li kepeken nimi pi toki pona taso. jan
-kute li ken ala kama sona ike e toki sina la, sina ken weka e nimi "sitelen", e
-nimi "nanpa".
-
-kulupu lawa Losi li jo e nasin tawa ni: jan pi lipu ken ala li wile pana e
-kalama lon kon tawa weka. nimi pi sitelen Losi kama tan nasin ni. ona mute suli
-li kama tan nimi Losi.
-
-nimi lon insa poki kiwen li nimi tan. o toki ala e ona.
-
-sina toki e sitelen suli la, sina wile toki e nimi pi sitelen e nimi "suli".
+> %pona0%
+> # nasin pi kalama sitelen pi toki pona
+> 
+> ni li nasin pi kalama sitelen pi toki pona. sina ken toki e sitelen ale Inli, e
+> sitelen ale Losi, e sitelen ale Asuki [ASCII] kepeken ona.
+> 
+> sitelen Inli ale en sitelen nanpa mute li kama tan nasin pi kalama sitelen pi
+> kulupu Neto [NATO]. sitelen ante li sin, li kepeken nimi pi toki pona taso. jan
+> kute li ken ala kama sona ike e toki sina la, sina ken weka e nimi "sitelen", e
+> nimi "nanpa".
+> 
+> kulupu lawa Losi li jo e nasin tawa ni: jan pi lipu ken ala li wile pana e
+> kalama lon kon tawa weka. nimi pi sitelen Losi kama tan nasin ni. ona mute suli
+> li kama tan nimi Losi.
+> 
+> nimi lon insa poki kiwen li nimi tan. o toki ala e ona.
+> 
+> sina toki e sitelen suli la, sina wile toki e nimi pi sitelen e nimi "suli".
+> 
 
 |  sitelen | nimi pi sitelen                                          |
 |:--------:|----------------------------------------------------------|

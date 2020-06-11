@@ -81,7 +81,7 @@
 * Я живу в красном доме.
 * Пьяница меня не слушал.
 
-<a name="answers" href="#answers" onclick="revealSpoilers();">Раскрыть ответы</a>
+<button onclick="revealSpoilers();">Раскрыть ответы</button>
 
 > %spoiler%
 > * Мне нравится красный цвет.

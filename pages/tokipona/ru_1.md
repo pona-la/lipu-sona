@@ -59,7 +59,7 @@
 * Это собака ("Она - собака").
 * Ты плохой.
 
-<a name="answers" href="#answers" onclick="revealSpoilers();">Раскрыть ответы</a>
+<button onclick="revealSpoilers();">Раскрыть ответы</button>
 
 > %spoiler%
 > * soweli li suli.

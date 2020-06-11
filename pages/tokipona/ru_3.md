@@ -87,7 +87,7 @@
 * Злой воин смотрит на ваш дом.
 * Мои инструменты работают хорошо.
 
-<a name="answers" href="#answers" onclick="revealSpoilers();">Раскрыть ответы</a>
+<button onclick="revealSpoilers();">Раскрыть ответы</button>
 
 > %spoiler%
 > * Ребёнок плачет ("испускает глазную воду").

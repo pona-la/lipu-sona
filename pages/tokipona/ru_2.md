@@ -98,7 +98,7 @@
 * Твой сын силён.
 * Маленький фрукт -- сладкий.
 
-<a name="answers" href="#answers" onclick="revealSpoilers();">Раскрыть ответы</a>
+<button onclick="revealSpoilers();">Раскрыть ответы</button>
 
 > %spoiler%
 > * Моя жена хороша.

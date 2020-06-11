@@ -157,7 +157,7 @@
 * Я починил этот дом из-за вас.
 * Они читают книги в библиотеке.
 
-<a name="answers" href="#answers" onclick="revealSpoilers();">Раскрыть ответы</a>
+<button onclick="revealSpoilers();">Раскрыть ответы</button>
 
 > %spoiler%
 > * Он/она разговаривает со своим отцом по телефону.

@@ -31,6 +31,11 @@
 	src: url("/Xolonium-Regular.otf");
 }
 
+@font-face {
+	font-family: "sitelen pona pona";
+	src: url("/tokipona/sitelen-pona-pona.otf");
+}
+
 html {
 	min-height: 100%;
 }
@@ -158,6 +163,11 @@ th, td {
 	border-inline-start: 4px solid C_DBORDER;
 	color:;
 	visibility: hidden;
+}
+
+.pona {
+	font-family:"sitelen pona pona";
+	font-size: 1.5em;
 }
 
 @media screen and (min-width: 480px) {

@@ -99,7 +99,7 @@
 * Вы выглядите по-другому.
 * Этот дом хранит тепло.
 
-<a name="answers" href="#answers" onclick="revealSpoilers();">Раскрыть ответы</a>
+<button onclick="revealSpoilers();">Раскрыть ответы</button>
 
 > %spoiler%
 > * Ваше сообщество очень сильно отличается (от нашего).

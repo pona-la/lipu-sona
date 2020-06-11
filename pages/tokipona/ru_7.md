@@ -173,7 +173,7 @@
 * Ваш брат выглядит очень похоже на вас.
 * Не выходите на свежий воздух.
 
-<a name="answers" href="#answers" onclick="revealSpoilers();">Раскрыть ответы</a>
+<button onclick="revealSpoilers();">Раскрыть ответы</button>
 
 > %spoiler%
 > * Не ешь этот (фрукт/овощ/гриб), Лиза!
