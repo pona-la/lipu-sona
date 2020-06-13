@@ -101,6 +101,7 @@ language's 120 word dictionary.
 * [extra page 1 - old and new words](x1.html)
 
 * [extra page 2 - other writing systems](x2.html)
+* * [sitelen pona](sitelen_pona.html)
 
 * [credits and acknowledgements](credits.html)
 
