@@ -49,6 +49,27 @@ from a bunch of 5x9 bitmaps for each character. The font includes all 120
 official words, several community-added ones (such as tonsi and leko) and
 loanword brackets (as replacement for cartouches).
 
+Most characters are based on regular sitelen pona characters, but there are some
+changes necessary due to the font's design.
+
+* "jaki", being too difficult to represent in the font's format, is instead
+designed as a combination of the Latin letters "j" and "k".
+
+* "luka" is designed as more of a mitten-like shape to avoid it looking too
+* narrow or weird.
+
+* "moli" is a picture of a skull. 
+
+* "olin" is represented as a heart symbol with an overline above, since the
+* original character doesn't work well in this font.
+
+* "pakala" has the lines at the left and right side removed to fit better. 
+
+* "seme" is drawn as an _outlined_ question mark in order to make it distinct
+* from a regular question mark.
+
+### insa pi supa lape chart
+
 <div class="spflex" style="display: flex;">
 <div class="spitem"><div class="sp">a</div>		a/kin</div>
 <div class="spitem"><div class="sp">akesi</div>		akesi</div>
@@ -177,16 +198,13 @@ official book:</div>
 <div class="spitem"><div class="sp">monsuta</div>	<b>monsuta</b></div>
 <div class="spitem"><div class="sp">leko</div>		<b>leko</b></div>
 <div class="spitem"><div class="sp">kipisi</div>	<b>kipisi</b></div>
-<<<<<<< HEAD
-<div class="spitem"><div class="sp">oko</div>		<b>oko</b></div>
-<div class="spitem"><div class="sp">namako</div>	<b>namako</b></div>
-=======
 <div class="spitem"><div class="sp">namako</div>	<b>namako</b></div>
 <div class="spitem"><div class="sp">oko</div>		<b>oko</b></div>
 <div class="spitem"><div class="sp">pake</div>		<b>pake</b></div>
 <div class="spitem"><div class="sp">kijetesantakalu</div><b>kijetesantakalu</b></div>
->>>>>>> c9d12f3714cd9ba82206d72a894c092919293e40
 </div>
+
+### example texts
 
 Here's some basic text written in sitelen pona. 
 
