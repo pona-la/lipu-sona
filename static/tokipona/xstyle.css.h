@@ -11,6 +11,7 @@
 		background-size: contain;
 		background-repeat: no-repeat;
 		background-position: center;	
+		image-rendering: pixelated;
 		image-rendering: crisp-edges;
 	}
 	
