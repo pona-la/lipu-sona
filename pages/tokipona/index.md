@@ -143,6 +143,7 @@ and links for people who want to learn or use toki pona:
 * ["ma pona pi toki pona" Discord server](https://discord.gg/XKzj3ex)
 
 * [toki pona Telegram group](https://telegram.me/joinchat/BLVsYz92zHUp2h2TYp9kTA)
+* * [IRC channel #tokipona on Freenode, bridged with the Telegram group](ircs://freenode.org:6697/#tokipona)
 
 * ["kulupu pi toki pona" Telegram group](https://t.me/kulupupitokipona) (this
   one is usually more about talking _in_ toki pona)

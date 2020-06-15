@@ -7,7 +7,7 @@ if [[ -z $LASTUPLOAD ]]; then LASTUPLOAD=0; fi
 
 #echo "Last upload at $LASTUPLOAD"
 
-FILES=`ls $DIRECTORY/*.md -1ct` 
+FILES=`ls $DIRECTORY/*.md -1t` 
 
 cat tpl/blog_header.md
 

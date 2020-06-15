@@ -27,7 +27,7 @@ OUT_STATIC = $(patsubst static/%,out/%,$(_STATIC_FILES)) $(patsubst static/%.h,o
 .SUFFIXES:
 .PHONY: all upload
 
-all: $(OUTDIR)/blog/index.html $(PAGES_HTML) $(OUT_STATIC)
+all: $(OUTDIR)/blog/index.html $(OUTDIR)/blog/main.rss $(PAGES_HTML) $(OUT_STATIC)
 
 upload:
 	./upload.sh
@@ -35,6 +35,10 @@ upload:
 $(OUTDIR)/blog/index.html: $(_BLOG_PAGES) $(TPLDIR)/blog_header.md $(TPLDIR)/blog_footer.md $(TPLDIR)/default.tpl
 	@mkdir -p $(@D)
 	./blogindex.sh | $(THEME) -C style -t $(TPLDIR)/default.tpl -p blog/index.html -o $@
+
+$(OUTDIR)/blog/main.rss: $(_BLOG_PAGES)
+	@mkdir -p $(@D)
+	./blogrss.sh > $@
 
 $(OUTDIR)/%.html: $(PAGEDIR)/%.md $(TPLDIR)/default.tpl
 	@mkdir -p $(@D)
