@@ -95,7 +95,7 @@ For uppercase letters, say "suli" after the name of the letter in question.
 |        < | sitelen pi suli lili                                     |
 |        = | sitelen sama                                             |
 |        > | sitelen pi suli mute                                     |
-|        ? | sitelen seme                                             |
+|        ? | sitelen pi wile sona                                     |
 |        @ | sitelen lon                                              |
 |        [ | poki kiwen open                                          |
 |        \ | sitelen palisa monsi                                     |
