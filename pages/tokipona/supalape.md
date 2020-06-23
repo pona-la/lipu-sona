@@ -53,10 +53,10 @@ Most characters are based on regular sitelen pona characters, but there are some
 changes necessary due to the font's design.
 
 * "jaki", being too difficult to represent in the font's format, is instead
-designed as a combination of the Latin letters "j" and "k".
+  designed as a combination of the Latin letters "j" and "k".
 
 * "luka" is designed as more of a mitten-like shape to avoid it looking too
-* narrow or weird.
+  narrow or weird.
 
 * "moli" is a picture of a skull. 
 
@@ -66,7 +66,7 @@ designed as a combination of the Latin letters "j" and "k".
 * "pakala" has the lines at the left and right side removed to fit better. 
 
 * "seme" is drawn as an _outlined_ question mark in order to make it distinct
-* from a regular question mark.
+  from a regular question mark.
 
 ### insa pi supa lape chart
 
@@ -213,18 +213,18 @@ Here's some basic text written in sitelen pona.
 
 Loanword brackets test:
 
-> ma [_kasi_alasa_nasin_awen_telo_a] li suli. (ma Kanata li suli.)
+> ma [\_kasi\_alasa\_nasin\_awen\_telo\_a] li suli. (ma Kanata li suli.)
 
 > %sp%
-> ma [_kasi_alasa_nasin_awen_telo_a] li suli.
+> ma [\_kasi\_alasa\_nasin\_awen\_telo\_a] li suli.
 >
 
 Composite "pi" test:
 
-> ona li jan _pi_sona_mute.
+> ona li jan \_pi\_sona\_mute.
 
 > %sp%
-> ona li jan _pi_sona_mute.
+> ona li jan \_pi\_sona\_mute.
 
 ## download
 
