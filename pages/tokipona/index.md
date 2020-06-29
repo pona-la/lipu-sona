@@ -41,11 +41,11 @@ vocabulary features words borrowed from many languages across the world.
 
 # About this course
 
-There are several good sources to educate yourself about toki pona available
-already. The most important (and best, in my opinion), is the [official toki
-pona book](https://tokipona.org/) (also known as "pu") published in 2014 by
-Sonja Lang herself. It is not free, but it's a well-written book with lots of
-additional texts to read and it explains the language very well.
+There are several good sources for learning toki pona available already. The
+most important (and best, in my opinion), is the [official toki pona
+book](https://tokipona.org/) (also known as "pu") published in 2014 by Sonja
+Lang herself. It is not free, but it's a well-written book with lots of
+additional texts to read, and it explains the language very well.
 
 Another useful resource is the online course ["o kama sona e toki
 pona!"](http://tokipona.net/tp/janpije/okamasona.php) (learn toki pona!) by
@@ -139,6 +139,9 @@ and links for people who want to learn or use toki pona:
 * [/r/tokipona subreddit](https://reddit.com/r/tokipona)
 
 * ["lipu lili pona", a description of toki pona's rules and vocabulary on 2 pages](https://neocities.org/site/lipu-lili-pona)
+
+* [A toki pona dictionary with sitelen pona
+ characters](https://theotherwebsite.com/tokipona/) by "The Other Website"
 
 * ["ma pona pi toki pona" Discord server](https://discord.gg/XKzj3ex)
 
