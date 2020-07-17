@@ -12,7 +12,6 @@
     <link href="xstyle.css" rel="stylesheet" type="text/css" media="all">
     <link rel="icon" type="image/png" href="favicon.png">
     <?theme style?>
-    <script src="/scripts.js"></script>
   </head>
 <body>
    <div class="header">
@@ -25,6 +24,10 @@
      <?theme body?>
    </div>
    <div class="footer">
+   <div class="itime">
+	<div class="itime-text">internet time @ <span id="itime-value">???</span></div>
+	<div class="itime-bar"><div id="itime-progress"></div></div>
+   </div>
    <a rel="me" href="https://cybre.space/@devurandom"><img src="/mastodon.gif"
    width="88px" height="31px" alt="Follow me on Mastodon"></img></a>
    <a href="https://vim.org"><img src="/vim.gif"
@@ -41,4 +44,5 @@
      <a href="https://gitlab.com/dev_urandom/simple-site">GitLab page</a>.
    </div>
   </body>
+  <script src="/scripts.js"></script>
 </html>

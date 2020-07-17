@@ -1,12 +1,14 @@
+#define HASH(x) x
+
 #define C_PAGEBG #404a68
 #define C_HEADERBG #221f31
 #define C_HEADERBGHALF rgba(34,31,49,0.5)
 #define C_BODYBG #fefefe
-#define C_FOOTERBG #9a93b7
+#define C_FOOTERBG #050403
 
 #define C_HEADERFG #fefefe
 #define C_BODYFG #050403
-#define C_FOOTERFG #404a68
+#define C_FOOTERFG #fefefe
 #define C_BLEAKFG #9a93b7
 
 #define C_BBORDER #221f31
@@ -14,7 +16,7 @@
 #define C_DLINK #221f31
 #define C_LINK #404a68
 #define C_VISLINK #678fcb
-#define C_FOOTLINK #404a68
+#define C_FOOTLINK #8be1e0
 
 #define C_DBORDER #404a68
 #define C_LBORDER #9a93b7
@@ -25,6 +27,8 @@
 #define C_LINF #8be1e0
 #define C_DWRN #9b6e2d
 #define C_LWRN #f5ee9b
+
+#define C_LGREEN #7cc264
 
 @font-face {
 	font-family: "Xolonium";
@@ -170,6 +174,24 @@ th, td {
 	font-size: 1.5em;
 }
 
+.itime {
+	border: 1px solid C_BBORDER;
+	width: 15em;
+	padding: 6px;
+	margin:auto;
+}
+
+.itime-bar {
+	height: 0.5em;
+	width: 100%;
+}
+
+HASH(#itime-progress) {
+	width: 0%;
+	height: 100%;
+	background: C_LGREEN;
+}
+
 @media screen and (min-width: 480px) {
 
 	.header {
@@ -188,6 +210,10 @@ th, td {
 		padding: 6pt;
 		padding-inline-start: 1em;
 	}
+
+	.itime {
+		float: right;
+	}
 }
 
 @media screen and (min-width:768pt) {
@@ -200,3 +226,4 @@ th, td {
 		margin: auto;
 	}
 }
+
