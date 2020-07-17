@@ -3,10 +3,10 @@
   color: #404a68;
 }
 
-@media screen and (min-width: 480px) {
+@media screen {
 
 	.header_image {
-		min-height: 96pt;
+		padding-top: 12.5%;
 		background-image: url("tokipona_banner.gif");
 		background-size: contain;
 		background-repeat: no-repeat;

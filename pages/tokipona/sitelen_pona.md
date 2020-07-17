@@ -76,7 +76,7 @@ community additions), a logographic system for toki pona also becomes
 knowing at least 1500 characters to achieve fluency. In addition, most
 characters in sitelen pona visually represent the words they mean -- for
 example, "lawa", meaning "head", is literally a symbol of a head with a cap on.
-"nanpa", meaning "number", is based on the "#" number sign, and so on. (To some
+"nanpa", meaning "number", is based on the "\#" number sign, and so on. (To some
 extent, the same is true for a number of Han characters as well.)
 
 ### sitelen pona chart
@@ -229,7 +229,7 @@ represent a noun phrase.
 
 > %info%
 > You might notice that toki pona's "logo", used on the cover of the official
-> book and on most websites to represent it, is, in fact, sitelen pona's
+> book and on most websites to represent it (including this one), is, in fact, sitelen pona's
 > composite character for "toki pona", with the "pona" symbol written inside the
 > "toki" symbol.
 
