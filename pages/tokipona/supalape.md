@@ -43,9 +43,9 @@ border-radius: 4pt;
 
 ## insa pi supa lape
 
-"insa pi supa lape" is a sitelen pona font I designed, based on
-"[Bedstead](https://bjh21.me.uk/bedstead/)". It's a vector font that is built
-from a bunch of 5x9 bitmaps for each character. The font includes all 120
+"insa pi supa lape" is a [sitelen pona](sitelen_pona.html) font I designed,
+based on "[Bedstead](https://bjh21.me.uk/bedstead/)". It's a vector font that is
+built from a bunch of 5x9 bitmaps for each character. The font includes all 120
 official words, several community-added ones (such as tonsi and leko) and
 loanword brackets (as replacement for cartouches).
 
@@ -61,7 +61,7 @@ changes necessary due to the font's design.
 * "moli" is a picture of a skull. 
 
 * "olin" is represented as a heart symbol with an overline above, since the
-* original character doesn't work well in this font.
+  original character doesn't work well in this font.
 
 * "pakala" has the lines at the left and right side removed to fit better. 
 
@@ -206,7 +206,7 @@ official book:</div>
 
 ### example texts
 
-Here's some basic text written in sitelen pona. 
+Here's the basic example from the sitelen pona page, written in this font.
 
 > %sp%
 > wan ni pi lipu ni li sitelen kepeken sitelen pona. sina ken ala ken sona e ni.
