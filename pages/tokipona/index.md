@@ -127,6 +127,16 @@ page](https://jan-lope.github.io/Toki_Pona_lessons_English/).
   Android phones. Supports both Latin (with some sitelen pona font features) and
   sitelen emoji. (WIP)
 
+## Other courses online
+
+* The aforementioned ["o kama sona e toki pona!"](http://tokipona.net/tp/janpije/okamasona.php)
+  by jan Pije is still a solid, if rather old and controversial, course.
+
+* ["12 days of sona pi toki pona"](https://www.youtube.com/watch?v=4L-dvvng4Zc&list=PLuYLhuXt4HrQIv3xnDxZqRaLfmxB2U5rJ&index=1)
+  by jan Misali is an easy-to-follow series of 12 videos. Much like this course
+  (in fact, the structure of this course was inspired by the videos), each video
+  covers 10 words of the official dictionary.
+
 ## Useful resources
 
 Apart from the above-mentioned book and courses, here are some good resources
