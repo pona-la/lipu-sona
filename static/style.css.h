@@ -29,6 +29,7 @@
 #define C_LWRN #f5ee9b
 
 #define C_LGREEN #7cc264
+#define C_DGREEN #316F23
 
 @font-face {
 	font-family: "Xolonium";
@@ -50,7 +51,6 @@ body {
 	min-height: 100%;
 	margin: 0;
 }
-
 
 blockquote {
 	margin: 6pt;
@@ -93,13 +93,41 @@ th, td {
 	display: inline;
 }
 
-.footer {
+.footer, .navbar {
 	background: C_FOOTERBG;
 	color: C_FOOTERFG;
 	text-align: center;
 	font-family: sans-serif;
 	font-size: 0.8em;
+}
+
+.navbar {
+	padding: 6pt;
+}
+
+.footer {
 	padding: 12pt 6pt;
+}
+
+.nav_linkmenu a {
+	display: inline-block;
+	background: C_FOOTERBG;
+	margin: 3px;
+	padding: 3px;
+	border: 1px solid C_DBORDER;
+	color: C_FOOTLINK;
+}
+
+.nav_linkmenu a:hover {
+	background: C_LWRN;
+	color: C_BODYFG;
+	border: 1px solid C_DWRN;
+}
+
+.nav_linkmenu a:active {
+	background: C_LGREEN;
+	color: C_BODYFG;
+	border: 1px solid C_DGREEN;
 }
 
 .footer a, .footer a:visited {
@@ -224,6 +252,32 @@ HASH(#itime-progress) {
 		box-shadow: 0 0 0 1px C_BBORDER;
 		max-width: 768pt;
 		margin: auto;
+	}
+	.middle {
+		display: grid;
+		grid-template-columns: 160pt auto;
+		grid-template-rows: 100fr auto;
+	}
+	.navbar {
+		grid-column-start: 1;
+		grid-column-end: 2;
+		grid-row-start: 1;
+		grid-row-end: 2;
+	}
+	.footer {
+		grid-column-start: 1;
+		grid-column-end: 2;
+		grid-row-start: 2;
+		grid-row-end: 3;
+	}
+	.content {
+		grid-column-start: 2;
+		grid-column-end: 3;
+		grid-row-start: 1;
+		grid-row-end: 3;
+	}
+	.nav_linkmenu a {
+		display: block;
 	}
 }
 
