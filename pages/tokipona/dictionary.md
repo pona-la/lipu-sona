@@ -6,9 +6,8 @@
 > This is a work in progress.
 
 This is a list of all official words in toki pona as described on the pages from
-1 to 12, arranged alphabetically. The "parts" column lists letters corresponding
-to which parts of speech the word can be. A word can be listed more than once
-under different parts of speech.
+1 to 12, arranged alphabetically. Each word is listed with different meanings
+depending on which parts of speech it can be used as.
 
 The "adjective" definition applies to both adjectives and adverbs, as the only
 difference between the two in toki pona is if they apply to nouns or verbs.
@@ -22,531 +21,531 @@ difference between the two in toki pona is if they apply to nouns or verbs.
 
 ---
 
-* **a**
+#### a
 * * particle: (emotional interjection)
 
-* **akesi**
+#### akesi
 * * noun: "non-cute" animal, lizard
 * * adjective: similar to akesi, of akesi
 
-* **ala**
+#### ala
 * * noun: nothing
 * * adjective: not, no, empty
 * * number: zero
 
-* **alasa**
+#### alasa
 * * verb: to hunt, to gather
 * * verb (unconventional): to search, to look for
 
-* **ale/ali**
+#### ale/ali
 * * noun: everything, universe
 * * adjective: every, all
 * * number: all/infinite (simple system), 100 (complex system)
 
-* **anpa**
+#### anpa
 * * noun (old/non-pu): lower part
 * * adjective: lowly, humble, dependent
 * * verb w/o obj: to bow down
 * * verb w/ obj: to conquer, to defeat
 
-* **ante**
+#### ante
 * * noun: difference, change, (unconventional) version
 * * adjective: different, other, changed
 * * verb: to change
 
-* **anu**
+#### anu
 * * particle: or
 
-* **awen**
+#### awen
 * * noun (unconventional): stability, safety
 * * adjective: safe, enduring, resilient
 * * verb: keep, stay, endure, protect
 * * pre-verb: continue (doing something)
 
-* **e**
+#### e
 * * particle: (specifies an object)
 
-* **en**
+#### en
 * * particle: and (combines subjects)
 
-* **esun**
+#### esun
 * * noun: trade, transaction, exchange
 * * adjective: trade/exchange-related, commercial
 * * verb: to trade, to exchange
 
-* **ijo**
+#### ijo
 * * noun: thing, object, (unconventional) matter
 * * adjective: (unconventional) material, physical
 
-* **ike**
+#### ike
 * * noun: evil
 * * adjective: bad, evil, complex, unnecessary
 * * verb (unconventional): make smth worse
 
-* **ilo**
+#### ilo
 * * noun: tool, machine, device
 * * adjective: useful, (unconventional) electronic, metallic
 
-* **insa**
+#### insa
 * * noun: insides, contents, center, stomach
 * * adjective: central, inside
 
-* **jaki**
+#### jaki
 * * noun: dirt, waste
 * * adjective: dirty, disgusting, toxic
 * * verb: to make something dirty
 
-* **jan**
+#### jan
 * * noun: person, people, humanity
 * * adjective: human-like, of the people
 
-* **jelo**
+#### jelo
 * * noun/adjective: (the color) yellow (and its shades)
 * * verb: to color smth yellow
 
-* **jo**
+#### jo
 * * verb: to have/carry/contain/hold
 
-* **kala**
+#### kala
 * * noun: fish, marine animal, sea creature
 * * adjective: similar to kala, of kala
 
-* **kalama**
+#### kalama
 * * noun: sound, noise
 * * adjective: loud, noisy, sound-making
 * * verb: to make noise, to play (an instrument)
 
-* **kama**
+#### kama
 * * noun: event
 * * adjective: coming, future
 * * pre-verb: to become, to be in the process of (doing smth)
 
-* **kasi**
+#### kasi
 * * noun: plant, grass, herb, leaf
 * * adjective: kasi-like, of kasi
 
-* **ken**
+#### ken
 * * noun: ability, possibility, (unconventional) right, liberty
 * * adjective (unconventional): able, possible
 * * pre-verb: can (do smth)
 
-* **kepeken**
+#### kepeken
 * * noun: use, (unconventional) practice
 * * verb w/ obj: to use smth
 * * preposition: (do smth) using, with the help of
 
-* **kili**
+#### kili
 * * noun: fruit, vegetable, mushroom
 * * adjective: kili-like, of kili
 
-* **kiwen**
+#### kiwen
 * * noun: hard object, metal, stone, solid
 * * adjective: hard, metallic, solid
 
-* **ko**
+#### ko
 * * noun: powder, clay, paste, semi-solid
 * * adjective: ko-like
 
-* **kon**
+#### kon
 * * noun: air, essence, spirit
 * * adjective: invisible, ephemeral, (unconventional) gaseous
 
-* **kule**
+#### kule
 * * noun: color, (rare) gender
 * * adjective: colorful
 * * verb: to paint smth a color
 
-* **kulupu**
+#### kulupu
 * * noun: group, community, society
 * * adjective: communal, social
 
-* **kute**
+#### kute
 * * noun: ear, hearing
 * * verb: to hear, to listen, to obey
 
-* **la**
+#### la
 * * particle: "if/when" (introduces context)
 
-* **lape**
+#### lape
 * * noun: sleep, rest
 * * adjective: sleeping, restful
 * * verb: to sleep, to rest
 
-* **laso**
+#### laso
 * * noun/adjective: (the color) blue, green (and its shades)
 * * verb: to color something blue/green
 
-* **lawa**
+#### lawa
 * * noun: head, mind
 * * adjective: main, primary, controlling
 * * verb: to head, to control, to own, to rule
 
-* **len**
+#### len
 * * noun: cloth, clothes, layer of privacy
 * * adjective: clothed
 * * verb: to clothe, to provide a layer of privacy
 
-* **lete**
+#### lete
 * * noun: cold
 * * adjective: cold, raw, uncooked
 * * verb: to cool down
 
-* **li**
+#### li
 * * particle: (between subj. and verb/adj.)
 
-* **lili**
+#### lili
 * * noun: smallness
 * * adjective: small, few, young
 * * verb: to shrink
 
-* **linja**
+#### linja
 * * noun: long flexible object, string, rope, hair
 * * adjective: linja-like, of linja
 
-* **lipu**
+#### lipu
 * * noun: book, document, paper
 * * adjective: lipu-like, of lipu
 
-* **loje**
+#### loje
 * * noun/adjective: (the color) red (and its shades)
 * * verb: to color smth red
 
-* **lon**
+#### lon
 * * noun: truth, life, existence
 * * adjective: real, true, present, existing
 * * verb w/o object: is true, exists
 * * preposition: in, at, on
 
-* **luka**
+#### luka
 * * noun: hand, arm
 * * adjective: luka-like, of luka
 * * number: 5 (complex system)
 
-* **lukin**
+#### lukin
 * * noun: eye, vision
 * * adjective: visual
 * * verb: to look, to see, to read
 * * pre-verb: to seek (to do something)
 
-* **lupa**
+#### lupa
 * * noun: hole, door, window
 
-* **ma**
+#### ma
 * * noun: earth, land, outdoors, territory, country
 * * adjective: of earth, on land
 
-* **mama**
+#### mama
 * * noun: parent, ancestor, creator, origin
 * * adjective: parental, of the parent/creator
 * * verb: to create, to parent
 
-* **mani**
+#### mani
 * * noun: money, large domesticated animal
 * * adjective: (unconventional) wealthy
 
-* **meli**
+#### meli
 * * noun: woman, female, wife
 * * adjective: feminine
 
-* **mi**
+#### mi
 * * noun: i, me, us 
 * * adjective: my, our
 
-* **mije**
+#### mije
 * * noun: man, male, husband
 * * adjective: masculine
 
-* **moku**
+#### moku
 * * noun: food
 * * adjective: edible, of food
 * * verb: to eat, to drink
 
-* **moli**
+#### moli
 * * noun: death
 * * adjective: dead, dying
 * * verb: to kill
 
-* **monsi**
+#### monsi
 * * noun: back, behind, rear, butt
 * * adjective: back, rear
 
-* **mu**
+#### mu
 * * (any animal sound)
 
-* **mun**
+#### mun
 * * noun: moon, star, night sky object
 * * adjective: lunar, stellar
 
-* **musi**
+#### musi
 * * noun: game, art
 * * adjective: entertaining, artistic, amusing
 * * verb: to amuse, to play, to have fun
 
-* **mute**
+#### mute
 * * noun: quantity
 * * adjective: many, more
 * * number: 3 or more (simple system), 20 (complex system)
 
-* **nanpa**
+#### nanpa
 * * noun: number
 * * adjective: -th (ordinal indicator), (unconventional) digital
 
-* **nasa**
+#### nasa
 * * adjective: weird, unusual, strange, crazy, drunk
 
-* **nasin**
+#### nasin
 * * noun: path, road, street, directive, way
 * * adjective: street-, true to the directive/way
 * * verb (unconventional): to guide, to show the path
 
-* **nena**
+#### nena
 * * noun: hill, mountain, button, bump,nose
 * * adjective: hilly, mountainous, bumpy
 
-* **ni**
+#### ni
 * * noun/adjective: this, that
 
-* **nimi**
+#### nimi
 * * noun: word, name
 
-* **noka**
+#### noka
 * * noun: foot, leg, lower part, under (smth)
 
-* **o**
+#### o
 * * particle: (addressing people, commands)
 
-* **olin**
+#### olin
 * * noun: love, compassion, affection, respect
 * * adjective: loved, favorite, respected
 * * verb: to love, to respect
 
-* **ona**
+#### ona
 * * noun: he, she, they, it 
 * * adjective: his, her, their, its
 
-* **open**
+#### open
 * * noun: start, beginning
 * * adjective: initial, starting
 * * verb: to start, to open
 * * pre-verb: to begin (doing something)
 
-* **pakala**
+#### pakala
 * * noun: damage, mistake
 * * adjective: broken, wrong
 * * verb: to break, to make mistakes
 * * particle: (generic curse)
 
-* **pali**
+#### pali
 * * noun: work, labor
 * * adjective: working
 * * verb: to work (on), to make
 
-* **palisa**
+#### palisa
 * * noun: long solid object, branch, stick, (unconventional) length
 * * adjective: long
 
-* **pan**
+#### pan
 * * noun: bread, grain, corn, rice, pizza
 * * adjective: pan-like, of pan
 
-* **pana**
+#### pana
 * * adjective: (unconventional) given, sent
 * * verb: to give, to send, to emit
 
-* **pi**
+#### pi
 * * particle: "of" (regroups adjectives/adverbs)
 
-* **pilin**
+#### pilin
 * * noun: heart, feeling, touch, sense
 * * adjective: feeling, touch-based
 * * verb: to touch, to think, to feel
 
-* **pimeja**
+#### pimeja
 * * noun: (the color) black (and its shades), shadow
 * * adjective: black, dark
 * * verb: to color smth black, to cast a shadow
 
-* **pini**
+#### pini
 * * noun: end, finish
 * * adjective: final
 * * verb: to end, to finish, to close
 * * pre-verb: to end/stop doing something
 
-* **pipi**
+#### pipi
 * * noun: insect, bug
 * * adjective: pipi-like, of pipi
 
-* **poka**
+#### poka
 * * noun: hip, side
 * * adjective: neighboring, nearby, at one's side
 
-* **poki**
+#### poki
 * * noun: box, container, bowl, cup, drawer
 * * adjective: poki-like, of poki
 * * verb (unconventional): to put in a box
 
-* **pona**
+#### pona
 * * noun: good, simplicity
 * * adjective: good, simple
 * * verb: to improve, to fix
 
-* **pu**
+#### pu
 * * noun: the official toki pona book
 * * adjective: as told in the official toki pona book
 * * verb: interacting with the official toki pona book
 
-* **sama**
+#### sama
 * * noun: similarity, (someone's) sibling
 * * adjective: similar to, like, sibling
 
-* **seli**
+#### seli
 * * noun: heat, warmth, chemical reaction
 * * adjective: warm, hot
 * * verb: to heat
 
-* **selo**
+#### selo
 * * noun: outer form, shell, skin, boundary
 * * adjective: outer
 
-* **seme**
+#### seme
 * * particle: what? (for questions)
 
-* **sewi**
+#### sewi
 * * noun: area above, sky, god
 * * adjective: high, above, divine, sacred
 
-* **sijelo**
+#### sijelo
 * * noun: body, physical state, torso
 * * adjective: physical, of body
 
-* **sike**
+#### sike
 * * noun: circle, ball, (with tenpo) year
 * * adjective: round, circular, spherical
 * * verb: to make a circle around
 
-* **sin**
+#### sin
 * * noun: novelty, addition, (unconventional) update, spice
 * * adjective: new, additional, fresh, extra
 * * verb: to add, to update
 
-* **sina**
+#### sina
 * * noun: you
 * * adjective: your
 
-* **sinpin**
+#### sinpin
 * * noun: face, foremost part, front, wall
 * * adjective: of face, foremost
 
-* **sitelen**
+#### sitelen
 * * noun: symbol, image, writing
 * * adjective: symbolic, written, recorded
 * * verb: to write, to draw, to record
 
-* **sona**
+#### sona
 * * noun: knowledge, information
 * * adjective: known
 * * verb: to know
 * * pre-verb: to know (how to do something)
 
-* **soweli**
+#### soweli
 * * noun: land mammal, animal
 * * adjective: soweli-like, of soweli
 
-* **suli**
+#### suli
 * * noun: size, greatness
 * * adjective: big, great, important
 * * verb: to grow
 
-* **suno**
+#### suno
 * * noun: sun, light, brightness
 * * adjective: solar, bright
 * * verb: to light, to shine
 
-* **supa**
+#### supa
 * * noun: horizontal surface
 * * adjective: supa-like, of supa
 
-* **suwi**
+#### suwi
 * * noun: (unconventional) sweets
 * * adjective: sweet, cute, adorable
 
-* **tan**
+#### tan
 * * noun: cause, reason, origin
 * * adjective: original
 * * verb (unconventional): to cause 
 * * preposition: from, because of
 
-* **taso**
+#### taso
 * * particle: (at beginning of sentence) but, however
 * * adjective: only
 
-* **tawa**
+#### tawa
 * * noun: movement
 * * adjective: moving
 * * verb: to move
 * * preposition: to, for, from perspective of
 
-* **telo**
+#### telo
 * * noun/adjective: water, fluid, liquid
 * * verb: to water, to clean
 
-* **tenpo**
+#### tenpo
 * * noun: time, moment
 * * adjective: temporal
 
-* **toki**
+#### toki
 * * noun: speech, conversation, language
 * * adjective: verbal, conversational
 * * verb: to talk
 
-* **tomo**
+#### tomo
 * * noun: home, room, structure
 
-* **tu**
+#### tu
 * * number: 2
 * * noun: divide
 * * adjective: divided
 * * verb: to divide
 
-* **unpa**
+#### unpa
 * * noun: sex
 * * adjective: sexual
 * * verb: to have sex with
 
-* **uta**
+#### uta
 * * noun: mouth, lips
 * * adjective: oral
 
-* **utala**
+#### utala
 * * noun: fight, battle, challenge, war
 * * adjective: aggressive, warlike
 * * verb: to fight, to battle, to challenge
 
-* **walo**
+#### walo
 * * noun: the color white (and its shades)
 * * adjective: white, bright/light
 * * verb: to color something white
 
-* **wan**
+#### wan
 * * number: 1
 * * noun: part (of smth)
 * * adjective: united, married
 * * verb: to unite, to marry
 
-* **waso**
+#### waso
 * * noun: bird, flying creature
 * * adjective: waso-like, of waso
 
-* **wawa**
+#### wawa
 * * noun: strength, power, energy
 * * adjective: strong, powerful, energetic
 
-* **weka**
+#### weka
 * * noun: absence, remoteness
 * * adjective: absent, away, remote
 * * verb: remove, get rid of
 
-* **wile**
+#### wile
 * * noun: want, need, desire
 * * adjective: desired, needed, required
 * * verb: to want smth
