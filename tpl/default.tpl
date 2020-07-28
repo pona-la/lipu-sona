@@ -30,10 +30,6 @@
 	<?theme body?>
       </div>
       <div class="footer">
-	<div class="itime">
-	  <div class="itime-text">internet time @ <span id="itime-value">???</span></div>
-	  <div class="itime-bar"><div id="itime-progress"></div></div>
-	</div>
 	<a rel="me" href="https://cybre.space/@devurandom"><img src="/mastodon.gif"
 	width="88px" height="31px" alt="Follow me on Mastodon"></img></a>
 	<a href="https://vim.org"><img src="/vim.gif"
@@ -45,6 +41,10 @@
 	<a
 	href="https://mozilla.org/en-US/firefox/"><img src="/firefox.gif"
 	width="88px" height="31px" alt="Best viewed in Firefox" title="This website is best viewed in the Firefox web browser."></img></a>
+	<div class="itime">
+	  <div class="itime-text">internet time @ <span id="itime-value">???</span></div>
+	  <div class="itime-bar"><div id="itime-progress"></div></div>
+	</div>
 	<br />
 	Website created and updated by /dev/urandom. Source code available on the 
 	<a href="https://gitlab.com/dev_urandom/simple-site">GitLab page</a>.

@@ -131,6 +131,7 @@ th, td {
 }
 
 .footer a, .footer a:visited {
+	display: inline-block;
 	color: C_FOOTLINK;
 }
 
@@ -203,10 +204,12 @@ th, td {
 }
 
 .itime {
-	border: 1px solid C_BBORDER;
-	width: 15em;
+	border: 1px solid C_DBORDER;
+	width: 128pt;
 	padding: 6px;
 	margin:auto;
+	display: inline-block;
+	vertical-align: bottom;
 }
 
 .itime-bar {
@@ -250,7 +253,6 @@ HASH(#itime-progress) {
 	}
 
 	.itime {
-		float: right;
 	}
 }
 
