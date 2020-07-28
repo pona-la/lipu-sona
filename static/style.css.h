@@ -221,6 +221,16 @@ HASH(#itime-progress) {
 }
 
 @media screen and (min-width: 480px) {
+	
+	html {
+		background:C_PAGEBG;
+	}
+
+	body {
+		max-width: 608pt;
+		box-shadow: 0 0 0 1px C_BBORDER;
+		margin: auto;
+	}
 
 	.header {
 	}
@@ -245,9 +255,6 @@ HASH(#itime-progress) {
 }
 
 @media screen and (min-width:768pt) {
-	html {
-		background:C_PAGEBG;
-	}
 	body {
 		box-shadow: 0 0 0 1px C_BBORDER;
 		max-width: 768pt;
