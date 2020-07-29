@@ -103,6 +103,8 @@ language's 120 word dictionary.
 * [extra page 2 - other writing systems](x2.html)
 * * [sitelen pona](sitelen_pona.html)
 
+* [dictionary](dictionary.html)
+
 * [credits and acknowledgements](credits.html)
 
 ### Original content

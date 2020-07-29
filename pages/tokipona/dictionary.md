@@ -2,9 +2,6 @@
 % /dev/urandom
 % july 2020
 
-> %warning%
-> This is a work in progress.
-
 This is a list of all official words in toki pona as described on the pages from
 1 to 12, arranged alphabetically. Each word is listed with different meanings
 depending on which parts of speech it can be used as.
@@ -12,21 +9,27 @@ depending on which parts of speech it can be used as.
 The "adjective" definition applies to both adjectives and adverbs, as the only
 difference between the two in toki pona is if they apply to nouns or verbs.
 
+A noun word can always be used as an adjective with the meaning "of [noun]". For
+example, "moku soweli" can mean "animal food" or "meat", depending on context.
+
 > %note%
 > This is not a copy of the dictionary as defined in the official book or any
 > other course. Some words may be used as parts of speech other than those
 > listed here. It also lists some unconventional uses of words, some of which
 > are only useful in combination with other words.
+> 
+> In toki pona, you're welcome to come up with your own phrases and alternative
+> meanings of words depending on context. The most important rule is to make
+> yourself understood.
 >
 
 ---
 
 #### a
-* * particle: (emotional interjection)
+* * particle: (emotional interjection, emphasis or confirmation)
 
 #### akesi
 * * noun: "non-cute" animal, lizard
-* * adjective: similar to akesi, of akesi
 
 #### ala
 * * noun: nothing
@@ -39,12 +42,12 @@ difference between the two in toki pona is if they apply to nouns or verbs.
 
 #### ale/ali
 * * noun: everything, universe
-* * adjective: every, all
+* * adjective: every, all, abundant
 * * number: all/infinite (simple system), 100 (complex system)
 
 #### anpa
 * * noun (old/non-pu): lower part
-* * adjective: lowly, humble, dependent
+* * adjective: bowing down, downward, lowly, humble, dependent
 * * verb w/o obj: to bow down
 * * verb w/ obj: to conquer, to defeat
 
@@ -57,8 +60,8 @@ difference between the two in toki pona is if they apply to nouns or verbs.
 * * particle: or
 
 #### awen
-* * noun (unconventional): stability, safety
-* * adjective: safe, enduring, resilient
+* * noun (unconventional): stability, safety, wait
+* * adjective: kept, safe, enduring, resilient, waiting, staying
 * * verb: keep, stay, endure, protect
 * * pre-verb: continue (doing something)
 
@@ -74,8 +77,8 @@ difference between the two in toki pona is if they apply to nouns or verbs.
 * * verb: to trade, to exchange
 
 #### ijo
-* * noun: thing, object, (unconventional) matter
-* * adjective: (unconventional) material, physical
+* * noun: thing, object, matter
+* * adjective: material, physical
 
 #### ike
 * * noun: evil
@@ -88,46 +91,46 @@ difference between the two in toki pona is if they apply to nouns or verbs.
 
 #### insa
 * * noun: insides, contents, center, stomach
-* * adjective: central, inside
+* * adjective: central, inside, between
 
 #### jaki
 * * noun: dirt, waste
-* * adjective: dirty, disgusting, toxic
+* * adjective: dirty, disgusting, toxic, unclean, unsanitary
 * * verb: to make something dirty
 
 #### jan
-* * noun: person, people, humanity
-* * adjective: human-like, of the people
+* * noun: person, people, humanity, somebody
+* * adjective: human-like, personal
 
 #### jelo
 * * noun/adjective: (the color) yellow (and its shades)
 * * verb: to color smth yellow
 
 #### jo
+* * noun: (unconventional) possessions, property
 * * verb: to have/carry/contain/hold
 
 #### kala
 * * noun: fish, marine animal, sea creature
-* * adjective: similar to kala, of kala
 
 #### kalama
 * * noun: sound, noise
 * * adjective: loud, noisy, sound-making
-* * verb: to make noise, to play (an instrument)
+* * verb: to make noise, to recite, to play (an instrument)
 
 #### kama
-* * noun: event
-* * adjective: coming, future
-* * pre-verb: to become, to be in the process of (doing smth)
+* * noun: event, arrival
+* * adjective: arriving, coming, future, summoned
+* * pre-verb: to become, to be in the process of (doing smth), to manage to, to
+  succeed in
 
 #### kasi
 * * noun: plant, grass, herb, leaf
-* * adjective: kasi-like, of kasi
 
 #### ken
 * * noun: ability, possibility, (unconventional) right, liberty
 * * adjective (unconventional): able, possible
-* * pre-verb: can (do smth)
+* * pre-verb: can (do smth), may (do smth)
 
 #### kepeken
 * * noun: use, (unconventional) practice
@@ -136,7 +139,6 @@ difference between the two in toki pona is if they apply to nouns or verbs.
 
 #### kili
 * * noun: fruit, vegetable, mushroom
-* * adjective: kili-like, of kili
 
 #### kiwen
 * * noun: hard object, metal, stone, solid
@@ -144,23 +146,23 @@ difference between the two in toki pona is if they apply to nouns or verbs.
 
 #### ko
 * * noun: powder, clay, paste, semi-solid
-* * adjective: ko-like
 
 #### kon
-* * noun: air, essence, spirit
+* * noun: air, essence, spirit, (unconventional) gas
 * * adjective: invisible, ephemeral, (unconventional) gaseous
 
 #### kule
 * * noun: color, (rare) gender
-* * adjective: colorful
+* * adjective: colorful, painted
 * * verb: to paint smth a color
 
 #### kulupu
-* * noun: group, community, society
+* * noun: group, community, company, society, nation, tribe
 * * adjective: communal, social
 
 #### kute
 * * noun: ear, hearing
+* * adjective: ...-sounding
 * * verb: to hear, to listen, to obey
 
 #### la
@@ -177,17 +179,17 @@ difference between the two in toki pona is if they apply to nouns or verbs.
 
 #### lawa
 * * noun: head, mind
-* * adjective: main, primary, controlling
-* * verb: to head, to control, to own, to rule
+* * adjective: main, primary, controlling, ruling
+* * verb: to head, to control, to direct, to guide, to lead, to own, to rule
 
 #### len
-* * noun: cloth, clothes, layer of privacy
-* * adjective: clothed
+* * noun: cloth, clothes, fabric, layer of privacy
+* * adjective: clothed, made of cloth/fabric
 * * verb: to clothe, to provide a layer of privacy
 
 #### lete
 * * noun: cold
-* * adjective: cold, raw, uncooked
+* * adjective: cold, cool, raw, uncooked
 * * verb: to cool down
 
 #### li
@@ -200,11 +202,10 @@ difference between the two in toki pona is if they apply to nouns or verbs.
 
 #### linja
 * * noun: long flexible object, string, rope, hair
-* * adjective: linja-like, of linja
 
 #### lipu
-* * noun: book, document, paper
-* * adjective: lipu-like, of lipu
+* * noun: flat object, book, document, paper, page, record, website
+* * adjective: flat, used as lipu, lipu-like, of lipu
 
 #### loje
 * * noun/adjective: (the color) red (and its shades)
@@ -218,26 +219,23 @@ difference between the two in toki pona is if they apply to nouns or verbs.
 
 #### luka
 * * noun: hand, arm
-* * adjective: luka-like, of luka
 * * number: 5 (complex system)
 
-#### lukin
+#### lukin+
 * * noun: eye, vision
-* * adjective: visual
+* * adjective: ...-looking, visual
 * * verb: to look, to see, to read
 * * pre-verb: to seek (to do something)
 
 #### lupa
-* * noun: hole, door, window
+* * noun: hole, door, orifice, window
 
 #### ma
 * * noun: earth, land, outdoors, territory, country
-* * adjective: of earth, on land
 
 #### mama
-* * noun: parent, ancestor, creator, origin
-* * adjective: parental, of the parent/creator
-* * verb: to create, to parent
+* * noun: parent, ancestor, creator, origin, caretaker
+* * verb: to create, to parent, to take care of
 
 #### mani
 * * noun: money, large domesticated animal
@@ -248,7 +246,7 @@ difference between the two in toki pona is if they apply to nouns or verbs.
 * * adjective: feminine
 
 #### mi
-* * noun: i, me, us 
+* * noun: i, me, we, us 
 * * adjective: my, our
 
 #### mije
@@ -258,7 +256,7 @@ difference between the two in toki pona is if they apply to nouns or verbs.
 #### moku
 * * noun: food
 * * adjective: edible, of food
-* * verb: to eat, to drink
+* * verb: to eat, to drink, to swallow
 
 #### moli
 * * noun: death
@@ -288,18 +286,19 @@ difference between the two in toki pona is if they apply to nouns or verbs.
 
 #### nanpa
 * * noun: number
-* * adjective: -th (ordinal indicator), (unconventional) digital
+* * adjective: -th (ordinal indicator), mathematical, numeric, 
+    (unconventional) digital
 
 #### nasa
 * * adjective: weird, unusual, strange, crazy, drunk
 
 #### nasin
-* * noun: path, road, street, directive, way
-* * adjective: street-, true to the directive/way
+* * noun: path, road, street, directive, way, custom
+* * adjective: street-, true to the directive/way/custom
 * * verb (unconventional): to guide, to show the path
 
 #### nena
-* * noun: hill, mountain, button, bump,nose
+* * noun: hill, mountain, button, bump, nose
 * * adjective: hilly, mountainous, bumpy
 
 #### ni
@@ -309,7 +308,7 @@ difference between the two in toki pona is if they apply to nouns or verbs.
 * * noun: word, name
 
 #### noka
-* * noun: foot, leg, lower part, under (smth)
+* * noun: foot, leg, bottom, lower part, under (smth)
 
 #### o
 * * particle: (addressing people, commands)
@@ -326,7 +325,7 @@ difference between the two in toki pona is if they apply to nouns or verbs.
 #### open
 * * noun: start, beginning
 * * adjective: initial, starting
-* * verb: to start, to open
+* * verb: to start, to open, to turn on
 * * pre-verb: to begin (doing something)
 
 #### pakala
@@ -346,14 +345,13 @@ difference between the two in toki pona is if they apply to nouns or verbs.
 
 #### pan
 * * noun: bread, grain, corn, rice, pizza
-* * adjective: pan-like, of pan
 
 #### pana
-* * adjective: (unconventional) given, sent
-* * verb: to give, to send, to emit
+* * adjective: (unconventional) given, sent, released
+* * verb: to give, to send, to emit, to release
 
 #### pi
-* * particle: "of" (regroups adjectives/adverbs)
+* * particle: "of" (regroups two or more modifiers)
 
 #### pilin
 * * noun: heart, feeling, touch, sense
@@ -367,26 +365,24 @@ difference between the two in toki pona is if they apply to nouns or verbs.
 
 #### pini
 * * noun: end, finish
-* * adjective: final
+* * adjective: final, completed, finished, past (with tenpo)
 * * verb: to end, to finish, to close
 * * pre-verb: to end/stop doing something
 
 #### pipi
 * * noun: insect, bug
-* * adjective: pipi-like, of pipi
 
 #### poka
-* * noun: hip, side
+* * noun: hip, side, nearby area
 * * adjective: neighboring, nearby, at one's side
 
 #### poki
 * * noun: box, container, bowl, cup, drawer
-* * adjective: poki-like, of poki
 * * verb (unconventional): to put in a box
 
 #### pona
 * * noun: good, simplicity
-* * adjective: good, simple
+* * adjective: good, simple, friendly, peaceful
 * * verb: to improve, to fix
 
 #### pu
@@ -394,33 +390,39 @@ difference between the two in toki pona is if they apply to nouns or verbs.
 * * adjective: as told in the official toki pona book
 * * verb: interacting with the official toki pona book
 
+> %note%
+> The official toki pona book only defines the verb meaning of the word "pu".
+> Some people in the toki pona community prefer to only use it in the verb
+> meaning, while others use it in others as well.
+
 #### sama
 * * noun: similarity, (someone's) sibling
-* * adjective: similar to, like, sibling
+* * adjective: similar, like, sibling
+* * preposition: as, like
 
 #### seli
-* * noun: heat, warmth, chemical reaction
+* * noun: heat, warmth, chemical reaction, heat source
 * * adjective: warm, hot
 * * verb: to heat
 
 #### selo
-* * noun: outer form, shell, skin, boundary
+* * noun: outer form, outer layer, shell, skin, boundary
 * * adjective: outer
 
 #### seme
-* * particle: what? (for questions)
+* * particle: what? which? (for questions)
 
 #### sewi
-* * noun: area above, sky, god
+* * noun: area above, top, highest part, sky, god
 * * adjective: high, above, divine, sacred
 
 #### sijelo
 * * noun: body, physical state, torso
-* * adjective: physical, of body
+* * adjective: physical, of sijelo
 
 #### sike
-* * noun: circle, ball, (with tenpo) year
-* * adjective: round, circular, spherical
+* * noun: circle, ball, cycle, wheel, (with tenpo) year
+* * adjective: round, circular, spherical, of one year
 * * verb: to make a circle around
 
 #### sin
@@ -449,34 +451,32 @@ difference between the two in toki pona is if they apply to nouns or verbs.
 
 #### soweli
 * * noun: land mammal, animal
-* * adjective: soweli-like, of soweli
 
 #### suli
 * * noun: size, greatness
-* * adjective: big, great, important
+* * adjective: big, heavy, tall, great, important, adult
 * * verb: to grow
 
 #### suno
-* * noun: sun, light, brightness
+* * noun: sun, light, brightness, light source
 * * adjective: solar, bright
 * * verb: to light, to shine
 
 #### supa
 * * noun: horizontal surface
-* * adjective: supa-like, of supa
 
 #### suwi
-* * noun: (unconventional) sweets
-* * adjective: sweet, cute, adorable
+* * noun: (unconventional) sweets, fragrances
+* * adjective: sweet, fragrant, cute, adorable
 
 #### tan
 * * noun: cause, reason, origin
 * * adjective: original
-* * verb (unconventional): to cause 
+* * verb w/ object (unconventional): to cause
 * * preposition: from, because of
 
 #### taso
-* * particle: (at beginning of sentence) but, however
+* * particle (at beginning of sentence): but, however
 * * adjective: only
 
 #### tawa
@@ -487,25 +487,35 @@ difference between the two in toki pona is if they apply to nouns or verbs.
 
 #### telo
 * * noun/adjective: water, fluid, liquid
+* * adjective: wet, fluid, liquid
 * * verb: to water, to clean
 
 #### tenpo
-* * noun: time, moment
+* * noun: time, moment, occasion
 * * adjective: temporal
 
 #### toki
 * * noun: speech, conversation, language
 * * adjective: verbal, conversational
-* * verb: to talk
+* * verb: to speak, to talk, to use language, to think
 
 #### tomo
-* * noun: home, room, structure
+* * noun: home, building, structure, indoor space, room
+* * adjective: indoor
 
 #### tu
 * * number: 2
 * * noun: divide
 * * adjective: divided
 * * verb: to divide
+
+> %warning%
+> Using "tu" at the end of a noun phrase is generally associated with the number
+> 2\. The meaning "divided" is usually specified by using a "li" particle:
+>
+> kulupu tu -- two communities
+>
+> kulupu li tu. -- the community is divided.
 
 #### unpa
 * * noun: sex
@@ -532,9 +542,20 @@ difference between the two in toki pona is if they apply to nouns or verbs.
 * * adjective: united, married
 * * verb: to unite, to marry
 
+> %warning%
+> Using "wan" at the end of a noun phrase is generally associated with the number
+> 1\. The meaning "united" is usually specified by using a "li" particle:
+>
+> kulupu wan -- one community
+>
+> kulupu li wan. -- the community is united.
+>
+> kulupu mute wan -- 21 communities (complex numbering system)
+> 
+> kulupu mute li wan -- many (or 20) communities are united.
+
 #### waso
 * * noun: bird, flying creature
-* * adjective: waso-like, of waso
 
 #### wawa
 * * noun: strength, power, energy
@@ -550,5 +571,7 @@ difference between the two in toki pona is if they apply to nouns or verbs.
 * * adjective: desired, needed, required
 * * verb: to want smth
 * * pre-verb: to want to do smth
+
+---
 
 [Top page](index.html)
