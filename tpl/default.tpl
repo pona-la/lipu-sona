@@ -32,7 +32,7 @@
       <div class="footer">
 	<a rel="me" href="https://cybre.space/@devurandom"><img src="/mastodon.gif"
 	width="88px" height="31px" alt="Follow me on Mastodon"></img></a>
-	<a href="https://vim.org"><img src="/vim.gif"
+	<a href="https://www.vim.org"><img src="/vim.gif"
 	width="88px" height="31px" alt="This page made with Vim"></img></a>
 	<a
 	href="https://twitter.com/AdigunPolack/status/978086591485882368"><img
