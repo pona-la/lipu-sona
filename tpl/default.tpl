@@ -23,10 +23,12 @@
     </div>
     <div class="middle">
       <div class="navbar nav_linkmenu">
+      	<div class="links">
 	  <a href="/index.html">Main page</a>
 	  <a href="/about_me.html">About me</a>
 	  <a href="/blog">Blog thingy</a>
 	  <a href="/tokipona">toki pona</a>
+	</div>
       </div>
       <div class="content">
 	<?theme body?>

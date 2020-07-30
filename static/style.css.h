@@ -31,6 +31,9 @@
 #define C_LGREEN #7cc264
 #define C_DGREEN #316F23
 
+#define C_NAVFG #fefefe
+
+
 @font-face {
 	font-family: "Xolonium";
 	src: url("/Xolonium-Regular.otf");
@@ -115,19 +118,16 @@ th, td {
 	margin: 3px;
 	padding: 3px;
 	border: 1px solid C_DBORDER;
-	color: C_FOOTLINK;
+	color: C_NAVFG;
+	text-decoration: none;
 }
 
 .nav_linkmenu a:hover {
-	background: C_LWRN;
-	color: C_BODYFG;
-	border: 1px solid C_DWRN;
+	background: C_DERR url("/menu_hover.gif");
 }
 
 .nav_linkmenu a:active {
-	background: C_LGREEN;
-	color: C_BODYFG;
-	border: 1px solid C_DGREEN;
+	background: C_DGREEN url("/menu_pressed.gif");
 }
 
 .footer a, .footer a:visited {
@@ -217,6 +217,10 @@ th, td {
 	width: 100%;
 }
 
+.def {
+	text-decoration: dotted underline;
+}
+
 HASH(#itime-progress) {
 	width: 0%;
 	height: 100%;
@@ -272,6 +276,15 @@ HASH(#itime-progress) {
 		grid-column-end: 2;
 		grid-row-start: 1;
 		grid-row-end: 2;
+	}
+	.navbar > .links {
+		background: url("/menu_stripe.gif");
+		padding: 3px;
+		border: 1px solid C_DBORDER;
+	}
+	.links a {
+		background: none;
+		border: none;
 	}
 	.footer {
 		grid-column-start: 1;
