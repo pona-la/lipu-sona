@@ -226,7 +226,7 @@ HASH(#itime-progress) {
 @media screen and (min-width: 480px) {
 	
 	html {
-		background:C_PAGEBG;
+		background:C_PAGEBG url("/hexagonal_bg.gif");
 	}
 
 	body {
