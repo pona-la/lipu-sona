@@ -13,6 +13,8 @@ course:
 
 * **Harrison** (@hpincket on GitLab) for fixing a typo on page 6
 
+* **LesVisages** on GitLab for fixing another typo on page 6
+
 Special thanks:
 
 * **jan Misali** (Mitch Halley) for creating the "Conlang Critic" web series,
