@@ -35,16 +35,16 @@
       </div>
       <div class="footer">
 	<a rel="me" href="https://cybre.space/@devurandom"><img src="/mastodon.gif"
-	width="88px" height="31px" alt="Follow me on Mastodon"></img></a>
+	width="88" height="31" alt="Follow me on Mastodon" /></a>
 	<a href="https://www.vim.org"><img src="/vim.gif"
-	width="88px" height="31px" alt="This page made with Vim"></img></a>
+	width="88" height="31" alt="This page made with Vim" /></a>
 	<a
 	href="https://twitter.com/AdigunPolack/status/978086591485882368"><img
 	src="/simplejpc16.gif"
-	width="88px" height="31px" alt="SimpleJPC-16" title="This website uses the SimpleJPC-16 palette for its design."></img></a>
+	width="88" height="31" alt="SimpleJPC-16" title="This website uses the SimpleJPC-16 palette for its design." /></a>
 	<a
 	href="https://mozilla.org/en-US/firefox/"><img src="/firefox.gif"
-	width="88px" height="31px" alt="Best viewed in Firefox" title="This website is best viewed in the Firefox web browser."></img></a>
+	width="88" height="31" alt="Best viewed in Firefox" title="This website is best viewed in the Firefox web browser."/ ></a>
 	<div class="itime">
 	  <div class="itime-text">internet time @ <span id="itime-value">???</span></div>
 	  <div class="itime-bar"><div id="itime-progress"></div></div>
