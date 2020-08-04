@@ -231,6 +231,7 @@ HASH(#itime-progress) {
 	
 	html {
 		background:C_PAGEBG url("/hexagonal_bg.gif");
+		background-attachment: fixed;
 	}
 
 	body {
