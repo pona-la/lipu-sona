@@ -318,10 +318,15 @@ fully-functional vector font.
 
 #### Examples of different fonts
 
+>
 > sitelen ni li sitelen kepeken sitelen pona.
+>
 > sina ken ala ken sona e ona.
+>
 > ma Kanata li suli.
+>
 > jan pi sona mute li pali pona.
+>
 
 * linja pona:
 
