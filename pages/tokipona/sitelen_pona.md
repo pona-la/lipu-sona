@@ -225,7 +225,8 @@ Each toki pona word is written using its character, without extra spaces between
 words.
 
 An adjective character can be put inside or over/under a noun character to
-represent a noun phrase.
+represent a noun phrase. Such a character is generally called a "composite
+character".
 
 > %info%
 > You might notice that toki pona's "logo", used on the cover of the official
@@ -257,6 +258,12 @@ characters and are not written as unofficial words.
 
 Since the question mark is used as the character for "seme", question sentences
 may be ended with a period (or a smaller question mark) instead.
+
+Some people use composite characters within cartouches to write entire syllables
+in a single space. For example, [this
+tweet](https://twitter.com/qvarie/status/1291755067851251712) shows the
+unofficial word "Nijon" ("Japan") written as three characters: "nena-ilo",
+"jan-oko" and "nena".
 
 ### Examples
 
@@ -308,6 +315,33 @@ the most common ones.
  lape](supalape.html)". It is based on the font "Bedstead"(hence the name) and
 uses the same algorithm to convert small bitmaps of different characters into a
 fully-functional vector font.
+
+#### Examples of different fonts
+
+> sitelen ni li sitelen kepeken sitelen pona.
+> sina ken ala ken sona e ona.
+> ma Kanata li suli.
+> jan pi sona mute li pali pona.
+
+* linja pona:
+
+![](lpona.png)
+
+* linja pona (syllables using composite characters):
+
+![](lpona2.png)
+
+* linja pimeja:
+
+![](lpimeja.png)
+
+* sitelen pona pona:
+
+![](spp.png)
+
+* insa pi supa lape:
+
+![](insa.png)
 
 ### sitelen emoji / sitelen pilin
 
