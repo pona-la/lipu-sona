@@ -74,7 +74,7 @@ else
 
 	echo $FILELIST | jq -cr '.files[]|select(.is_directory == false)|[.sha1_hash,.path] | @tsv' | sed 's/\t/  /' | sort -k2 > remotehashes.txt
 
-	( cd out; find -name '[!.]*' * -type f -exec sha1sum {} + | sort -k2 ) > localhashes.txt
+	( cd out; find . -name '[!.]*' -type f -exec sha1sum {} + | sort -k2 | sed 's/ \.\// /' ) > localhashes.txt
 
 	UPDFILES=`diff -U0 localhashes.txt remotehashes.txt | grep ^-[0-9a-f] | cut -d " " -f3`
 
