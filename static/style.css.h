@@ -265,7 +265,7 @@ HASH(#itime-progress) {
 	body {
 		box-shadow: 0 0 0 1px C_BBORDER;
 		max-width: 768pt;
-		margin: auto;
+		margin: 24pt auto;
 	}
 	.middle {
 		display: grid;
