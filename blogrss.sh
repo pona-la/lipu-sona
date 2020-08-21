@@ -22,15 +22,15 @@ for f in $FILES; do
 	OUTPAGE=${f%.md}.html
 	OUTPAGE=/${OUTPAGE#pages/}
 
-	LASTUPD=`date -R -u -d "@$MTIME"`
 
-	cat <<- RSSITEM
-	<item>
-	<title>$TITLE</title>
-	<link>$OUTPAGE</link>
-	<pubdate>$LASTUPD</pubdate>
-	</item>
-	RSSITEM
+	echo "<item>"
+	echo "<title>$TITLE</title>"
+	echo "<link>$OUTPAGE</link>"
+	
+	if [ $MTIME ]; then
+		echo "<pubdate>`date -R -u -d \"@$MTIME\"`</pubdate>"
+	fi
+	echo "</item>"
 done
 
 cat << RSSFOOTER

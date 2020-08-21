@@ -16,7 +16,11 @@ for f in $FILES; do
 	OUTPAGE=${f%.md}.html
 	OUTPAGE=/${OUTPAGE#pages/}
 
-	echo " * [$TITLE]($OUTPAGE) (last update `date -d "@$MTIME" "+%Y-%m-%d %H:%M"`)"
+	if [ $MTIME ]; then
+		echo " * [$TITLE]($OUTPAGE) (last update `date -d "@$MTIME" "+%Y-%m-%d %H:%M"`)"
+	else
+		echo " * [$TITLE]($OUTPAGE)"
+	fi
 done
 
 cat tpl/blog_footer.md
