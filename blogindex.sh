@@ -7,7 +7,8 @@ FILES=`ls $DIRECTORY/*.md -1t`
 cat tpl/blog_header.md
 
 for f in $FILES; do
-	MTIME=`stat -c %Y $f`
+
+	MTIME=`git log -n 1 --pretty=format:%at $f`
 
 	TITLE=`head -n 1 $f`
 	TITLE=${TITLE#"% "}
