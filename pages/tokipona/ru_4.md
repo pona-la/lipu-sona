@@ -104,7 +104,7 @@ ike" -- "плохо говорить" или "разговаривать о зл
 
 * mi moku ala e soweli.
 * jan pona sina li toki e ma, e telo.
-* jan suli li lukin a ma tomo, li sitelen e ijo.
+* jan suli li lukin e ma tomo, li sitelen e ijo.
 * ma li jo e kasi ike.
 * pipi lili li suli, li pona.
 

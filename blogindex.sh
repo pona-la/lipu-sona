@@ -2,11 +2,6 @@
 
 DIRECTORY="pages/blog"
 
-LASTUPLOAD=`stat -c %Y pages/blog/index.md 2>/dev/null`
-if [[ -z $LASTUPLOAD ]]; then LASTUPLOAD=0; fi 
-
-#echo "Last upload at $LASTUPLOAD"
-
 FILES=`ls $DIRECTORY/*.md -1t` 
 
 cat tpl/blog_header.md
