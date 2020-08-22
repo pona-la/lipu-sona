@@ -98,7 +98,8 @@ ike" -- "плохо говорить" или "разговаривать о зл
 
 > mi pali. mi moku. - Я работаю и ем.
 
-* А видео "12 days of sona pi toki pona!" советуют добавить частицу "li":
+* А видео "12 days of sona pi toki pona!" советуют добавить частицу "li" (такой
+  же совет давал и курс "o kama sona e toki pona!"):
 
 > mi pali, li moku. - I work and eat.
 
