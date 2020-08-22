@@ -143,6 +143,10 @@ page](https://jan-lope.github.io/Toki_Pona_lessons_English/).
   (in fact, the structure of this course was inspired by the videos), each video
   covers 10 words of the official dictionary.
 
+* [Jonathan Gabel's lessons](https://jonathangabel.com/toki-pona) teach both
+  toki pona as a language and "sitelen sitelen", a rather ornamental-looking (if
+  uncommon in general usage) writing system for toki pona.
+
 ## Useful resources
 
 Apart from the above-mentioned book and courses, here are some good resources
