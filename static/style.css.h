@@ -1,6 +1,6 @@
 #define HASH(x) x
 
-#define C_PAGEBG #404a68
+#define C_PAGEBG #221f31
 #define C_HEADERBG #221f31
 #define C_HEADERBGHALF rgba(34,31,49,0.5)
 #define C_BODYBG #fefefe
