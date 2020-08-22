@@ -47,11 +47,18 @@ book](https://tokipona.org/) (also known as "pu") published in 2014 by Sonja
 Lang herself. It is not free, but it's a well-written book with lots of
 additional texts to read, and it explains the language very well.
 
-Another useful resource is the online course ["o kama sona e toki
-pona!"](http://tokipona.net/tp/janpije/okamasona.php) (learn toki pona!) by
-Bryant Knight (aka "jan Pije"). It has some differences in how it uses certain
-words, and the past versions of the course have attracted some controversy over
-their bigoted content, but it's also a well-made course.
+A fun video course is jan Misali's
+["12 days of sona pi toki pona"](https://www.youtube.com/watch?v=4L-dvvng4Zc)
+series on YouTube. It covers the entire language in 12 short videos, each
+featuring 10 words from the official dictionary (psst: the structure of my pages
+is inspired by it.)
+
+Previously, the online course "o kama sona e toki pona!" ("learn toki pona!") by
+Bryant Knight (aka "jan Pije") served as another important learning resource.
+Before being retired by its creator, it was one of the earliest toki pona pages
+available online. As a result, it had some differences in how it used certain
+words. The earlier versions of the course have also attracted some controversy
+over including several rather bigoted statements and texts in their content.
 
 My goal here is to try and present a version that tries to account for the
 different ways people speak and write toki pona and the way it is being used
@@ -130,9 +137,6 @@ page](https://jan-lope.github.io/Toki_Pona_lessons_English/).
   sitelen emoji. (WIP)
 
 ## Other courses online
-
-* The aforementioned ["o kama sona e toki pona!"](http://tokipona.net/tp/janpije/okamasona.php)
-  by jan Pije is still a solid, if rather old and controversial, course.
 
 * ["12 days of sona pi toki pona"](https://www.youtube.com/watch?v=4L-dvvng4Zc&list=PLuYLhuXt4HrQIv3xnDxZqRaLfmxB2U5rJ&index=1)
   by jan Misali is an easy-to-follow series of 12 videos. Much like this course

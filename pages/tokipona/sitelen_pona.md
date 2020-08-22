@@ -50,9 +50,9 @@ system designed for toki pona by its creator, Sonja Lang.
 > The part of the official book describing sitelen pona was published with a
 > non-commercial [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) 
 > license. Hence, it's easily available online in other courses,
-> such as ["o kama sona e toki pona!"'s
-> page](http://tokipona.net/tp/janpije/hieroglyphs.php) on the system, which
-> describes it almost exactly the same as the official book.
+> such as [jan Pije's page](http://tokipona.net/tp/janpije/hieroglyphs.php) 
+> on the system, which describes it almost exactly the same as the official
+> book.
 >
 
 ### logographic systems
