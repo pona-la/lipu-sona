@@ -141,6 +141,10 @@ th, td {
 	font-family: serif;
 }
 
+.content img {
+	max-width: 100%;
+}
+
 .content a, .content a:visited {
 	color: C_LINK;
 }
