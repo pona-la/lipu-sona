@@ -160,6 +160,10 @@ and links for people who want to learn or use toki pona:
 * [A toki pona dictionary with sitelen pona
  characters](https://theotherwebsite.com/tokipona/) by "The Other Website"
 
+* ["musi lili"](https://musilili.net/), a page by jan Same
+
+### Discussion groups and chats
+
 * ["ma pona pi toki pona" Discord server](https://discord.gg/XKzj3ex)
 
 * [toki pona Telegram group](https://telegram.me/joinchat/BLVsYz92zHUp2h2TYp9kTA)
