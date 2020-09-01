@@ -98,4 +98,15 @@ pona"](https://www.youtube.com/watch?v=4L-dvvng4Zc) Митча Хэлли (та�
 
 * [фонетический алфавит (англ./рус.)](phonetic_alphabet.html)
 
+### Дополнительные ресурсы на русском языке
+
+* Сокращённое описание грамматики и словаря токи пона на двух страницах (перевод
+ документа от [jan Lini](https://morr.cc/toki-pona-cheat-sheet/): 
+
+* * [формат
+  PDF](https://rnd.neocities.org/tokipona/toki-pona-cheat-sheet-ru.pdf)
+
+* * [формат ODT
+ (LibreOffice)](https://rnd.neocities.org/tokipona/toki-pona-cheat-sheet-ru.odt)
+
 ---

@@ -153,9 +153,11 @@ and links for people who want to learn or use toki pona:
   is set to "Encrypt All Sites Eligible", disable it for tokipona.net, or else
   it will redirect you to an unrelated website)
 
-* [/r/tokipona subreddit](https://reddit.com/r/tokipona)
+* ["lipu lili pona", a description of toki pona's rules and vocabulary on 2 
+ pages](https://neocities.org/site/lipu-lili-pona)
 
-* ["lipu lili pona", a description of toki pona's rules and vocabulary on 2 pages](https://neocities.org/site/lipu-lili-pona)
+* [Another description of toki pona's rules and vocab on 2
+  pages](https://morr.cc/toki-pona-cheat-sheet/)
 
 * [A toki pona dictionary with sitelen pona
  characters](https://theotherwebsite.com/tokipona/) by "The Other Website"
@@ -163,6 +165,8 @@ and links for people who want to learn or use toki pona:
 * ["musi lili"](https://musilili.net/), a page by jan Same
 
 ### Discussion groups and chats
+
+* [/r/tokipona subreddit](https://reddit.com/r/tokipona)
 
 * ["ma pona pi toki pona" Discord server](https://discord.gg/XKzj3ex)
 
