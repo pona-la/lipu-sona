@@ -2,7 +2,7 @@
 
 DIRECTORY="pages/blog"
 
-FILES=`ls $DIRECTORY/*.md -1` 
+FILES=`ls $DIRECTORY/*.md -1 | sort` 
 
 echo -n > blogdates.txt
 for f in $FILES; do
