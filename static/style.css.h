@@ -40,6 +40,16 @@
 }
 
 @font-face {
+    	font-family: "linja pimeja";
+    	src: url("/tokipona/linjapimeja19.woff")
+}
+
+@font-face {
+    	font-family: "insa pi supa lape";
+    	src: url("/tokipona/supalape.woff")
+}
+
+@font-face {
 	font-family: "sitelen pona pona";
 	src: url("/tokipona/sitelen-pona-pona.otf");
 }
@@ -202,7 +212,21 @@ th, td {
 	visibility: hidden;
 }
 
-.pona {
+.pona .latin {
+	font-family: monospace;
+}
+
+.pona.pimeja {
+	font-family:"linja pimeja";
+	font-size: 2em;
+}
+
+.pona.supalape {
+	font-family:"insa pi supa lape";
+	font-size: 2em;
+}
+
+.pona.ponapona {
 	font-family:"sitelen pona pona";
 	font-size: 1.5em;
 }

@@ -28,17 +28,26 @@ hosting the game.
 
 ---
 
-<button onclick="toggle_sitelen_pona();">(sitelen pona?)</button>
+<label for="sitelen_pona">nasin sitelen:</label>
+<select onchange="toggle_sitelen_pona(this.value)" name="sitelen_pona" id="sitelen_pona">
+  <option value="" selected>sitelen Lasina</option>
+  <option value="pimeja">sitelen pona ("linja pimeja")</option>
+  <option value="ponapona">sitelen pona ("sitelen pona pona")</option>
+  <option value="supalape">sitelen pona ("insa pi supa lape")</option>
+</select>
 
-> %pona0%
+> %pona%
 > # ni li seme
 >
-> tenpo sike 2011 la, [jan Silu](http://shiru.untergrund.net) (Shiru) li pali e
-> musi lili tawa ilo musi Enijesu (NES). nimi ona li "LAN Master". mi ante e
+> tenpo sike 2011 la, [jan <span
+> class="latin">Silu</span>](http://shiru.untergrund.net) <span
+> class="latin">(Shiru)</span> li pali e
+> musi lili tawa ilo musi <span class="latin">Enijesu (NES)</span>. nimi ona li
+> <span class="latin">"LAN Master"</span>. mi ante e
 > musi ni tawa toki pona.  sitelen ale lon ante mi li kepeken e sitelen pona.
 > nimi pi ante mi li "jan lawa pi linja ilo".
 >
-> # "lan master" li seme
+> # <span class="latin">"lan master"</span> li seme
 >
 > musi ni la, sina wile pali e linja tawa ilo sona ale lon ma. ma li jo e ilo
 > sona, e linja sona. sina ken ante e nasin pi linja sona. linja sina li ken

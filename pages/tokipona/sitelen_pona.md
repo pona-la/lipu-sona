@@ -3,14 +3,9 @@
 % june 2020
 
 <style>
-@font-face {
-    font-family: "sitelen pona";
-    src: url("linjapimeja19.woff")
-}
-
 .sp {
     font-size:3em;
-    font-family:"sitelen pona";
+    font-family:"linja pimeja";
     font-variant-ligatures: common-ligatures;
 }
 

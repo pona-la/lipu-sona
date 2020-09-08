@@ -3,10 +3,6 @@
 % may 2020
 
 <style>
-@font-face {
-    font-family: "insa pi supa lape";
-    src: url("supalape.woff")
-}
 
 .sp {
     font-size:3em;
