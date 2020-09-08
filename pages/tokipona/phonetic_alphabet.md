@@ -51,19 +51,18 @@ For uppercase letters, say "suli" after the name of the letter in question.
 > %pona%
 > # nasin pi kalama sitelen pi toki pona
 > 
-> ni li nasin pi kalama sitelen pi toki pona. sina ken toki e sitelen ale 
-> <span class="latin">Inli</span>, e sitelen ale <span class="latin">Losi</span>
-> , e sitelen ale <span class="latin">Asuki [ASCII]</span> kepeken ona.
+> ni li nasin pi kalama sitelen pi toki pona. sina ken toki e sitelen ale
+> `Inli`, e sitelen ale `Losi` , e sitelen ale `Asuki [ASCII]` kepeken ona.
 >
-> sitelen <span class="latin">Inli</span> ale en sitelen nanpa mute li kama tan
-> nasin pi kalama sitelen pi kulupu <span class="latin">Neto [NATO]</span>.
-> sitelen ante li sin, li kepeken nimi pi toki pona taso. jan kute li ken ala
-> kama sona ike e toki sina la, sina ken weka e nimi "sitelen", e nimi "nanpa".
+> sitelen `Inli` ale en sitelen nanpa mute li kama tan nasin pi kalama sitelen
+> pi kulupu `Neto [NATO]`.  sitelen ante li sin, li kepeken nimi pi toki pona
+> taso. jan kute li ken ala kama sona ike e toki sina la, sina ken weka e nimi
+> "sitelen", e nimi "nanpa".
 > 
-> kulupu lawa <span class="latin">Losi</span> li jo e nasin tawa ni: jan pi lipu
-> ken ala li wile pana e kalama lon kon tawa weka. nimi pi sitelen 
-> <span class="latin">Losi</span> kama tan nasin ni. ona mute suli li kama tan 
-> nimi <span class="latin">Losi</span>.
+> kulupu lawa `Losi` li jo e nasin tawa ni: jan pi lipu ken ala li wile pana e
+> kalama lon kon tawa weka. nimi pi sitelen `Losi` kama tan nasin ni. ona mute
+> suli li kama tan nimi `Losi`.
+
 > 
 > nimi lon insa poki kiwen li nimi tan. o toki ala e ona.
 > 

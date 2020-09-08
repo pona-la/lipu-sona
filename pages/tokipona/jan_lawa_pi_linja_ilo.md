@@ -39,15 +39,13 @@ hosting the game.
 > %pona%
 > # ni li seme
 >
-> tenpo sike 2011 la, [jan <span
-> class="latin">Silu</span>](http://shiru.untergrund.net) <span
-> class="latin">(Shiru)</span> li pali e
-> musi lili tawa ilo musi <span class="latin">Enijesu (NES)</span>. nimi ona li
-> <span class="latin">"LAN Master"</span>. mi ante e
+> tenpo sike `2011` la, [jan `Silu`](http://shiru.untergrund.net)`(Shiru)`
+> li pali e musi lili tawa ilo musi `Enijesu (NES)`. nimi ona li
+> `"LAN Master"`. mi ante e
 > musi ni tawa toki pona.  sitelen ale lon ante mi li kepeken e sitelen pona.
 > nimi pi ante mi li "jan lawa pi linja ilo".
 >
-> # <span class="latin">"lan master"</span> li seme
+> # `"lan master"` li seme
 >
 > musi ni la, sina wile pali e linja tawa ilo sona ale lon ma. ma li jo e ilo
 > sona, e linja sona. sina ken ante e nasin pi linja sona. linja sina li ken
@@ -56,7 +54,7 @@ hosting the game.
 > taso, sina wile pali e ni lon tenpo lili. tenpo ni li pini la, musi li pini
 > ike.
 >
-> musi ni li jo e ma 100. sina pini pali e linja lon ma wan la, sina kama jo e
+> musi ni li jo e ma `100`. sina pini pali e linja lon ma wan la, sina kama jo e
 > nanpa awen. sina ken pali e ma kama kepeken nanpa awen lon tenpo ale.
 >
 
