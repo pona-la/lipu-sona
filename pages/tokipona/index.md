@@ -164,6 +164,8 @@ and links for people who want to learn or use toki pona:
 
 * ["musi lili"](https://musilili.net/), a page by jan Same
 
+* [toki pona flashcards for Anki](https://ankiweb.net/shared/decks/toki%20pona)
+
 ### Discussion groups and chats
 
 * [/r/tokipona subreddit](https://reddit.com/r/tokipona)
