@@ -120,6 +120,8 @@ language's 120 word dictionary.
 
 * [keyboard layout](keyboard.html)
 
+* [musi pi jan lawa moli (rules of chess)](chess.html)
+
 * ["insa pi supa lape" -- an original sitelen pona font](supalape.html)
 
 * ["jan lawa pi linja ilo", a translation rom hack](jan_lawa_pi_linja_ilo.html)
