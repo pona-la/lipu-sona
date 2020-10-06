@@ -2,7 +2,7 @@
 % /dev/urandom
 % october 2020
 
-> %error%
+> %warning%
 >
 > lipu ni li pini ala. ona li ken jo e sona ike. ona li ken jo ala e sona suli.
 > / this document is not finished. it can have errors or missing content.
@@ -14,9 +14,9 @@ musi Soki li musi supa.
 
 ijo mute la, ona li sama [musi pi jan lawa moli](chess.html). musi Soki en musi
 pi jan lawa moli li jo e tan sama. ma Insija pi tenpo pini suli la, musi
-"Satulanka" li lon.  jan li tawa, ona li tawa e nasin musi, ona li ante e ona.
-<!-- it's in many ways similar to chess, but also different. that's because they
-share an origin in Chaturanga, a game from ancient India. -->
+"Satulanka" (Chaturanga) li lon.  jan li tawa, ona li tawa e nasin musi, ona li
+ante e ona.  <!-- it's in many ways similar to chess, but also different. that's
+because they share an origin in Chaturanga, a game from ancient India. -->
 
 nasin wan la, musi "Satulanka" li tawa tan ma Insija tawa ma Ilan, tawa ma mute
 pi nasin sewi Silami, tawa ma Losi, tawa ma Elopa. nasin ona li ante. ona li
@@ -39,8 +39,8 @@ pieces and the board are different, but the most important difference is that
 when a player captures an opponent's piece, they gain it and can put it back on
 the board. -->
 
-jan tu li utala kepeken musi ni tawa ni: ona li wile anpa e ijo musi "jan lawa" pi jan ante. <!--
-two players compete to defeat each other's king. -->
+jan tu li utala kepeken musi ni tawa ni: ona li wile anpa e ijo musi "jan lawa"
+pi jan ante. <!-- two players compete to defeat each other's king. -->
 
 ## supa musi <!-- board description -->
 
