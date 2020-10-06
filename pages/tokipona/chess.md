@@ -6,7 +6,7 @@
 
 musi pi jan lawa moli li musi supa. <!-- chess is a board game. -->
 
-jan tu li utala kepeken musi ni tawa anpa e ijo musi "jan lawa" pi jan ante. <!--
+jan tu li utala kepeken musi ni tawa ni: ona li wile anpa e ijo musi "jan lawa" pi jan ante. <!--
 two players compete to defeat each other's king. -->
 
 <!-- musi pi jan lawa ("game of the dead king") == chess, as based on the fact
@@ -28,14 +28,15 @@ nasin wan li jo e ma 8. nanpa ona li sama nanpa pi nasin poka ona. tan ni, "ma
 o lukin noka e sitelen pi musi supa:
 
 ```
+             poka pi jan musi pimeja
          -- +--+--+--+--+--+--+--+--+
     nasin ^ |  |  |  |  |  |  |  |  | nasin nanpa luka tu wan (8)
    sinpin | +--+--+--+--+--+--+--+--+
           | |  |  |  |  |  |  |  |  | nasin nanpa luka tu (7)
-          | +--+--+--+--+--+--+--+--+
-          | |  |  |  |  |  |  |  |  |
-          | +--+--+--+--+--+--+--+--+
-          | |  |  |  |  |  |  |  |  |
+    (tawa | +--+--+--+--+--+--+--+--+
+      jan | |  |  |  |  |  |  |  |  |
+     musi | +--+--+--+--+--+--+--+--+
+    walo) | |  |  |  |  |  |  |  |  |
           | +--+--+--+--+--+--+--+--+
           | |  |  |  |  |  |  |  |  | ...
           | +--+--+--+--+--+--+--+--+
@@ -45,10 +46,14 @@ o lukin noka e sitelen pi musi supa:
     nasin | +--+--+--+--+--+--+--+--+
     monsi V |  |  |  |  |  |  |  |  | nasin nanpa wan (1)
          -- +--+--+--+--+--+--+--+--+
-             ^                     ^
+             ^     poka pi jan     ^
+             |      musi walo      |
              |                     |
  nasin poka nanpa wan     nasin poka nanpa luka tu wan
 ```
+
+nasin "monsi" li nasin tawa poka pi jan musi sama.
+nasin "sinpin" li nasin tawa poka pi jan musi ante.
 
 ma li kule walo, li kule pimeja. nasin kule pi ma li ni: <!-- the
 squares are colored black and white. the way to color them is as follows. -->
@@ -545,7 +550,7 @@ anpa. ni li pona ala pona?" jan musi ante li ken toki tawa ni. ona li toki e
 "pona" la, musi li pini. jan musi ala li anpa e jan musi ante. <!-- players can
 agree to a draw. -->
 
-musi suli la, nasin ni li lon: ijo musi ale li lon ma sama, li ken pali lon
+musi suli la, nasin ni li lon: ijo musi ale li lon ma sama, li ken tawa lon
 nasin sama, lon tenpo tawa tu wan pi jan musi sama, jan musi ni li ken toki e
 ni: "musi ni li pini. jan ala li anpa." <!-- in professional games, if all the
 pieces are in the same place and can do the same moves during 3 turns of the
@@ -553,9 +558,9 @@ same player, that player can claim a draw. -->
 
 ## suli kiwen pi tenpo tawa <!-- time control -->
 
-musi mute la, jan musi, anu jan lawa musi, li wile e ni: tenpo musi li suli ala.
-ni li lon la, nasin pi suli kiwen pi tenpo tawa li ken lon. <!-- in some games,
-the players or moderators may want to limit the game's duration. -->
+musi mute la, jan musi, anu jan pi lawa musi, li wile e ni: tenpo musi li suli
+ala.  ni li lon la, nasin pi suli kiwen pi tenpo tawa li ken lon. <!-- in some
+games, the players or moderators may want to limit the game's duration. -->
 
 nasin ni la, jan musi li nanpa e suli tenpo pi tenpo tawa ona kepeken ilo tenpo.
 mute tenpo lawa li lon. tenpo pi tenpo tawa ale pi jan wan li suli tawa ona la,

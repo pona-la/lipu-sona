@@ -131,7 +131,7 @@
 
 * kulupu pi jan mute li ike tawa mi. 
 * tomo ni la mi toki kepeken toki pona, mi toki kepeken toki Losi.
-* sina moku e soweli lete la ona li ike tawa pakala sina.
+* sina moku e soweli lete la ona li ike tawa sijelo sina.
 * kalama musi ona li pona mute.
 * sina kepeken ike e ilo la ona li pakala.
 

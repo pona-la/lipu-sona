@@ -15,6 +15,9 @@ course:
 
 * **LesVisages** on GitLab for fixing another typo on page 6
 
+* [**jan Tepan** (Stephan Schneider)](https://github.com/stefichjo/toki-pona)
+  for suggesting a grammar fix on the chess page
+
 Special thanks:
 
 * **jan Misali** (Mitch Halley) for creating the "Conlang Critic" web series,
