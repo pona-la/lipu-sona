@@ -84,7 +84,7 @@
 
 > ona li lon monsi sina. -- Они сзади меня.
 
-> jan utala mute li lon sinpin. -- Воины стоят передо мной.
+> jan utala mute li lon sinpin mi. -- Воины стоят передо мной.
 
 > lipu suli li lon sinpin ni. -- На этой стене важный документ.
 
