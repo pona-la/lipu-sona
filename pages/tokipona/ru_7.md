@@ -207,7 +207,7 @@
 > * mi toki insa e ni: jan sewi li lon ala.
 > * o kalama ala lon tomo lipu.
 > * jan lawa mi li toki e ni: o lape ala lon tomo pali.
-> * jan sama mije sina li lukin sama mute sina.
+> * jan sama mije sina li sama mute lukin sina.
 > * o tawa ala lon ma.
 >
 
