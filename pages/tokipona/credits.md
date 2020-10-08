@@ -16,7 +16,8 @@ course:
 * **LesVisages** on GitLab for fixing another typo on page 6
 
 * [**jan Tepan** (Stephan Schneider)](https://github.com/stefichjo/toki-pona)
-  for suggesting a grammar fix on the chess page
+  for suggesting a grammar fix on the chess page and submitting a pull request
+  that fixed typos on several pages
 
 Special thanks:
 
