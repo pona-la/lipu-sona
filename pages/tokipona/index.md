@@ -172,6 +172,9 @@ and links for people who want to learn or use toki pona:
 
 * [toki pona flashcards for Anki](https://ankiweb.net/shared/decks/toki%20pona)
 
+* * [flashcards based on this
+website](https://ankiweb.net/shared/info/204928497), by u/parentis\_shotgun
+
 ### Discussion groups and chats
 
 * [/r/tokipona subreddit](https://reddit.com/r/tokipona)
