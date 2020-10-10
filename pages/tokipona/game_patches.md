@@ -96,6 +96,14 @@ ante toki ni li sitelen kepeken sitelen pona. ante tu li lon: ante wan la, ijo
 musi li sitelen kepeken sitelen Kansi. ante ante la, ijo musi li sitelen kepeken
 sitelen pona.
 
+# sitelen musi
+
+![lipu lawa](shogi_title.png)
+
+![lipu musi, ante #1](shogi_game1.png)
+
+![lipu musi, ante #2](shogi_game2.png)
+
 * nasin pi lipu ante: nasin IPS
 
 * [lipu ante (ijo musi li sitelen kepeken sitelen Kansi)](shogi_tokipona.ips)
