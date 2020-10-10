@@ -61,10 +61,10 @@ lipu ante li kepeken e nasin IPS la, ilo ni ale li pona:
 * nimi tan: "LAN Master"
 * jan pali: jan Silu (Shiru) -- <https://shiru.untergrund.net>
 * tenpo pali: tenpo sike \#2011
-* ilo musi: ilo Famikon (Famicom) (sama ilo Enijesu (NES))
+* ilo musi: ilo Pamikon (Famicom) (sama ilo Enijesu (NES))
 * toki tan: toki Inli (English)
 
-"jan lawa pi linja ilo" li musi sin pi ilo Famikon. jan Silu li jan pali pi musi
+"jan lawa pi linja ilo" li musi sin pi ilo Pamikon. jan Silu li jan pali pi musi
 ni, li toki e ijo ni: "jan ale li ken jo e musi ni. jan ale li ken ante e ona,
 li ken pana e ona. mi wile ala e ni: mi taso li jo e ken pi pali sin."
 
@@ -79,16 +79,16 @@ tan ni, mi ken ante e musi ni. mi ken pana e lipu sin.
 * nimi tan: "Naitou 9 Dan - Shougi Hiden" (内藤九段将棋秘伝)
 * kulupu pali: kulupu Seta
 * tenpo pali: tenpo sike \#1985
-* ilo musi: ilo Famikon (Famicom) (sama ilo Enijesu (NES))
+* ilo musi: ilo Pamikon (Famicom) (sama ilo Enijesu (NES))
 * toki tan: toki Nijon (日本語)
 
 musi ni li musi pi sitelen tawa pi [musi Soki](shogi.html). ona li musi #1 pi
-musi Soki tawa ilo Famikon.
+musi Soki tawa ilo Pamikon.
 
 "jan Nato" pi nimi musi li jan Kunijo Nato (Kunio Naito, 内藤 國雄). tenpo pini
 la, ona li jan wawa pi musi Soki.
 
-sina ken musi lon nasin ni taso: sina jan musi wan. ilo Famikon li jan musi
+sina ken musi lon nasin ni taso: sina jan musi wan. ilo Pamikon li jan musi
 ante. sina ken ante e ni: suli kiwen pi tenpo tawa li lon ala lon? ijo musi suli
 pi jan wan li weka ala weka? jan musi seme li jan musi pimeja?
 
