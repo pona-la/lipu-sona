@@ -126,7 +126,9 @@ language's 120 word dictionary.
 
 * ["insa pi supa lape" -- an original sitelen pona font](supalape.html)
 
-* ["jan lawa pi linja ilo", a translation rom hack](jan_lawa_pi_linja_ilo.html)
+* [ante toki tawa musi pi sitelen tawa (video game translations)](game_patches.html)
+
+* * ["jan lawa pi linja ilo" ("LAN Master")](jan_lawa_pi_linja_ilo.html)
 
 ## Software
 
