@@ -98,11 +98,11 @@ sitelen pona.
 
 # sitelen musi
 
-![lipu lawa](shogi_title.png)
+![lipu lawa](/extra/shogi_title.png)
 
-![lipu musi, ante #1](shogi_game1.png)
+![lipu musi, ante #1](/extra/shogi_game1.png)
 
-![lipu musi, ante #2](shogi_game2.png)
+![lipu musi, ante #2](/extra/shogi_game2.png)
 
 * nasin pi lipu ante: nasin IPS
 
