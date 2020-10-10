@@ -1,6 +1,11 @@
-**IMPORTANT NOTICE:** in the future, other directories might have their own
+**IMPORTANT NOTICE:** other directories in this source tree can have their own
 LICENSE files covering their contents. In that case, the MIT license in this
 file would not apply to them.
+
+The directory "./static/extra" includes files with other people and companies'
+intellectual property. The COPYRIGHT file there tries to list these contents'
+copyright holders. The files in that directory are not subject to the MIT
+license.
 
 ---
 
