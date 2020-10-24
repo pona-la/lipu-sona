@@ -106,6 +106,7 @@ language's 120 word dictionary.
 ### Extra pages
 
 * [extra page 1 - old and new words](x1.html)
+* * [description of some of these words in toki pona](nimi_pi_pu_ala.html)
 
 * [extra page 2 - other writing systems](x2.html)
 * * [sitelen pona](sitelen_pona.html)
