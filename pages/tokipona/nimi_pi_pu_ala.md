@@ -2,7 +2,7 @@
 % /dev/urandom
 % tenpo mun #10 pi tenpo sike #2020
 
-# nimi sin
+# nimi pi pu ala
 
 lipu lawa pi toki pona ("pu") li jo e **nimi 120**. taso, nimi ante li lon. ona
 li kama tan ni:
