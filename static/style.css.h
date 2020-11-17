@@ -315,12 +315,6 @@ HASH(#itime-progress) {
 		background: none;
 		border: none;
 	}
-	.footer {
-		grid-column-start: 1;
-		grid-column-end: 2;
-		grid-row-start: 2;
-		grid-row-end: 3;
-	}
 	.content {
 		grid-column-start: 2;
 		grid-column-end: 3;
