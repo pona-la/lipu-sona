@@ -232,17 +232,27 @@ th, td {
 }
 
 .itime {
+	float: right;
 	border: 1px solid C_DBORDER;
+	background: C_FOOTERBG;
+	color: C_FOOTERFG;
 	width: 128pt;
-	padding: 6px;
-	margin:auto;
+	padding: 4px;
+	margin: 4px;
 	display: inline-block;
 	vertical-align: bottom;
+	font-family: sans-serif;
+	font-size: 10pt;
 }
 
 .itime-bar {
-	height: 0.5em;
+	height: 6px;
 	width: 100%;
+	margin-block: 2px;
+}
+
+.itime-text {
+	text-align: center;
 }
 
 .def {
@@ -252,7 +262,8 @@ th, td {
 HASH(#itime-progress) {
 	width: 0%;
 	height: 100%;
-	background: C_LGREEN;
+	background: C_DGREEN;
+	border-top: 2px solid C_LGREEN;
 }
 
 @media screen and (min-width: 480px) {
@@ -284,9 +295,6 @@ HASH(#itime-progress) {
 		padding: 6pt;
 		padding-inline-start: 1em;
 	}
-
-	.itime {
-	}
 }
 
 @media screen and (min-width:768pt) {
@@ -294,35 +302,6 @@ HASH(#itime-progress) {
 		box-shadow: 0 0 0 1px C_BBORDER;
 		max-width: 768pt;
 		margin: 24pt auto;
-	}
-	.middle {
-		display: grid;
-		grid-template-columns: 160pt auto;
-		grid-template-rows: 100fr auto;
-	}
-	.navbar {
-		grid-column-start: 1;
-		grid-column-end: 2;
-		grid-row-start: 1;
-		grid-row-end: 2;
-	}
-	.navbar > .links {
-		background: url("/menu_stripe.gif");
-		padding: 3px;
-		border: 1px solid C_DBORDER;
-	}
-	.links a {
-		background: none;
-		border: none;
-	}
-	.content {
-		grid-column-start: 2;
-		grid-column-end: 3;
-		grid-row-start: 1;
-		grid-row-end: 3;
-	}
-	.nav_linkmenu a {
-		display: block;
 	}
 }
 
