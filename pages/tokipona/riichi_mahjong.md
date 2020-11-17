@@ -38,11 +38,11 @@ poka en anpa en sewi pi ijo musi li jo ala e sitelen. poka ona li suli. sewi en 
 
 ijo musi ni li:
  
- * ijo nanpa (nimi lili: "nanpa")
+ * ijo musi nanpa (nimi lili: "nanpa")
 
- * ijo pi kon tawa (nimi lili: "ijo kon" anu "kon")
+ * ijo musi pi kon tawa (nimi lili: "ijo kon" anu "kon")
 
- * ijo pi akesi seli (nimi lili: "akesi seli" anu "akesi")
+ * ijo musi pi akesi seli (nimi lili: "akesi seli" anu "akesi")
 
 **ijo musi nanpa** ale li jo e nanpa. kulupu 3 pi ijo musi nanpa li lon:
 
@@ -63,6 +63,9 @@ nanpa pi ijo musi nanpa ante li sama ni: mute ijo lon sitelen ona.
 
 ijo musi #1 pi kulupu Sosu li jo e sitelen waso.
 
+ijo pi nanpa 1 en ijo pi nanpa 9 li "**ijo pi nanpa pini**" (nimi lili: **nanpa
+pini**). ijo pi nanpa ante li "**ijo lili**".
+
 **ijo pi kon tawa** ale li jo e sitelen Kansi pi nasin suli.
 
  * **nasin Ton** (東) li nasin #1, li nasin ni: open pi tenpo suno la, suno li lon nasin ni.
@@ -80,6 +83,8 @@ ijo musi #1 pi kulupu Sosu li jo e sitelen waso.
  * **akesi seli laso** (nimi Nijon: "Atu" (Hatsu)) li jo e sitelen Kansi "發" laso.
 
  * **akesi seli loje** (nimi Nijon: "Sun" (Chun)) li jo e sitelen kansi "中" loje.
+
+ijo pi kon tawa en ijo pi akesi seli li **ijo wawa**.
 
 ## nasin pi open musi
 
@@ -155,8 +160,8 @@ jan musi Ton li tawa wawa e ilo pi nanpa nasa tu lon tenpo sin. poka sewi ona li
  
             1 1 1
             2 1 0 9 8 7 6 5 4 3 2  
-  	    | | | | | | | | | | |
-   	    V V V V V V V V V V V
+            | | | | | | | | | | |
+            V V V V V V V V V V V
   .-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
   |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
   |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
