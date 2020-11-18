@@ -56,6 +56,8 @@
 	width="88" height="31" alt="F-Droid" title="F-Droid is a repository of free and open source Android applications."/ ></a>
 	<a href="https://rnd.neocities.org/tokipona/"><img src="/banners/mute_lukin.gif"
 	width="88" height="31" alt="jan li lukin e lipu ni lon tenpo mute"/ ></a>
+	<a href="https://jetsetradio.live/"><img src="/banners/jsrl.gif"
+	width="88" height="31" alt="Jet Set Radio Live"/ ></a>
 	<br />
 	Website created and updated by /dev/urandom. Source code available on the 
 	<a href="https://gitlab.com/dev_urandom/simple-site">GitLab page</a>.
