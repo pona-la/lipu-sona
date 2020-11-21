@@ -8,6 +8,15 @@
 > / this document is not finished. it can have errors or missing content.
 >
 
+> %warning%
+>
+> ken la, mi toki e nasin ale ala pi musi Lisi Masan. lipu nasin pi musi ni li
+> suli mute. taso, sina wile musi kepeken musi pi sitelen tawa anu musi pi lipu
+> kon la, lipu nasin ni li pona tawa sina. / This document probably doesn't
+> explain all the rules of riichi mahjong -- this game has very complex rules,
+> after all, but it'll be enough for video games or online play.
+>
+
 ## nimi sin
 
 > %warning%
@@ -213,6 +222,26 @@ jan musi ale li pali e ijo sama, kepeken nasin nanpa sama, lon tenpo tu.
 
 ni li pini la, jan musi ale li kama jo e ijo musi wan tan sinpin kepeken nasin nanpa sama.
 
+nasin ante tan ma ni: sinpin li open pakala lon ma ni la, ijo musi 14 li weka tan
+sinpin, li kama "sinpin moli".
+
+```
+ sinpin moli
+
+ ijo musi lukin pi wawa Tola (sewi #3)
+              |
+              V
+open     .-.-.-.-.-.-.-.
+ ------->|_|_|_|_|_|_|_| pini
+(sewi #1)|_|_|_|_|_|_|_|<-------- (anpa #7)
+```
+
+ijo musi sewi #3 pi sinpin moli li kama ijo musi lukin pi wawa Tola. o ante
+nasin e ona tawa ni: sinpin ona li lon sewi. ona li toki e ni: ijo musi ale pi
+nanpa kama, anu ijo musi pi sitelen kama, li ijo musi pi wawa Tola. jan li kama
+pona la, ijo pi wawa Tola li lon luka ona la, ona li kama jo e nanpa pona suli
+sin. (o kama sona e wawa Tola lon wan kama.)
+
 ni li pini la, musi li open.
 
 ## luka pona li seme?
@@ -263,9 +292,181 @@ o sona e nasin Jaku pi pali kiwen ala ni:
 
 * **"nasin sama 2"**. o jo e kulupu nasin 2 pi ijo sama.
 
+## tenpo musi
+
+musi li open la, **tenpo musi #1 pi nasin Ton** li lon.
+
+musi pi mute sili li jo e tenpo musi 8. ona li jo e **tenpo musi 4 pi nasin
+Ton**, e **tenpo musi 4 pi nasin Nan**. musi pi tenpo ni li jo e nimi "Ansan"
+(nimi Nijon: "Hanchan", 半荘).
+
+musi li ken jo e tenpo musi 4 taso. ni li lon la, ona li jo e tenpo musi 4 pi
+nasin Ton taso. musi pi tenpo ni li "musi pi nasin Ton taso", li jo e nimi
+"Tonpusen" (nimi Nijon: "Tonpuusen", 東風戦).
+
+ni li ken: tenpo musi 8 li pini. taso, nasin musi li toki e ni: musi li pini
+ala. ni li lon la, tenpo musi pi nasin Sa li lon.
+
+o sona e ni: **tenpo musi ale la, jan musi Ton li jan musi #1.**
+
+## mani musi en nanpa pona
+
+open musi la, jan ale li kama jo e mute sama pi nanpa musi.
+
+musi pi mute suli la, jan ale li kama jo e mani musi 25000, taso musi ante la,
+ona li ken jo e mute ante.
+
+jan wan li kama jo e luka pona tan sinpin la, ona li kama jo e mani musi
+tan jan ale.
+
+jan wan anu jan mute li kama jo e luka pona tawa ijo weka pi jan ante la, ona li
+kama jo e mani musi tan jan ni.
+
+jan musi Ton li jo e luka pona la, ona li kama jo e mani musi pi mute suli.
+taso, ona li wile pana e mani musi la, ona li pana e mute suli ona.
+
+jan li pana e mani musi tawa jan ante la, mute ona li kama tan **nanpa pona
+suli** (nimi Nijon: "An" / "Han", 飜), tan **nanpa pona lili** (nimi Nijon: "Pu"
+/ "Fu", 符).
+
+nasin Jaku en ijo musi pi wawa Tola li pana e nanpa pona suli.
+
+kulupu en kulupu suli li pana e nanpa pona lili. kulupu pi ijo suli li pana e
+nanpa pona mute. kulupu len pi pana e nanpa pona mute. ijo ante li pana e nanpa
+pona lili. lipu ni li toki e ni lon wan kama.
 
 ## nasin musi
 
-jan musi Ton li jan musi #1, li kama jo e ijo musi wan tan sinpin. ona li jo e ijo musi 14.
+jan musi Ton li jan musi #1.
+jan musi Nan li jan musi #2.
+jan musi Sa li jan musi #3.
+jan musi Pe li jan musi #4.
+
+open la, tenpo tawa pi jan musi Ton li lon. ona li ante lon nasin nanpa. tenpo
+tawa pi jan musi Pe li pini la, tenpo tawa pi jan musi Ton li open.
+
+tenpo tawa pi jan musi la, ona li pali e ni.
+
+1. ona li kama jo e ijo musi wan tan sinpin.
+
+2. ona li jo e ijo musi 14. ijo musi ni li "luka" ona.
+
+3. luka li pona la, ona li ken toki e ni: "luka mi li pona" (nimi Nijon: "Tumo"
+/ "Tsumo", ツモ ). ona li pali e ni la, tenpo musi li pini.
+
+4. jan li jo e kulupu suli lon luka ona la, ona li ken toki e nimi "Kan" (nimi
+Nijon: "Kan", カン) (lipu ni li toki e nasin pi toki "Kan" lon wan kama.)
+
+5. luka li pona ala la, anu ona li wile ala ona li wile ala pali e ni la, ona li
+weka e ijo musi wan. (nasin ante li ken. lipu ni li toki e ona lon wan kama.)
+
+jan li weka e ijo musi la, jan ante li pana e ona tawa ma pi ijo weka ona lon
+supa musi lon nasin ni: sinpin ijo li lon sewi. jan ale li ken lukin e ijo weka
+pi jan musi.
+
+jan ante ale li ken pali e ni: **ijo weka en luka ona li pali e luka pona la, ona
+li ken toki e ni: "pona tan ijo sina"** (nimi Nijon: "Lon" / "Ron", ロン). ona li
+pali e ni la, tenpo musi li pini. **jan mute li ken toki "pona tan ijo sina" lon
+tenpo sama.**
+
+jan musi li ken kama jo e ijo weka lon nasin ni.
+
+* jan ante ale li ken pali e ni: **ijo weka en ijo pi luka ona li pali e kulupu
+suli la, ona li ken toki e nimi "Kan"** (nimi Nijon: "Kan", カン).
+
+* jan ante ale li ken pali e ni: **ijo weka en ijo pi luka ona li pali e kulupu
+sama la, ona li ken toki e nimi "Pon"** (nimi Nijon: "Pon", ポン).
+
+* **jan pi tenpo tawa kama wan** li ken pali e ni: **ijo weka en ijo lon luka 
+ona li pali e nasin la, ona li ken toki e nimi "Si"** (nimi Nijon: "Chii",
+チー).
+
+ona li pali e ni la , ona li kama jo e ijo weka, li tawa e ona, e ijo ante pi
+kulupu ni ni tawa poka pi luka ona. ona li ante e nasin pi ijo weka:
+ona li lon poka sama pi jan ni: ona li weka e ijo musi ni. 
+
+```
+    toki       toki
+  "Si","Pon"   "Kan"
+  ___.--.--.   ___.--.--.--.
+ |   |  |  |  |   |  |  |  | jan pi poka soto li weka e ijo musi ni.
+ |___|__|__|  |___|__|__|__|
+  
+ .--.___.--.  .--.___.--.--.
+ |  |   |  |  |  |   |  |  | jan pi poka sinpin li weka e ijo musi ni.
+ |__|___|__|  |__|___|__|__|
+ 
+ .--.--.___   .--.--.--.___ 
+ |  |  |   |  |  |  |  |   | jan pi poka teje li weka e ijo musi ni.
+ |__|__|___|  |__|__|__|___|
+
+```
+
+toki li toki "Kan" la, ni li lon:
+
+* jan musi li wile kama jo e ijo musi wan sin. ona li kama e ona tan open pi
+  sinpin moli. 
+
+* luka ona li pona la, jan li ken toki e "luka mi li pona". ona li pali e ni la,
+  tenpo musi li pini.
+
+* tenpo musi li pini ala la, ijo musi pini pi sinpin li tawa pini pi sinpin
+  moli.
+
+* ijo musi lukin pi wawa Tola sin li open lon sinpin moli, lon poka pini pi ijo
+  ijo musi lukin pi wawa Tola pi tenpo pini.
+
+sin la, **jan li ken toki e nimi "Kan" tan luka ona taso** (ni li lon la, kulupu
+suli ona li "**kulupu suli len**"). luka ona li len la, luka ona li kama open
+ala. ni li lon, kulupu suli ona li ante nasin tawa ni: sinpin pi ijo tu li lon
+sewi. sinpin pi ijo tu ante li lon anpa.
+
+ijo musi ni li ante nasin tawa ni: sinpin ona li lon sewi. sewi pi sinpin ona li
+lon poka pi sewi ona.  jan ale li ken lukin e ijo ni. ona li ken ala weka e ijo
+musi ni, li ken ala ante e kulupu ni. luka ona li "open".
+
+tenpo tawa ona li lon. ona li wile weka e ijo musi wan.
+
+jan ala li kama jo e ijo musi weka la, tenpo tawa pi nanpa kama li lon.
+
+## luka open en luka len
+
+jan musi li kama ala jo e ijo musi tan jan musi ante la, luka ona li len. ante
+la, ona li open. luka open li pona lili. luka len li pona suli. ni li tan ni:
+
+* nasin Jaku ni li lon: ona li pali ala tawa luka open.
+
+* nasin Jaku ni li lon: ona li pana e nanpa pona suli pi mute suli tawa luka
+  len. ona li pana e nanpa pona suli pi mute lili tawa luka open.
+
+* jan pi luka open li ken ala toki "Lisi".
+
+## kama Tenpa en toki Lisi
+
+jan musi li ken jo e luka ni: luka li ken kama pona kepeken ijo musi wan ante
+taso. ni li lon la, luka ona li jo e kama Tenpa (nimi Nijon: "Tenpai",
+テンパイ).
+
+luka ni li len la, jan li weka e ijo musi la, ona li ken toki "Lisi" (nimi
+Nijon: "Riichi", リイチ). ona li pali e ni la, ni li lon:
+
+* ona li pana e mani musi 1000 tawa supa musi. ona li jo ala e mani musi 1000
+  la, ona li ken ala toki "Lisi".
+
+* ona li ante nasin pi ijo weka lon ni: sewi pi sinpin ona li lon poka pi sewi
+  ona.
+
+jan li toki "Lisi" la, ona li pona tawa nasin Jaku "Lisi", li kama jo e nanpa
+pona suli 1. taso, ona li ken ala ante e "**ijo pona ken**" pi luka ona:
+
+* luka pi jan musi li ken kama pona kepeken ijo musi wan la, ijo musi ni li "ijo
+  pona ken" pi jan musi ni.
+
+* ona li ken ala toki "Si", li ken ala toki "Pon".
+
+* ona li ken toki "Kan" tawa kulupu suli len taso. taso, kulupu suli len li
+  pakala e kulupu ante pi luka ona la, ona li ken ala toki "Kan".
+
+* ona li ken toki "pona tan ijo sina" awen, li ken toki "luka mi li pona" awen.
 
 
