@@ -48,8 +48,12 @@
 	width="88" height="31" alt="SimpleJPC-16" title="This website uses the SimpleJPC-16 palette for its design." /></a>
 	<a href="https://mozilla.org/en-US/firefox/"><img src="/banners/firefox.gif"
 	width="88" height="31" alt="Best viewed in Firefox" title="This website is best viewed in the Firefox web browser."/ ></a>
-	<a href="http://www.thedreamcastjunkyard.co.uk/"><img src="/banners/dcjy.gif"
+	<a href="https://alpinelinux.org"><img src="/banners/alpine.gif"
+	width="88" height="31" alt="Alpine Linux"/ ></a>
+	<a href="https://www.thedreamcastjunkyard.co.uk/"><img src="/banners/dcjy.gif"
 	width="88" height="31" alt="The Dreamcast Junkyard"/ ></a>
+	<a href="https://dreamcastlive.net/"><img src="/banners/dclive.gif"
+	width="88" height="31" alt="Dreamcast Live"/ ></a>
 	<a href="https://blaseball.com"><img src="/banners/blaseball.gif"
 	width="88" height="31" alt="Blaseball"/ ></a>
 	<a href="https://f-droid.org"><img src="/banners/fdroid.gif"
