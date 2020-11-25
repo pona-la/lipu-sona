@@ -61,6 +61,9 @@ ijo musi ni li:
 
  * kulupu pi sitelen pi palisa kasi (nimi Nijon: "**Sosu**" anu "So" (Sōzu))
 
+kama mute la, jan li toki e kulupu ni kepeken nimi "kule". nimi mute pi nasin
+Jaku li pali e ni.
+
 nanpa pi ijo musi nanpa pi kulupu Mansu li sitelen lon ijo musi kepeken sitelen Kansi.
 
 | nanpa pi ijo musi | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
@@ -94,6 +97,14 @@ pini**). ijo pi nanpa ante li "**ijo lili**".
  * **akesi seli loje** (nimi Nijon: "Sun" (Chun)) li jo e sitelen kansi "中" loje.
 
 ijo pi kon tawa en ijo pi akesi seli li **ijo wawa**.
+
+ijo musi li "**open**" la, sinpin ona li lon sewi. jan ale li ken lukin e sinpin
+ona.
+
+ijo musi li "**len**" la, sinpin ona li lon anpa. jan ala li ken lukin e sinpin ona.
+
+ijo musi li "**lon luka sina**" la, sinpin ona li lon poka ni: sina taso li ken
+lukin e ona.
 
 ## nasin pi open musi
 
@@ -141,7 +152,7 @@ ale li pona, jan musi li lon ma sama ni:
 
 jan musi Ton li tawa e **ilo sona pi tenpo musi** lon poki ona lon nasin ni: poki pi sitelen "Ton" (東) li lon sewi. ona li toki e ni: kulupu pi tenpo musi pi nasin Ton li lon, jan ni li jan musi pi nasin Ton lon tenpo open.
 
-jan ale musi li ante nasin e ijo musi ale tawa ni: sinpin ona li lon anpa. ona li tawa nasa e ona ale lon supa musi. ni li tawa ni: jan ale li wile ala sona e ni: ijo musi seme li lon seme? <!-- players first put all the tiles face-down and shuffle them. -->
+jan ale musi li **len** e ijo musi ale. ona li tawa nasa e ona ale lon supa musi. ni li tawa ni: jan ale li wile ala sona e ni: ijo musi seme li lon seme? <!-- players first put all the tiles face-down and shuffle them. -->
 
 ni li pini la, jan musi ale wan li wile pali e ni: o pali e "palisa" 2 pi ijo musi 17. ijo musi ale li wile awen lon nasin ni: sinpin ona li lon anpa. (poka pi ijo musi wan li wile "pilin" e poka ante pi ijo musi ante.) o tawa e "palisa" wan tawa sewi pi "palisa" ante. jan ale li pini e ni la, **sinpin** li lon.  <!-- then each player must build two lines of 17 tiles each and put one on top of another. after this is done, the "wall" is built. -->
 
@@ -361,7 +372,7 @@ Nijon: "Kan", カン) (lipu ni li toki e nasin pi toki "Kan" lon wan kama.)
 weka e ijo musi wan. (nasin ante li ken. lipu ni li toki e ona lon wan kama.)
 
 jan li weka e ijo musi la, jan ante li pana e ona tawa ma pi ijo weka ona lon
-supa musi lon nasin ni: sinpin ijo li lon sewi. jan ale li ken lukin e ijo weka
+supa musi lon nasin pi ijo musi open. jan ale li ken lukin e ijo weka
 pi jan musi.
 
 jan ante ale li ken pali e ni: **ijo weka en luka ona li pali e luka pona la, ona
@@ -418,12 +429,12 @@ toki li toki "Kan" la, ni li lon:
 
 sin la, **jan li ken toki e nimi "Kan" tan luka ona taso** (ni li lon la, kulupu
 suli ona li "**kulupu suli len**"). luka ona li len la, luka ona li kama open
-ala. ni li lon, kulupu suli ona li ante nasin tawa ni: sinpin pi ijo tu li lon
-sewi. sinpin pi ijo tu ante li lon anpa.
+ala. ni li lon, ijo musi tu pi kulupu suli ona li kama open. ijo tu ante li kama
+len.
 
-ijo musi ni li ante nasin tawa ni: sinpin ona li lon sewi. sewi pi sinpin ona li
-lon poka pi sewi ona.  jan ale li ken lukin e ijo ni. ona li ken ala weka e ijo
-musi ni, li ken ala ante e kulupu ni. luka ona li "open".
+ijo musi ni li open, li ante nasin tawa ni: sewi pi sinpin ona li
+lon poka pi sewi ona. ona li ken ala weka e ijo
+musi ni, li ken ala ante e kulupu ni. luka ona li "luka open".
 
 tenpo tawa ona li lon. ona li wile weka e ijo musi wan.
 
@@ -469,4 +480,301 @@ pona suli 1. taso, ona li ken ala ante e "**ijo pona ken**" pi luka ona:
 
 * ona li ken toki "pona tan ijo sina" awen, li ken toki "luka mi li pona" awen.
 
+## nasin Jaku
+
+jan li wile kama jo e luka pona la, ona li wile pona tawa nasin Jaku. nasin Jaku
+mute li lon. luka pona li ken pona tawa nasin Jaku wan anu nasin Jaku mute.
+
+nasin Jaku li pana e nanpa pona suli tawa luka pona.
+
+nasin Jaku ni li lon:
+
+* **kama Tumo pi luka len** (n.p.s. 1). o jo e luka len. ijo pona li
+  kama tan sinpin (ona li kama ala tan ijo weka pi jan ante).
+
+* **kama Lisi** (n.p.s. 1). o toki "Lisi".
+
+* * **kama Lisi, sike 1** (n.p.s. 1). ijo pona li kama lon tenpo ni: sina toki
+  "Lisi". sina weka e ijo musi. jan ante li toki ala e nimi "Si", e nimi "Pon",
+  e nimi "Kan". sina weka ala e ijo musi ante lon tenpo ni.
+
+* **nanpa pona lili ala** (n.p.s. 1). luka sina li len, li jo e mute lili ken #1 pi
+  nanpa pona lili. / sina jo ala e kulupu sama, e kulupu suli. ijo pona ken tu
+  ante li lon tan ni: kulupu nasin wan sina li pini ala. ijo tu ante li ken pini
+  e ona. kulupu lili sina li jo ala e ijo akesi, e
+  ijo kon pi nasin sina, e ijo kon pi nasin tenpo.
+
+* **nasin 2 sama** (n.p.s. 1). luka sina li len. sina jo e kulupu nasin 2 ni:
+  ijo musi ona li sama.
+
+* **pona tan pini sinpin** (n.p.s. 1). ijo 1 li lon sinpin. sina kama jo e ijo
+  musi tan sinpin. luka ona li pona tan ijo ni.
+
+* **pona tan pini sinpin pi jan ante** (n.p.s. 1). ijo 1 li lon sinpin. jan ante li
+  kama jo e ijo musi tan sinpin. ona li weka e ijo musi. luka sina li pona tan
+  ijo ni.
+
+* **pona tan sinpin moli** (n.p.s. 1). sina toki e nimi "Kan". sina kama jo e
+  ijo musi tan sinpin moli. luka sina li pona tan ijo ni.
+
+* **pona tan toki Kan / pona tan kulupu suli** (n.p.s. 1). jan ante li toki e
+  nimi "Kan" tawa ni: ona li wile kama jo e ijo musi. taso, luka sina li pona
+  tan ijo ni.
+
+* **ijo lili taso** (n.p.s. 1). luka sina li jo ala e ijo nanpa pi nanpa pini
+  (nanpa 1 en nanpa 9), li jo ala e ijo wawa.
+
+* **kama Jakupai** (n.p.s. 1). luka sina li jo e kulupu sama anu kulupu suli pi
+  ijo musi ni:
+
+* * ijo akesi
+
+* * ijo kon pi nasin sina
+
+* * ijo kon pi nasin tenpo
+
+> nasin sina li sama nasin tenpo la, sina kama jo e nanpa pona suli 2.
+
+* **kama Lisi tu** (n.p.s. 2). tenpo musi li open. sina kama jo e ijo musi. luka
+  sina li jo e kama Tenpa. sina toki "Lisi".
+
+* **ijo suli lon kulupu ale** (n.p.s. 1, n.p.s. 2 lon luka len). kulupu ale lon
+  luka sina li jo e ijo musi suli.
+
+* **nasin 3 pi kule ante** (n.p.s. 1, n.p.s. 2 lon luka len). sina jo e kulupu
+  nasin 3 ni: nanpa pi ijo musi li sama. taso, kulupu wan li jo e ijo Mansu,
+  kulupu wan li jo e ijo Pinsu, kulupu wan li jo e ijo Sosu.
+
+* **nasin pi nanpa ale** (n.p.s. 1, n.p.s. 2 lon luka len). sina jo e kulupu
+  nasin 3 ni: ona ale li jo e kule sama. kulupu wan li jo e ijo pi nanpa 1,2,3.
+  kulupu wan li jo e ijo pi nanpa 4,5,6. kulupu wan li jo e ijo pi nanpa 7,8,9.
+
+* **kulupu sama taso** (n.p.s. 2). sina jo ala e kulupu nasin. sina jo e kulupu
+  sama, e kulupu suli taso.
+
+* **kulupu 3 len** (n.p.s. 2). sina jo e kulupu sama len 3. taso, ijo pona li
+  pini e kulupu sama la, ona li len ala tawa nasin ni.
+
+* **kulupu 3 pi kule ante** (n.p.s. 2). sina jo e kulupu sama 3 ni: nanpa pi ijo
+  musi li sama. taso, kulupu wan li jo e ijo Mansu, kulupu wan li jo e ijo
+  Pinsu, kulupu wan li jo e ijo Sosu.
+
+* **kulupu suli 3** (n.p.s. 2). sina jo e kulupu suli 3.
+
+* **kulupu lili 7** (n.p.s. 2). nasin Jaku ni li suli tan ni: ona li wile ala e
+  ni: luka sina li jo e kulupu 4, e kulupu lili wan. o jo e kulupu lili 7 pi ijo
+  musi ante. (sina jo e kulupu pi ijo musi sama 4 la, ni li ike tawa nasin ni.)
+
+* **ijo suli taso** (n.p.s. 2). ijo ale lon luka sina li ijo suli.
+
+* **akesi lili 3** (n.p.s. 2). sina jo e kulupu sama 2 pi ijo akesi, e kulupu
+  lili pi ijo akesi.
+
+* **kule wan en ijo wawa** (n.p.s. 2, n.p.s. 3 lon luka len). luka sina li jo e ijo
+  nanpa pi kule wan taso, e ijo wawa.
+
+* **nanpa pini lon kulupu ale** (n.p.s. 2, n.p.s. 3 lon luka len). luka sina li
+  jo e ijo nanpa pi nanpa 1 anu nanpa 9 lon kulupu ale.
+
+* **nasin 2 sama 2** (n.p.s. 3). luka sina li len. sina jo e kulupu nasin 2 pi ijo
+  musi sama, e kulupu nasin 2 ante pi ijo musi sama ante.
+
+* **kule wan taso** (n.p.s. 5, n.p.s. 6 lon luka len). luka sina li jo e ijo nanpa taso pi kule wan taso.
+
+* **ijo suli weka taso** (suli Mankan). sinpin li jo e ala. luka sina li pona ala. sina weka e
+  ijo suli taso. jan ala li kama jo e ijo weka sina.
+
+### nasin Jaku pi suli Jakuman
+
+luka sina li pona tawa nasin Jaku ni la, sina kama jo e suli Jakuman.
+
+* **kama Jakuman tan nanpa pona suli**. luka sina li jo e nanpa pona suli ni:
+  ona li sama anu suli tawa 13.
+
+* **ijo suli ante 13**. nasin Jaku ni li suli tan ni: ona li wile ala e
+  ni: luka sina li jo e kulupu 4, e kulupu lili wan. o jo e ijo ni ale:
+
+> * ijo Mansu pi nanpa 1
+> * ijo Mansu pi nanpa 9
+> * ijo Pinsu pi nanpa 1
+> * ijo Pinsu pi nanpa 9
+> * ijo Sosu pi nanpa 1
+> * ijo Sosu pi nanpa 9
+> * akesi walo
+> * akesi loje
+> * akesi laso
+> * kon pi nasin Ton
+> * kon pi nasin Nan
+> * kon pi nasin Sa
+> * kon pi nasin Pe
+> * ijo wan ante ni: ona li sama ijo wan pi luka sina.
+
+* * ni li ken: sina jo e ijo suli ante 13. ijo musi 13 li pona tawa luka sina.
+    ni li lon la, luka sina li jo e suli Jakuman 2.
+
+* **kulupu len 4**. sina jo e kulupu sama len 4. taso, ijo pona li
+  pini e kulupu sama la, ona li len ala tawa nasin ni.
+
+* * ni li ken: sina jo e kulupu sama len 4. ijo pona sina li pini e kulupu lili.
+    ni li lon la, luka sina li jo e suli Jakuman 2.
+
+* **akesi suli 3**. sina jo e kulupu sama 3 pi ijo akesi.
+
+* **kon lili 4**. sina jo e kulupu sama 3 pi ijo kon, e kulupu lili pi ijo kon
+  ante.
+
+* **kon suli 4**. sina jo e kulupu sama 4 pi ijo kon.
+
+* **akesi en kon taso**. sina jo e ijo akesi, e ijo kon taso.
+
+* **nanpa pini taso**. sina jo e ijo musi pi nanpa 1, e ijo musi pi nanpa 9
+  taso.
+
+* **kule laso taso**. sina jo e ijo musi ni taso:
+
+> * ijo Sosu 2
+> * ijo Sosu 3
+> * ijo Sosu 4
+> * ijo Sosu 6
+> * ijo Sosu 8
+> * ijo akesi laso
+
+nasin sitelen mute pi ijo musi pi musi Masan la, ijo musi ni li jo e kule laso
+taso lon sinpin ona.
+
+* **lupa suli 9**. luka sina li jo e ijo nanpa pi kule wan taso. nanpa ona li
+  ni:
+
+> * ijo 3 pi nanpa 1
+> * ijo 1 pi nanpa 2
+> * ijo 1 pi nanpa 3
+> * ijo 1 pi nanpa 4
+> * ijo 1 pi nanpa 5
+> * ijo 1 pi nanpa 6
+> * ijo 1 pi nanpa 7
+> * ijo 1 pi nanpa 8
+> * ijo 3 pi nanpa 9
+> * ijo nanpa pi kule sama
+
+* * ni li ken: sina jo e ijo nanpa 13. ijo 9 ante li pona tawa luka sina. ni li
+  lon la, nasin mute la, luka sina li jo e suli Jakuman 2.
+
+* **kulupu suli 4**. o jo e kulupu suli 4 lon luka sina.
+
+* **pona sewi**. sina jan musi Ton. tenpo musi li open. sina kama jo e ijo musi
+  14 sina. ijo musi ni li pali e luka pona.
+
+* **pona ma**. sina jan musi Ton ala. tenpo musi li open. sina kama jo e ijo
+  musi 13 sina. jan ante li kama jo, li weka e ijo ona. sina kama jo e ijo musi
+  sina lon tenpo #1. ijo musi li li pali e luka pona.
+
+* **pona jan**. (nasin musi mute la, nasin Jaku ni li lon ala.) tenpo musi li
+  open. sina kama jo e ijo musi 13 sina. jan ante li kama jo, li weka e ijo ona.
+  ijo musi weka li pona tawa luka sina. sina toki e nimi "pona tan ijo sina".
+
+## nasin pi nanpa pona
+
+luka li pona la, jan musi li nanpa e ni: ona li jo e nanpa pona suli pi mute
+seme? ona li jo e nanpa pona lili pi mute seme?
+
+nanpa pona suli li kama tan nasin Jaku, tan wawa Tola.
+
+nasin Jaku li pona tawa luka la, ona li pana e nanpa pona suli tawa ona.
+
+luka li jo e ijo pi wawa Tola, nanpa pona suli pi mute sama li pana tawa ona.
+
+### wawa Tola
+
+sinpin moli la, ijo musi open li "ijo musi lukin pi wawa Tola". ona li toki e
+ni: ijo seme li jo e wawa Tola?
+
+taso, ona li pali lon nasin ni: ijo musi lukin li jo e ijo nanpa, ijo pi **nanpa
+kama wan** li kama jo e wawa Tola.
+
+(ijo lukin li jo e ijo Mansu pi nanpa 4 la, ijo Mansu pi nanpa 5 li jo e wawa
+Tola.)
+
+ijo lukin li jo e ijo pi nanpa 9 la, ijo pi nanpa 1 pi kule kama li jo e wawa
+Tola.
+
+* ijo lukin li ijo akesi **walo** la, ijo akesi **laso** li jo e wawa Tola.
+* ijo lukin li ijo akesi **laso** la, ijo akesi **loje** li jo e wawa Tola.
+* ijo lukin li ijo akesi **loje** la, ijo akesi **walo** li jo e wawa Tola.
+
+> sina ken awen e sona ni lon nasin ni: lipu pi nimi ale pi toki pona la, nimi
+> "laso" li lon open tawa nimi "loje". nimi "loje" li lon open tawa nimi "walo".
+> nasin ona li ni: laso -> loje -> walo.
+
+ijo lukin li ijo kon la, ijo kon kama li jo e wawa Tola.
+
+* ijo lukin li ijo kon **Ton** la, ijo kon **Nan** li jo e wawa Tola.
+* ijo lukin li ijo kon **Nan** la, ijo kon **Sa** li jo e wawa Tola.
+* ijo lukin li ijo kon **Sa** la, ijo kon **Pe** li jo e wawa Tola.
+* ijo lukin li ijo kon **Pe** la, ijo kon **Ton** li jo e wawa Tola.
+
+luka pona li jo e ijo mute pi wawa Tola la, ona li jo e mute sama pi nanpa pona
+suli.
+
+### nanpa pona lili
+
+nanpa pona lili li kama tan ijo mute.
+
+luka pona li len, li kama jo e ijo pona tawa jan ante la, ona li jo e
+n.p.l. 30.
+
+luka pona li jo e nasin Jaku "kulupu lili 7" la, ona li jo e n.p.l. 25. (ona li
+kama jo ala e nanpa pona sin tan anpa pi lipu ni.)
+
+kama ante la, ona li jo e n.p.l. 20.
+
+luka pona li jo e kulupu sama, e kulupu suli la, ona li kama jo e nanpa pona
+lili sin.
+
+* kulupu sama open pi ijo lili li pana e n.p.l. 2.
+* kulupu sama open pi ijo suli li pana e n.p.l. 4.
+* kulupu sama len pi ijo lili li pana e n.p.l. 4.
+* kulupu sama len pi ijo suli li pana e n.p.l. 8.
+
+* kulupu suli open pi ijo lili li pana e n.p.l. 8.
+* kulupu suli open pi ijo suli li pana e n.p.l. 16.
+* kulupu suli len pi ijo lili li pana e n.p.l. 16.
+* kulupu suli len pi ijo suli li pana e n.p.l. 32.
+
+kulupu lili pi luka pona li jo e ijo akesi anu ijo kon pi nasin sama jan anu ijo
+kon pi nasin sama tenpo la, ona li pana e n.p.l. 2.
+
+> ona li jo e ijo kon pi nasin jan la, nasin jan li sama nasin tenpo la, nasin mute
+> la, ona li pana e n.p.l. 4.
+
+nanpa pona lili ni li kama tan ijo pona ken pi luka pona.
+
+ijo pona ken li lon insa pi kulupu nasin la, ni li pana e n.p.l. 2.
+
+ijo pona ken li lon poka pi kulupu nasin la, poka wan taso li lon la, nu li
+pana e n.p.l. 2.
+
+> ijo pi nanpa 8 en 9 pi kule sama li ken pana e kulupu nasin tan poka wan taso
+> tan ni: ijo pi nanpa 7 li lon. ijo pi nanpa 10 li lon ala. ni li sama tawa ijo
+> pi nanpa 1 en 2.
+
+kama Tumo li lon (luka li kama pona tan sinpin) la, ni li pana e n.p.l. 2.
+
+luka pona li open, li jo e nanpa pona lili 20 taso la, ona li jo e n.p.l. 30.
+
+ni li pini la, mute pi nanpa pona lili li suli tawa kulupu poka pi nanpa 10.
+
+> n.p.l. 20 li awen n.p.l. 20.
+> n.p.l. 21,22,23...29 li kama n.p.l. 30.
+> n.p.l. 30 li awen n.p.l. 30.
+> n.p.l. 21,22,23...29 li kama n.p.l. 40.
+> sama li lon tawa nanpa suli.
+
+### mani musi
+
+nanpa pona lili en nanpa ona suli pi luka pona li lon la, jan musi li kama sona
+e ni: jan seme li wile pana e mani musi seme tawa jan pi luka pona?
+
+![lipu nanpa pi mani musi #1](mahjong_score1.gif)
+
+![lipu nanpa pi mani musi #1](mahjong_score2.gif)
 
