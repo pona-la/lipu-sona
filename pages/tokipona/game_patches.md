@@ -108,3 +108,46 @@ sitelen pona.
 
 * [lipu ante (ijo musi li sitelen kepeken sitelen Kansi)](shogi_tokipona.ips)
 * [lipu ante (ijo musi li sitelen kepeken sitelen pona)](shogi_tokipona2.ips)
+
+# musi Masan pi jan musi 4
+
+* nimi tan: "4 Nin Uchi Mahjong" (４人打ち麻雀)
+* kulupu pali: kulupu Atoson (Hudson Soft)
+* tenpo pali: tenpo sike \#1985
+* ilo musi: ilo Pamikon (Famicom) (sama ilo Enijesu (NES))
+* toki tan: toki Nijon (日本語)
+
+musi ni li musi pi sitelen tawa pi [musi Lisi Masan](riichi_mahjong.html).
+
+nimi pi musi ni li ike lili. jan musi 1 taso li ken musi kepeken musi ni. ilo
+musi li lawa e jan musi 3 ante.
+
+musi ni li sona e nasin mute pi musi Lisi Masan. sin la, ona li jo e nasin Jaku
+sin.
+
+* **sike tawa suli** (kama Jakuman). o jo e kulupu lili 7 pi kule sama pi ijo
+  nanpa 2,3,4,5,6,7,8.
+
+* **kulupu 3 pi nanpa poka** (n.p.s. 2). o jo e kulupu 3 pi ijo nanpa ni: nanpa
+  ona li lon poka ona. (333444555 pi kule sama)
+
+* **nasin 3 sama**. (n.p.s. 2, n.p.s. 3 lon luka len). o jo e nasin 3 ni: ona li
+  jo e ijo musi sama. ona li lukin sama nasin Jaku "kulupu 3 pi nanpa poka",
+  taso kulupu ona li ante. ni li suli tawa luka open.
+
+* **ijo 13 pi linja ala** (kama Jakuman). musi li open. o jo e ijo 13 ni: ona li pali e kulupu
+  lili ala. nanpa pi ijo nanpa li lon poka ala pi ijo nanpa ante. ijo musi #14
+  li pali e kulupu lili.
+
+# sitelen musi
+
+![lipu lawa](/extra/mahjong_title.png)
+
+![lipu musi, ante #1](/extra/mahjong_game1.png)
+
+![lipu musi, ante #2](/extra/mahjong_game2.png)
+
+* nasin pi lipu ante: nasin IPS
+
+* [lipu ante](mahjong_tokipona.ips)
+

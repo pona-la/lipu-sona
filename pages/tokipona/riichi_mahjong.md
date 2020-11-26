@@ -37,7 +37,7 @@ musi "Lisi Masan" (Riichi Mahjong) li ante pi musi Masan tan ma Nijon. <!-- Riic
 
 ## ijo musi
 
-![sitelen pi ijo musi pi musi Masan](mahjong_pieces.gif)
+![sitelen pi ijo musi pi musi Masan](mahjong_tiles.gif)
 
 musi Lisi Masan la, ijo musi ante 34 li lon. ante wan la, ijo musi 4 sama li lon. ni la, ijo musi 136 li lon. <!-- there are 34 types of tiles, 4 of each tile, so 136 tiles. -->
 
@@ -94,7 +94,7 @@ pini**). ijo pi nanpa ante li "**ijo lili**".
 
  * **akesi seli laso** (nimi Nijon: "Atu" (Hatsu)) li jo e sitelen Kansi "發" laso.
 
- * **akesi seli loje** (nimi Nijon: "Sun" (Chun)) li jo e sitelen kansi "中" loje.
+ * **akesi seli loje** (nimi Nijon: "Sun" (Chun)) li jo e sitelen Kansi "中" loje.
 
 ijo pi kon tawa en ijo pi akesi seli li **ijo wawa**.
 
@@ -211,7 +211,8 @@ jan musi Nan en jan musi Sa en jan musi Pe li pali e ijo sama.
  |_|_|_| |_|_| |_|_| |_|_| |_|_| |_|_|_|_|_|_|
 ```
 
-poka ni li jo e ijo musi 2 taso la, o kama jo e ijo musi 2 tan ona, e ijo musi 2 ante tan nasin te pi poka sinpin lon nasin soto.
+poka ni li jo e ijo musi 2 taso la, o kama jo e ijo musi 2 tan ona, e ijo musi 2
+ante tan nasin teje pi poka sinpin lon nasin soto.
 
 sina lukin e supa musi tan sewi la, nasin pi ijo musi li sama nasin palisa pi ilo tenpo sike. (taso, nasin pi jan musi li ante monsi.)
 
@@ -307,7 +308,7 @@ o sona e nasin Jaku pi pali kiwen ala ni:
 
 musi li open la, **tenpo musi #1 pi nasin Ton** li lon.
 
-musi pi mute sili li jo e tenpo musi 8. ona li jo e **tenpo musi 4 pi nasin
+musi pi mute suli li jo e tenpo musi 8. ona li jo e **tenpo musi 4 pi nasin
 Ton**, e **tenpo musi 4 pi nasin Nan**. musi pi tenpo ni li jo e nimi "Ansan"
 (nimi Nijon: "Hanchan", 半荘).
 
@@ -452,11 +453,13 @@ la, ona li open. luka open li pona lili. luka len li pona suli. ni li tan ni:
 
 * jan pi luka open li ken ala toki "Lisi".
 
-## kama Tenpa en toki Lisi
+## kama Tenpa en toki "Lisi"
 
 jan musi li ken jo e luka ni: luka li ken kama pona kepeken ijo musi wan ante
 taso. ni li lon la, luka ona li jo e kama Tenpa (nimi Nijon: "Tenpai",
 テンパイ).
+
+> kama Tenpa li lukin ala e ni: ijo musi seme li ken ala kama tawa luka?
 
 luka ni li len la, jan li weka e ijo musi la, ona li ken toki "Lisi" (nimi
 Nijon: "Riichi", リイチ). ona li pali e ni la, ni li lon:
@@ -481,6 +484,9 @@ pona suli 1. taso, ona li ken ala ante e "**ijo pona ken**" pi luka ona:
 * ona li ken toki "pona tan ijo sina" awen, li ken toki "luka mi li pona" awen.
 
 ## nasin Jaku
+
+![sitelen ni li pana lukin e luka pona pi nasin Jaku
+ante](mahjong_basic_yaku.gif)
 
 jan li wile kama jo e luka pona la, ona li wile pona tawa nasin Jaku. nasin Jaku
 mute li lon. luka pona li ken pona tawa nasin Jaku wan anu nasin Jaku mute.
@@ -524,7 +530,7 @@ nasin Jaku ni li lon:
 * **ijo lili taso** (n.p.s. 1). luka sina li jo ala e ijo nanpa pi nanpa pini
   (nanpa 1 en nanpa 9), li jo ala e ijo wawa.
 
-* **kama Jakupai** (n.p.s. 1). luka sina li jo e kulupu sama anu kulupu suli pi
+* **kama Jakupa** (n.p.s. 1). luka sina li jo e kulupu sama anu kulupu suli pi
   ijo musi ni:
 
 * * ijo akesi
@@ -774,7 +780,129 @@ ni li pini la, mute pi nanpa pona lili li suli tawa kulupu poka pi nanpa 10.
 nanpa pona lili en nanpa ona suli pi luka pona li lon la, jan musi li kama sona
 e ni: jan seme li wile pana e mani musi seme tawa jan pi luka pona?
 
+lipu tu ni li lon tan ni.
+
+lipu #1 li pona tawa ni: jan pi nasin Ton ala li jo e
+luka pona la, ona li kama jo e mute seme pi mani musi?
+
+lipu #2 li pona tawa ni: jan pi nasin Ton li jo e
+luka pona la, ona li kama jo e mute seme pi mani musi?
+
 ![lipu nanpa pi mani musi #1](mahjong_score1.gif)
 
 ![lipu nanpa pi mani musi #1](mahjong_score2.gif)
 
+sin la, jan li toki "Lisi", li weka e mani musi 1000 la, jan pi luka pona li
+kama jo e ona.
+
+sin la, palisa lukin pi mani musi sin (nimi Nijon: "Onpa" / "Honba", 本場) li ken
+lon. ona li lon la:
+
+ * jan li kama jo e luka pona tawa jan ante la, palisa wan li toki e ni: o kama
+   jo e mani musi 300 tan jan ni: ona li weka e ijo pona.
+
+ * jan li kama jo e luka pona tan sinpin la, palisa wan li toki e ni: o kama jo
+   e mani musi 100 tan jan ale ante.
+
+ijo pona li kama tan weka pi jan ante la, jan mute li ken jo e luka pona tan
+ona. ni li lon la, jan pi luka pona li kama jo e mani musi tan jan sama. jan ni
+li kama jo e mani musi pi toki "Lisi": ona li
+lon tenpo open #1 kama tawa jan ni: ona li weka e ijo pona.
+
+### jan ala li jo e luka pona
+
+sinpin li jo e ala la, jan ala li jo e luka pona la, ni li kama:
+
+* jan ni li open e luka ona: luka ona li jo e kama Tenpa.
+
+jan 1 li jo e kama Tenpa la, ona li kama jo e mani musi 1000 tan jan ante ale.
+
+jan 2 li jo e kama Tenpa la, jan #1 li kama jo e mani musi 1500 jan #1 pi kama
+Tenpa ala. jan #2 li kama jo e mani musi 1500 tan jan #2 pi kama Tenpa ala.
+
+jan 3 li jo e kama Tenpa la, jan pi kama Tenpa ala li pana e mani musi 3000 tawa
+jan ale ante. (jan wan ale pi kama Tenpa li kama jo e mani musi 1000.)
+
+jan ala anu jan ale li jo e kama Tenpa la, mani musi li pana ala.
+
+jan pi toki "Lisi" li weka e mani musi 1000 la, mani musi ni li awen. jan pi
+luka pona li ken kama jo e ona lon tenpo musi kama.
+
+### ante pi tenpo musi / palisa lukin pi mani musi sin
+
+**jan Ton li jo e luka pona la**, tenpo musi li ante ala. o sin e palisa lukin
+pi mani musi sin.
+
+**jan ala li jo e luka pona la, jan Ton li lon kama Tenpa la**, tenpo musi li
+ante ala. o sin e palisa lukin pi mani musi sin.
+
+**tenpo musi li pini ike la**, tenpo musi li ante ala. o sin e palisa lukin pi
+mani musi sin.
+
+> musi mute la, palisa lukin pi mani musi sin li sama palisa pi mani musi 100.
+> taso, ona li pali ala sama mani musi. ona li kama ala tan mani musi pi jan
+> musi.
+
+musi mute la, jan musi li jo e mani musi ala la, musi li pini.
+
+musi mute la, nasin ante li lon: tenpo tawa pi nanpa pini li pini la, jan ala li jo e
+mani musi 30000 la, tenpo tawa sin li open.
+
+### palisa pi mani musi
+
+musi pi ijo lon la, jan li kepeken e palisa pi mani musi.
+
+kulupu 4 pi palisa pi mani musi li lon:
+
+* palisa pi sitelen 8 pimeja lili. ona li sama mani musi 100.
+
+* palisa pi sitelen wan loje suli. ona li sama mani musi 1000.
+
+* palisa pi sitelen 5 loje lili. ona li sama mani musi 5000.
+
+* palisa pi sitelen mute pi loje en laso. ona li sama mani musi 10000.
+
+## pini ike
+
+tenpo musi li ken pini ike lon nasin ni:
+
+* **kon wawa 4 sama**: tenpo musi li open. jan Ton li weka e ijo musi pi kon
+  wawa. jan Nan en jan Sa en jan Pe li weka e ijo musi pi kon wawa sama.
+
+* **ijo suli ante 9**: tenpo musi li open. jan li jo e ijo musi 13. jan li kama
+  jo e ijo musi #14 lon tenpo #1. luka ona li jo e ijo suli ante 9. jan li wile
+  e ni la, ona li ken toki e ni, li ken pini ike e tenpo musi.
+
+* **toki "Lisi" tan jan 4**: jan 3 li toki "Lisi". jan #4 li toki e "Lisi", li
+  weka e ijo musi. ona li pona ala tawa luka pi jan ante.
+
+* **kulupu suli 4**: jan ale li jo e kulupu suli 4. (jan wan li jo e kulupu suli
+  4, musi li pini ike ala.)
+
+* **pona tawa jan 3**: jan li weka e ijo musi. ona li pona tawa luka pi jan
+  ante ale.
+
+musi li pini ike la, mani musi li ante ala.
+
+## musi pi sitelen tawa
+
+sina wile musi e musi Lisi Masan la, nasin mute li lon. nasin pona li musi
+kepeken musi pi sitelen tawa. ona li toki e ni tawa sina: sina ken toki e nimi "Si",
+"Kan", "Pon", "luka mi li pona", "pona tan ijo sina" lon tenpo seme? luka pona
+sina li pali e mani musi pi mute seme?
+
+sina ken musi lon poka jan ante kepeken lipu kon
+[MahjongSoul](https://mahjongsoul.game.yo-star.com/). ona li toki e toki Inli, e
+toki Sonko pi nasin sitelen pi tenpo pini. ona li pona mute tawa jan sin.
+
+lipu kon [Tenhou](https://tenhou.net/3) li pona lili tawa jan sin. jan pi sona
+mute li musi kepeken ona. ona li ken toki e toki Nijon, e toki Inli, e toki
+Sonko, e toki Anku/Soson (한국어/조선말), e toki Losi (Русский), e toki Kanse, e
+toki Italija, e toki Epanja, e toki Wije (Tiếng Việt). taso, sitelen mute li
+kepeken e toki Nijon taso.
+
+musi pi sitelen tawa "sama akesi seli" (龍が如く / "Yakuza") li jo e tomo pi
+musi Lisi Masan lon insa ona. sina ken musi lon poka ilo musi kepeken ona.
+
+sin la, mi pali e ante toki pi musi "musi Masan pi jan musi 4" ("4 Nin Uchi
+Mahjong", "４人打ち麻雀"). ante toki ni li toki kepeken toki pona.

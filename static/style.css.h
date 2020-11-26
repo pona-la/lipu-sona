@@ -65,6 +65,10 @@ body {
 	margin: 0;
 }
 
+pre {
+	font-size: 12pt;
+}
+
 blockquote {
 	margin: 6pt;
 	padding-inline: 1em;
