@@ -905,4 +905,5 @@ musi pi sitelen tawa "sama akesi seli" (龍が如く / "Yakuza") li jo e tomo pi
 musi Lisi Masan lon insa ona. sina ken musi lon poka ilo musi kepeken ona.
 
 sin la, mi pali e ante toki pi musi "musi Masan pi jan musi 4" ("4 Nin Uchi
-Mahjong", "４人打ち麻雀"). ante toki ni li toki kepeken toki pona.
+Mahjong", "４人打ち麻雀"). ante toki ni li toki kepeken toki pona. sina ken
+kama jo e lipu ante pi ante toki lon [lipu ni](game_patches.html).
