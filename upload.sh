@@ -1,4 +1,5 @@
 #!/bin/bash
+# vi:sw=2
 
 if ! [[ -f upload.pwd ]]; then
 	echo "You need a file named upload.pwd with the following format:"
@@ -87,8 +88,11 @@ else
 fi
 
 if [[ ${#UPARGS[@]} -gt 0 ]]; then
+  if [[ ! ${NOUPLOAD} ]]; then
 	curl ${UPARGS[@]} "https://$N_USER:$N_PWD@neocities.org/api/upload" && touch upload.lasttime
-	else
+  else
+	echo "Not uploading differing files."
+  fi
 	echo "No files need to be uploaded."
 fi
 
