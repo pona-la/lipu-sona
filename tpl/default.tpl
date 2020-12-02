@@ -9,8 +9,9 @@
     <meta property="og:title" content="<?theme title?>"/>
     <meta property="og:type" content="website"/>
     <meta property="og:url" content="https://rnd.neocities.org/<?theme dir?><?theme source?>"/>
-    <link href="/style.css" rel="stylesheet" type="text/css" media="all">
+    <link href="/style.css" rel="stylesheet" type="text/css" media="all" title="Default Style">
     <link href="xstyle.css" rel="stylesheet" type="text/css" media="all">
+    <link href="/style_alt.css" rel="alternate stylesheet" type="text/css" media="all" title="Funky">
     <link rel="icon" type="image/png" href="favicon.png">
     <?theme style?>
   </head>
