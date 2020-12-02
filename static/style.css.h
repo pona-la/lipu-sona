@@ -119,7 +119,9 @@ th, td {
 }
 
 .navbar {
-	padding: 6pt;
+	padding: 4px;
+	height: 24px;
+	background: #404A68 url("/menu_background.gif");
 }
 
 .footer {
@@ -250,7 +252,7 @@ th, td {
 }
 
 .itime-bar {
-	height: 6px;
+	height: 2px;
 	width: 100%;
 	margin-block: 2px;
 }
