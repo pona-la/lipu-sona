@@ -230,6 +230,9 @@ sina lukin e supa musi tan sewi la, nasin pi ijo musi li sama nasin palisa pi il
    |||||||||||||||||
 ```
 
+![sitelen ni li pana lukin e sona ni: jan seme li kama jo e ijo musi seme lon
+tenpo seme? ijo seme li lon sinpin moli?](mahjong_wall.gif)
+
 jan musi ale li pali e ijo sama, kepeken nasin nanpa sama, lon tenpo tu.
 
 ni li pini la, jan musi ale li kama jo e ijo musi wan tan sinpin kepeken nasin nanpa sama.

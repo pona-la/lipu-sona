@@ -125,6 +125,8 @@ language's 120 word dictionary.
 
 * * [musi Soki (rules of shogi) (wip)](shogi.html)
 
+* [lipu nasin pi musi Lisi Masan (Riichi Mahjong) (WIP)](riichi_mahjong.html)
+
 * ["insa pi supa lape" -- an original sitelen pona font](supalape.html)
 
 * [ante toki tawa musi pi sitelen tawa (video game translations)](game_patches.html)

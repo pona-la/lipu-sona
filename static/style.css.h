@@ -2,7 +2,6 @@
 
 #define C_PAGEBG #221f31
 #define C_HEADERBG #221f31
-#define C_HEADERBGHALF rgba(34,31,49,0.5)
 #define C_BODYBG #fefefe
 #define C_FOOTERBG #050403
 
@@ -287,7 +286,6 @@ HASH(#itime-progress) {
 	}
 
 	.header_text {
-		background: C_HEADERBGHALF;
 		padding-inline: 2em;
 	}
 	.content {
