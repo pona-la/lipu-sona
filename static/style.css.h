@@ -118,8 +118,7 @@ th, td {
 }
 
 .navbar {
-	padding: 4px;
-	height: 24px;
+	height: 32px;
 	background: #404A68 url("/menu_background.gif");
 }
 
@@ -130,8 +129,8 @@ th, td {
 .nav_linkmenu a {
 	display: inline-block;
 	background: C_FOOTERBG;
-	margin: 3px;
-	padding: 3px;
+	margin: 6px 2px;
+	padding: 2px 4px;
 	border: 1px solid C_DBORDER;
 	color: C_NAVFG;
 	text-decoration: none;
@@ -242,7 +241,7 @@ th, td {
 	background: C_FOOTERBG;
 	color: C_FOOTERFG;
 	width: 128pt;
-	padding: 4px;
+	padding: 2px;
 	margin: 4px;
 	display: inline-block;
 	vertical-align: bottom;
@@ -253,11 +252,10 @@ th, td {
 .itime-bar {
 	height: 2px;
 	width: 100%;
-	margin-block: 2px;
 }
 
 .itime-text {
-	text-align: center;
+	text-align: end;
 }
 
 .def {
@@ -267,8 +265,7 @@ th, td {
 HASH(#itime-progress) {
 	width: 0%;
 	height: 100%;
-	background: C_DGREEN;
-	border-top: 2px solid C_LGREEN;
+	background: C_LGREEN;
 }
 
 @media screen and (min-width: 480px) {
