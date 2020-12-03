@@ -35,9 +35,9 @@
 	  <a href="/tokipona">toki pona</a>
 	</nav>
       </div>
-      <div class="content">
+      <article class="content">
 	<?theme body?>
-      </div>
+      </article>
       <div class="footer">
 	<a href="https://neocities.org/"><img src="/banners/neocities.gif"
 	width="88" height="31" alt="Hosted by Neocities" /></a>
