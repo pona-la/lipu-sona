@@ -93,6 +93,7 @@ if [[ ${#UPARGS[@]} -gt 0 ]]; then
   else
 	echo "Not uploading differing files."
   fi
+else
 	echo "No files need to be uploaded."
 fi
 
