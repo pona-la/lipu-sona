@@ -16,6 +16,7 @@ PNGS = $(patsubst $(PAGEDIR)/%,$(OUTDIR)/%,$(_PNGS))
 
 _PAGES = $(shell find $(PAGEDIR) -name \*.md)
 PAGES_HTML = $(patsubst $(PAGEDIR)/%.md,$(OUTDIR)/%.html,$(_PAGES))
+PAGES_HTML_DC = $(patsubst $(PAGEDIR)/%.md,$(OUTDIR)/dc/%.html,$(_PAGES))
 
 _BLOG_PAGES = $(shell find $(PAGEDIR)/blog -name \*.md | grep -v $(PAGEDIR)/blog/index\.md$)
 
@@ -29,10 +30,14 @@ OUT_STATIC = $(patsubst static/%,out/%,$(_STATIC_FILES)) $(patsubst static/%.h,o
 .SUFFIXES:
 .PHONY: all upload
 
-all: $(OUTDIR)/blog/index.html $(OUTDIR)/blog/main.rss $(PAGES_HTML) $(OUT_STATIC)
+all: $(OUTDIR)/blog/index.html $(OUTDIR)/dc/blog/index.html $(OUTDIR)/blog/main.rss $(PAGES_HTML) $(PAGES_HTML_DC) $(OUT_STATIC)
 
 upload:
 	./upload.sh
+
+$(OUTDIR)/dc/blog/index.html: $(_BLOG_PAGES) $(TPLDIR)/blog_header.md $(TPLDIR)/blog_footer.md $(TPLDIR)/dreamcast.tpl
+	@mkdir -p $(@D)
+	./blogindex.sh | $(THEME) $(THEME_FLAGS) -t $(TPLDIR)/dreamcast.tpl -p blog/index.html -o $@
 
 $(OUTDIR)/blog/index.html: $(_BLOG_PAGES) $(TPLDIR)/blog_header.md $(TPLDIR)/blog_footer.md $(TPLDIR)/default.tpl
 	@mkdir -p $(@D)
@@ -45,6 +50,11 @@ $(OUTDIR)/blog/main.rss: $(_BLOG_PAGES)
 $(OUTDIR)/%.html: $(PAGEDIR)/%.md $(TPLDIR)/default.tpl
 	@mkdir -p $(@D)
 	$(THEME) $(THEME_FLAGS) -t $(TPLDIR)/default.tpl -p $(patsubst $(OUTDIR)/%,%,$@) -o $@ $<
+
+$(OUTDIR)/dc/%.html: $(PAGEDIR)/%.md $(TPLDIR)/dreamcast.tpl
+	@mkdir -p $(@D)
+	$(THEME) $(THEME_FLAGS) -t $(TPLDIR)/dreamcast.tpl -p $(patsubst $(OUTDIR)/%,%,$@) -o $@ $<
+	sed -i -e "s/<div class=\"warning\">\(.*\)<\/div>/<mark>\1<\/mark>/" $@
 
 $(OUTDIR)/%: static/%.h
 	@mkdir -p $(@D)

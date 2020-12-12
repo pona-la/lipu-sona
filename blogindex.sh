@@ -24,7 +24,7 @@ for f in $FILES; do
 	TITLE=${TITLE#"% "}
 
 	OUTPAGE=${f%.md}.html
-	OUTPAGE=/${OUTPAGE#pages/}
+	OUTPAGE=${OUTPAGE#pages/blog/}
 
 	if [ $MTIME ]; then
 		echo " * [$TITLE]($OUTPAGE) (last update `date -d "@$MTIME" "+%Y-%m-%d %H:%M"`)"
