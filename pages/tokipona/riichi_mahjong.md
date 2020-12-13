@@ -37,7 +37,7 @@ musi "Lisi Masan" (Riichi Mahjong) li ante pi musi Masan tan ma Nijon. <!-- Riic
 
 ## ijo musi
 
-![sitelen pi ijo musi pi musi Masan](mahjong_tiles.gif)
+![sitelen pi ijo musi pi musi Masan](/tokipona/mahjong_tiles.gif)
 
 musi Lisi Masan la, ijo musi ante 34 li lon. ante wan la, ijo musi 4 sama li lon. ni la, ijo musi 136 li lon. <!-- there are 34 types of tiles, 4 of each tile, so 136 tiles. -->
 
@@ -148,7 +148,7 @@ ale li pona, jan musi li lon ma sama ni:
              jan musi Ton
 ```
 
-![ijo ni li toki e ni: tenpo seme li lon? tenpo open la, jan musi seme li jan musi pi nasin Ton](mahjong_indicator.gif)
+![ijo ni li toki e ni: tenpo seme li lon? tenpo open la, jan musi seme li jan musi pi nasin Ton](/tokipona/mahjong_indicator.gif)
 
 jan musi Ton li tawa e **ilo sona pi tenpo musi** lon poki ona lon nasin ni: poki pi sitelen "Ton" (東) li lon sewi. ona li toki e ni: kulupu pi tenpo musi pi nasin Ton li lon, jan ni li jan musi pi nasin Ton lon tenpo open.
 
@@ -231,7 +231,7 @@ sina lukin e supa musi tan sewi la, nasin pi ijo musi li sama nasin palisa pi il
 ```
 
 ![sitelen ni li pana lukin e sona ni: jan seme li kama jo e ijo musi seme lon
-tenpo seme? ijo seme li lon sinpin moli?](mahjong_wall.gif)
+tenpo seme? ijo seme li lon sinpin moli?](/tokipona/mahjong_wall.gif)
 
 jan musi ale li pali e ijo sama, kepeken nasin nanpa sama, lon tenpo tu.
 
@@ -489,7 +489,7 @@ pona suli 1. taso, ona li ken ala ante e "**ijo pona ken**" pi luka ona:
 ## nasin Jaku
 
 ![sitelen ni li pana lukin e luka pona pi nasin Jaku
-ante](mahjong_basic_yaku.gif)
+ante](/tokipona/mahjong_basic_yaku.gif)
 
 jan li wile kama jo e luka pona la, ona li wile pona tawa nasin Jaku. nasin Jaku
 mute li lon. luka pona li ken pona tawa nasin Jaku wan anu nasin Jaku mute.
@@ -791,9 +791,9 @@ luka pona la, ona li kama jo e mute seme pi mani musi?
 lipu #2 li pona tawa ni: jan pi nasin Ton li jo e
 luka pona la, ona li kama jo e mute seme pi mani musi?
 
-![lipu nanpa pi mani musi #1](mahjong_score1.gif)
+![lipu nanpa pi mani musi #1](/tokipona/mahjong_score1.gif)
 
-![lipu nanpa pi mani musi #1](mahjong_score2.gif)
+![lipu nanpa pi mani musi #2](/tokipona/mahjong_score2.gif)
 
 sin la, jan li toki "Lisi", li weka e mani musi 1000 la, jan pi luka pona li
 kama jo e ona.

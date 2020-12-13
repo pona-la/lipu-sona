@@ -106,8 +106,8 @@ sitelen pona.
 
 * nasin pi lipu ante: nasin IPS
 
-* [lipu ante (ijo musi li sitelen kepeken sitelen Kansi)](shogi_tokipona.ips)
-* [lipu ante (ijo musi li sitelen kepeken sitelen pona)](shogi_tokipona2.ips)
+* [lipu ante (ijo musi li sitelen kepeken sitelen Kansi)](/tokipona/shogi_tokipona.ips)
+* [lipu ante (ijo musi li sitelen kepeken sitelen pona)](/tokipona/shogi_tokipona2.ips)
 
 # musi Masan pi jan musi 4
 
@@ -149,5 +149,5 @@ sin.
 
 * nasin pi lipu ante: nasin IPS
 
-* [lipu ante](mahjong_tokipona.ips)
+* [lipu ante](/tokipona/mahjong_tokipona.ips)
 

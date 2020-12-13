@@ -10,6 +10,7 @@ THEME=theme
 endif
 
 THEME_FLAGS=-c style,fencedcode
+DC_THEME_FLAGS=$(THEME_FLAGS),nopants
 
 _PNGS = $(shell find $(PAGEDIR) -name \*.png)
 PNGS = $(patsubst $(PAGEDIR)/%,$(OUTDIR)/%,$(_PNGS))
@@ -37,7 +38,7 @@ upload:
 
 $(OUTDIR)/dc/blog/index.html: $(_BLOG_PAGES) $(TPLDIR)/blog_header.md $(TPLDIR)/blog_footer.md $(TPLDIR)/dreamcast.tpl
 	@mkdir -p $(@D)
-	./blogindex.sh | $(THEME) $(THEME_FLAGS) -t $(TPLDIR)/dreamcast.tpl -p blog/index.html -o $@
+	./blogindex.sh | $(THEME) $(DC_THEME_FLAGS) -t $(TPLDIR)/dreamcast.tpl -p blog/index.html -o $@
 
 $(OUTDIR)/blog/index.html: $(_BLOG_PAGES) $(TPLDIR)/blog_header.md $(TPLDIR)/blog_footer.md $(TPLDIR)/default.tpl
 	@mkdir -p $(@D)
@@ -53,8 +54,9 @@ $(OUTDIR)/%.html: $(PAGEDIR)/%.md $(TPLDIR)/default.tpl
 
 $(OUTDIR)/dc/%.html: $(PAGEDIR)/%.md $(TPLDIR)/dreamcast.tpl
 	@mkdir -p $(@D)
-	$(THEME) $(THEME_FLAGS) -t $(TPLDIR)/dreamcast.tpl -p $(patsubst $(OUTDIR)/%,%,$@) -o $@ $<
-	sed -i -e "s/<div class=\"warning\">\(.*\)<\/div>/<mark>\1<\/mark>/" $@
+	$(THEME) $(DC_THEME_FLAGS) -t $(TPLDIR)/dreamcast.tpl -p $(patsubst $(OUTDIR)/%,%,$@) -o $@.tmp $<
+	cat $@.tmp | ./simplify.sh > $@
+	rm $@.tmp
 
 $(OUTDIR)/%: static/%.h
 	@mkdir -p $(@D)

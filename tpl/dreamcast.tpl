@@ -21,7 +21,9 @@
     </td></tr>
     <tr bgcolor="#fefefe"><td colspan="2">
       <article class="content">
-	<?theme body?>
+        <form name="content">
+	  <?theme body?>
+	</form>
       </article>
     </td></tr>
     <tr><td colspan="2" bgcolor="#050403">
@@ -57,6 +59,6 @@
     </td></tr>
     </tbody></table>
   </body>
-  <script src="/scripts.js"></script>
+  <script src="/dc_scripts.js"></script>
 </html>
 

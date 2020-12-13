@@ -2,40 +2,6 @@
 % /dev/urandom
 % june 2020
 
-<style>
-.sp {
-    font-size:3em;
-    font-family:"linja pimeja";
-    font-variant-ligatures: common-ligatures;
-}
-
-.spflex {
-display: none;
-flex-direction: row;
-flex-wrap: wrap;
-border: 2px solid #9b9b9b;
-border-radius: 4pt;
-}
-
-.spitem {
-	flex-grow: 1;
-	width: 4em;
-	padding: 0.25em;
-	margin: 0.5em;
-	border: 1px solid #9b9b9b;
-	border-radius: 4pt;
-	text-align: center;
-	overflow: hidden;
-}
-
-@media tty {
-	.spflex {
-		display: none !important;
-	}
-}
-
-</style>
-
 ## sitelen pona
 
 "sitelen pona" ("simple writing" or "good writing") is a logographic writing
@@ -136,7 +102,7 @@ Here's some basic text written in sitelen pona.
 wan li toki e nimi wan. sitelen ale li lukin sama kon
 ona.](/tokipona/sitelen_pona_example.png)
 
-<a name="answers" href="#answers" onclick="revealSpoilers();">Reveal translation</a>
+<button onclick="revealSpoilers();">Reveal translation</button>
 
 > %spoiler%
 > This part of this document is written using sitelen pona. Can you understand
@@ -193,23 +159,23 @@ fully-functional vector font.
 
 * linja pona:
 
-![](lpona.png)
+![](/tokipona/lpona.png)
 
 * linja pona (syllables using composite characters):
 
-![](lpona2.png)
+![](/tokipona/lpona2.png)
 
 * linja pimeja:
 
-![](lpimeja.png)
+![](/tokipona/lpimeja.png)
 
 * sitelen pona pona:
 
-![](spp.png)
+![](/tokipona/spp.png)
 
 * insa pi supa lape:
 
-![](insa.png)
+![](/tokipona/insa.png)
 
 ### sitelen emoji / sitelen pilin
 

@@ -135,7 +135,7 @@ pona и sitelen sitelen -- пишутся слева направо.)
 > век.
 >
 
-<a name="gender" href="#gender" onclick="revealSpoilers();">Раскрыть раздел</a>
+<button onclick="revealSpoilers();">Раскрыть раздел</a>
 
 > %spoiler%
 > Слова "mije" и "meli" значат "мужчина/мужской" и "женщина/женский". Но есть
