@@ -12,7 +12,7 @@
     <?theme style?>
   </head>
   <body x-margintop="0" x-marginleft="0" topmargin="0" marginwidth="0" marginheight="0" leftmargin="0" bgcolor="#050403">
-    <table cellspacing="0" cellpadding="0" border="0"><tbody>
+    <table align="center" width="640" cellspacing="0" cellpadding="0" border="0"><tbody>
     <tr bgcolor="#050403"><td><a href="/dc"><img border="0" align="top" src="/website_banner.gif" width="256" height="32" alt="rnd's website logo"></a><font color="#fefefe"></td><td valign="middle"><font color="#fefefe"><?theme title?></font></td></tr>
     <tr height="32" bgcolor="#221f31"><td colspan="2" background="/menu_background.gif">
       	<center><nav class="links">
