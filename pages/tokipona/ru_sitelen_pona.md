@@ -269,7 +269,7 @@ document.fonts.load("12pt 'sitelen pona'").then(function () {
 > wan ni pi lipu ni li sitelen kepeken sitelen pona. sina ken ala ken sona e ni.
 >
 
-<a name="answers" href="#answers" onclick="revealSpoilers();">Раскрыть перевод</a>
+<button onclick="revealSpoilers();">Раскрыть перевод</a>
 
 > %spoiler%
 > Эта часть этого документа написана с помощью sitelen pona. Можете ли вы её
@@ -320,23 +320,23 @@ pimeja". Однако это не единственный шрифт, кото�
 
 * linja pona:
 
-![](lpona.png)
+![](/tokipona/lpona.png)
 
 * linja pona (с использованием совмещённых символов для слогов):
 
-![](lpona2.png)
+![](/tokipona/lpona2.png)
 
 * linja pimeja:
 
-![](lpimeja.png)
+![](/tokipona/lpimeja.png)
 
 * sitelen pona pona:
 
-![](spp.png)
+![](/tokipona/spp.png)
 
 * insa pi supa lape:
 
-![](insa.png)
+![](/tokipona/insa.png)
 
 ### sitelen emoji / sitelen pilin
 
