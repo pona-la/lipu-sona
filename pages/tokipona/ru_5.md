@@ -99,22 +99,7 @@
 * Вы выглядите по-другому.
 * Этот дом хранит тепло.
 
-<button onclick="revealSpoilers();">Раскрыть ответы</button>
-
-> %spoiler%
-> * Ваше сообщество очень сильно отличается (от нашего).
-> * Плохой человек поломал мои инструменты.
-> * Я построил этот дом.
-> * Хорошие воины берегут это сообщество.
-> * Большое сообщество стойко держится и растёт (себя).
-
-> %spoiler%
-> * moku seli li pona mute.
-> * jan lili lape li kalama ala.
-> * jan pali mute li toki e ni: ona li wawa, li kiwen.
-> * sina ante lukin.
-> * tomo ni li awen e seli.
->
+[Ответы](ru_answers.html#p5)
 
 [Предыдущая страница](ru_4.html) [Главная страница](ru_index.html) [Следующая
 страница](ru_6.html)

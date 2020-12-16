@@ -102,15 +102,7 @@ Here's some basic text written in sitelen pona.
 wan li toki e nimi wan. sitelen ale li lukin sama kon
 ona.](/tokipona/sitelen_pona_example.png)
 
-<button onclick="revealSpoilers();">Reveal translation</button>
-
-> %spoiler%
-> This part of this document is written using sitelen pona. Can you understand
-> it?
->
-> toki pona has a small number of words. Because of this, it's possible to make
-> a writing system where one character means one word, but all characters look
-> related to their meanings.
+[Translation](answers.html#sp)
 
 For some other texts written in sitelen pona, including a page that tries to
 teach someone to read it without using any other writing system, check out the

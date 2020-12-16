@@ -98,21 +98,7 @@
 * Твой сын силён.
 * Маленький фрукт -- сладкий.
 
-<button onclick="revealSpoilers();">Раскрыть ответы</button>
-
-> %spoiler%
-> * Моя жена хороша.
-> * Ваш муж (большой/важный).
-> * Мой папа сильный.
-> * Все животные хороши.
-> * Фрукты -- важная еда.
-
-> %spoiler%
-> * meli mi li suwi.
-> * jan utala ale li ike.
-> * jan pona mi li jan pona sina.
-> * jan lili mije sina li wawa.
-> * kili lili li suwi.
+[Ответы](ru_answers.html#p2)
 
 [Предыдущая страница](ru_1.html) [Главная страница](ru_index.html) [Следующая
 страница](ru_3.html)

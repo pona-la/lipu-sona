@@ -269,11 +269,7 @@ document.fonts.load("12pt 'sitelen pona'").then(function () {
 > wan ni pi lipu ni li sitelen kepeken sitelen pona. sina ken ala ken sona e ni.
 >
 
-<button onclick="revealSpoilers();">Раскрыть перевод</a>
-
-> %spoiler%
-> Эта часть этого документа написана с помощью sitelen pona. Можете ли вы её
-> понять?
+[Перевод](ru_answers.html#sp)
 
 Хорошим ресурсом текстов, написанных с sitelen pona, включая страницу,
 пытающуюся обучить кого-то письменности без использования какой-либо другой
