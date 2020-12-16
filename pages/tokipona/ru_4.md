@@ -121,21 +121,7 @@ ike" -- "плохо говорить" или "разговаривать о зл
 * Ваша картина выглядит хорошо.
 * У моего друга есть рыбы и фрукты, и он готовит хорошую еду.
 
-<button onclick="revealSpoilers();">Раскрыть ответы</button>
-
-> %spoiler%
-> * Я не ем животных (т.е. мясо).
-> * Ваш друг говорит о земле и воде.
-> * Важный человек смотрит на город и записывает что-то.
-> * На земле есть сорняки ("плохие растения").
-> * Маленькие насекомые важны и хороши.
-
-> %spoiler%
-> * ma tomo sina li jo ala e jan pali.
-> * mije mi li pali ala, li moku, li utala. 
-> * ma mama mi li suli.
-> * sitelen sina li pona lukin.
-> * jan pona mi li jo e kala e kili li pali e moku pona.
+[Ответы](ru_answers.html#p4)
 
 [Предыдущая страница](ru_5.html) [Главная страница](ru_index.html) [Следующая
 страница](ru_3.html)

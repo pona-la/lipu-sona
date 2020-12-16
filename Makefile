@@ -52,11 +52,12 @@ $(OUTDIR)/%.html: $(PAGEDIR)/%.md $(TPLDIR)/default.tpl
 	@mkdir -p $(@D)
 	$(THEME) $(THEME_FLAGS) -t $(TPLDIR)/default.tpl -p $(patsubst $(OUTDIR)/%,%,$@) -o $@ $<
 
-$(OUTDIR)/dc/%.html: $(PAGEDIR)/%.md $(TPLDIR)/dreamcast.tpl
+$(OUTDIR)/dc/%.html: $(OUTDIR)/dc/%.html.tmp
+	cat $< | ./simplify.sh > $@
+
+$(OUTDIR)/dc/%.html.tmp: $(PAGEDIR)/%.md $(TPLDIR)/dreamcast.tpl
 	@mkdir -p $(@D)
-	$(THEME) $(DC_THEME_FLAGS) -t $(TPLDIR)/dreamcast.tpl -p $(patsubst $(OUTDIR)/%,%,$@) -o $@.tmp $<
-	cat $@.tmp | ./simplify.sh > $@
-	rm $@.tmp
+	$(THEME) $(DC_THEME_FLAGS) -t $(TPLDIR)/dreamcast.tpl -p $(patsubst $(OUTDIR)/%.tmp,%,$@) -o $@ $<
 
 $(OUTDIR)/%: static/%.h
 	@mkdir -p $(@D)

@@ -159,23 +159,7 @@
 * Я починил этот дом из-за вас.
 * Они читают книги в библиотеке.
 
-<button onclick="revealSpoilers();">Раскрыть ответы</button>
-
-> %spoiler%
-> * Он/она разговаривает со своим отцом по телефону.
-> * Мне не нравится сладкая еда. / Сладкая еда вредна для меня.
-> * Моя родина воюет с соседней страной.
-> * Ваша сестра - мой друг.
-> * На вашем лице жучок.
->
-
-> %spoiler%
-> * sina pakala e tomo tawa mi.
-> * (jan) mije li pana e moku tawa jan lili.
-> * tomo toki ni li ike tawa mi.
-> * mi pona e tomo tan sina.
-> * ona li lukin e lipu lon tomo lipu.
->
+[Ответы](ru_answers.html#p6)
 
 [Предыдущая страница](ru_.html) [Главная страница](ru_index.html) [Следующая
 страница](ru_.html)

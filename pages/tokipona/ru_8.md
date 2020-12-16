@@ -81,21 +81,7 @@
 * Я живу в красном доме.
 * Пьяница меня не слушал.
 
-<button onclick="revealSpoilers();">Раскрыть ответы</button>
-
-> %spoiler%
-> * Мне нравится красный цвет.
-> * Дайте мне апельсиновый сок (или сок оранжевого цвета).
-> * Мне нравится, как выглядят ваши цветы.
-> * Я не пью алкоголь.
-> * Не убивайте их!
-
-> %spoiler%
-> * tomo sina li suli. tomo mi li lili.
-> * sewi laso li pona mute tawa mi. sewi pimeja walo li pona lili tawa mi.
-> * jaki a! moku ni li ike mute a!
-> * mi lon tomo loje.
-> * jan nasa li kute ala e mi.
+[Ответы](ru_answers.html#p8)
 
 [Предыдущая страница](ru_7.html) [Главная страница](ru_index.html) [Следующая
 страница](ru_9.html)

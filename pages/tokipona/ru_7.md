@@ -173,7 +173,7 @@
 
 > jan lawa mi li ike mute. -- (Мой начальник / наш вождь) очень плохой.
 
-> jan Lopin o, toki! -- Привет, Робит!
+> jan Lopin o, toki! -- Привет, Робин!
 
 ## Упражнения
 
@@ -193,23 +193,7 @@
 * Ваш брат выглядит очень похоже на вас.
 * Не выходите на свежий воздух.
 
-<button onclick="revealSpoilers();">Раскрыть ответы</button>
-
-> %spoiler%
-> * Не ешь этот (фрукт/овощ/гриб), Лиза!
-> * Московская команда победила всех остальных.
-> * Не думайте, что рабочие -- ничто перед руководителями.
-> * Почему вы это сделали?
-> * Мой (живот / внутренние органы) болят. Помогите мне!
->
-
-> %spoiler%
-> * mi toki insa e ni: jan sewi li lon ala.
-> * o kalama ala lon tomo lipu.
-> * jan lawa mi li toki e ni: o lape ala lon tomo pali.
-> * jan sama mije sina li sama mute lukin sina.
-> * o tawa ala lon ma.
->
+[Ответы](ru_answers.html#p7)
 
 [Предыдущая страница](ru_6.html) [Главная страница](ru_index.html) [Следующая
 страница](ru_8.html)
