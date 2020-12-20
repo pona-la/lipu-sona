@@ -17,7 +17,7 @@
 > * My dad is strong.
 > * All animals are good.
 > * Fruits are important food.
-
+<!---->
 > * meli mi li suwi.
 > * jan utala ale li ike.
 > * jan pona mi li jan pona sina.
@@ -32,7 +32,7 @@
 > * The warrior is eating a big (fruit/vegetable/mushroom).
 > * Little animals are drinking water.
 > * I am (watering/cleaning) something big.
-
+<!---->
 > * ona li olin e jan ale.
 > * tomo telo li pona.
 > * mi pana e lipu.
@@ -46,7 +46,7 @@
 > * An important person is looking at the city and writing things down.
 > * The land has weeds ("bad plants").
 > * Small bugs are important and good.
-
+<!---->
 > * ma tomo sina li jo ala e jan pali.
 > * mije mi li pali ala, li moku, li utala. 
 > * ma mama mi li suli.
@@ -60,7 +60,7 @@
 > * I built this house.
 > * The good warriors protect this community.
 > * The large community endures and grows itself.
-
+<!---->
 > * moku seli li pona mute.
 > * jan lili lape li kalama ala.
 > * jan pali mute li toki e ni: ona li wawa, li kiwen.
@@ -74,7 +74,7 @@
 > * My homeland is fighting (against) a neighboring country.
 > * Your sister is my friend.
 > * A small bug is on your face.
-
+<!---->
 > * sina pakala e tomo tawa mi.
 > * (jan) mije li pana e moku tawa jan lili.
 > * tomo toki ni li ike tawa mi.
@@ -88,7 +88,7 @@
 > * Don't think that workers are lowly before the leaders.
 > * Why did you do this?
 > * My (stomach / internal organs) are hurt. Help me!
-
+<!---->
 > * mi toki insa e ni: jan sewi li lon ala.
 > * o kalama ala lon tomo lipu.
 > * jan lawa mi li toki e ni: o lape ala lon tomo pali.
@@ -102,7 +102,7 @@
 > * I like how your flowers look.
 > * I don't drink alcohol.
 > * Don't kill them!
-
+<!---->
 > * tomo sina li suli. tomo mi li lili.
 > * sewi laso li pona mute tawa mi. sewi pimeja walo li pona lili tawa mi.
 > * jaki a! moku ni li ike mute a!
@@ -116,7 +116,7 @@
 > * If you eat raw meat, it will be bad for your body.
 > * Their music ("entertaining sounds") is very good.
 > * If you misuse ("use badly") the tools, they will break ("be broken").
-
+<!---->
 > * sewi li pimeja la o awen lon tomo.
 > * ona li lon tomo pi telo nasa.
 > * jan pi kalama suli li toki e ijo nasa.
@@ -131,7 +131,7 @@
 > * Can you come to my house?
 > * If you're coming to my house, use Lincoln Street.
 > * If you're on a hill, you can see many things.
-
+<!---->
 > * sina sona ala sona pali e ona? / sina sona pali e ona anu seme?
 > * ale li ken.
 > * sina ken ala ken open e lupa? / sina ken open e lupa anu seme?
@@ -146,7 +146,7 @@
 > * One month ago, it was cold.
 > * I like you the most.
 > * The rain continued for 40 days.
-
+<!---->
 > * mi lon tomo nanpa mute luka tu pi nasin Wasintan.
 > * ilo pi sitelen tawa li toki e ni: tenpo suno kama la suno li lon.
 > * tenpo pimeja ni la lete li lon.
@@ -162,7 +162,7 @@
 > * Marie Kondo says: get rid of unnecessary things.
 > * There are three types of matter. These are: solids, liquids and gases.
 > * But the princess is in another castle.
-
+<!---->
 > * mi lukin e akesi seli laso suli a!
 > * toki! sina pilin seme?
 > * jan alasa li pana e moku soweli mute e kili mute tawa mi mute.
