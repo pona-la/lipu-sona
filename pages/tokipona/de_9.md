@@ -1,0 +1,155 @@
+% Toki Pona Seite 9 - Komplexe Adjektive und Kontext
+% /dev/urandom
+% Dezember 2020
+
+Vokabeln für diese Seite:
+
+| Wort  | Bedeutung                               |
+|-------|-----------------------------------------|
+| pi    | (gruppiert Adjektive um)                |
+| la    | (stellt Kontext voran)                  |
+| luka  | Hand, Arm                               |
+| linja | langes biegsames Objekt, Schnur, Haar   |
+| palisa| langes hartes Objekt, Stock             |
+| selo  | äußere Form, Hülle, Haut, Grenze        |
+| sijelo| Körper, körperlicher Zustand, Torso     |
+| len   | Stoff, Kleidung, Privatsphärenschutz    |
+| lete  | kalt, roh                               |
+| musi  | unterhaltsam, künstlerisch, Spaß, Spiel |
+
+Zeit für zwei weitere Funktionswörter in der Sprache: "pi" und "la".
+
+## pi
+
+Das Wort "pi" stellt Wörter in Bedeutungsgruppen zusammen. 
+Normalerweise beziehen sich alle Adjektive auf das erste Wort. 
+Zum Beispiel:
+
+> jan wawa -- starke Person
+
+> jan wawa ala -- keine starke Personen
+
+Um "schwache Person" zu sagen, muss "wawa" negiert werden, nicht "jan". 
+Hier kommt "pi" ins Spiel:
+
+> jan pi wawa ala -- schwache Person ("ohne Stärke")
+
+Das geht auch mit anderen Wörtern:
+
+> jan wawa mute -- viele starke Leute
+
+> jan pi wawa mute -- sehr starke Person
+
+Auch für übliche Ausdrücke geht das:
+
+> jan toki utala -- ein sprechender Krieger
+
+> jan pi toki utala -- ein Kritiker
+
+> %info%
+> Wenn die Satzstruktur "toki [Adjectiv]" für das Beschreiben von Themen
+> bevorzugt wird (siehe [Seite 4](de_4.html) ), dann kann "pi" auch verwendet 
+> werden, um die Themen zu spezifizieren:
+>
+> > sina toki pi ma tomo mama sina. -- Du redest über deine Heimatstadt.
+>
+
+Oder für Begriffe, die inoffizielle Wörter benutzen.
+
+> ma tomo Wasintan li ma tomo lawa pi ma Mewika. -- (die Stadt) Washington ist
+> die Hauptstadt der Vereinigten Staaten.
+
+> %warning%
+> "pi" steht in Übersetzungen manchmal an gleicher Stelle wie das deutsche "von" 
+> oder "des"/"dem"/"der", wird aber anders verwendet. Es ist nur notwendig, wenn
+> mehrere Wörter umgruppiert werden müssen. Selbst wenn man "die Sprache des Guten"
+> Übersetzt, ist es "toki pona" und nicht "toki pi pona".
+
+## la
+
+Das Wort "la" kann zwei Sätze miteinander verbinden und damit Bedingungssätze 
+formen oder Kontext voranstellen.
+
+> [Satz A] la [Santz B].
+
+> Im Zusammenhang von [Satz A], [Satz B].
+
+Oft kann das dann so übersetzt werden:
+
+> Falls [Satz A], dann [Satz B].
+
+Beispielsätze:
+
+> moku ni li pona la mi pana e ona tawa sina. -- Wenn das Essen gut ist, gebe
+> ich es dir.
+
+> ona li moli la ni li ike tawa jan ale. -- Wenn sie sterben, ist das schlecht für
+> alle.
+
+Aber es gibt andere Funktionen. Besonders für Zeiten und Orte kann es "lon [Begriff]" 
+ersetzen (mehr auf der [nächsten Seite](de_10.html):
+
+> o kalama ala lon tomo lipu. -- Sei ruhig in der Bibliothek.
+
+> tomo lipu la o kalama ala. -- In der Bibliothek, sei ruhig.
+
+Es kann auch Perspektive kennzeichnen, wie "tawa":
+
+> ni li pona tawa mi. -- Das ist gut für mich. / Ich mag das.
+
+> mi la ni li pona. -- (Aus meiner Perspektive / Meiner Meinung nach), das ist gut.
+
+Oder es wird benutzt, um Sätze miteinander zu verbinden:
+
+> tan ni la... -- Deswegen, ...
+
+> ni la... -- Im Zusammenhang von alldem, ...
+
+> %info%
+> Da "la" sehr flexibel ist, wird es von vielen Leuten für Zwecke verwendet,
+> die hier nicht beschrieben sind. Da Toki Pona eine sehr kontextabhängige
+> Sprache ist, lautet die wichtigste Regel: "Versuchen, sich verständlich zu machen"
+
+## Dialektunterschiede
+
+> %info%
+> Dieser Teil des Dokuments beschreibt, wie andere Toki-Pona-Kurse sich bei 
+> manchen Erklärungen unterscheiden.
+
+Das offizielle Buch, verschiedene Kurse und mein persönlicher Stil
+unterscheiden sich bei der Kommasetzung in "la"-Sätzen.
+
+Das offizielle Buch benutzt ein Komma vor "la", wenn es zwei Sätze miteinander 
+verbindet und sonst nicht.
+
+Die Videoreihe "12 days of sona pi toki pona" benutzt in keinen Fall ein Komma
+(und der Kurs "o kama sona e toki pona!" genauso).
+
+Aus geschmacklichen Gründen bevorzuge ich ein Komma nach "la" - in diesem Kurs 
+wird aber keines verwendet. Ungeachtet dessen spielt die An- oder Abwesenheit 
+eines Kommas keine Rolle und ist dem Geschmack überlassen, da die Funktion des 
+Kommas anders als in anderen Sprachen (für Nebensätze oder zum Auflisten) 
+in Toki Pona entweder durch Extra-Sätze oder zusätzliche Funktionswörter 
+abgedeckt ist.
+
+## Übungen
+
+Versucht herauszufinden, was die folgenden Sätze bedeuten.
+
+* kulupu pi jan mute li ike tawa mi. 
+* tomo ni la mi toki kepeken toki pona, mi toki kepeken toki Inli.
+* sina moku e soweli lete la ona li ike tawa sijelo sina.
+* kalama musi ona li pona mute.
+* sina kepeken ike e ilo la ona li pakala.
+
+Und versucht die folgenden Sätze in Toki Pona zu übersetzen.
+
+* Falls es draußen dunkel ist, bleib zuhause.
+* Er ist in der Bar ("Haus des merkwürdigen Wassers"). 
+* Die laute Person ("Person der großen Geräusche") sagt merkwürdige Dinge.
+* Diese Blondine ("Frau des weißen Haars") sieht gut aus. 
+* Wenn du nicht mit Leuten redest, dann wirst du keine Freunde haben.
+
+[Antworten](de_answers.html#p9)
+
+[Letzte Seite](de_8.html) [Hauptseite](de_index.html) [Nächste Seite](de_10.html)
