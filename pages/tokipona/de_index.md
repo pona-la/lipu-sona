@@ -114,13 +114,13 @@ offiziellen Wörterbuch einführen.
 
 ### Originalinhalte
 
-* [musi pi jan lawa moli (rules of chess)](chess.html)
+* [musi pi jan lawa moli (Schachregeln)](chess.html)
 
-* * [musi Soki (rules of shogi) (wip)](shogi.html)
+* * [musi Soki (Shogi-Regeln) (in Arbeit)](shogi.html)
 
-* [lipu nasin pi musi Lisi Masan (Riichi Mahjong) (WIP)](riichi_mahjong.html)
+* [lipu nasin pi musi Lisi Masan (Riichi Mahjong) (in Arbeit)](riichi_mahjong.html)
 
-* [ante toki tawa musi pi sitelen tawa (video game translations)](game_patches.html)
+* [ante toki tawa musi pi sitelen tawa (Videospielübersetzungen)](game_patches.html)
 
 * * ["jan lawa pi linja ilo" ("LAN Master")](jan_lawa_pi_linja_ilo.html)
 
