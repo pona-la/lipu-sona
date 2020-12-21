@@ -1,0 +1,104 @@
+% Toki Pona Extra-Seite 2 - andere Schreibsysteme
+% /dev/urandom
+% Dezember 2020
+
+Für Toki Pona ist die gebräuchlichste Art zu schreiben das lateinische Alphabet, 
+aber andere Schreibsysteme wurden an Toki Pona angepasst oder für Toki Pona 
+neu erfunden.
+
+## Angepasste Schriftsysteme
+
+Toki Pona benutzt nur 5 Vokale und 9 Konsonante. Das bedeutet, dass zur 
+Anpassung eines Alphabets nur 14 Zeichen (oder Zeichenfolgen) ausgewählt 
+werden müssen, die den gleichen oder ähnlichen Lauten entsprechen. Zum 
+Beispiel ist hier eine Umwandlung in Griechisch und Kyrillisch:
+
+| Lateinisch | Griechisch | Kyrillisch |
+|:-----:|:-----:|:--------:|
+| a | α | а |
+| e | ε | е |
+| i | ι | и |
+| j | γ | й |
+| k | κ | к |
+| l | λ | л |
+| m | μ | м |
+| n | ν | н |
+| o | ο | о |
+| p | π | п |
+| s | σ | с |
+| t | τ | т |
+| u | υ | у |
+| w | β | в |
+
+> %note%
+> Diese Alphabete sind nicht gänzlich phonetisch mit griechischen und russischen 
+> Lauten kompatibel. Manche Buchstaben in Toki Pona werden anders als die 
+> entsprechenden Buchstaben ausgesprochen.
+
+Für eine Abugida oder eine Abjad -- ein Schriftsystem, in dem Konsonanten 
+bestimmte Zeichen haben und Vokale als Diakritika oder nebenstehenden 
+Zusatzzeichen geschreiben werden -- ist es etwas schwieriger, Toki Pona 
+einzubauen. Die bekannteste Abjad ist das arabische Schriftsystem und die 
+bekannteste Abugida ist Devangari (die für viele Sprachen in Indien benutzt 
+wird).
+
+* ["ARABI PONA - Arabic Script for Toki Pona | sitelen musi" Video][arabic]
+* ["Toki Pona in Devanāgarī" (archiviert)][devanagari]
+
+[arabic]:https://www.youtube.com/watch?v=Mh9Wypm6pXs
+[devanagari]:https://web.archive.org/web/20060727115116/http://www.deadlybrain.org/projects/tokipona/deva_guja.php
+
+Außerdem hat die Sprache nur 92 mögliche Silben (oder 47, wenn "-n" als eigene 
+Silbe angesehen wird). Das bedeutet, dass sie auch an viele 
+Silbenschriftsystemen angepasst werden kann.
+
+Hier sind zum Beispiel Vorschläge, wie Toki Pona in Hangul, dem koreanischen 
+Schriftsystem, wiedergegeben werden kann. (Auch wenn die Symbole einzelne 
+Laute widerspiegeln, wie es in einem Alphabet passiert, sind sie in 
+Silbenblöcke aufgeteilt.)
+
+* ["Writing Toki Pona with Korean Hangul" (archiviert)][hangularch]
+* ["Hangul for Toki Pona" auf Reddit][hangulred]
+
+[hangularch]:https://web.archive.org/web/20070313181500/http://www.tokipona.bravehost.com/korean.html
+[hangulred]:https://www.reddit.com/r/tokipona/comments/8mx951/hangul_for_toki_pona/
+
+With some relatively small changes in sounds, it can also be written with the
+Japanese Hiragana system, as proposed here:
+
+* ["Hiragana for Toki Pona"][hiragana1]
+* ["sitelen Hiragana (ひらがな)" on Reddit][hiragana_red]
+
+[hiragana1]:https://www.deviantart.com/derroflcopter/journal/Hiragana-for-Toki-Pona-339541633
+[hiragana_red]:https://www.reddit.com/r/tokipona/comments/e7g91u/sitelen_hiragana_%E3%81%B2%E3%82%89%E3%81%8C%E3%81%AA/
+
+## sitelen pona
+
+Das meistbenutzte Schriftsystem, das für Toki Pona erstellt wurde, ist die 
+logografische Schrift *sitelen pona* ("einfache Schrift"), von Sonja Lang 
+höchstselbst erfunden und im offiziellen Buch veröffentlicht.
+
+So wie im lateinischen Alphabet wird es von links nach rechts und von oben nach 
+unten geschrieben, allerdings stellt jedes Zeichen ein ganzes Wort (oder sogar 
+mehr, mit "zusammengesetzten Zeichen") statt einen einzelnen Laut dar. 
+Inoffizielle Wörter werden in Kartuschen (abgerundete Formen, die mehrere Zeichen 
+beinhalten) geschrieben, für jeden Buchstaben ein Zeichen.
+
+* **[Vollständige Beschreibung, Schriftarten und Übungen](de_sitelen_pona.html)**
+
+## sitelen sitelen
+
+Jonathan Gabels Schriftsystem ["sitelen sitelen"](https://jonathangabel.com/toki-pona/)
+wurde als optisch ansprechendere Methode erstellt, Toki-Pona-Texte zu 
+schreiben. Es ist ein nicht-lineares System, das von Maya-Zeichen 
+inspiriert ist.
+
+Im Vergleich zum lateinischen Alphabet oder sitelen pona, ist sitelen sitelen 
+wesentlich schwieriger zu verstehen und wird deswegen selten verwendet. 
+Allerdings kann der visuell sehr eindrucksvolle Stil, in dem die Texte 
+geschrieben sind -- wie [dieser Vertrag](https://www.jonathangabel.com/archive/2012/artworks_lipu-lawa-pi-esun-kama.html)
+oder die [Sprichworte](https://jonathangabel.com/toki-pona/dictionaries/gallery/) 
+-- von denen viele auch im offiziellen Buch auftauchen -- nicht bestritten werden.
+
+[Hauptseite](de_index.html)
+
