@@ -133,6 +133,8 @@ language's 120 word dictionary.
 
 * * ["jan lawa pi linja ilo" ("LAN Master")](jan_lawa_pi_linja_ilo.html)
 
+* * [ante toki pi jan Pije (jan Pije's translations)](game_patches_jp.html)
+
 ## Software
 
 Here are links to some software that I personally found useful:
