@@ -54,7 +54,7 @@ hosting the game.
 > taso, sina wile pali e ni lon tenpo lili. tenpo ni li pini la, musi li pini
 > ike.
 >
-> musi ni li jo e ma `100`. sina pini pali e linja lon ma wan la, sina kama jo e
+> musi ni li jo e ma `50`. sina pini pali e linja lon ma wan la, sina kama jo e
 > nanpa awen. sina ken pali e ma kama kepeken nanpa awen lon tenpo ale.
 >
 
@@ -66,7 +66,12 @@ hosting the game.
 
 # downloads / o kama jo e musi ni
 
-* [NES ROM file / lipu sona pi ilo NES](/tokipona/jan_lawa.nes)
+* [NES ROM file (v2) / lipu sona pi ilo NES (ante #2)](/tokipona/jan_lawa.nes)
 
 * [(Very messy) source code / lipu pi nasin pali pi lipu sona](/tokipona/jan_lawa_src.tar.gz)
 
+## ante
+
+* ante #2: lipu pi pini pona li toki e nimi "mi". ona li wile toki e nimi
+  "sina". mi pona e ni. (v2: the ending screen said "mi" instead of "sina", which i
+  fixed.)
