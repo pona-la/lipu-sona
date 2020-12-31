@@ -910,3 +910,29 @@ musi Lisi Masan lon insa ona. sina ken musi lon poka ilo musi kepeken ona.
 sin la, mi pali e ante toki pi musi "musi Masan pi jan musi 4" ("4 Nin Uchi
 Mahjong", "４人打ち麻雀"). ante toki ni li toki kepeken toki pona. sina ken
 kama jo e lipu ante pi ante toki lon [lipu ni](game_patches.html).
+
+## sona sin
+
+### nasin nanpa tan musi Lisi Masan
+
+toki Nijon la, nimi nanpa mute li lon. taso, wan ona li kalama sama nimi pi toki
+pona. musi Lisi Masan la, nimi nanpa li ante, li pona tawa toki pona.
+
+| nanpa | nimi nanpa |
+|:-----:|:----------:|
+|   1   |     i      |
+|   2   |    ja      |
+|   3   |    san     |
+|   4   |    su      |
+|   5   |     u      |
+|   6   |    lo      |
+|   7   |    si      |
+|   8   |    pa      |
+|   9   |    ku      |
+|   10  |    su      |
+|  100  |   jaku     |
+| 1000  |   sen      |
+| 10000 |   man      |
+
+nimi "Jaku" pi "nasin Jaku" li ante tan nimi nanpa "jaku" pi nanpa 100.
+
