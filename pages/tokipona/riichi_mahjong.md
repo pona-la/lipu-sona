@@ -916,7 +916,7 @@ kama jo e lipu ante pi ante toki lon [lipu ni](game_patches.html).
 ### nasin nanpa tan musi Lisi Masan
 
 toki Nijon la, nimi nanpa mute li lon. taso, wan ona li kalama sama nimi pi toki
-pona. musi Lisi Masan la, nimi nanpa li ante, li pona tawa toki pona.
+pona. musi Lisi Masan la, nimi nanpa li ante, li ken kama pona lon toki pona.
 
 | nanpa | nimi nanpa |
 |:-----:|:----------:|
