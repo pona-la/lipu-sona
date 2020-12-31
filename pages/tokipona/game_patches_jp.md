@@ -10,13 +10,6 @@ table.games tr td:first-child {
 
 </style>
 
-> %error%
->
-> tenpo ni la, mi jo ala e lipu anpa ale pi lipu ni. lipu ni li pini ala. /
-> right now, some of the files on this page are not available. this document is
-> not finished.
->
-
 # toki Inli (English)
 
 These are the video game translation patches jan Pije made back in 2015. With
