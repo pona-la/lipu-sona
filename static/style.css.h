@@ -80,12 +80,12 @@ p {
 
 table {
 	background: #fefefe;
-	border: 2px solid C_LBORDER;
+	border: 2px solid C_DBORDER;
 	border-collapse: collapse;
 }
 
 th, td {
-    border: 1px solid C_DBORDER;
+    border: 1px solid C_LBORDER;
     padding: 4pt;
 }
 
