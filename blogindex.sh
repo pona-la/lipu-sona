@@ -1,24 +1,59 @@
-#!/bin/sh
+#!/bin/bash
 
 DIRECTORY="pages/blog"
 
 FILES=`ls $DIRECTORY/*.md -1 | sort` 
 
+RETURNDATE=""
+
+function printcut {
+# argument 1: filename
+
+	CUT=`grep -m 1 -n '<!--[[:space:]]*cut[[:space:]]*-->[[:space:]]*' $1`
+	if [ -n "$CUT" ]; then
+		CUTLINE=`echo "$CUT" | cut -d ':' -f 1`
+		head -n $(($CUTLINE - 1)) $1 | grep -v '^%' | sed 's/^/> /'
+	else
+		return 1
+	fi
+}
+
+# date is read from the 3rd %ed line of the document or from the git commit date
+function getdate {
+
+	FILEDATE=`grep "^%" $1 | sed '3q;d' | cut -d ' ' -f 2-`
+	
+	if [ $? -eq 0 ]; then
+	FTIME=`date -u --date="$FILEDATE" "+%s"`
+	else
+		RETURNDATE=0
+		return 1
+	fi
+
+	if [ $? -eq 0 ]; then
+		RETURNDATE=$FTIME
+		return 0
+	else
+		RETURNDATE=0
+		return 0
+	fi
+}
+
 echo -n > blogdates.txt
 for f in $FILES; do
-	MTIME=`git log -n 1 --pretty=format:%at $f`
-	MTIME=${MTIME-9999999999}
-	printf "%d\t%s\n" $MTIME $f >> blogdates.txt
+	getdate $f
+	printf "%d\t%s\n" $RETURNDATE $f >> blogdates.txt
 done
 
-# resort by last git commit time
+# resort by resulting times
 FILES=`cat blogdates.txt | sort -nr | cut -f 2-`
 
 cat tpl/blog_header.md
 
 for f in $FILES; do
 
-	MTIME=`git log -n 1 --pretty=format:%at $f`
+	getdate $f
+	MTIME=$RETURNDATE
 
 	TITLE=`head -n 1 $f`
 	TITLE=${TITLE#"% "}
@@ -26,11 +61,13 @@ for f in $FILES; do
 	OUTPAGE=${f%.md}.html
 	OUTPAGE=${OUTPAGE#pages/blog/}
 
-	if [ $MTIME ]; then
-		echo " * [$TITLE]($OUTPAGE) (last update `date -d "@$MTIME" "+%Y-%m-%d %H:%M"`)"
+	if [ $MTIME -gt 0 ]; then
+		echo " * [$TITLE]($OUTPAGE) (`date -d "@$MTIME" "+%Y-%m-%d"`)"
 	else
 		echo " * [$TITLE]($OUTPAGE)"
 	fi
+	
+	printcut $f
 done
 
 cat tpl/blog_footer.md

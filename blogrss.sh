@@ -4,11 +4,33 @@ DIRECTORY="pages/blog"
 
 FILES=`ls $DIRECTORY/*.md -1 | sort`
 
+RETURNDATE=""
+
+# date is read from the 3rd %ed line of the document or from the git commit date
+function getdate {
+
+	FILEDATE=`grep "^%" $1 | sed '3q;d' | cut -d ' ' -f 2-`
+	
+	if [ $? -eq 0 ]; then
+	FTIME=`date -u --date="$FILEDATE" "+%s"`
+	else
+		RETURNDATE=0
+		return 1
+	fi
+
+	if [ $? -eq 0 ]; then
+		RETURNDATE=$FTIME
+		return 0
+	else
+		RETURNDATE=0
+		return 0
+	fi
+}
+
 echo -n > blogdates.txt
 for f in $FILES; do
-	MTIME=`git log -n 1 --pretty=format:%at $f`
-	MTIME=${MTIME-9999999999}
-	printf "%d\t%s\n" $MTIME $f >> blogdates.txt
+	getdate $f
+	printf "%d\t%s\n" $RETURNDATE $f >> blogdates.txt
 done
 
 # resort by last git commit time
@@ -24,7 +46,9 @@ cat << RSSHEADER
 RSSHEADER
 
 for f in $FILES; do
-	MTIME=`git log -n 1 --pretty=format:%at $f`
+
+	getdate $f
+	MTIME=$RETURNDATE
 
 	TITLE=`head -n 1 $f`
 	TITLE=${TITLE#"% "}
@@ -37,7 +61,7 @@ for f in $FILES; do
 	echo "<title>$TITLE</title>"
 	echo "<link>$OUTPAGE</link>"
 	
-	if [ $MTIME ]; then
+	if [ $MTIME -gt 0 ]; then
 		echo "<pubdate>`date -R -u -d \"@$MTIME\"`</pubdate>"
 	fi
 	echo "</item>"
