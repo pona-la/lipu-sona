@@ -113,6 +113,8 @@ language's 120 word dictionary.
 
 * [dictionary](dictionary.html)
 
+* [my personal style](personal_style.html)
+
 * [credits and acknowledgements](credits.html)
 
 ### Original content
