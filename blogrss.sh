@@ -33,7 +33,7 @@ for f in $FILES; do
 	printf "%d\t%s\n" $RETURNDATE $f >> blogdates.txt
 done
 
-# resort by last git commit time
+# resort by resulting times
 FILES=`cat blogdates.txt | sort -nr | cut -f 2-`
 
 cat << RSSHEADER
@@ -54,8 +54,7 @@ for f in $FILES; do
 	TITLE=${TITLE#"% "}
 
 	OUTPAGE=${f%.md}.html
-	OUTPAGE=/${OUTPAGE#pages/}
-
+	OUTPAGE=${OUTPAGE#pages/blog/}
 
 	echo "<item>"
 	echo "<title>$TITLE</title>"
