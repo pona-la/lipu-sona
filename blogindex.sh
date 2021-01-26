@@ -2,7 +2,7 @@
 
 DIRECTORY="pages/blog"
 
-FILES=`ls $DIRECTORY/*.md -1 | sort` 
+FILES=`ls $DIRECTORY/*.md -1 | sort`
 
 RETURNDATE=""
 
