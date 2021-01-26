@@ -128,20 +128,22 @@ th, td {
 
 .nav_linkmenu a {
 	display: inline-block;
-	background: C_FOOTERBG;
-	margin: 6px 2px;
-	padding: 2px 4px;
-	border: 1px solid C_DBORDER;
+	width: 128px;
+	height: 32px;
+	line-height: 32px;
+	background: url("/menu_button.gif");
+	font-weight: bold;
 	color: C_NAVFG;
+	text-shadow: 1px 1px 0 C_FOOTERBG;
 	text-decoration: none;
 }
 
 .nav_linkmenu a:hover {
-	background: C_DERR url("/menu_hover.gif");
+	background: url("/menu_button_hover.gif");
 }
 
 .nav_linkmenu a:active {
-	background: C_DGREEN url("/menu_pressed.gif");
+	background: url("/menu_button_sel.gif");
 }
 
 .footer a, .footer a:visited {
@@ -289,7 +291,7 @@ HASH(#itime-progress) {
 	}
 	.content {
 		padding-inline: 1em;
-		padding-block-end: 1em;
+		padding-block: 1em;
 	}
 
 	.info, .warning, .error {
