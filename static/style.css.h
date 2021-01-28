@@ -118,7 +118,6 @@ th, td {
 }
 
 .navbar {
-	height: 32px;
 	background: #404A68 url("/menu_background.gif");
 }
 
