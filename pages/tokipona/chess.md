@@ -184,9 +184,9 @@ tawa ma pi sitelen "a", "b" anu "c" lili. ona li ken anpa e ijo musi lon ma
 pi sitelen "-a-", "-b-" anu "-c-". jan utala pi sitelen "A" suli li tawa ala lon
 musi ni. tan ni, ona li ken tawa ma sinpin tu.
 
-**jan utala lon soweli tawa** li ken tawa ma tu lon nasin wan en ma wan lon nasin
-poka pi nasin nanpa wan. <!-- knights can move two spaces in any direction and
-then one space sideways from that direction. -->
+**jan utala lon soweli tawa** (nimi ante: "soweli tawa") li ken tawa ma tu lon
+nasin wan en ma wan lon nasin poka pi nasin nanpa wan. <!-- knights can move two
+spaces in any direction and then one space sideways from that direction. -->
 
 * ijo musi pi kule ante li lon ma ni, ona li ken anpa e ijo musi ni.
 
@@ -212,8 +212,9 @@ then one space sideways from that direction. -->
 sitelen ni la, jan utala lon soweli tawa li lon ma pi sitelen "O". ona li ken
 tawa ma pi sitelen "X".
 
-**soweli suli utala** li ken tawa lon nasin ni: o tawa ma sinpin wan anu ma
-monsi wan, o tawa ma poka wan. ona li ken tawa ma mute lon nasin ni.
+**soweli suli utala** (nimi ante: "lawa sewi" anu "soweli suli") li ken tawa
+lon nasin ni: o tawa ma sinpin wan anu ma monsi wan, o tawa ma poka wan. ona li
+ken tawa ma mute lon nasin ni.
 
 * ijo musi ante li lon insa pi nasin ona la, ona li ken ala tawa ma ni.
 
@@ -239,8 +240,9 @@ monsi wan, o tawa ma poka wan. ona li ken tawa ma mute lon nasin ni.
 sitelen ni la, soweli suli utala li lon ma pi sitelen "O". ona li ken
 tawa ma pi sitelen "X".
 
-**tomo kiwen tawa** li ken tawa lon nasin ni: o tawa ma sinpin wan anu ma monsi
-wan anu ma poka wan. ona li ken tawa ma mute lon nasin ni.
+**tomo kiwen tawa** (nimi ante: "tomo utala") li ken tawa lon nasin ni: o tawa
+ma sinpin wan anu ma monsi wan anu ma poka wan. ona li ken tawa ma mute lon
+nasin ni.
 
 * ijo musi ante li lon insa pi nasin ona la, ona li ken ala tawa ma ni.
 
@@ -267,8 +269,8 @@ wan anu ma poka wan. ona li ken tawa ma mute lon nasin ni.
 sitelen ni la, tomo kiwen tawa li lon ma pi sitelen "O". ona li ken
 tawa ma pi sitelen "X".
 
-**jan lawa meli** li ken tawa lon nasin pi soweli suli utala anu lon nasin pi
-tomo kiwen tawa.
+**jan lawa meli** (nimi ante: "lawa meli") li ken tawa lon nasin pi soweli suli
+utala anu lon nasin pi tomo kiwen tawa.
 
 * ijo musi ante li lon insa pi nasin ona la, ona li ken ala tawa ma ni.
 
@@ -294,7 +296,7 @@ tomo kiwen tawa.
 sitelen ni la, jan lawa meli li lon ma pi sitelen "O". ona li ken
 tawa ma pi sitelen "X".
 
-**jan lawa** li ken tawa ma wan lon nasin ale.
+**jan lawa** (nimi ante: "lawa mije") li ken tawa ma wan lon nasin ale.
 
 * ijo musi li anpa e jan lawa, jan musi ona li anpa. o awen e jan lawa sina.
 
@@ -571,3 +573,9 @@ their turns, they lose. -->
 anu la, mute tenpo lawa pi tenpo tawa wan li lon. jan musi ale li wile pali e
 tenpo tawa wan ona lon tenpo ni. ona li ken ala pali e ni la, ona li anpa. <!--
 alternatively, a time limit can be imposed on each turn individually. -->
+
+# musi pi ilo sona
+
+lipu kon [Lichess](https://lichess.org/) li ilo pona. jan li ken musi kepeken
+ona, li ken kama sona e nasin musi kepeken ona. lipu ni li ken toki kepeken toki
+pona. taso, ante toki ona li pini ala. ona li toki e ijo kepeken nimi ante.
