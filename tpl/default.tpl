@@ -30,7 +30,7 @@
     </div>
     <div class="middle">
       <div class="navbar nav_linkmenu">
-      	<nav class="links"><a href="/index.html">Main page</a><a href="/about_me.html">About me</a><a href="/blog">Blog thingy</a><a href="/tokipona">toki pona</a></nav>
+      	<nav class="links"><a href="/index.html">Main page</a><a href="/about_me.html">About me</a><a href="/blog">Blog thingy</a><a href="/politics">Politics</a><a href="/tokipona">toki pona</a></nav>
       </div>
       <article class="content">
 	<?theme body?>
