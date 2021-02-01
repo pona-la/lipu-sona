@@ -217,6 +217,16 @@ th, td {
 	visibility: hidden;
 }
 
+.content .linkbuttons a img {
+  display: inline-block;
+  border: 1px solid #404A68;
+  padding: 2px;
+}
+.content .linkbuttons a img[title] {
+  border: 2px solid #7cc264;
+  padding: 1px;
+}
+
 .pona .latin {
 	font-family: monospace;
 }

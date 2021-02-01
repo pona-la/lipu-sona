@@ -16,7 +16,7 @@
     <tr bgcolor="#050403"><td width="256px"><a href="/dc"><img border="0" align="top" src="/website_banner.gif" width="256" height="32" alt="rnd's website logo"></a><font color="#fefefe"></td><td align="center" valign="middle" background="/website_banner_bg.gif"><font color="#fefefe"><?theme title?></font></td></tr>
     <tr height="32" bgcolor="#221f31"><td colspan="2" background="/menu_background.gif">
       	<center><nav class="links">
-	  <a href="/dc/index.html"><img align="top" border="0" width="128" height="32" src="/menu_button_main.gif" alt="Main page"></a><a href="/dc/about_me.html"><img align="top" border="0" width="128" height="32" src="/menu_button_about.gif" alt="About me"></a><a href="/dc/blog"><img align="top" border="0" width="128" height="32" src="/menu_button_blog.gif" alt="Blog"></a><a href="/dc/tokipona"><img align="top" border="0" width="128" height="32" src="/menu_button_tp.gif" alt="toki pona"></a>
+	  <a href="/dc/index.html"><img align="top" border="0" width="128" height="32" src="/menu_button_main.gif" alt="Main page"></a><a href="/dc/about_me.html"><img align="top" border="0" width="128" height="32" src="/menu_button_about.gif" alt="About me"></a><a href="/dc/blog"><img align="top" border="0" width="128" height="32" src="/menu_button_blog.gif" alt="Blog"></a><a href="/dc/politics"><img align="top" border="0" width="128" height="32" src="/menu_button_politics.gif" alt="Politics"></a><a href="/dc/tokipona"><img align="top" border="0" width="128" height="32" src="/menu_button_tp.gif" alt="toki pona"></a>
 	</nav></center>
     </td></tr>
     <tr bgcolor="#fefefe"><td colspan="2">

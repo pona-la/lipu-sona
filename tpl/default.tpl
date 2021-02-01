@@ -30,7 +30,7 @@
     </div>
     <div class="middle">
       <div class="navbar nav_linkmenu">
-      	<nav class="links"><a href="/index.html">Main page</a><a href="/about_me.html">About me</a><a href="/blog">Blog thingy</a><a href="/tokipona">toki pona</a></nav>
+      	<nav class="links"><a href="/index.html">Main page</a><a href="/about_me.html">About me</a><a href="/blog">Blog thingy</a><a href="/politics">Politics</a><a href="/tokipona">toki pona</a></nav>
       </div>
       <article class="content">
 	<?theme body?>
@@ -40,6 +40,8 @@
 	width="88" height="31" alt="Hosted by Neocities" /></a>
 	<a rel="me" href="https://cybre.space/@devurandom"><img src="/banners/mastodon.gif"
 	width="88" height="31" alt="Follow me on Mastodon" /></a>
+	<a href="https://ko-fi.com/dev_urandom"><img src="/banners/kofi.gif"
+	width="88" height="31" alt="Support me on Ko-fi" /></a>
 	<a href="https://www.vim.org"><img src="/banners/vim.gif"
 	width="88" height="31" alt="This page made with Vim" /></a>
 	<a href="https://twitter.com/AdigunPolack/status/978086591485882368"><img src="/banners/simplejpc16.gif"
