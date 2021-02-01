@@ -175,12 +175,19 @@ and links for people who want to learn or use toki pona:
 * [A toki pona dictionary with sitelen pona
  characters](https://theotherwebsite.com/tokipona/) by "The Other Website"
 
-* ["musi lili"](https://musilili.net/), a page by jan Same
-
 * [toki pona flashcards for Anki](https://ankiweb.net/shared/decks/toki%20pona)
 
 * * [flashcards based on this
 website](https://ankiweb.net/shared/info/204928497), by u/parentis\_shotgun
+
+## Other people's original works
+
+* ["musi lili"](https://musilili.net/), a page by jan Same
+
+* [lipu kule, a blog with posts in toki pona by various
+  people](https://lipukule.org/)
+
+* ["lipu tenpo", a toki pona magazine](https://liputenpo.org/)
 
 ### Discussion groups and chats
 
