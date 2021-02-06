@@ -364,6 +364,16 @@ tawa jan musi pimeja.
 sitelen ale la, ijo musi walo li sitelen kepeken sitelen lili (abcde...). ijo
 musi pimeja li sitelen kepeken sitelen suli (ABCDE...).
 
+> %info%
+> 
+> 
+> ma pi \#1 en \#2 en \#3 en \#4 ale li "poka meli" tan ni: open musi la, jan
+> lawa meli ale tu li lon ma \#4.
+> 
+> ma pi \#5 en \#6 en \#7 en \#8 ale li "poka mije" tan ni: open musi la, jan
+> lawa ale tu li lon la \#5.
+>
+
 ## tawa ante <!-- other moves -->
 
 jan lawa en tomo kiwen tawa wan pi kule sama li ken tawa lon tenpo sama. taso,
