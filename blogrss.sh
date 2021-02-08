@@ -59,9 +59,13 @@ for f in $FILES; do
 	echo "<item>"
 	echo "<title>$TITLE</title>"
 	echo "<link>$OUTPAGE</link>"
-	
+
 	if [ $MTIME -gt 0 ]; then
-		echo "<pubdate>`date -R -u -d \"@$MTIME\"`</pubdate>"
+		RDATE=`date -R -u -d @$MTIME`
+		if [[ "$RDATE" == *UTC ]]; then
+			RDATE="${RDATE%UTC}+0000"
+		fi
+		echo "<pubdate>$RDATE</pubdate>"
 	fi
 	echo "</item>"
 done
