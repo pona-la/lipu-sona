@@ -132,6 +132,10 @@ the most common ones.
 > words in them.
 >
 
+ * "[linja suwi](https://linjasuwi.ap5.dev/)" is a recently-designed font by
+   alienpirate5. It features nicely-drawn characters and lots of
+   community-created words.
+
  * I have also designed a font for sitelen pona, called "[insa pi supa
  lape](supalape.html)". It is based on the font "Bedstead"(hence the name) and
 uses the same algorithm to convert small bitmaps of different characters into a
