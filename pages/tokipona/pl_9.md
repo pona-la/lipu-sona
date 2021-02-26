@@ -1,0 +1,147 @@
+% toki pona strona 9 — kontekst i złożone przymiotniki
+% /dev/urandom
+% marzec 2020
+
+Słownictwo na tej stronie:
+
+| słowo | znaczenie |
+|----|----|
+| pi | (przegrupowuje przymiotniki/przysłówki) |
+| la | „jeśli/kiedy” (wprowadza kontekst) |
+| luka | dłoń, ręka, ramię |
+| linja | podłużny, giętki przedmiot, nić, sznur, włos |
+| palisa | podłużny, twardy przedmiot, gałąź, kij |
+| selo | zewnętrze, otulina, skóra, granica |
+| len | tkanina, ubranie, pokrowiec |
+| lete | zimny, surowy |
+| musi | rozrywkowy, artystyczny, zabawa, gra |
+
+Czas przedstawić kolejne dwie partykuły języka toki pona: „pi” oraz „la”.
+
+## pi
+
+Słówko „pi” przegrupowywuje przymiotniki i przysłówki. Normalnie przydawki
+dodawane są do wcześniejszej grupy wyrazów jedna po drugiej. Na przykład:
+
+> jan wawa — silna osoba
+
+> jan wawa ala — brak silnych osób
+
+Jeżeli chceszc powiedzić „słaba osoba”, musisz zaprzeczyć słowu „wawa”, nie — „jan”.
+I tutaj wkracza „pi”.
+
+> jan pi wawa ala — słaba osoba („osoba o braku siły”)
+
+Tym samym zastosowaniem można posłużyć się w innych przypadkach:
+
+> jan wawa mute — wiele silnych ludzi
+
+> jan pi wawa mute — bardzo silna osoba
+
+Partykuła ta może być również zastosowana w utartych zestawieniach wyrazowych:
+
+> jan toki utala — walczący mówca
+
+> jan pi toki utala — krytyk
+
+> %info%
+> Jeżeli wolisz używać składni „toki [przymiotnik]”, gdy chcesz określasz temat rozmowy
+> (tak jak pokazano na [stronie 4](pl_4.html)), „pi” przyda się w określaniu tematu
+> rozmowy, który wymaga kilku słów, by go opisać. Przykładowo:
+>
+> > sina toki pi ma tomo mama sina. — Mówisz o swoim rodzinnym mieście.
+>
+
+Włącznie ze zdaniami używającymi nieoficjalnych słów.
+
+> ma tomo Wasintan li ma tomo lawa pi ma Mewika. – Miasto Waszyngton jest stolicą
+> („głównym miastem”) Stanów Zjednoczonych.
+
+## la
+
+Słówka „la” możemy użyć, aby zbudować zdania warunkowe oraz by wprowadzić kontekst. Oba te zabiegi przeprowadza się łącząc dwa zdania w jedno.
+
+> [zdanie A] la [zdanie].
+
+> W kontekście [zdania A], [zdanie B].
+
+Najczęściej tłumaczy się to zdanie jako:
+
+> Kiedy [zdanie A], wtedy [zdanie B].
+
+Na przykład:
+
+> moku ni li pona la mi pana e ona tawa sina. — Jeżeli to danie jest dobre,
+> dam ci je.
+
+> ona li moli la ni li ike tawa jan ale. — Jeżeli umrze, będzie to negatywne
+> dla każdego.
+
+Ale użycie „la” nie ogranicza się na tym. Partykuła ta może również zastąpić
+konstrukcje typu „lon [wyrażenie]”, kiedy mowa o miejscu lub czasie (więcej
+informacji na ten temat na [następnej stronie](10.html)).
+
+> o kalama ala lon tomo lipu. — Bądź cicho w bibliotece.
+
+> tomo lipu la o kalama ala. — W bibliotece bądź cicho.
+
+Za pomocą tego wyrazu można również określić perspektywę; podobnie działa
+„tawa”:
+
+> ni li pona tawa mi. — To jest dobre według mnie. / Lubię to.
+
+> mi la ni li pona. — (Z mojego punktu widzenia / według mnie), to jest dobre.
+
+...albo łączyć kilka zdań:
+
+> tan ni la... — Dlatego...
+
+> ni la... — À propos...
+
+> %info%
+> Partykuły „la” można użyć na wiele różnych sposobów, również takich, o których
+> nie wspomniano w tym kursie. Toki pona wielce polega kontekście, dlatego
+> najlepiej jest po prostu „formułować zdania tak, aby się dogadać”.
+
+## Różnice dialektalne
+
+> %info%
+> W tej części wyjaśniono, jak różne kursy toki pony różnią się
+> sposobem wyrażania pewnych idei.
+
+Oficjalna książka, kursy online i moje osobiste upodobania różnią się tym,
+jak stosują interpunkcję w zdaniach z „la”.
+
+W oficjalnej książce przecinek jest umieszczany przed partykułą „la” tylko
+w momencie, kiedy złączone są dwa zdania. W innych przypadkach przecinka nie ma.
+
+Seria filmików „12 days of sona pi toki pona” w ogóle nie używa znaków przestankowych
+(tak samo jest w przypadku kursu „o kama sona e toki pona!”).
+
+Osobiście wolę używać przecinka po „la” z uwagi na estetykę, ale w tym kursie
+interpunkcja jest pomijana. W każdym razie użycie znaków przestankowych
+polega czysto na guście. Jest tak za sprawą tego, że w miejscu, gdzie inne języki
+użyłyby interpunkcji, w toki ponie taki sam zabieg można przeprowadzić korzystając
+z partykuł lub rozbijając zdanie.
+
+## Ćwiczenia
+
+A teraz spróbuj zrozumieć poniższe zdania.
+
+* kulupu pi jan mute li ike tawa mi. 
+* tomo ni la mi toki kepeken toki pona, mi toki kepeken toki Inli.
+* sina moku e soweli lete la ona li ike tawa sijelo sina.
+* kalama musi ona li pona mute.
+* sina kepeken ike e ilo la ona li pakala.
+
+I przetłumacz następujące na toki ponę.
+
+* Jeżeli na dworze jest ciemno, zostań w domu.
+* Ona jest w barze („domu szalonej wody”).
+* Głośna osoba („osoba o głośnych dźwiękach”) mówi dziwne rzeczy.
+* Ta blondynka („kobieta o białych włosach”) jest atrakcyjna.
+* Jeżeli nie będziesz rozmawiać z ludźmi, nie będziesz mieć przyjaciół.
+
+[Odpowiedzi](pl_answers.html#p9)
+
+[Poprzednia strona](pl_8.html) [Pierwsza strona](pl_index.html) [Następna strona](pl_10.html)
