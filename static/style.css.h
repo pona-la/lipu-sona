@@ -137,8 +137,12 @@ th, td {
 	text-decoration: none;
 }
 
-.nav_linkmenu a:hover {
+.nav_linkmenu a:hover, .nav_linkmenu a:focus{
 	background: url("/menu_button_hover.gif");
+}
+
+.nav_linkmenu a:focus {
+	text-decoration: underline 2px;
 }
 
 .nav_linkmenu a:active {
