@@ -13,6 +13,7 @@ minimalist language toki pona.
 [vkvideo]:https://vk.com/video72595_176673
 [peertube]:https://peertube.su/videos/watch/6c900db9-7692-494d-9c65-5866d4cb2e36
 [archive]:https://archive.org/details/art-revolution-konlangi
+[engsubs]:/tokipona/art_revolution_subs.zip
 
 The show's video was [published online][amikeco] by the Esperanto expert who
 appeared in it, Vyacheslav Ivanov, and is also available [on his VK
@@ -21,6 +22,8 @@ page][vkvideo].
 In addition, I published a copy of this video [on PeerTube][peertube], with
 English subtitles created by me, and [on archive.org][archive], where the
 original files are preserved.
+
+* [Download English subtitles][engsubs]
 
 # Russian / Русский
 
@@ -36,3 +39,5 @@ original files are preserved.
 В дополнении к этому, я загрузил копию этого видео [на сервисе
 PeerTube][peertube], где я так же добавил англоязычные субтитры, и [на
 archive.org][archive], где сохраняются оригинальные файлы. 
+
+* [Загрузить англоязычные субтитры][engsubs]
