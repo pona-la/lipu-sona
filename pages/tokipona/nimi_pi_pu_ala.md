@@ -229,3 +229,49 @@ kon pi nimi "tonsi" li kiwen ala. o sona e ni: jan li toki e ni: "mi meli" anu
 "mi mije" anu "mi tonsi" la, o kute e ona. o awen e sona ni. sina toki e ona la,
 o toki ala e sona ike.
 
+## jasima
+
+nimi "**jasima**" li nimi sin.
+
+sinpin ni li lon: sina lukin e ona la, sina ken lukin e sitelen ni: sina en ma
+poka sina li lon ona. sina pali e tawa la, sitelen ni li pali e tawa sama.
+sitelen ni li __jasima__. sinpin li __jasima__ e sina, e poka sina.
+
+selo telo li sama supa la, telo li ken __jasima__ e sewi.
+
+ma pi mute lili la, jan anu ilo li kalama la, kalama sama li kama lon tenpo kama
+lili. kalama ni li kalama __jasima__. ma li __jasima__ e kalama ni.
+
+## lanpan
+
+nimi "**lanpan**" li nimi sin.
+
+jan li __lanpan__ e ijo la, ni li lon: tenpo pini la, ona li jo ala e ijo. tenpo
+ni la, ona li kama jo e ijo. 
+
+ni li ken: tenpo pini la, jan ante li jo e ijo. ona li wile e ni: ona li
+awen jo e ijo.
+
+## linluwi
+
+nimi "**linluwi**" li nimi sin.
+
+ilo sona mute li ken toki tawa ilo sona ante kepeken __linluwi__. lipu mute en
+kalama mute en sitelen tawa mute li lon __linluwi__. ilo li ken linja tawa
+__linluwi__ kepeken nasin mute. 
+
+ilo sona Pisi (PC) en ilo sona Makintosi (Macintosh) en ilo toki Apon (iPhone)
+en ilo toki Antowi (Android) en ilo mute ante li ken pali kepeken __linluwi__. 
+
+lipu ni li lon __linluwi__, li jo e nimi nasin
+`https://rnd.neocities.org/tokipona_nimi_pi_pu_ala.md`.
+
+## misikeke
+
+nimi "**misikeke**" li nimi pi tenpo pini.
+
+__misikeke__ li ijo pi pona sijelo.
+
+sijelo sina li ike la, ni li ken: sina moku anu kepeken e __misikeke__. ona li
+pona e sijelo sina.
+
