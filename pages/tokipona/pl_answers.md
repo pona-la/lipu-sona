@@ -126,10 +126,10 @@
 <h1><a name="p10" id="p10" href="pl_10.html">strona 10</a></h1>
 
 > * Otwórz drzwi.
-> * In a moment, I'll head towards you.
+> * Za chwilę do ciebie przyjdę.
 > * Chcę pojechać do innych krajów.
 > * Czy możesz przyjść do mojego domu?
-> * If you're coming to my house, use Lincoln Street.
+> * Jeżeli idziesz do mojego domu, użyj ulicy Szerokiej.
 > * Kiedy jesteś na wzgórzu, widzisz dużo rzeczy.
 <!---->
 > * sina sona ala sona pali e ona? / sina sona pali e ona anu seme?
@@ -141,13 +141,13 @@
 
 <h1><a name="p11" id="p11" href="pl_11.html">strona 11</a></h1>
 
-> * I would like to trade these three large animals.
-> * Yesterday, I was in school/college/university ("house of knowledge").
-> * One month ago, it was cold.
-> * I like you the most.
-> * The rain continued for 40 days.
+> * Chcę kupić te trzy duże zwierzęta.
+> * Wczoraj byłam w szkole / na uniwersytecie ("dom wiedzy").
+> * Miesiąc temu było zimno.
+> * Ciebie lubię najbardziej.
+> * Deszcz utrzymywał się przez 40 dni.
 <!---->
-> * mi lon tomo nanpa mute luka tu pi nasin Wasintan.
+> * mi lon tomo nanpa mute luka tu pi nasin Lipowa.
 > * ilo pi sitelen tawa li toki e ni: tenpo suno kama la suno li lon.
 > * tenpo pimeja ni la lete li lon.
 > * (tenpo mun / tenpo sike mun) nanpa luka li (pona / suwi).
@@ -155,13 +155,13 @@
 
 <h1><a name="p12" id="p12" href="pl_12.html">strona 12</a></h1>
 
-> * If you want to learn toki pona, the official book is the best way to do so.
-> * Today I feel very good.
-> * Would you want to eat some pizza?
-> * My bed ("sleeping surface") is broken. I can't sleep because of it.
-> * Marie Kondo says: get rid of unnecessary things.
-> * There are three types of matter. These are: solids, liquids and gases.
-> * But the princess is in another castle.
+> * Jeśli chcesz nauczyć się języka toki pona, oficjalna książka jest najlepszym na to sposobem.
+> * Dziś czuję się dobrze.
+> * Czy chcesz zjeść pizzę?
+> * Moje łóżko („powierzchnia do spania”) jest zepsute. Nie mogę przez to spać.
+> * Wyszyński powiedział: trzeba więc [...] porzucić smutki.
+> * Istnieją trzy stany skupienia. Są to: stan stały, ciekły i gazowy.
+> * Ale księżniczka jest w innym zamku.
 <!---->
 > * mi lukin e akesi seli laso suli a!
 > * toki! sina pilin seme?
@@ -169,12 +169,11 @@
 > * mi lukin e lipu. tenpo lili la ona li pini.
 > * mi ken toki pi pona mute kepeken toki pona.
 
-<h1><a name="sp" id="sp" href="sitelen_pona.html">the sitelen pona page</a></h1>
-> This part of this document is written using sitelen pona. Can you understand
-> it?
+<h1><a name="sp" id="sp" href="pl_sitelen_pona.html">strona </a></h1>
+> Ta część dokumentu korzysta z pisma sitelen pona. Rozumiesz je?
 >
-> toki pona has a small number of words. Because of this, it's possible to make
-> a writing system where one character means one word, but all characters look
-> related to their meanings.
+> zasób słownictwa toki pony jest maciupki. Dzięki temu możliwe jest stworzenie
+> pisma, w którym jeden symbol odpowiada jednemu wyrazowi, a każde z tym symboli
+> obrazuje dane znaczenie.
 
-[Back to main page](index.html)
+[Powrót do strony początkowej](pl_index.html)
