@@ -104,7 +104,7 @@ pona"](https://www.youtube.com/watch?v=4L-dvvng4Zc) Митча Хэлли (та�
 * [Эпизод передачи "Арт-Революция" о конлангах](art_revolution.html)
 
 * Сокращённое описание грамматики и словаря токи пона на двух страницах (перевод
- документа от [jan Lini](https://morr.cc/toki-pona-cheat-sheet/): 
+ документа от [jan Lini](https://morr.cc/toki-pona-cheat-sheet/)): 
 
 * * [формат
   PDF](https://rnd.neocities.org/tokipona/toki-pona-cheat-sheet-ru.pdf)
