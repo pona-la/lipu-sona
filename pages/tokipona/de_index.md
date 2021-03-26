@@ -2,9 +2,9 @@
 % /dev/urandom
 % Dezember 2020
 
-Diese Seiten stellen einen Versuch dar, einen Lehrkurs für *Toki Pona* zu gestalten, 
-einer Kunstsprache, die 2001 von Sonja Lang entworfen wurde und über die Jahre von 
-ihr angepasst wurde.
+Diese Seiten stellen einen Versuch dar, einen inoffiziellen Lehrkurs für *Toki
+Pona* zu gestalten, einer Kunstsprache, die 2001 von Sonja Lang entworfen wurde
+und über die Jahre von ihr angepasst wurde.
 
 Die Sprache beruht auf den Ideen eines minimalistischen Designs und der 
 Vereinfachung der eigenen Gedanken, deren komplizierten Konzepte in ihre 
