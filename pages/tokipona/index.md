@@ -7,8 +7,8 @@
 | [Deutsch / toki Tosi](de_index.html) | [Ret "jan Ke Tami" Samys](https://janketami.wordpress.com) |
 | [Русский / toki Losi](ru_index.html) | jan Lentan        |
 
-This is the a series of pages comprising an attempt at an educational course
-about *toki pona*, a constructed language originally designed in 2001 and
+This is the a series of pages comprising an attempt at an unofficial educational
+course about *toki pona*, a constructed language originally designed in 2001 and
 then gradually revised over the years by Sonja Lang.
 
 The language is designed around the ideas of minimalist design and simplifying
