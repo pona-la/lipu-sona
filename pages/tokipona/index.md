@@ -42,8 +42,8 @@ vocabulary features words borrowed from many languages across the world.
 # About this course
 
 There are several good sources for learning toki pona available already. The
-most important (and best, in my opinion), is the [official toki pona
-book](https://tokipona.org/) (also known as "pu") published in 2014 by Sonja
+most important (and best, in my opinion), is the [**official toki pona
+book**](https://tokipona.org/) (also known as "pu") published in 2014 by Sonja
 Lang herself. It is not free, but it's a well-written book with lots of
 additional texts to read, and it explains the language very well.
 

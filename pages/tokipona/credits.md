@@ -19,6 +19,9 @@ course:
   for suggesting a grammar fix on the chess page and submitting a pull request
   that fixed typos on several pages
 
+* **jan Sonja** (Sonja Lang) for, well, creating toki pona itself, as well as
+  suggesting important changes to pages 0, 4 and x1.
+
 Special thanks:
 
 * **jan Misali** (Mitch Halley) for creating the "Conlang Critic" web series,
@@ -26,7 +29,5 @@ Special thanks:
 
 * the participants of the **ma pona pi toki pona** Discord server and the
   **toki pona** Telegram group
-
-* **jan Sonja** (Sonja Lang) for, well, creating toki pona itself
 
 [Top page](index.html)
