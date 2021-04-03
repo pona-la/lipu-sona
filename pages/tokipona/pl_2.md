@@ -1,4 +1,4 @@
-% toki pona: strona 2 — przymiotniki
+% toki pona: strona 2 – przymiotniki
 % /dev/urandom
 % march 2020
 
@@ -18,14 +18,14 @@ Nowe słownictwo na tej lekcji:
 | moku    | jedzenie, danie, jeść            |
 
 > %warning%
-> Słowa na tej stronie opisane są za pomocą podstawowych wyrazów. Ponieważ
+> Słowa na tej stronie opisane są za pomocą podstawowych wyrazów, ponieważ
 > każde słowo w toki ponie może przyjąć formę dowolnej części mowy. Na przykład
-> słowo „utala” może oznaczać „wojowniczy”, „agresywny” czy „rywalizować”,
+> słowo „utala” może oznaczać „wojowniczy”, „agresywny” lub „rywalizować”,
 > a „jan” — „ludność”, „ludowy”, „naród” bądź „narodowy”.
 
 Dodatkowe przymiotniki mogą zostać dodane w celu dokładniejszego zdefiniowania
 podmiotów. W toki ponie przymiotnik stawia się po określanym rzeczowniku.
-W niektórych wypadkach dzieje się tak też w polszczyźnie — na przykład
+W niektórych przypadkach dzieje się tak też w polszczyźnie — na przykład
 w wyrażeniu „chleb razowy” przymiotnik jest na drugim miejscu. W toki ponie
 wygląda to tak:
 
@@ -60,11 +60,11 @@ A oto przykładowe zdania:
 
 > kili suwi li moku pona. — Słodkie owoce to dobre jedzenie.
 
-> jan utala li wawa. — Wojownik („osoba walcząca”) jest silny.
+> jan utala li wawa. — Wojownik („walczący człowiek”) jest silny.
 
-> jan lili mi li suwi. — Moje dzieci („mali ludzie”) są uroczy.
+> jan lili mi li suwi. — Moje dzieci („mali ludzie”) są urocze.
 
-> sowli lili li wawa ala. — Małe zwierzątka nie są silne.
+> soweli lili li wawa ala. — Małe zwierzątka nie są silne.
 
 > %warning%
 > Należy zauważyć, że cząstka „li” jest usuwana tylko wtedy, gdy podmiotem
@@ -73,12 +73,12 @@ A oto przykładowe zdania:
 
 > %info%
 > Oprócz „mije” i „meli”, używa się również wyrazu „tonsi”, odnoszącego się
-> do osób niebinarnych i tych nieuważających się za mężczyznę czy kobietę.
-> Patrz: [dodatek: strona 1](pl_x1.html), aby dowiedzieć się więcej.
+> do osób niebinarnych i nieuważających się za mężczyznę czy kobietę.
+> Patrz: [strona dodatkowa 1](pl_x1.html), aby dowiedzieć się więcej.
 
 ## Ćwiczenia
 
-A teraz spróbuj dowiedzieć się, co oznaczają te zdania:
+A teraz spróbuj zrozumieć, co oznaczają te zdania:
 
 * meli mi li pona.
 * mije sina li suli.
@@ -96,4 +96,4 @@ I przetłumacz poniższe na toki ponę:
 
 [Odpowiedzi](pl_answers.html#p2)
 
-[Poprzednia strona](pl_1.html) [Pierwsza strona](pl_index.html) [Następna strona](pl_3.html)
+[Poprzednia strona](pl_1.html) [Strona początkowa](pl_index.html) [Następna strona](pl_3.html)
