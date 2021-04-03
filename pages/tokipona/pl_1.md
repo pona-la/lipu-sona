@@ -1,4 +1,4 @@
-% toki pona: strona 1 — podstawowe zdania
+% toki pona: strona 1 – podstawowe zdania
 % /dev/urandom
 % marzec 2020
 
@@ -61,4 +61,4 @@ A więc, jak przetłumaczysz poniższe zdania?
 
 [Odpowiedzi](pl_answers.html#p1)
 
-[Poprzednia strona](pl_0.html) [Pierwsza strona](pl_index.html) [Następna strona](pl_2.html)
+[Poprzednia strona](pl_0.html) [Strona początkowa](pl_index.html) [Następna strona](pl_2.html)
