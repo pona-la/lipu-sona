@@ -63,6 +63,9 @@ Według niektórych takie użycie partykuły „e” jest uważane za niekonwenc
 ale za to mniej ogólnikowe. Dla zachowania jasności wariant ten będzie
 stosowany na przestrzeni całego kursu.
 
+W takich przypadkach Sonja Lang używa przyimka „lon”:
+> mi toki lon ijo. — Rozmawiam o czymś.
+
 ## Przykładowe zdania
 
 Oto przykłady zdań korzystających z interesujących wyrażeń:
