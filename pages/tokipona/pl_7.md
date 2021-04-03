@@ -65,16 +65,16 @@ Natomiast na końcu frazy nominalnej słówko to pełni funkcję wołacza.
 
 Oba sposoby można łączyć.
 
-> jan pali o, kepeken e ilo awen! — Pracowniku, używaj wyposażenia ochronnego!
+> jan pali o, kepeken e ilo awen! — Pracowniku, używaj sprzętu ochronnego!
 
 ## Pytania
 
 W toki ponie pytania można formułować na dwa sposoby.
 
-Pytania typu tak/nie buduje się, zaczynając zdanie w zwykły sposób, ale
+Pytania typu tak/nie buduje się zaczynając zdanie w zwykły sposób, ale
 zastępując słowo, o które pytamy, konstrukcją „[słowo] ala [słowo]”.
 
-> sina pona ala pona — Wszystko gra?
+> sina pona ala pona? — Wszystko gra?
 
 W toki ponie nie ma słów na „tak” lub „nie”. Jeżeli chcemy odpowiedzieć
 twierdząco, powtarzamy użyte słowo, a jeśli przecząco — dodajemy do niego „ala”.
@@ -89,8 +89,7 @@ twierdząco, powtarzamy użyte słowo, a jeśli przecząco — dodajemy do niego
 
 > jan lili li moku ala moku? — Czy dzieci jedzą?
 
-Jako alternatywny wariant działa także „anu seme” („czy co?”), które dodaje się
-na końcu zdania.
+Zamiast tego dodać można „anu seme” na końcu zdania.
 
 > sina pona anu seme? — Wszystko gra?
 
@@ -126,13 +125,13 @@ one doczepione do jakiegoś rzeczownika.
 
 > ma tomo Napoli — Neapol (jako miasto)
 
-Nieoficjalnych słów można też użyć jako przymiotniki:
+Nieoficjalnych słów można też użyć jako przymiotników:
 
 > jan Kanata — Kanadyjczyk
 
-Nazwy i imiona można przełożyć na toki ponę w różnoraki sposób. Dlaetego jedno miasto
-czy państwo może posiadać kilka nieoficjalnych nazw. (Istnieją jednak słowniki
-skupiające nazwy państw, miast i języków, i są wolne do użytku).
+Nazwy i imiona można przełożyć na toki ponę w różnoraki sposób. Dlatego jedno miasto
+czy państwo może posiadać kilka nieoficjalnych nazw. (Istnieją jednak darmowe słowniki
+skupiające nazwy państw, miast i języków).
 
 Ponadto użytkownicy toki pony mają wolną rękę w kwestii wyboru swojego
 tokipońskiego imienia. Może być ono stokiponizowaną wersją własnego imienia
@@ -147,7 +146,8 @@ albo czymś zupełnie nowym.
 > Na [stronie 7a] znajdują się informacje na temat tworzenia nieoficjalnych słów.
 
 > %warning%
-> Choć nie jest to idealne rozwiązanie, to czasem dopuszczalne jest użycie rodzimego > słowa bez dostosowywania go do zasad toki pony.
+> Choć nie jest to idealne rozwiązanie, to czasem dopuszczalne jest użycie rodzimego
+> słowa bez dostosowywania go do zasad toki pony.
 > Na przykład osoba do osoby o imieniu Robert można zwrócić się „jan Lope”
 > albo „jan Robert”.
 
@@ -159,7 +159,7 @@ albo czymś zupełnie nowym.
 
 > mi jan San. mi lon ma Mewika. — Jestem John. Mieszkam w USA.
 
-> nimi sina li seme> — Jak się nazywasz?
+> nimi sina li seme? — Jak się nazywasz?
 
 > jan lawa mi li ike mute. — (Mój szef / nasz przywódca) jest bardzo zły.
 
@@ -173,7 +173,7 @@ A teraz spróbuj zrozumieć poniższe zdania.
 > * kulupu Katowise li anpa e kulupu ale ante.
 > * o toki insa ala e ni: jan pali li anpa tawa jan lawa.
 > * sina pali e ni tan seme? 
->  * insa mi li pakala. o pona e mi a!
+> * insa mi li pakala. o pona e mi a!
 
 I przetłumacz następujące na toki ponę.
 
@@ -181,8 +181,8 @@ I przetłumacz następujące na toki ponę.
 > * Nie hałasuj w bibliotece.
 > * Mój szef powiedział, żebym nie spał w biurze.
 > * Twój brat jest bardzo podobny do ciebie.
-> * Nie wychodź na dwór/pole.
+> * Nie wychodź na dwór / na pole.
 
 [Odpowiedzi](pl_answers.html#p7)
 
-[Poprzednia strona](pl_6.html) [Pierwsza strona](pl_index.html) [Następna strona](pl_8.html)
+[Poprzednia strona](pl_6.html) [Strona początkowa](pl_index.html) [Następna strona](pl_8.html)
