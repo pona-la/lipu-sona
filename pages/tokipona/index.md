@@ -137,6 +137,8 @@ language's 120 word dictionary.
 
 * * [ante toki pi jan Pije (jan Pije's translations)](game_patches_jp.html)
 
+* [list of Russian/Ukrainian/Belarusian city names](city_names.html)
+
 ## Software
 
 Here are links to some software that I personally found useful:
