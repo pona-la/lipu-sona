@@ -1,4 +1,4 @@
-% toki pona: strona 3 — czasowniki i dopełnienie
+% toki pona: strona 3 – czasowniki i dopełnienie
 % /dev/urandom
 % marzec 2020
 
@@ -17,13 +17,13 @@ Nowe słownictwo na tej lekcji:
 | telo | woda, ciecz, nawadniać, czyścić |
 | tomo | dom, pokój, budowla |
 
-Najprostsza struktura zdania z czasownika wygląda następująco:
+Najprostsza budowa zdania z czasownikiem wygląda następująco:
 
 > [rzeczownik] li [czasownik]
 
 Przykładowo:
 
-> mije li pali — Mężczyzna pracuje.
+> mije li pali. — Mężczyzna pracuje.
 
 Przymiotniki mogą zostać umieszczone zarówno po rzeczownikach,
 jak i czasownikach. W tym drugim przypadku obejmują funkcję przysłówka.
@@ -40,7 +40,8 @@ jak i czasownikach. W tym drugim przypadku obejmują funkcję przysłówka.
 > może oznaczać „pracuję” bądź „pracowałem”. Istnieje sposób na określenie
 > czasu, ale o tym na przyszłej lekcji.
 
-Dopełnienie zdania, czyli to, na czym wykonywana jest czynność, wymaga dodania partykuły „e” i użycia następującej struktury:
+Dopełnienie zdania, czyli to, na czym wykonywana jest czynność, wymaga
+dodania partykuły „e” i użycia następującej struktury:
 
 > [podmiot] li [czasownik] e [dopełnienie]
 
@@ -53,9 +54,9 @@ Do dopełnienia również można doczepić przymiotnik.
 Oto przykładowe zdania:
 
 > jan pona mi li pona e ilo lukin. — Mój przyjaciel naprawia narzędzie
->do patrzenia (okulary, lornetka, mikroskop, itd.).
+> do patrzenia (okulary, lornetka, mikroskop, itd.).
 
->mi telo e moku. — Ja czyszczę jedzenie.
+> mi telo e moku. — Ja myję jedzenie.
 
 > mi olin e meli mi. — Kocham moją żonę.
 
@@ -88,4 +89,4 @@ A następujące zdania na toki ponę:
 
 [Odpowiedzi](pl_answers.html#p3)
 
-[Poprzednia strona](pl_2.html) [Pierwsza strona](pl_index.html) [Następna strona](pl_4.html)
+[Poprzednia strona](pl_2.html) [Strona początkowa](pl_index.html) [Następna strona](pl_4.html)
