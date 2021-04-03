@@ -12,7 +12,7 @@ Słownictwo na tej lekcji zostanie podzielone na dwie kategorie. Przyimki:
 | tan | z, ponieważ, powód, przyczyna |
 | tawa | do, ku, dla, ruch |
 
-I zwykłe słowa, (które w tym wypadku są związane z miejscem):
+I zwykłe słowa, (które w tym przypadku opisują miejsca):
 
 | słowo | znaczenie |
 |----|----|
@@ -23,8 +23,8 @@ I zwykłe słowa, (które w tym wypadku są związane z miejscem):
 | sinpin | twarz, przód, ściana |
 
 Przyimki to słowa przymocowane do innych części zdania. Używa się ich
-w celu określenia położenia lub czasu, (więcej o tym w przyszłości),
-lub doprecyzowania informacji na temat danej czynności.
+w celu określenia położenia lub czasu, (więcej na ten temat dowiesz
+się później), lub doprecyzowania informacji na temat danej czynności.
 
 W toki ponie słowa „kepeken”, „lon”, „sama”, „tan” i „tawa” pełnią rolę
 przyimków. Dodaje się je na końcu zdania, nie dokładając do tego żadnych
@@ -33,12 +33,12 @@ partykuł.
 W poniższych przykładach użyto te pięć słów zarówno jako przyimki,
 jak i zwykłe słowa.
 
-> mi pona e tomo kepeken ilo mi. – Naprawiam dom, używając swoich narzędzi,
+> mi pona e tomo kepeken ilo mi. – Naprawiam dom, używając swoich narzędzi.
 
 > mi toki kepeken toki pona. – Mówię, posługując się toki poną.
 
 > sina kepeken e ilo sitelen. – Używasz narzędzia do malowania/rysowania
-> (długomis, ołówek, pędzel).
+> (długopis, ołówek, pędzel).
 
 > mi lon tomo sina. – Jestem w twoim domu.
 
@@ -48,7 +48,7 @@ jak i zwykłe słowa.
 > ona li toki e ijo lon. – On/ona/oni/one mówią prawdę („mówią o istniejących
 > rzeczach”).
 
-> mi en sina li sama. – Ty i ja jesteśmy podobni.
+> mi en sina li sama. – Ja i ty jesteśmy podobni.
 
 > meli sama mi li pona. – Moja siostra jest dobra.
 
@@ -79,7 +79,7 @@ Oto przykłady słów związanych z miejscem:
 
 > mi awen lon tomo mi. – Zostaję w moim domu.
 
-> mi toki tawa jan sewi. – Mówię do (boga/anioła/istoty boskiej/(dosłownie) osoby na/w niebie).
+> mi toki tawa jan sewi. – Mówię do boga/anioła/istoty boskiej/(dosłownie) osoby na/w niebie.
 
 > mi tawa kepeken noka mi. – Idę pieszo („używając moich nóg”).
 
@@ -91,7 +91,7 @@ Oto przykłady słów związanych z miejscem:
 
 > poka mi li pakala. – Mam złamane biodro.
 
-> ona li lon monsi sina. – Oni są za tobą.
+> ona li lon monsi sina. – Oni stoją za tobą.
 
 > jan utala mute li lon sinpin. – Wojownicy stoją przede mną.
 
@@ -110,8 +110,8 @@ Jeżeli wychodzi ktoś inny, pożegnasz go tak:
 
 > tawa pona! – Do widzenia! (dosłownie: „dobrej podróży!”)
 
-W rzeczywistości istnieje wiele słów, które po dodaniu słówka „pona”
-zamieniają się w wyrażenia.
+W rzeczywistości istnieje wiele słów, które zmieniają się we frazy,
+gdy dodamy wyraz „pona”.
 
 > moku pona! – Smacznego! (dosłownie: „dobrego posiłku!”)
 
@@ -157,7 +157,7 @@ bezpośrednio następuje słówko „e”, jak w przypadku każdego innego czaso
 
 W tym kursie stosować będziemy tej drugiej konwencji, jako że jest ona bardziej
 precyzyjna i pozwala na użycie większej ilości technik gramatycznych (przykładowo
-jaśniej można korzystać z modyfikatorów następujących po wyrazie „kepeken”).
+jaśniej można korzystać z przydawek następujących po wyrazie „kepeken”).
 Jednakże w większości zdań obecność partykuły „e” lub jej brak nie powinien
 powodować zamieszania.
 
@@ -181,4 +181,4 @@ A następnie przetłumacz następujące zdania na toki ponę:
 
 [Odpowiedzi](pl_answers.html#p6)
 
-[Poprzednia strona](pl_5.html) [Pierwsza strona](pl_index.html) [Następna strona](pl_7.html)
+[Poprzednia strona](pl_5.html) [Strona początkowa](pl_index.html) [Następna strona](pl_7.html)
