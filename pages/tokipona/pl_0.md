@@ -5,12 +5,12 @@
 Język *toki pona* używa tylko czternastu liter alfabetu łacińskiego. Wszystkie
 z nich mają logiczną i spójną wymowę.
 
-Oto alfabet toki pony: a,e,i,j,k,l,m,n,o,p,s,t,u,w.
+Oto alfabet toki pony: a, e, i, j, k, l, m, n, o, p, s, t, u, w.
 
 Wszystkie słowa w toki ponie zapisywane są małymi literami, nawet na początku zdania.
 
 Większość słów toki pony czytana jest podobnie, jak w języku polskim. Jedynym wyjątkiem
-jest „w” wymawiane w toki ponie jak polskie „ł”.
+jest „w” wymawiane jak polskie „ł”.
 
 > %info%
 > Międzynarodowy Alfabet Fonetyczny (IPA lub spolszczone MAF) jest popularnym wśród lingwistów
@@ -42,4 +42,4 @@ Oto kilka z nich:
 | oko       | oko                       | oko         |
 | poka      | boka _(dopełniacz od „bok”)_ | boku _(od „bok”)_|
 
-[Pierwsza strona](pl_index.html) [Następna strona](pl_1.html)
+[Strona początkowa](pl_index.html) [Następna strona](pl_1.html)
