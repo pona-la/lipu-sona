@@ -30,14 +30,14 @@ Wyraz „mute” pozwala określić liczbę podmiotu i dopełnienia.
 
 > jan utala mute. – Wielu żołnierzy.
 
-> mi mute – my, nas
+> mi mute – my
 
 Oto przykładowe zdania:
 
 > jan lili mute li lape. – Dzieci śpią.
 
-> kiwen suli li pakala e tomo lipu. – Wielki kamień uszkodził bibliotekę
->(„dom książek”).
+> kiwen suli li pakala e tomo lipu. – Wielki kamień zniszczył bibliotekę
+> („dom książek”).
 
 > mi pakala lili. – Popełniłem drobny błąd.
 
@@ -49,8 +49,8 @@ Najprostszym użyciem słowa „ni” jest użycie go w znaczeniu „to” lub �
 
 > kulupu ni li pona mute. – Ta społeczność jest bardzo dobra.
 
-Ale użycie ów słówka nie ogranicza się tylko do tego, albowiem może być ono
-używane do budowania wielu bardziej złożonych zdań.
+Jednak to słowo jest znacznie potężniejsze.
+Może być wykorzystane do tworzenia zdań złożonych.
 
 Na przykład można go użyć, by przytoczyć czyjąś wypowiedź:
 
@@ -72,7 +72,7 @@ ma dużo kamieni”.)
 > sposobem wyrażania pewnych idei.
 
 Nie ma żadnego konsensusu na temat tego, czy słowo „en” może zostać
-użyte pośród wyrażeń korzystających z partykuły „pi” (dowiemy się
+użyte wśród wyrażeń korzystających z partykuły „pi” (dowiemy się
 o niej na [stronie 9](9.html)). Ponadto, sama Sonja Lang przyznała,
 że użycie wyrazu „en” w ten sposób nie jest „całkowicie niepoprawne",
 ale nieeleganckie stylistycznie.
@@ -97,4 +97,4 @@ A poniższe na toki ponę.
 
 [Odpowiedzi](pl_answers.html#p5)
 
-[Poprzednia strona](pl_4.html) [Pierwsza strona](pl_index.html) [Następna strona](pl_6.html)
+[Poprzednia strona](pl_4.html) [Strona początkowa](pl_index.html) [Następna strona](pl_6.html)
