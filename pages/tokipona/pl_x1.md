@@ -78,7 +78,7 @@ Słowo „kapesi” określało kolory takie jak szary i brązowy, a czasem też
 Koniec końców zostało ono usunięte, ponieważ wyrażenia „pimeja walo” i „pimeja jelo”
 równie dobrze opisują te kolory.
 
-Słowo „majula”, czyli „stary”, również zostało usunięte we wczesnych dniach toki pony.
+Słowo „majuna”, czyli „stary”, również zostało usunięte we wczesnych dniach toki pony.
 Ponieważ starość może być stosunkowo łatwo opisana za pomocą wyrazów związanych
 z czasem, słowo to wyszło z powszechnego użytku. Oto kilka przykładów:
 
@@ -86,13 +86,14 @@ z czasem, słowo to wyszło z powszechnego użytku. Oto kilka przykładów:
 
 > tenpo mute la ona mute li lon. — Istnieją od dłuższego czasu / od dawna.
 
-Słowo „pasila” niegdyś oznaczało „łatwy”, ale ostatecznie znaczenie to stało się 
-jednym z tłumaczeń wyrazu „pona”.
+Słowo „pasila” było odrębnym słowem oznaczającym „łatwy”, ale zostało usunięte
+ze słownika toki pony zanim jeszcze ukazała się pierwsza publiczna wersja strony
+internetowej w 2001 roku.
 
-Słowo „pake” było czasownikiem tłumaczonym jako „zaprzestać” i zaczerpniętym z 
-angielskiego „to block”. W ostateczności je usunięto, z uwagi na to, że tę samą 
-czynność można opisać słowem „pini” („przestać”, „ukończyć”) lub „awen” („trwać”, 
-„stać”).
+Słowo „pake” było czasownikiem tłumaczonym jako „zaprzestać” i zaczerpniętym ze słowa
+„barrer” pochądzącego z akadiańskiego francuskiego. W ostateczności je usunięto
+z uwagi na to, że tę samą czynność można opisać słowem „pini” („przestać”, „ukończyć”)
+lub „awen” („trwać”, „stać”).
 
 Słowo „pata” oznaczało rodzeństwo, ale dziś zamiast tego można je wyrazić jako „jan 
 sama”.
