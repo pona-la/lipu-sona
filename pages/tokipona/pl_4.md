@@ -1,4 +1,4 @@
-% toki pona: strona 4 — o nie! więcej słownictwa
+% toki pona: strona 4 – o nie! więcej słownictwa
 % /dev/urandom
 % marzec 2020
 
@@ -50,8 +50,8 @@ Niestety taka konstrukcja bywa niejasna, na przykład wtedy, gdy do wyrazu
 „toki” rzeczywiście chcemy dołączyć przymiotnik. Czy „toki ike” oznacza
 „źle mówić (o kimś)”, czy „mówić o złu”?
 
-Oficjalna książka nie wyraziła się jasno w tej sprawie, ale wyrażenie "toki e ijo"
-jest tłumaczone jako „komunikować coś”, a „toki wawa” - jako „zeznawać”,
+W oficjalnej książce nie zawarto jasnego wyjaśnienia, ale wyrażenie "toki e ijo"
+jest tłumaczone jako „komunikować coś”, a „toki wawa” — jako „zeznawać”,
 a nie „mówić o mocy”.
 
 Rozszerzona wersja tego podejścia — powszechnie stosowana
@@ -128,4 +128,4 @@ Oraz poniższe na toki ponę:
 
 [Odpowiedzi](pl_answers.html#p4)
 
-[Poprzednia strona](pl_3.html) [Pierwsza strona](pl_index.html) [Następna strona](pl_5.html)
+[Poprzednia strona](pl_3.html) [Strona początkowa](pl_index.html) [Następna strona](pl_5.html)
