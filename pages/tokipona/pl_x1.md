@@ -21,7 +21,7 @@ Założeniem języka toki pona jest minimalizacja liczby wyrazów i pozbycie si�
 konceptów, przez co oczywiście niestandardowe sposoby użycia mogą budzić kontrowersje.
 Spróbuję wyrazić własną opinię na temat tych wyrazów na liście.
 
-## Złączone słowa: kin, namako i oko
+## Ujednolicone słowa: kin, namako i oko
 
 Zanim opublikowana została książka toki pony, w użyciu było kilka słów, których
 znaczenie pokrywało się z innymi wyrazami. Nie zostały one usunięte, ale mianowano
