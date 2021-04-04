@@ -36,7 +36,7 @@ oznacza on „kłonić się”:
 
 Słowo „anu” samo w sobie oznacza „lub”:
 
-> ona li pona mute anu ike mute. mi sona ala. — Jest (albo) bardzo dobrze, albo bardzo źle. Nie wiem.
+> ona li pona mute anu ike mute. mi sona ala. — Jest (albo) bardzo dobry, albo bardzo zły. Nie wiem.
 
 ## Zdania wykrzyknikowe i rozkazujące
 
