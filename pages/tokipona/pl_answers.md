@@ -159,7 +159,7 @@
 > * Dziś czuję się dobrze.
 > * Czy chcesz zjeść pizzę?
 > * Moje łóżko („powierzchnia do spania”) jest zepsute. Nie mogę przez to spać.
-> * Wyszyński powiedział: trzeba więc [...] porzucić smutki.
+> * Maryla Rodowicz zaśpiewała: „porzuć płonne swe nadzieje”.
 > * Istnieją trzy stany skupienia. Są to: stan stały, ciekły i gazowy.
 > * Ale księżniczka jest w innym zamku.
 <!---->
