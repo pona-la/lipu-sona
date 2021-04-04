@@ -74,14 +74,3 @@ name.
 | Мінск              | Minsk              | ma tomo Minku                     |
 | Барысаў            | Barysaŭ / Borisov  | ma tomo Palisu                    |
 | Салігорск          | Salihorsk / Soligorsk | ma tomo Salikosu               |
-|                    |                    |                                   |
-|                    |                    |                                   |
-|                    |                    |                                   |
-|                    |                    |                                   |
-|                    |                    |                                   |
-|                    |                    |                                   |
-|                    |                    |                                   |
-|                    |                    |                                   |
-|                    |                    |                                   |
-|                    |                    |                                   |
-|                    |                    |                                   |
