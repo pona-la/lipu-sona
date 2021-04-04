@@ -1,0 +1,184 @@
+% toki pona: strona 6 – przyimki i miejsca
+% /dev/urandom
+% marzec 2020
+
+Słownictwo na tej lekcji zostanie podzielone na dwie kategorie. Przyimki:
+
+| słowo | znaczenie |
+|----|----|
+| kepeken | używać, używając, przy pomocy |
+| lon | w, przy, na, u, prawdziwy, istniejący, istnieć |
+| sama | taki sam, podobny, rodzeństwo |
+| tan | z, ponieważ, powód, przyczyna |
+| tawa | do, ku, dla, ruch |
+
+I zwykłe słowa, (które w tym przypadku opisują miejsca):
+
+| słowo | znaczenie |
+|----|----|
+| sewi | u góry, niebo, boski, święty |
+| noka | noga, stopa, dół, spód, pod |
+| poka | biodro, bok, obok, w pobliżu, koło |
+| monsi | tył, plecy, tyłek |
+| sinpin | twarz, przód, ściana |
+
+Przyimki to słowa przymocowane do innych części zdania. Używa się ich
+w celu określenia położenia lub czasu, (więcej na ten temat dowiesz
+się później), lub doprecyzowania informacji na temat danej czynności.
+
+W toki ponie słowa „kepeken”, „lon”, „sama”, „tan” i „tawa” pełnią rolę
+przyimków. Dodaje się je na końcu zdania, nie dokładając do tego żadnych
+partykuł.
+
+W poniższych przykładach użyto te pięć słów zarówno jako przyimki,
+jak i zwykłe słowa.
+
+> mi pona e tomo kepeken ilo mi. – Naprawiam dom, używając swoich narzędzi.
+
+> mi toki kepeken toki pona. – Mówię, posługując się toki poną.
+
+> sina kepeken e ilo sitelen. – Używasz narzędzia do malowania/rysowania
+> (długopis, ołówek, pędzel).
+
+> mi lon tomo sina. – Jestem w twoim domu.
+
+> jan ike li kalama mute lon tomo lipu. – Zły człowiek dużo hałasuje
+> w bibliotece.
+
+> ona li toki e ijo lon. – On/ona/oni/one mówią prawdę („mówią o istniejących
+> rzeczach”).
+
+> mi en sina li sama. – Ja i ty jesteśmy podobni.
+
+> meli sama mi li pona. – Moja siostra jest dobra.
+
+> kiwen lili li sama lukin pipi. – Kamyczek wygląda jak robak.
+
+> mi lape tan ni: mi jo ala e wawa. – Śpię, ponieważ nie mam energii.
+
+> mi tawa tan tomo mi. – Wychodzę z domu.
+
+> ona li awen lon tomo lipu. – Zostali w bibliotece.
+
+> tomo tawa mi li pona. – Mój samochód („ruchomy dom”) jest dobry.
+
+> mi tawa tomo moku. – Idę do restauracji („dom jedzenia”).
+
+Za pomocą słowa „tawa” można również wyrazić perspektywę.
+
+> sina pona tawa mi. – Lubię cię. („Jesteś dobry/-a według mnie”.)
+
+> %warning%
+> „tawa” może funkcjonować zarówno jako przymiotnik i przyimek, wskutek
+czego może dojść do niejasności. Na przykład „tomo tawa mi” może znaczyć
+„moje auto” albo „według mnie dom”. Znaczenie zależy tu od kontekstu.
+
+Oto przykłady słów związanych z miejscem:
+
+> waso mute li lon sewi. – Wiele ptaków jest na niebie.
+
+> mi awen lon tomo mi. – Zostaję w moim domu.
+
+> mi toki tawa jan sewi. – Mówię do boga/anioła/istoty boskiej/(dosłownie) osoby na/w niebie.
+
+> mi tawa kepeken noka mi. – Idę pieszo („używając moich nóg”).
+
+> kiwen lili li lon noka mi. – Pode mną jest mały kamyk.
+
+> mi tawa lon poka sina. – Idę obok ciebie („u twojego boku”).
+
+> jan poka li ike tawa mi. – Nie lubię swojego sąsiada.
+
+> poka mi li pakala. – Mam złamane biodro.
+
+> ona li lon monsi sina. – Oni stoją za tobą.
+
+> jan utala mute li lon sinpin. – Wojownicy stoją przede mną.
+
+> lipu suli li lon sinpin ni. – Ważny dokument wisi/jest na tej ścianie.
+
+> sinpin ona li pona lukin. – Jego twarz wygląda dobrze.
+
+## Wyrażenia
+
+W toki ponie można pożegnać się na dwojaki sposób. Jeżeli to ty wychodzisz,
+użyjesz tego wyrażenia:
+
+> mi tawa! – Do widzenia! (dosłownie: „idę!”)
+
+Jeżeli wychodzi ktoś inny, pożegnasz go tak:
+
+> tawa pona! – Do widzenia! (dosłownie: „dobrej podróży!”)
+
+W rzeczywistości istnieje wiele słów, które zmieniają się we frazy,
+gdy dodamy wyraz „pona”.
+
+> moku pona! – Smacznego! (dosłownie: „dobrego posiłku!”)
+
+> lape pona! – Dobranoc! (dosłownie: „dobrego snu!”)
+
+Istnieje również pewne wyrażenie, które może posłużyć jako uniwersalne
+pozdrowienie. Do takich zaliczają się między innymi „dziękuję” czy
+„pokój z tobą”:
+
+> pona tawa sina! (dosłownie: „dobro ku tobie!”)
+
+## Różnice dialektalne
+
+> %info%
+> W tej części wyjaśniono, jak różne kursy toki pony różnią się
+> sposobem wyrażania pewnych idei.
+
+* W oficjalnej książce słowo „lon” ma szersze znaczenie, w tym „z” i „po”.
+Na przykład „Mówię w języku toki pona” tłumaczy się jako „mi toki lon toki pona”.
+Jednakże takiego użycia tego słowa nie spotyka się zbyt często.
+
+* Według oficjalnej książki słowo „noka” może oznaczać zarówno „stopa” jak i
+„poniżej”. Drugie znaczenie tego wyrazu jest stosunkowo nowe. W innych kursach
+to samo znaczenie osiąga się przy użyciu słowa „anpa”, podczas gdy „noka”
+oznacza tylko stopę lub nogę. Wyraz „anpa” omówimy na [stronie 7](pl_7.html).
+
+* Czasami słowa „kepeken” i „tawa” są używane zarówno jako przyimki (kolejno
+„przy użyciu” i „w kierunku”) oraz czasowniki („używać”, „poruszać się”).
+Oficjalna książka podaje przykład użycia wyrazu „kepeken” jako czasownik:
+
+> o kepeken ala ilo ike. – Nie używaj złych narzędzi.
+
+Ale w społeczności toki pony nadal dodaje się partykułę „e”, jako że „kepeken”
+jest czasownikiem przechodnym, a nie przyimkiem.
+
+> mi kepeken e ilo. – Używam narzędzi.
+
+(Metody tej użyto również w kursie "o kama sona e toki pona!")
+
+Różnica polega na tym, że we wcześniejszym przykładzie dopełnienie („ilo ike”)
+jest poprzedzone wyrażeniem „kepeken ala”. W późniejszym przykładzie po „kepeken”
+bezpośrednio następuje słówko „e”, jak w przypadku każdego innego czasownika.
+
+W tym kursie stosować będziemy tej drugiej konwencji, jako że jest ona bardziej
+precyzyjna i pozwala na użycie większej ilości technik gramatycznych (przykładowo
+jaśniej można korzystać z przydawek następujących po wyrazie „kepeken”).
+Jednakże w większości zdań obecność partykuły „e” lub jej brak nie powinien
+powodować zamieszania.
+
+## Ćwiczenia
+
+A teraz spróbuj przetłumaczyć poniższe zdania na polski.
+
+* ona li toki tawa mama mije ona kepeken ilo toki.
+* moku suwi li ike tawa mi.
+* ma mama mi li utala e ma poka.
+* meli sama sina li jan pona mi.
+* pipi lili li lon sinpin sina.
+
+A następnie przetłumacz następujące zdania na toki ponę:
+
+* Zniszczyłeś mój samochód.
+* Mężczyzna karmi dzieci („daje dzieciom jeść”).
+* Nie podoba mi się ten czat („pokój rozmów”).
+* Naprawiłem dom dzięki tobie.
+* Oni czytają książki w bibliotece.
+
+[Odpowiedzi](pl_answers.html#p6)
+
+[Poprzednia strona](pl_5.html) [Strona początkowa](pl_index.html) [Następna strona](pl_7.html)
