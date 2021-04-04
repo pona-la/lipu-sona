@@ -7,7 +7,7 @@
 > страницы переведены, но могут быть стилистические ошибки или
 > недопущения)
 
-Ta seria jest swego rodzaju kursem edukacyjnym na temat języka toki pona —
+Ta seria jest swego rodzaju nieoficjalnym kursem edukacyjnym na temat języka toki pona —
 języka sztucznego stworzonego w roku 2001, a następnie korygowanego na przestrzeni
 wielu lat przez Sonję Lang.
 
