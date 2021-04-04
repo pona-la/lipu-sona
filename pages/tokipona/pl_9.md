@@ -1,4 +1,4 @@
-% toki pona strona 9 — kontekst i złożone przymiotniki
+% toki pona: strona 9 – kontekst i złożone przymiotniki
 % /dev/urandom
 % marzec 2020
 
@@ -27,7 +27,7 @@ dodawane są do wcześniejszej grupy wyrazów jedna po drugiej. Na przykład:
 
 > jan wawa ala — brak silnych osób
 
-Jeżeli chceszc powiedzić „słaba osoba”, musisz zaprzeczyć słowu „wawa”, nie — „jan”.
+Jeżeli chcesz powiedzić „słaba osoba”, musisz zaprzeczyć słowu „wawa”, nie — „jan”.
 I tutaj wkracza „pi”.
 
 > jan pi wawa ala — słaba osoba („osoba o braku siły”)
@@ -46,7 +46,7 @@ Partykuła ta może być również zastosowana w utartych zestawieniach wyrazowy
 
 > %info%
 > Jeżeli wolisz używać składni „toki [przymiotnik]”, gdy chcesz określasz temat rozmowy
-> (tak jak pokazano na [stronie 4](pl_4.html)), „pi” przyda się w określaniu tematu
+> (tak jak to pokazano na [stronie 4](pl_4.html)), „pi” przyda się w określaniu tematu
 > rozmowy, który wymaga kilku słów, by go opisać. Przykładowo:
 >
 > > sina toki pi ma tomo mama sina. — Mówisz o swoim rodzinnym mieście.
@@ -61,7 +61,7 @@ Włącznie ze zdaniami używającymi nieoficjalnych słów.
 
 Słówka „la” możemy użyć, aby zbudować zdania warunkowe oraz by wprowadzić kontekst. Oba te zabiegi przeprowadza się łącząc dwa zdania w jedno.
 
-> [zdanie A] la [zdanie].
+> [zdanie A] la [zdanie B].
 
 > W kontekście [zdania A], [zdanie B].
 
@@ -79,9 +79,9 @@ Na przykład:
 
 Ale użycie „la” nie ogranicza się na tym. Partykuła ta może również zastąpić
 konstrukcje typu „lon [wyrażenie]”, kiedy mowa o miejscu lub czasie (więcej
-informacji na ten temat na [następnej stronie](10.html)).
+informacji na ten temat na [następnej stronie](pl_10.html)).
 
-> o kalama ala lon tomo lipu. — Bądź cicho w bibliotece.
+> o kalama ala lon tomo lipu. — Nie hałasuj w bibliotece.
 
 > tomo lipu la o kalama ala. — W bibliotece bądź cicho.
 
@@ -120,7 +120,7 @@ Seria filmików „12 days of sona pi toki pona” w ogóle nie używa znaków p
 
 Osobiście wolę używać przecinka po „la” z uwagi na estetykę, ale w tym kursie
 interpunkcja jest pomijana. W każdym razie użycie znaków przestankowych
-polega czysto na guście. Jest tak za sprawą tego, że w miejscu, gdzie inne języki
+jest kwestią gustu. Jest tak za sprawą tego, że w miejscu, gdzie inne języki
 użyłyby interpunkcji, w toki ponie taki sam zabieg można przeprowadzić korzystając
 z partykuł lub rozbijając zdanie.
 
@@ -144,4 +144,4 @@ I przetłumacz następujące na toki ponę.
 
 [Odpowiedzi](pl_answers.html#p9)
 
-[Poprzednia strona](pl_8.html) [Pierwsza strona](pl_index.html) [Następna strona](pl_10.html)
+[Poprzednia strona](pl_8.html) [Strona początkowa](pl_index.html) [Następna strona](pl_10.html)
