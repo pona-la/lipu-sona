@@ -5,6 +5,7 @@
 | Translations / ante toki             | Author / jan pali |
 |--------------------------------------|-------------------|
 | [Deutsch / toki Tosi](de_index.html) | [Ret "jan Ke Tami" Samys](https://janketami.wordpress.com) |
+| [Polski / toki Posuka](pl_index.html) | Maksymilian Król (jan Otele) |
 | [Русский / toki Losi](ru_index.html) | jan Lentan        |
 
 This is the a series of pages comprising an attempt at an unofficial educational

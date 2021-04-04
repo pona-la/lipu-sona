@@ -2,11 +2,6 @@
 % /dev/urandom
 % marzec 2020
 
->%info%
-> Теперь курс также доступен [на русском языке](ru_index.html)! (все основные
-> страницы переведены, но могут быть стилистические ошибки или
-> недопущения)
-
 Ta seria jest swego rodzaju nieoficjalnym kursem edukacyjnym na temat języka toki pona —
 języka sztucznego stworzonego w roku 2001, a następnie korygowanego na przestrzeni
 wielu lat przez Sonję Lang.
