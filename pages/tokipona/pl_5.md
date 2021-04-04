@@ -1,4 +1,4 @@
-% toki pona: strona 5 – to i tamto
+% toki pona: strona 5 – to i owo
 % /dev/urandom
 % march 2020
 
