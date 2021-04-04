@@ -30,27 +30,27 @@ niektóre koncepje, trzeba skonstruować nowe frazy lub wyrazić je innymi słow
 Różne osoby mogą opisywać te same podstawowe rzeczy w zupełnie odmienny sposób.
 Jest to częścią idei ów języka. Nawet niektóre zasady gramatyki bywają interpretowane
 na różny sposób przez różne osoby — czy to ze względu na ich mowę ojczystą, czy może
-na preferencje dokładniejszej komunikacji swoich myśli.
+na preferencje dotyczące dokładniejszej komunikacji swoich myśli.
 
 Ponadto, toki pona została zaprojektowana tak, by być łatwa w użytkowaniu, bez względu
 na czyjś ojczysty język. Głoski oraz struktura sylab toki pony są dobrane tak,
-by mogły być proste w wymówieniu przez użytkowników różnych języków.
+by mogły być łatwe w wymowie dla użytkowników różnych języków.
 
 # Informacje o tym kursie
 
 Istnieje już wiele źródeł, dzięki których można nauczyć się toki pony. Najważniejszą,
 i — według mnie — najlepszą, jest opublikowana przez Sonję Lang w 2014 roku 
-[oficjalna ksiązka toki pony](https://tokipona.org/) (zwana również „pu”).
-Nie jest za darmo, ale jest to dobrze napisana książka z dużą ilością teksów
+[oficjalna książka toki pony](https://tokipona.org/) (zwana również „pu”).
+Nie jest za darmo, ale jest dobrze napisana i obfituje w szereg tekstów
 do przeczytania, i — co najważniejsze — dobrze radzi sobie z objaśnianiem języka.
 
 Warta uwagi jest również seria filmików [„12 days of sona pi toki pona”](https://www.youtube.com/watch?v=4L-dvvng4Zc)
-(12 dni nauki toki pony) Mitcha Halleya („jan Misali”) na YouTubie. Obejmuje on cały język w
-12 krótkich filmach, z których każdy zawiera 10 słów z oficjalnego słownika
+(12 dni nauki toki pony) Mitcha Halleya („jan Misali”) na YouTubie. Obejmuje ona cały język w
+dwunastu krótkich filmach, z których każdy zawiera 10 słów z oficjalnego słownika
 (psst: inspirowałem się nią, tworząc swoją stronę).
 
-Jednym ze starszych i bardziej wpływowych (ale obecnie niedostępnych)
-zasobów internetowych był również internetowy kurs „o kama sona e toki pona”
+Jednym ze starszych i bardziej wpływowych, (ale obecnie niedostępnych)
+zasobów internetowych był również internetowy kurs „o kama sona e toki pona”,
 (co oznacza „naucz się toki pony!”) Bryanta Knighta ("jan Pije").
 Przed przejściem twórcy na emeryturę była to jedna z najwcześniejszych stron
 toki pony dostępnych online. W związku z tym miała pewne różnice w sposobie użycia
@@ -71,40 +71,40 @@ w słowniku toki pony.
 
 ### Kurs
 
-* [strona 0 — ortografia i wymowa](pl_0.html)
+* [strona 0 – ortografia i wymowa](pl_0.html)
 
-* [strona 1 — podstawowe zdania](pl_1.html)
+* [strona 1 – podstawowe zdania](pl_1.html)
 
-* [strona 2 — przymiotniki](pl_2.html)
+* [strona 2 – przymiotniki](pl_2.html)
 
-* [strona 3 — czasowniki i dopełnienie](pl_3.html)
+* [strona 3 – czasowniki i dopełnienie](pl_3.html)
 
-* [strona 4 — o nie! więcej słownictwa](pl_4.html)
+* [strona 4 – o nie! więcej słownictwa](pl_4.html)
 
-* [strona 5 — to i tamto](pl_5.html)
+* [strona 5 – to i owo](pl_5.html)
 
-* [strona 6 — przyimki oraz położenie](pl_6.html)
+* [strona 6 – przyimki oraz położenie](pl_6.html)
 
-* [strona 7 — zdania wykrzyknikowe, pytające, rozkazujące i imiona](pl_7.html)
+* [strona 7 – zdania wykrzyknikowe, pytające, rozkazujące i imiona](pl_7.html)
 
-* * [strona 7a — więcej na temat budowania nieoficjalnych słów](pl_7a.html)
+* * [strona 7a – więcej na temat budowania nieoficjalnych słów](pl_7a.html)
 
-* [strona 8 — język pełen barw](pl_8.html)
+* [strona 8 – język pełen barw](pl_8.html)
 
-* [strona 9 — kontekst i złożone przymiotniki](pl_9.html)
+* [strona 9 – kontekst i złożone przymiotniki](pl_9.html)
 
-* [strona 10 — czasowniki posiłkowe, czas i miejsce](pl_10.html)
+* [strona 10 – czasowniki posiłkowe, czas i miejsce](pl_10.html)
 
-* [strona 11 — liczebniki](pl_11.html)
+* [strona 11 – liczebniki](pl_11.html)
 
-* [strona 12 — to już jest koniec](pl_12.html)
+* [strona 12 – to już jest koniec](pl_12.html)
 
 ### Dodatki
 
-* [dodatek: strona 1 — słowa stare i nowe](pl_x1.html)
+* [dodatek: strona 1 – słowa stare i nowe](pl_x1.html)
 
-* [dodatek: strona 2 — other writing systems](pl_x2.html)
-* * [sitelen pona](sitelen_pona.html)
+* [dodatek: strona 2 – other writing systems](pl_x2.html)
+* * [sitelen pona](pl_sitelen_pona.html)
 
 * [słownik](pl_dictionary.html)
 
