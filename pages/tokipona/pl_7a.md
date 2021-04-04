@@ -1,4 +1,4 @@
-% page 7a — więcej na temat budowania nieoficjalnych słów
+% strona 7a — więcej na temat budowania nieoficjalnych słów
 % /dev/urandom
 % marzec 2020
 
@@ -26,7 +26,7 @@ Oto spis wszystkich dozwolonych sylab:
 |wa |we |wi |   |   |wan|wen|win|   |   |
 
 Istnieje jeszcze jedna zasada: zaraz po samołgłosce nie może nastąpić kolejna
-samogłoska, a zaraz po głosce „n” nie może nastąpić „m” ani kolejne „m”.
+samogłoska, a zaraz po głosce „n” nie może nastąpić „m” ani kolejne „n”.
 
 > %info%
 > Zasada z „n” i „m” nie została wspomniana w oficjalnej książce,
@@ -40,18 +40,18 @@ przekształcono w „ma tomo Sakata”.
 | spółgłoska | odpowiadająca głoska |
 |:----:|:----|
 | k | „k”, „g”, polskie „h”, francuskie „r” |
-| l | „l”, polskie „r” czasem angielskie „r” |
+| l | „l”, polskie „r”, czasem angielskie „r” |
 | m | „m” |
 | n | „n”, „m” na końcu sylaby |
 | p | „p”, „b”, „f”, czasem „w” |
 | s | „s”, „z”, „dż”, „cz”, „sz”, „rz/ż”, „c”, „ks” |
-| t | „t”, „d”, „dź/dzi” |
+| t | „t”, „d”, „dź” |
 | w | „w”, „ł”, często angielskie „r” |
 
 Jeżeli w jakimś słowie występuje kilka spółgłosek pod rząd, najlepiej
 zostawić tylko jedną. Ewentualnie można zrobić z nich osobne sylaby.
 
-Jeśli chcemy dodać spółgłoskę ze względu na skupisko dwóch samogłosek,
+Jeśli chcemy dodać spółgłoskę ze względu na sekwencję dwóch samogłosek,
 najlepiej wybrać „w” lub „j”, ponieważ te najlepiej się kryją wśród innych głosek,
 (np. Azja — „ma Asija” lub Erytrea — „ma Eliteja”).
 
@@ -84,4 +84,4 @@ Istnieją jeszcze inne zasady, ale są różnie postrzegane przez różnych ludz
 Inną listę zasad tokiponizacji można znaleźć w oficjalnej książce. Lista ta
 jest krótsza, ale za to mniej szczegółowa.
 
-[Powrót do strony 7](pl_7.html) [Pierwsza strona](pl_index.html)
+[Powrót do strony 7](pl_7.html) [Strona początkowa](pl_index.html)
