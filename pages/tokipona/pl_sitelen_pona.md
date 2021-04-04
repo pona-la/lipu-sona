@@ -11,7 +11,7 @@ przez Sonję Lang, twórczynię toki pony, na potrzeby tego języka.
 > Część oficjalnej książki, w której opisano pismo sitelen pona została opublikowana
 > na warunkach niekomercyjnej 
 > [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) licencji.
-> W rezultacie, sekcja ta jest łatwa do znalezienia w innych kursach online.
+> W rezultacie sekcja ta jest łatwa do znalezienia w innych kursach online.
 > Strona o piśmie sitelen pona na 
 > [stronie jan Pije](http://tokipona.net/tp/janpije/hieroglyphs.php), która jest
 > poświęcona temu systemowi, opisuje go niemal identycznie, jak oficjalna książka.
@@ -19,7 +19,7 @@ przez Sonję Lang, twórczynię toki pony, na potrzeby tego języka.
 
 ### Systemy logograficzne
 
-W systemie logograficznym, **każdy znak zazwyczaj oznacza jedno słowo** (a czasem
+W systemie logograficznym **każdy znak zazwyczaj oznacza jedno słowo** (a czasem
 nawet wyrażenie). Najbardziej powszechnym przykładem takiego systemu jest ten
 używany w języku chińskim, zwany Han, i (zaraz obok ich własnych symboli) japońskim
 i koreańskim.
@@ -31,7 +31,7 @@ i koreańskim.
 > chińskie pasują do tej idei bardzo dobrze, podobnie jak toki pona.
 
 Słownictwo toki pony składa się z zaledwie **120 słów** (plus kilku używanych przez 
-społeczność). Dzięki temu, logograficzny system toki pony staje się **zauważalnie** 
+społeczność). Dzięki temu logograficzny system toki pony staje się **zauważalnie** 
 **łatwiejszy w nauce** i w użytku, niż system języka chińskiego, który wymaga 
 znajomości co najmniej 1500 znaków, aby osiągnąć biegłość. Ponadto, większość znaków 
 w piśmie sitelen pona wizualnie odzwierciedla swoje znaczenie. Przykładowo, „lawa”
@@ -39,7 +39,7 @@ oznacza głowę, a symbol tego słowa przedstawia głowę z czapką z daszkiem. 
 „nanpa” oznacza liczbę i jest inspirowany krzyżykiem: „#”, itd. (Choć poniekąd to 
 samo można powiedzieć o wielu znakach Han).
 
-### tablica znaków pisma sitelen pona
+### Tablica znaków pisma sitelen pona
 
 ![tablica znaków pisma sitelen pona](/tokipona/sitelen_pona.gif)
 
@@ -58,7 +58,7 @@ aby przedstawić frazę nominalną. Taki symbol nazywa się kompozytowym lub zł
 > %info%
 > Twoją uwagę mogło przykuć „logo” toki pony, umieszczone na okładce oficjalnej 
 > książki oraz na wielu stronach internetowych (także na tej). I rzeczywiście,
-> jest to jeden symbol złożony — znak „toki”, w środku którego widnieje znak „pona”.
+> jest to jeden symbol złożony — znak „toki”, w którego środku widnieje znak „pona”.
 
 Nieoficjalne słowa można przeliterować wewnątrz kartuszy (zaokrąglonych prostokątów
 otaczających potrzebne znaki). Każdy z tych symboli oznacza pierwszą literę wymowy
@@ -73,7 +73,7 @@ na początku strony, „ma Kanata” zapisano jako „ma [kasi alasa nasin awen 
 > pona, ale są oparte na tym, jak jest ono używane w społeczności toki pony.
 
 Zdania oddzielić można za pomocą kropki albo spacji. Inne znaki przestankowe 
-(przecinki, dwukropki, itd.) są albo pomijane albo zapisywane jako ich łacińskie
+(przecinki, dwukropki, itd.) są albo pomijane, albo zapisywane jako ich łacińskie
 odpowiedniki; (jest to za sprawą tego, że ich obecność lub brak nie zmienia znaczenia
 zdania).
 
@@ -86,7 +86,7 @@ można postawić kropkę (lub mniejszy pytajnik).
 Niektórzy składają znaki wewnątrz kartuszy, by móc zapisać całą sylabę, zajmując przy
 tym szerokość tylko jednego znaku. Na przykład
 [w tym tweecie](https://twitter.com/qvarie/status/1291755067851251712) nieoficjalne
-słwo „Nijon” („Japonia”) zapisano za pomocą trzech znaków: „nena-ilo”, „jan-oko”
+słowo „Nijon” („Japonia”) zapisano za pomocą trzech znaków: „nena-ilo”, „jan-oko”
 i „nena”.
 
 ### Przykłady
@@ -101,7 +101,7 @@ ona.](/tokipona/sitelen_pona_example.png)
 [Tłumaczenie](pl_answers.html#sp)
 
 Jeśli chcesz zobaczyć więcej tekstów zapisanych pismem sitelen pona, w tym stronę,
-która uczy czytać nie używając żadnego innego systemu pisma, odwiedź stronę
+która uczy czytać, nie używając żadnego innego systemu pisma, odwiedź stronę
 [„tomo pi sitelen pona”](https://davidar.github.io/tp/), której autoren jest jan Tepu.
 
 ### Fonty
@@ -121,7 +121,7 @@ wyświetlić też na wiele innych sposobów. Oto najpopularniejsze z nich:
    
 > %info%
 > Na niektórych stronach tej witryny istnieje możliwość przełączania między pismem
-> łacińskim a sitelen pona. W tym drugim przypadku, użyty będzie font „sitelen pona
+> łacińskim a sitelen pona. W tym drugim przypadku użyty będzie font „sitelen pona
 > pona”, ponieważ działa najlepiej w przypadku niezmodyfikowanych tekstów toki pony
 > i wyrazów, których nie znajdziemy w oficjalnym słowniku.
 >
@@ -132,7 +132,7 @@ wyświetlić też na wiele innych sposobów. Oto najpopularniejsze z nich:
 
  * Ja również zaprojektowałem font dla pisma sitelen pona.
    Nazywa się on „[insa pi supa lape](supalape.html)” i opiera się na istniejącym
-   foncie „Beadstead” (i stąd pochodzi jego nazwa). Używa on tego samego algorytmu
+   foncie „Bedstead” (i stąd pochodzi jego nazwa). Używa on tego samego algorytmu
    konwertującego znaki rozłożone na małej bitmapie i konwertuje je na w pełni
    funkcjonalny, wektorowy font.
    
@@ -175,10 +175,9 @@ sitelen pona, która wykorzystuje istniejące znaki emoji dla każdego ze znakó
 sitelen pona. Dzięki temu adaptacja ta może być łatwo stosowana w większości 
 przeglądarek internetowych i aplikacji.
 
-* [Official page](https://sites.google.com/view/sitelenemoji)
+* [Oficjalna strona](https://sites.google.com/view/sitelenemoji)
 
-* [Description of the system, as well as a Windows emoji character chart and
-example text](https://omniglot.com/conscripts/sitelenemoji.htm)
+* [Opis systemu oraz tabela znaków emoji w systemie Windows i przykładowy tekst](https://omniglot.com/conscripts/sitelenemoji.htm)
 
 ---
 
