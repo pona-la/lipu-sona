@@ -1,4 +1,4 @@
-% toki pona strona 8 – język pełen barw
+% toki pona: strona 8 – język pełen barw
 % /dev/urandom
 % marzec 2020
 
@@ -26,7 +26,7 @@ temu otrzymamy bardziej dokładne odcienie barw:
 
 > laso kasi — zielony („zieleń/błękit roślin”)
 
-> loje jelo — pomarańczowy („żótawa czerwień”)
+> loje jelo — pomarańczowy („żółtawa czerwień”)
 
 > jelo pimeja — brązowy („ciemny żółcień”)
 
@@ -43,7 +43,7 @@ temu otrzymamy bardziej dokładne odcienie barw:
 > jan Simu o, mije li moli. — On nie żyje, Jim.
 
 > tomo ni li jo e jaki mute. ni li ike tawa mi a! — W tym pokoju jest mnóstwo
->brudów. Nie podoba mi się!
+> brudów. Nie podoba mi się!
 
 > mije mi li unpa ala e jan ante. — Mój mąż jest wierny. („nie uprawia seksu z innymi
 > ludźmi”).
@@ -84,4 +84,4 @@ I przetłumacz następujące na toki ponę:
 
 [Odpowiedzi](pl_answers.html#p8)
 
-[Poprzednia strona](pl_7.html) [Pierwsza strona](pl_index.html) [Następna strona](pl_9.html)
+[Poprzednia strona](pl_7.html) [Strona początkowa](pl_index.html) [Następna strona](pl_9.html)
