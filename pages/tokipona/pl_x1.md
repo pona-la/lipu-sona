@@ -14,7 +14,7 @@ Poniekąd wyczerpująca lista wszystkich słów w języku toki pona, które są 
 [nap]:https://docs.google.com/document/d/10hP3kR7mFN0E6xW3U6fZyDf7xKEEvxssM96qLq4E0ms/edit
 
 Za to ta strona opisze wszystkie słowa, które moim zdaniem stosuje się często w sieci
-oraz alternatywne sposoby na użycie niektórnych oficialnych słów z 120-wyrazowego
+oraz alternatywne sposoby na użycie niektórych oficjalnych słów z 120-wyrazowego
 leksykonu.
 
 Założeniem języka toki pona jest minimalizacja liczby wyrazów i pozbycie się zbędnych
@@ -68,7 +68,7 @@ Wyraz monsuta oznacza „potwór” lub „strach”. Jak w przypadku słowa „
 ludzi uważa je za trudne do opisania, (a moża to zrobić na wiele sposobów), przez co 
 używa się starego nazewnictwa.
 
-A oto słownictwo, które dziś uważa się za porzucone, ale wciążmożne występować
+A oto słownictwo, które dziś uważa się za porzucone, ale wciąż może występować
 w starszych tekstach:
 
 Słowo „kapa” to wczesne określenie góry lub pagórka. Ostatecznie wyraz „nena” zajął
@@ -99,7 +99,7 @@ Słowo „pata” oznaczało rodzeństwo, ale dziś zamiast tego można je wyraz
 sama”.
 
 Słowo „powe”, czyli „kłamstwo”, „fałsz”, zostało usunięte, ponieważ to samo znaczenie
-mogą osiągnąć wyrażenia bazowane na „lon ala” („nieistniejący”) lub „sona ike”
+mogą osiągnąć wyrażenia typu „lon ala” („nieistniejący”) lub „sona ike”
 („zła wiedza”, „dezinformacja”).
 
 W leksykonie istniały również słowa „tuli” i „po” i odpowiadały liczbom 3 i 4. Zostały
@@ -107,14 +107,14 @@ one zastąpione wyrażeniami „tu wan” oraz „tu tu”.
 
 ## Kierunki
 
-Pomimo, że w słownictwie toki pony istnieją takie słowa jak „góra”, „dół”, „przód” i 
+Pomimo że w słownictwie toki pony istnieją takie słowa jak „góra”, „dół”, „przód” i 
 „tył”, nie znajdziemy tam wyrazów, które oznaczałyby „lewo” czy „prawo”. Jest tylko
 jeden wyraz oznaczający „bok”.
 
 Niektórzy stworzyli wyrażenia polegające na tym, że większość ludzi pisze prawą ręką
 („poka pi luka sitelen” = „prawo”; „poka pi luka sitelen ala” = lewo), mają serce
-po lewej stronie ciała („poka pilin” = „lewo”; „poka pilin ala” = right) albo piszą
-od lewej do prawej („poka open” = „lewo”; „poka pini” = „right”).
+po lewej stronie ciała („poka pilin” = „lewo”; „poka pilin ala” = „prawo”) albo piszą
+od lewej do prawej („poka open” = „lewo”; „poka pini” = „prawo”).
 
 Oczywiście żadne z powyższych założeń nie jest w stu procentach uniwersalne — istnieją
 ludzie, którzy wolą pisać lewą ręką; którzy mają serce po prawej stronie 
@@ -124,7 +124,7 @@ sitelen — pisze się z lewej do prawej).
 
 W dokumencie „nimi ale pona” opisano dwa słowa stworzone po wydaniu oficjalnej 
 książki (takie wyrazy nazywane są „post-pu”), które nadają dokładne nazwy tym 
-kierunkom: „soto”, czyli „lewo” i „te” czyli „prawo”. Osobiście uważam, że te słowa 
+kierunkom: „soto”, czyli „lewo” i „te”, czyli „prawo”. Osobiście uważam, że te słowa 
 bywają przydatne w miejscach, gdzie rozróżnienie tych dwóch kierunków jest konieczne. 
 Jednak w większości przypadków lepiej ich unikać.
 
@@ -148,7 +148,7 @@ od wyrażeń „mije olin mije” („mężczyźni kochający mężczyzn”) i �
 
 ## Żartobliwe słowa
 
-Dodatkowo, istnieje też kilka słów wymyślonych przez Sonję Lang w ramach żartu.
+Dodatkowo istnieje też kilka słów wymyślonych przez Sonję Lang w ramach żartu.
 W dokumencie „nimi ale pona” podpisane są „w.o.g. Sonja”. Najbardziej znanym wyrazem 
 tego typu jest „kijetesantakalu”, który oznacza szopy pracze i inne zwierzęta z 
 rodziny szopowatych.
@@ -157,7 +157,7 @@ Do żartobliwych słów należą też „mulapisu” („pizza”) i „yupekosi
 stare kreacje na gorsze”) — warto zauważyć, że w toki ponie nie używa się litery "y" 
 i dlatego wymowa tego słowa jest nieznana.
 
-Ta lista opiera się na [tym arkuszu opisującym częstoliwość stosowania słów spoza pu](https://docs.google.com/spreadsheets/d/1dGd4do1Jk2L2NwW5l7tLgSajAVkUqO0z2UHGu4_Sq_M)
+Ta lista opiera się na [tym arkuszu opisującym częstotliwość stosowania słów spoza pu](https://docs.google.com/spreadsheets/d/1dGd4do1Jk2L2NwW5l7tLgSajAVkUqO0z2UHGu4_Sq_M)
 i została stworzona przez użytkownika reddita `qwertyter`, z dodatkowymi 
 modyfikacjami opartymi na moim osobistym doświadczeniu.
 
@@ -168,7 +168,7 @@ przymiotnik oznaczający „podzielony” bez cząstki „li” łatwo pomylić 
 
 | word | znaczenie | zamienniki |
 |----|----|----|
-| kin | naprawdę, bardzo, również| a, mute |
+| kin | naprawdę, bardzo, również | a, mute |
 | monsuta | strach, potwór | |
 | lanpan  | brać, dostać, odebrać | kama jo (kama jo utala) |
 | oko     | oko | lukin |
