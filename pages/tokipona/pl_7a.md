@@ -1,4 +1,4 @@
-% strona 7a — więcej na temat budowania nieoficjalnych słów
+% strona 7a – więcej na temat budowania nieoficjalnych słów
 % /dev/urandom
 % marzec 2020
 
