@@ -3,8 +3,8 @@
 % lipiec 2020
 
 Oto lista wszystkich oficjalnych słów toki pony opisanych na stronach 1-12
-w kolejności alfabetycznej. Każdy wyraz może mieć różne znaczenie w zależności
-od tego, jaką jest częścią mowy. 
+w kolejności alfabetycznej. Każdy wyraz może mieć różne znaczenia w zależności
+od tego, jakiej części mowy rolę pełni.
 
 Definicja „przymiotnika” również pasuje do przysłówków, ponieważ jedyna różnica
 między tymi częściami jest taka, że te pierwsze doczepia się do rzeczowników,
