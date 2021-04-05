@@ -73,7 +73,7 @@ in ihrer Ausprägung angepasst werden.
 Versucht herauszufinden, was die folgenden Sätze bedeuten.
 
 * kule loje li pona tawa mi.
-* o pana e telo kili loje jelo tawa mi. 
+* o pana e telo kili jelo tawa mi. 
 * kasi kule sina li pona lukin tawa mi.
 * mi moku ala e telo nasa.
 * o moli ala e ona a!
@@ -81,7 +81,7 @@ Versucht herauszufinden, was die folgenden Sätze bedeuten.
 Und versucht die folgenden Sätze in Toki Pona zu übersetzen.
 
 * Dein Haus ist größer als meins.
-* Ich mag blauen Himmel mehr als grauen Himmel. 
+* Ich mag blaue Blumen mehr als rote Blumen.
 * Igitt! Dieses Essen ist schrecklich!
 * Ich bin im roten Haus.
 * Die betrunkene Person hört mir nicht zu.

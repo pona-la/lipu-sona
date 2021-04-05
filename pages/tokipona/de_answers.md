@@ -98,13 +98,13 @@
 <h1><a name="p8" id="p8" href="de_8.html">Seite 8</a></h1>
 
 > * Ich mag die Farbe rot.
-> * Gib mir den orangenen Saft (oder Orangensaft).
+> * Gib mir den gelbenen Saft (oder Limonade).
 > * Mir gefällt, wie deine Blumen aussehen.
 > * Ich trinke keinen Alkohol.
 > * Töte sie nicht!
 <!---->
 > * tomo sina li suli. tomo mi li lili.
-> * sewi laso li pona mute tawa mi. sewi pimeja walo li pona lili tawa mi.
+> * kasi kule laso li pona mute tawa mi. kasi kule loje li pona lili tawa mi.
 > * jaki a! moku ni li ike mute a!
 > * mi lon tomo loje.
 > * jan nasa li kute ala e mi.
@@ -117,6 +117,7 @@
 > * Ihre Musik ("unterhaltsame Geräusche") ist sehr gut.
 > * Wenn du die Geräte misshandelst ("schlecht benutzen"), werden sie kaputtgehen ("kaputt sein").
 <!---->
+> * sewi laso li pona mute tawa mi. sewi pi pimeja walo li pona lili tawa mi.
 > * sewi li pimeja la o awen lon tomo.
 > * ona li lon tomo pi telo nasa.
 > * jan pi kalama suli li toki e ijo nasa.

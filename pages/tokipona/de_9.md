@@ -54,6 +54,23 @@ Auch für übliche Ausdrücke geht das:
 > > sina toki pi ma tomo mama sina. -- Du redest über deine Heimatstadt.
 >
 
+### pi bei Farben
+
+"pi" wird oft für zusammengesetzte Farben benutzt (wie auf [Seite 8](de_8.html)
+beschrieben):
+
+> sewi pi pimeja walo li ike tawa mi. -- Ich mag keinen grauen Himmel.
+
+Meiner Meinung nach ist es in Ordnung, "pi" auszulassen, aber das könnte
+zweideutig sein:
+
+> sewi pimeja walo li ike tawa mi. -- Ich mag keinen grauen Himmel.
+
+Das kann stattdessen als "Himmel, der sowohl Weiß als auch Schwarz enthält"
+verstanden werden.
+
+### pi bei inoffiziellen Wörtern
+
 Oder für Begriffe, die inoffizielle Wörter benutzen.
 
 > ma tomo Wasintan li ma tomo lawa pi ma Mewika. -- (die Stadt) Washington ist
@@ -144,6 +161,7 @@ Versucht herauszufinden, was die folgenden Sätze bedeuten.
 
 Und versucht die folgenden Sätze in Toki Pona zu übersetzen.
 
+* Ich mag blauen Himmel mehr als grauen Himmel. 
 * Falls es draußen dunkel ist, bleib zuhause.
 * Er ist in der Bar ("Haus des merkwürdigen Wassers"). 
 * Die laute Person ("Person der großen Geräusche") sagt merkwürdige Dinge.

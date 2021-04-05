@@ -119,7 +119,7 @@
 > * Если вы неправильно ("плохо") используете инструменты, то они сломаются
 > ("будут сломанными").
 <!---->
-> * sewi laso li pona mute tawa mi. sewi pimeja walo li pona lili tawa mi.
+> * sewi laso li pona mute tawa mi. sewi pi pimeja walo li pona lili tawa mi.
 > * sewi li pimeja la o awen lon tomo.
 > * ona li lon tomo pi telo nasa.
 > * jan pi kalama suli li toki e ijo nasa.
