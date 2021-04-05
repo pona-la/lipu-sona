@@ -5,6 +5,7 @@
 | Translations / ante toki             | Author / jan pali |
 |--------------------------------------|-------------------|
 | [Deutsch / toki Tosi](de_index.html) | [Ret "jan Ke Tami" Samys](https://janketami.wordpress.com) |
+| [Polski / toki Posuka](pl_index.html) | Maksymilian Król (jan Otele) |
 | [Русский / toki Losi](ru_index.html) | jan Lentan        |
 
 This is the a series of pages comprising an attempt at an unofficial educational
@@ -136,6 +137,8 @@ language's 120 word dictionary.
 * * ["jan lawa pi linja ilo" ("LAN Master")](jan_lawa_pi_linja_ilo.html)
 
 * * [ante toki pi jan Pije (jan Pije's translations)](game_patches_jp.html)
+
+* [list of Russian/Ukrainian/Belarusian city names](city_names.html)
 
 ## Software
 

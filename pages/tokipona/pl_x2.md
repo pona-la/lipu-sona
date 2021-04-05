@@ -1,0 +1,97 @@
+% toki pona strona dodatkowa 2 — inne systemy pisma
+% /dev/urandom
+% kwiecień 2020
+
+Dotąd najczęściej używanym systemem pisma używanym do zapisu toki pony jest alfabet 
+łaciński, ale istnieją też inne, zaadaptowane bądź stworzone wyłącznie na potrzeby 
+toki pony.
+
+## Zaadaptowane systemy pisma
+
+Język toki pona mieści 5 samogłosek i 9 spółgłosek. Oznacza to, że dostosowanie 
+pasującego do niego alfabetu wymaga dobrania zaledwie 14 liter (albo ich sekwencji),
+których wymowa brzmi podobnie. Na przykład, tak alfabet toki pony może zostać 
+przedstawiony za pomocą liter greckich oraz cyrylicy:
+
+| pismo łacińskie | pismo greckie | cyrylica |
+|:-----:|:-----:|:--------:|
+| a | α | а |
+| e | ε | е |
+| i | ι | и |
+| j | γ | й |
+| k | κ | к |
+| l | λ | л |
+| m | μ | м |
+| n | ν | н |
+| o | ο | о |
+| p | π | п |
+| s | σ | с |
+| t | τ | т |
+| u | υ | у |
+| w | β | в |
+
+> %note%
+> Powyższe alfabety nie są odpowiadają greckim i rosyjskim głoskom jeden do jednego.
+> Niektóre litery wymawia się inaczej w toki ponie, a inaczej w dwóch pozostałych
+> systemach.
+
+Trochę trudniej jest przedstawić toki ponę za pomocą abugidy albo abdżadu, gdzie
+spółgłoski mają ustalone litery, a samogłoski zapisuje się za pomocą znaków 
+diakrytycznych lub dopisanych obok symboli. Najbardziej znanym abdżadem jest ten, 
+którego używa się w języku arabskim, a najsłynniejszą abugidą jest dewanagari (używany 
+przez wiele języków Indii).
+
+* [Filmik „ARABI PONA - Arabic Script for Toki Pona | sitelen musi”][arabic]
+* [„Toki Pona in Devanāgarī” (strona zarchiwizowana)][devanagari]
+
+[arabic]:https://www.youtube.com/watch?v=Mh9Wypm6pXs
+[devanagari]:https://web.archive.org/web/20060727115116/http://www.deadlybrain.org/projects/tokipona/deva_guja.php
+
+Język ten ma 92 możliwych kombinacji tworzących sylabę (47, jeśliby traktować „-n” 
+jako oddzielną sylabę). Oznacza to, że jego pismo można również przystosować do wielu 
+innych sylabicznych systemów pisma.
+
+Przykładowo, poniżej przedstawione są propozycje zapisu toki pony za pomocą 
+koreańskiego pisma Hangul. (Technicznie rzecz biorąc, Hangul składa się z symboli 
+literowych złożonych w bloki sylabiczne).
+
+* [„Writing Toki Pona with Korean Hangul” (strona zarchiwizowana)][hangularch]
+* [„Hangul for Toki Pona” na Reddicie][hangulred]
+
+[hangularch]:https://web.archive.org/web/20070313181500/http://www.tokipona.bravehost.com/korean.html
+[hangulred]:https://www.reddit.com/r/tokipona/comments/8mx951/hangul_for_toki_pona/
+
+Jeśli zmienić nieco brzmienia głosek, toki ponę można zapisać również za pomocą 
+japońskiej hiragany:
+
+* [„Hiragana for Toki Pona”][hiragana1]
+* [„sitelen Hiragana (ひらがな)” na Reddicie][hiragana_red]
+
+[hiragana1]:https://www.deviantart.com/derroflcopter/journal/Hiragana-for-Toki-Pona-339541633
+[hiragana_red]:https://www.reddit.com/r/tokipona/comments/e7g91u/sitelen_hiragana_%E3%81%B2%E3%82%89%E3%81%8C%E3%81%AA/
+
+## sitelen pona
+
+Najbardziej rozpowszechnioną alternatywą dla pisma toki pony jest logograficzne pismo
+*sitelen pona* („proste pismo”), stworzone przez samą Sonję Lang i opisane
+w oficjalnej książce.
+
+Podobnie jak w łacinie czy cyrylicy, zdania są zapisywane od lewej do prawej i od 
+góry do dołu, ale zamiast oddzielnych znaków dla głosek lub sylab, każdy symbol tym 
+systemie pisma jest znakiem przedstawiającym oddzielne słowo. Słowa nieoficjalne są 
+zapisywane wewnątrz kartusza (zaokrąglony prostokąt otaczający znaki), w którym każdy 
+kolejny symbol oznacza pierwszą literę słowa, które przedstawia.
+
+* **[Pełny opis, przykładowe teksty i fonty](pl_sitelen_pona.html)**
+
+Pismo [„sitelen sitelen”](https://jonathangabel.com/toki-pona/) Jonathana Gabela
+zostało zaprojektowane jako piękniejszy sposób na zapis tekstów w języku toki pona. Jest ono pismem nieliniowym, opartym na piśmie Majów.
+
+Pismo sitelen sitelen jest znacznie bardziej skomplikowane niż łacina czy sitelen 
+pona, i dlatego jest używane znacznie rzadziej. Za to napisane za jego pomocą teksty, 
+takie jak [ten kontrakt](https://www.jonathangabel.com/archive/2012/artworks_lipu-lawa-pi-esun-kama.html) 
+albo [lista przysłów](https://jonathangabel.com/toki-pona/dictionaries/gallery/). 
+Wiele z tych przysłów wymieniono również w oficjalnej książce. Nie można zaprzeczyć, 
+że wyglądają one przepięknie.
+
+[Strona początkowa](pl_index.html)
