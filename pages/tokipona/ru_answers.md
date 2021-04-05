@@ -105,7 +105,7 @@
 > * Не убивайте их!
 <!---->
 > * tomo sina li suli. tomo mi li lili.
-> * sewi laso li pona mute tawa mi. sewi pimeja walo li pona lili tawa mi.
+> * kasi kule laso li pona mute tawa mi. kasi kule loje li pona lili tawa mi.
 > * jaki a! moku ni li ike mute a!
 > * mi lon tomo loje.
 > * jan nasa li kute ala e mi.
@@ -119,6 +119,7 @@
 > * Если вы неправильно ("плохо") используете инструменты, то они сломаются
 > ("будут сломанными").
 <!---->
+> * sewi laso li pona mute tawa mi. sewi pimeja walo li pona lili tawa mi.
 > * sewi li pimeja la o awen lon tomo.
 > * ona li lon tomo pi telo nasa.
 > * jan pi kalama suli li toki e ijo nasa.

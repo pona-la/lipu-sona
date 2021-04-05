@@ -98,13 +98,13 @@
 <h1><a name="p8" id="p8" href="8.html">page 8</a></h1>
 
 > * I like the color red.
-> * Give me the orange (or orange-colored) juice.
+> * Give me the yellow juice.
 > * I like how your flowers look.
 > * I don't drink alcohol.
 > * Don't kill them!
 <!---->
 > * tomo sina li suli. tomo mi li lili.
-> * sewi laso li pona mute tawa mi. sewi pimeja walo li pona lili tawa mi.
+> * kasi kule laso li pona mute tawa mi. kasi kule loje li pona lili tawa mi.
 > * jaki a! moku ni li ike mute a!
 > * mi lon tomo loje.
 > * jan nasa li kute ala e mi.
@@ -117,6 +117,7 @@
 > * Their music ("entertaining sounds") is very good.
 > * If you misuse ("use badly") the tools, they will break ("be broken").
 <!---->
+> * sewi laso li pona mute tawa mi. sewi pi pimeja walo li pona lili tawa mi.
 > * sewi li pimeja la o awen lon tomo.
 > * ona li lon tomo pi telo nasa.
 > * jan pi kalama suli li toki e ijo nasa.
