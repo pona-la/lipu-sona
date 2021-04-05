@@ -68,7 +68,7 @@
 Попробуйте перевести на русский эти предложения:
 
 * kule loje li pona tawa mi.
-* o pana e telo kili loje jelo tawa mi. 
+* o pana e telo kili jelo tawa mi. 
 * kasi kule sina li pona lukin tawa mi.
 * mi moku ala e telo nasa.
 * o moli ala e ona a!
