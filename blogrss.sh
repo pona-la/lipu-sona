@@ -49,7 +49,7 @@ done
 FILES=`cat blogdates.txt | sort -nr | cut -f 2-`
 
 cat << RSSHEADER
-<?xml version="1.0" encoding=\"UTF-8\" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
 <title>rnd's blog</title>
@@ -70,7 +70,7 @@ for f in $FILES; do
 
 	echo "<item>"
 	echo "<title>$TITLE</title>"
-	echo "<link>$OUTPAGE</link>"
+	echo "<link>https://rnd.neocities.org/blog/$OUTPAGE</link>"
 
 	if [ $MTIME -gt 0 ]; then
 		RDATE=`date -R -u -d @$MTIME`
@@ -79,15 +79,16 @@ for f in $FILES; do
 		fi
 		echo "<pubdate>$RDATE</pubdate>"
 	fi
-	echo "</item>"
 	DESCRIPTION="`printcut $f`"
 	if [ $? -eq 0 ]; then
 		DESC_HTML=`echo "$DESCRIPTION" | markdown`
 		echo "<description>$DESC_HTML</description>"
 	fi
+	echo "</item>"
 
 done
 
 cat << RSSFOOTER
 </channel>
+</rss>
 RSSFOOTER
