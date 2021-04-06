@@ -6,6 +6,18 @@ FILES=`ls $DIRECTORY/*.md -1 | sort`
 
 RETURNDATE=""
 
+function printcut {
+# argument 1: filename
+
+	CUT=`grep -m 1 -n '<!--[[:space:]]*cut[[:space:]]*-->[[:space:]]*' $1`
+	if [ -n "$CUT" ]; then
+		CUTLINE=`echo "$CUT" | cut -d ':' -f 1`
+		head -n $(($CUTLINE - 1)) $1 | grep -v '^%'
+	else
+		return 1
+	fi
+}
+
 # date is read from the 3rd %ed line of the document or from the git commit date
 function getdate {
 
@@ -68,6 +80,12 @@ for f in $FILES; do
 		echo "<pubdate>$RDATE</pubdate>"
 	fi
 	echo "</item>"
+	DESCRIPTION="`printcut $f`"
+	if [ $? -eq 0 ]; then
+		DESC_HTML=`echo "$DESCRIPTION" | markdown`
+		echo "<description>$DESC_HTML</description>"
+	fi
+
 done
 
 cat << RSSFOOTER
