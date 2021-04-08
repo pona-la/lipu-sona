@@ -52,7 +52,22 @@ Partykuła ta może być również zastosowana w utartych zestawieniach wyrazowy
 > > sina toki pi ma tomo mama sina. — Mówisz o swoim rodzinnym mieście.
 >
 
-Włącznie ze zdaniami używającymi nieoficjalnych słów.
+### pi i kolory
+
+Słówko „pi” jest często używane przy łączeniu kolorów (opisanym na [stronie
+8](8.html)):
+
+> sewi pi pimeja walo li ike tawa mi. — Nie lubię szarego nieba.
+
+Według mnie „pi” może zostać pominięte, aczkoliwek może to budzić niejasności:
+
+> sewi pimeja walo li ike tawa mi. — Nie lubię szarego nieba.
+
+To drugie może zostać zrozumiane jako „niebo w kolorze i czarnym i białym”.
+
+### pi i nieoficjalne słowa
+
+Wyraz „pi” można użyć w wyrażeniach, w których występują słowa nieoficjalne.
 
 > ma tomo Wasintan li ma tomo lawa pi ma Mewika. – Miasto Waszyngton jest stolicą
 > („głównym miastem”) Stanów Zjednoczonych.
