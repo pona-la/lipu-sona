@@ -151,6 +151,7 @@ A teraz spróbuj zrozumieć poniższe zdania.
 
 I przetłumacz następujące na toki ponę.
 
+* Niebieskie niebo podoba mi się bardziej, niż szare niebo.
 * Jeżeli na dworze jest ciemno, zostań w domu.
 * Ona jest w barze („domu szalonej wody”).
 * Głośna osoba („osoba o głośnych dźwiękach”) mówi dziwne rzeczy.
