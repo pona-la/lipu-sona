@@ -69,7 +69,7 @@ przymiotnikami.
 A teraz spróbuj odczytać znaczenie poniższych zdań.
 
 * kule loje li pona tawa mi.
-* o pana e telo kili loje jelo tawa mi. 
+* o pana e telo kili jelo tawa mi. 
 * kasi kule sina li pona lukin tawa mi.
 * mi moku ala e telo nasa.
 * o moli ala e ona a!
@@ -77,7 +77,7 @@ A teraz spróbuj odczytać znaczenie poniższych zdań.
 I przetłumacz następujące na toki ponę:
 
 * Twój dom jest większy od mojego.
-* Bardziej lubię niebieskie niebo, niż szare niebo.
+* Bardziej lubię niebieskie kwiaty, niż szare kwiaty.
 * O fuj! To jedzenie jest okropne!
 * Jestem w czerwonym domu.
 * Pijak mnie nie słucha.
