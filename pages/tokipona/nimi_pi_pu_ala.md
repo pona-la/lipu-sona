@@ -190,6 +190,17 @@ nimi "**powe**" li ken toki e ijo ni:
   selo soweli powe" li kama tan soweli ala. lon soweli li suli tawa sina la, ona
   li pona tawa sina.)
 
+## soko
+
+nimi "**soko**" li nimi sin.
+
+soko li kili. taso, ona en kili mute li ante. kili mute li wan kasi. soko li wan
+kasi ala. soko li jo e linja mute lon ma. soko li kama jo e ijo wile kepeken
+ona.  soko li kama ala jo e wawa tan suno.
+
+sona pi ijo lon la, soko en kasi li jo e sama lili. soko en soweli li jo e sama
+lili.
+
 ## soto en teje
 
 nimi "**soto**" en nimi "**teje**" li nimi sin.
