@@ -9,9 +9,9 @@
     <meta property="og:title" content="<?theme title?>"/>
     <meta property="og:type" content="website"/>
     <meta property="og:url" content="https://rnd.neocities.org/<?theme dir?><?theme source?>"/>
-    <link href="/style.css" rel="stylesheet" type="text/css" media="all" title="Default Style">
-    <link href="xstyle.css" rel="stylesheet" type="text/css" media="all">
-    <link href="/style_alt.css" rel="alternate stylesheet" type="text/css" media="all" title="Funky">
+    <link href="/style.css" rel="stylesheet" type="text/css" media="handheld,print,screen,projection,tv" title="Default Style">
+    <link href="/style_tty.css" rel="stylesheet" type="text/css" media="braille,speech,tty" title="TTY Web Browser Style">
+    <link href="xstyle.css" rel="stylesheet" type="text/css" media="handheld,print,screen,projection,tv">
     <link rel="icon" type="image/png" href="favicon.png">
     <link rel="preload" href="/menu_button_hover.gif" as="image">
     <link rel="preload" href="/menu_button_sel.gif" as="image">
