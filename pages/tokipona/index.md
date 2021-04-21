@@ -183,6 +183,9 @@ and links for people who want to learn or use toki pona:
 * * [flashcards based on this
 website](https://ankiweb.net/shared/info/204928497), by u/parentis\_shotgun
 
+* [jan Sotan's description of his personal style, including the informal "tok'
+  apona" dialect](https://github.com/ae-dschorsaanjo/lipu-lili-pi-toki-pona)
+
 ## Other people's original works
 
 * ["musi lili"](https://musilili.net/), a page by jan Same
