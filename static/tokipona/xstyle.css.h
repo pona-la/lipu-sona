@@ -7,7 +7,7 @@
 
 	.header_image {
 		padding-top: 12.5%;
-		background-image: url("tokipona_banner.gif");
+		background-image: url("tokipona_header.gif");
 		background-size: contain;
 		background-repeat: no-repeat;
 		background-position: center;	
