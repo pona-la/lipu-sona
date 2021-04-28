@@ -67,7 +67,9 @@ else
 	echo "Checking neocities for a file list..."
 	FILELIST=`curl -sS "https://$N_USER:$N_PWD@neocities.org/api/list"`
 
-	if [ `echo "$FILELIST" | jq -r ".result"` != 'success' ]; then
+	FILERESULT=`echo "$FILELIST" | jq -r ".result"`
+
+	if [ "$FILERESULT" != 'success' ]; then
 		echo "Error while requesting file list."
 		echo "$FILELIST"
 		exit 1
