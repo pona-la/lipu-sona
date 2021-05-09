@@ -195,6 +195,9 @@ website](https://ankiweb.net/shared/info/204928497), by u/parentis\_shotgun
 
 * ["lipu tenpo", a toki pona magazine](https://liputenpo.org/)
 
+* [lipu Wikipesija, a recent project to make a toki pona
+ Wikipedia](https://wikipesija.org) **NEW**
+
 * [Russian TV: "Art Revolution" on conlangs](art_revolution.html)
 
 ### Discussion groups and chats
