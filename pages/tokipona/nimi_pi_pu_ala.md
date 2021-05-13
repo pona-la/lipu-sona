@@ -2,6 +2,12 @@
 % /dev/urandom
 % tenpo mun #10 pi tenpo sike #2020
 
+> %info%
+> jan ale li ken jo, li ken ante, li ken pana e sona pi lipu ni kepeken [nasin
+> CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) anu [nasin
+> CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+>
+
 # nimi pi pu ala
 
 lipu lawa pi toki pona ("pu") li jo e **nimi 120**. taso, nimi ante li lon. ona
