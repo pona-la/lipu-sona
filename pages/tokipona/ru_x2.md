@@ -107,6 +107,6 @@ telo", логографической системы для официальны
 слов.
 
 ![таблица символов sitelen telo](/tokipona/sitelen_telo.gif)
-![таблица слоговых символов linja sin](/tokipona/sitelen_telo2.gif)
+![таблица слоговых символов linja sin](/tokipona/sitelen_telo_2.gif)
 
 [Главная страница](ru_index.html)
