@@ -48,7 +48,7 @@ das auch für eine Vielzahl der Han-Zeichen zu.)
 
 > Diese Tabelle zeigt alle Zeichen in sitelen pona, die für die 120 offiziellen
 > Wörter benutzt werden, sowie ein paar Zeichen, die für Zusatzwörter ("nimi sin") 
-> und alternative Darstellungen ("nasin lukin ante pi sitelen pona") benutzt 
+> und alternative Darstellungen ("nasin lukin ante") benutzt 
 > werden .
 
 Wie beim lateinischen Alphabet, wird es von links nach rechts und von oben 

@@ -46,7 +46,7 @@ extent, the same is true for a number of Han characters as well.)
 
 > This table shows all the sitelen pona characters used for the 120 official
 > words, as well as some characters commonly used for additional words ("nimi
-> sin") and alternative representations ("nasin lukin ante pi sitelen pona").
+> sin") and alternative representations ("nasin lukin ante").
 
 Much like the Latin alphabet, it is written left-to-right and top-to-bottom.
 Each toki pona word is written using its character, without extra spaces between

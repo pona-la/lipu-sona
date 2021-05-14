@@ -45,8 +45,7 @@ samo można powiedzieć o wielu znakach Han).
 
 > W powyżej tabelce przedstawiono wszystkie 120 oficjalnych słów toki pony.
 > Oprócz tego umieszczono tam też często używane dodatkowe słow („nimi sin”)
-> i alternatywne zapisy znaków istniejących w tym piśmie ("nasin lukin ante pi 
-> sitelen pona").
+> i alternatywne zapisy znaków istniejących w tym piśmie ("nasin lukin ante").
 
 Tak jak w alfabecie łacińskim, kierunek pisma sitelen pona jest z lewej do prawej,
 z góry na dół. Każde słowo w toki ponie zapisuje się za pomocą pojedynczego znaku
