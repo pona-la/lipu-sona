@@ -6,13 +6,13 @@ Most of this website's contents is available under the [MIT
 license](https://opensource.org/licenses/MIT). Please check the [source code
 page](https://gitlab.com/dev_urandom/simple-site) for more information.
 
-In addition, the [toki pona course](https://rnd.neocities.org/tokipona/) is available
+In addition, the [toki pona course](tokipona/) is available
 under the terms of the CC-BY-SA
 [3.0](https://creativecommons.org/licenses/by-sa/3.0/) and
 [4.0](https://creativecommons.org/licenses/by-sa/4.0/) licenses.
 
 > %warning%
-> The [Polish translation] is instead available under the terms of the [CC-BY-SA
+> The [Polish translation](tokipona/pl_index.html) is instead available under the terms of the [CC-BY-SA
 > 3.0 Poland](https://creativecommons.org/licenses/by-sa/3.0/pl/) and
 > [4.0](https://creativecommons.org/licenses/by-sa/4.0/) licenses.
 
