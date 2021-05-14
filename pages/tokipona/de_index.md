@@ -188,3 +188,20 @@ website](https://ankiweb.net/shared/info/204928497), by u/parentis\_shotgun
 
 * ["kulupu pi toki pona" Telegram group](https://t.me/kulupupitokipona) (this
   one is usually more about talking _in_ toki pona)
+
+---
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img
+alt="Creative Commons Lizenzvertrag" style="border-width:0"
+src="https://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />Dieses
+Werk ist lizenziert unter einer <a rel="license"
+href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons
+Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Unported Lizenz</a>.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img
+alt="Creative Commons Lizenzvertrag" style="border-width:0"
+src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Dieses
+Werk ist lizenziert unter einer <a rel="license"
+href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International
+Lizenz</a>.

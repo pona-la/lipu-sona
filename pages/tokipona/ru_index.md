@@ -118,3 +118,18 @@ pona"](https://www.youtube.com/watch?v=4L-dvvng4Zc) Митча Хэлли (та�
  (LibreOffice)](https://rnd.neocities.org/tokipona/toki-pona-cheat-sheet-ru.odt)
 
 ---
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img
+alt="Лицензия Creative Commons" style="border-width:0"
+src="https://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />Это
+произведение доступно по <a rel="license"
+href="http://creativecommons.org/licenses/by-sa/3.0/">лицензии Creative Commons
+«Attribution-ShareAlike» («Атрибуция-СохранениеУсловий») 3.0
+Непортированная</a>.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img
+alt="Лицензия Creative Commons" style="border-width:0"
+src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Это
+произведение доступно по <a rel="license"
+href="http://creativecommons.org/licenses/by-sa/4.0/">лицензии Creative Commons
+«Attribution-ShareAlike» («Атрибуция-СохранениеУсловий») 4.0 Всемирная</a>.
