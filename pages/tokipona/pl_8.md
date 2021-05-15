@@ -3,6 +3,7 @@
 % marzec 2020
 
 Słownictwo na tej stronie:
+
 | słowo | znaczenie |
 |----|----|
 | kule | kolor, kolorowy |
