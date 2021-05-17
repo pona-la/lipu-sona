@@ -20,6 +20,10 @@ PAGES_HTML = $(patsubst $(PAGEDIR)/%.md,$(OUTDIR)/%.html,$(_PAGES))
 PAGES_HTML_DC = $(patsubst $(PAGEDIR)/%.md,$(OUTDIR)/dc/%.html,$(_PAGES))
 
 _BLOG_PAGES = $(shell find $(PAGEDIR)/blog -name \*.md | grep -v $(PAGEDIR)/blog/index\.md$)
+_TEXT_PAGES = $(shell find $(PAGEDIR)/text -name \*.txt | grep -v $(PAGEDIR)/text/index\.txt$)
+
+TEXT_PAGES_TXT = $(patsubst $(PAGEDIR)/text/%.txt,$(OUTDIR)/text/%.txt,$(_TEXT_PAGES))
+TEXT_PAGES_HTML = $(patsubst $(PAGEDIR)/text/%.txt,$(OUTDIR)/text/%.html,$(_TEXT_PAGES))
 
 _DIRECTORIES = $(shell find $(PAGEDIR)/* -type d)
 DIRECTORIES = $(patsubst $(PAGEDIR)/, $(OUTDIR)/, $(_PAGES))
@@ -31,7 +35,7 @@ OUT_STATIC = $(patsubst static/%,out/%,$(_STATIC_FILES)) $(patsubst static/%.h,o
 .SUFFIXES:
 .PHONY: all upload
 
-all: $(OUTDIR)/blog/index.html $(OUTDIR)/dc/blog/index.html $(OUTDIR)/blog/main.rss $(PAGES_HTML) $(PAGES_HTML_DC) $(OUT_STATIC)
+all: $(OUTDIR)/blog/index.html $(OUTDIR)/dc/blog/index.html $(OUTDIR)/blog/main.rss $(OUTDIR)/text/index.html $(PAGES_HTML) $(PAGES_HTML_DC) $(TEXT_PAGES_TXT) $(TEXT_PAGES_HTML) $(OUT_STATIC)
 
 upload:
 	./upload.sh
@@ -47,6 +51,23 @@ $(OUTDIR)/blog/index.html: $(_BLOG_PAGES) $(TPLDIR)/blog_header.md $(TPLDIR)/blo
 $(OUTDIR)/blog/main.rss: $(_BLOG_PAGES)
 	@mkdir -p $(@D)
 	./blogrss.sh > $@
+
+$(OUTDIR)/text/%.txt: $(PAGEDIR)/text/%.txt
+	@mkdir -p $(@D)
+	cp $< $@
+
+$(OUTDIR)/text/index.html: $(_TEXT_PAGES)
+	@mkdir -p $(@D)
+	./textindex.sh | $(THEME) $(THEME_FLAGS) -t $(TPLDIR)/default.tpl -p text/index.html -o $@
+
+$(OUTDIR)/text/%.html: $(PAGEDIR)/text/%.txt $(TPLDIR)/text_style.css
+	@mkdir -p $(@D)
+	@cat $(TPLDIR)/text_style.css > tmpfile.md
+	@echo "<pre>" >> tmpfile.md
+	@cat $< >> tmpfile.md
+	@echo "</pre>" >> tmpfile.md
+	$(THEME) $(THEME_FLAGS) -t $(TPLDIR)/default.tpl -p $(patsubst $(OUTDIR)/%,%,$@) -o $@ tmpfile.md
+	@rm tmpfile.md
 
 $(OUTDIR)/%.html: $(PAGEDIR)/%.md $(TPLDIR)/default.tpl
 	@mkdir -p $(@D)
