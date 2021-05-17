@@ -3,7 +3,8 @@
 % Dezember 2020
 
 Das hier ist eine alphabetisch sortierte Liste aller offiziellen Toki-Pona-Wörter, 
-wie sie auf den Kursseiten 1 bis 12 auftauchen. Jedes Wort ist mit verschiedenen 
+wie sie auf den Kursseiten 1 bis 12 auftauchen. Mit einem Klick auf ein Wort gelangt
+man zur Kursseite, in der das Wort vorgestellt wird. Jedes Wort ist mit verschiedenen 
 Bedeutungen aufgelistet, abhängig von der Position im Satzbau.
 
 Die "Adjektiv"-Definition trifft sowohl auf Adjektive als auch auf Adverbien zu, 
@@ -28,365 +29,365 @@ werden. Beispielsweise kann "moku soweli" je nach Kontext "Tierfutter" oder
 
 ---
 
-#### a
+#### [a](de_7.html)
 * Funktionswort: (emotionaler Ausruf/Ausdruck, Betonung oder Bestätigung)
 
-#### akesi
+#### [akesi](de_12.html)
 * Nomen: "nicht niedliches" Tier, Echse
 
-#### ala
+#### [ala](de_2.html)
 * Nomen: Nichts
 * Adjektiv: nicht, nein, leer
 * Zahl: Null
 
-#### alasa
+#### [alasa](de_12.html)
 * Verb: jagen, sammeln
 * Verb (unkonventionell): suchen
 
-#### ale/ali
+#### [ale/ali](de_2.html)
 * Nomen: Gesamtheit, Universum
 * Adjektiv: alles, jeder, reichlich
 * Zahl: alles/unendlich (einfaches System), 100 (komplexes System)
 
-#### anpa
+#### [anpa](de_7.html)
 * Nomen (alt/nicht pu): Unterteil
 * Adjektiv: beugend, abwärts, bescheiden, demütig, abhängig
 * Verb ohne Obj.: sich (nieder)beugen
 * Verb mit Obj.: erobern, besiegen
 
-#### ante
+#### [ante](de_5.html)
 * Nomen: Unterschied, Veränderung, (unkonventionell) Version
 * Adjektiv: anders, andere, verändert
 * Verb: verändern
 
-#### anu
+#### [anu](de_7.html)
 * Funktionswort: oder
 
-#### awen
+#### [awen](de_5.html)
 * Nomen (unkonventionell): Stabilität, Sicherheit, Warten
 * Adjektiv: erhalten, sicher, ausdauernd, belastbar, wartend, bleibend
 * Verb: bewahren, bleiben, aushalten, schützen
 * Hilfsverb: (etwas) fortsetzen
 
-#### e
+#### [e](de_3.html)
 * Funktionswort: (spezifiziert ein Objekt)
 
-#### en
+#### [en](de_5.html)
 * Funktionswort: und (kombiniert Subjekte)
 
-#### esun
+#### [esun](de_11.html)
 * Nomen: Handel, Transaktion, Tausch
 * Adjektiv: tausch-/handelsbezogen, geschäftlich
 * Verb: handeln, tauschen
 
-#### ijo
+#### [ijo](de_3.html)
 * Nomen: Ding, Objekt, Materie
 * Adjektiv: materiell, physisch
 
-#### ike
+#### [ike](de_1.html)
 * Nomen: Böse
 * Adjektiv: böse, schlecht, komplex, unnötig
 * Verb (unkonventionell): etwas schlimmer machen
 
-#### ilo
+#### [ilo](de_3.html)
 * Nomen: Werkzeug, Maschine, Gerät
 * Adjektiv: brauchbar, (unkonventionell) elektronisch, metallisch
 
-#### insa
+#### [insa](de_7.html)
 * Nomen: Innereien, Inhalt, Mitte, Bauch
 * Adjektiv: mittig, innen, zwischen
 
-#### jaki
+#### [jaki](de_8.html)
 * Nomen: Schmutz, Abfall
 * Adjektiv: schmutzig, eklig, giftig, unsauber, unhygienisch
 * Verb: etwas schmutzig machen
 
-#### jan
+#### [jan](de_2.html)
 * Nomen: Person, Volk, Leute, Menscheit, jemand
 * Adjektiv: menschlich, persönlich
 
-#### jelo
+#### [jelo](de_8.html)
 * Nomen/Adjektiv: (die Farbe) Gelb (und Schattierungen)
 * Verb: etwas gelb färben
 
-#### jo
+#### [jo](de_4.html)
 * Nomen: (unkonventionell) Besitztum, Eigentum
 * Verb: haben/tragen/beinhalten/halten
 
-#### kala
+#### [kala](de_4.html)
 * Nomen: Fisch, Meerestier, Meereslebewesen
 
-#### kalama
+#### [kalama](de_5.html)
 * Nomen: Geräusch, Lärm
 * Adjektiv: laut, lärmend, schallend
 * Verb: Lärm machen, rezitieren, (ein Instrument) spielen
 
-#### kama
+#### [kama](de_10.html)
 * Nomen: Ereignis, Ankunft
 * Adjektiv: ankommend, kommend, zukünftig
 * Hilfsverb: werden, dabei sein (etwas) zu tun, erfolgreich sein in
 
-#### kasi
+#### [kasi](de_4.html)
 * Nomen: Pflanze, Gras, Kraut, Blatt
 
-#### ken
+#### [ken](de_10.html)
 * Nomen: Fähigkeit, Möglichkeit, (unkonventionell) Recht, Freiheit
 * Adjectiv (unkonventionell): fähig, möglich
 * Hilfsverb: kann (etwas tun), darf (etwas tun)
 
-#### kepeken
+#### [kepeken](de_6.html)
 * Nomen: Nutzen, (unkonventionell) Übung
 * Verb mit Obj.: etwas benutzen
 * Präposition: (etwas) benutzend, mithilfe von
 
-#### kili
+#### [kili](de_1.html)
 * Nomen: Frucht, Gemüse, Pilz
 
-#### kiwen
+#### [kiwen](de_4.html)
 * Nomen: hartes Objekt, Metall, Stein, Festkörper
 * Adjektiv: hart, metallisch, fest
 
-#### ko
+#### [ko](de_4.html)
 * Nomen: Pulver, Ton, Paste, halbfest
 
-#### kon
+#### [kon](de_12.html)
 * Nomen: Luft, Essenz, Geist, (unkonventionell) Gas
 * Adjektiv: unsichtbar, flüchtig, (unkonventionell) gasförmig
 
-#### kule
+#### [kule](de_8.html)
 * Nomen: Farbe, (selten) Gender
 * Adjektiv: bunt, gemalt
 * Verb: bemalen
 
-#### kulupu
+#### [kulupu](de_5.html)
 * Nomen: Gruppe, Gemeinschaft, Firma, Gesellschaft, Nation, Stamm
 * Adjektiv: gemeinschaftlich, gesellschaftlich
 
-#### kute
+#### [kute](de_7.html)
 * Nomen: Ohr, Gehör
 * Adjektiv: ...-klingend
 * Verb: hören, zuhören, gehorchen
 
-#### la
+#### [la](de_9.html)
 * Funktionswort: (stellt Kontext voran)
 
-#### lape
+#### [lape](de_5.html)
 * Nomen: Schlaf, Ruhe
 * Adjektiv: schlafend, erholsam
 * Verb: schlafen, erholen
 
-#### laso
+#### [laso](de_8.html)
 * Nomen/Adjektiv: (die Farbe) Blau, Grün (und Schattierungen)
 * Verb: etwas blau/grün färben
 
-#### lawa
+#### [lawa](de_7.html)
 * Nomen: Kopf, Bewusstsein
 * Adjektiv: Haupt-..., vorrangig, steuernd, herrschend
 * Verb: leiten, kontrollieren, lenken, anführen, führen, besitzen, regieren
 
-#### len
+#### [len](de_9.html)
 * Nomen: Stoff, Kleidung, Textil, Privatsphärenschutz
 * Adjektiv: bekleidet, aus Stoff/Textilien gefertigt
 * Verb: bekleiden, die Privatsphäre schützen
 
-#### lete
+#### [lete](de_9.html)
 * Nomen: Kälte
 * Adjektiv: kalt, kühl, roh, ungekocht
 * Verb: abkühlen
 
-#### li
+#### [li](de_1.html)
 * Funktionswort: (zwischen Sunjekt und Verb/Adjektiv)
 
-#### lili
+#### [lili](de_1.html)
 * Nomen: Kleinheit
 * Adjektiv: klein, wenige, jung
 * Verb: schrumpfen
 
-#### linja
+#### [linja](de_9.html)
 * Nomen: langes biegsames Objekt, Schnur, Seil, Haar
 
-#### lipu
+#### [lipu](de_3.html)
 * Nomen: flaches Objekt, Buch, Dokument, Papier, Seite, Aufzeichnung, Internetseite
 * Adjektiv: flach, als lipu benutzt, lipu-ähnich, aus lipu
 
-#### loje
+#### [loje](de_8.html)
 * Nomen/Adjektiv: (die Farbe) Rot (und Schattierungen)
 * Verb: etwas rot färben
 
-#### lon
+#### [lon](de_6.html)
 * Nomen: Wahrheit, Leben, Existenz
 * Adjektiv: wahr, real, anwesend, existierend
 * Verb ohne Objekt: ist wahr, existiert
 * Präposition: in, auf, an
 
-#### luka
+#### [luka](de_9.html)
 * Nomen: Hand, Arm
 * Zahl: 5 (komplexes System)
 
-#### lukin
+#### [lukin](de_3.html)
 * Nomen: Auge, Sicht
 * Adjektiv: ...-aussehend, visuell
 * Verb: sehen, schauen, lesen
 * Hilfsverb: (ver)suchen (etwas zu tun)
 
-#### lupa
+#### [lupa](de_10.html)
 * Nomen: Loch, Tür, Öffnung, Fenster
 
-#### ma
+#### [ma](de_4.html)
 * Nomen: Erde, Land, Draußen, Territorium, Land
 
-#### mama
+#### [mama](de_2.html)
 * Nomen: Elternteil, Vorfahre, Schöpfer, Ursprung, Fürsorger
 * Verb: erstellen, erziehen, betreuen
 
-#### mani
+#### [mani](de_11.html)
 * Nomen: Geld, großes Nutztier
 * Adjektiv: (unkonventionell) reich
 
-#### meli
+#### [meli](de_2.html)
 * Nomen: Frau, Weibchen, Ehefrau
 * Adjektiv: weiblich
 
-#### mi
+#### [mi](de_1.html)
 * Nomen: ich, wir
 * Adjektiv: mein, unser
 
-#### mije
+#### [mije](de_2.html)
 * Nomen: Mann, Männchen, Ehemann
 * Adjektiv: männlich
 
-#### moku
+#### [moku](de_2.html)
 * Nomen: Nahrung
 * Adjektiv: essbar, nahrungs-
 * Verb: essen, trinken, schlucken
 
-#### moli
+#### [moli](de_8.html)
 * Nomen: Tod
 * Adjektiv: tot, sterbend
 * Verb: töten
 
-#### monsi
+#### [monsi](de_6.html)
 * Nomen: Rücken, Hinterteil, Rückteil, Hintern
 * Adjektiv: zurück, hinten
 
-#### mu
+#### [mu](de_7.html)
 * (alle Tiergeräusche)
 
-#### mun
+#### [mun](de_11.html)
 * Nomen: Mond, Stern, Nachthimmelobjekt
 * Adjektiv: lunar, stellar
 
-#### musi
+#### [musi](de_9.html)
 * Nomen: Spiel, Kunst
 * Adjektiv: unterhaltsam, künstlerisch, lustig
 * Verb: sich unterhalten, spielen, Spaß haben
 
-#### mute
+#### [mute](de_5.html)
 * Nomen: Anzahl
 * Adjektiv: viel, mehr
 * Zahl: 3 oder mehr (einfaches System), 20 (komplexes System)
 
-#### nanpa
+#### [nanpa](de_11.html)
 * Nomen: Nummer
 * Adjektiv: -ste (Ordnungszahl-Angabe), mathematisch, numerisch, (unkonventionell) digital
 
-#### nasa
-* Adjektiv: seltsam, ungewöhnlich, merkwürdig, verrückt, betrunken
+#### [nasa](de_8.html)
+* Adjektiv: seltsam, ungewöhnlich, merkwürdig, betrunken
 
-#### nasin
+#### [nasin](de_10.html)
 * Nomen: Weg, Straße, Art und Weise, Lehre, Brauch
 * Adjektiv: wege-, richtlinienkonform
 * Verb (unkonventionell): führen, den Weg zeigen
 
-#### nena
+#### [nena](de_10.html)
 * Nomen: Hügel, Berg, Knopf, Erhebung, Nase
 * Adjektiv: hügelig, bergig, uneben
 
-#### ni
+#### [ni](de_5.html)
 * Nomen/Adjektiv: dies, das
 
-#### nimi
+#### [nimi](de_7.html)
 * Nomen: Wort, Name
 
-#### noka
+#### [noka](de_6.html)
 * Nomen: Fuß, Bein, Unten, Unterteil, unter (smth)
 
-#### o
+#### [o](de_7.html)
 * Funktionswort: (Ansprache, Befehle)
 
-#### olin
+#### [olin](de_3.html)
 * Nomen: Liebe, Mitgefühl, Zuneigung, Respekt
 * Adjektiv: geliebt, lieblings-..., respektiert
 * Verb: lieben, respektieren
 
-#### ona
+#### [ona](de_1.html)
 * Nomen: er, sie, es, sie
 * Adjektiv: seine, ihre, seine, ihre
 
-#### open
+#### [open](de_10.html)
 * Nomen: Start, Anfang
 * Adjektiv: anfänglich, beginnend
 * Verb: starten, öffnen, einschalten
 * Hilfsverb: anfangen (etwas zu tun)
 
-#### pakala
+#### [pakala](de_5.html)
 * Nomen: Schaden, Fehler
 * Adjektiv: kaputt, defekt, falsch
 * Verb: zerbrechen, Fehler machen
 * Funktionswort: (allgemeiner Fluch)
 
-#### pali
+#### [pali](de_3.html)
 * Nomen: Arbeit, Werk
 * Adjektiv: arbeitend, funktionierend
 * Verb: (an etwas) arbeiten, machen, erstellen
 
-#### palisa
+#### [palisa](de_9.html)
 * Nomen: langes festes Objekt, Ast, Stock, (unkonventionell) Länge
 * Adjektiv: lang
 
-#### pan
+#### [pan](de_12.html)
 * Nomen: Brot, Getreide, Mais, Reis, Pizza
 
-#### pana
+#### [pana](de_3.html)
 * Adjektiv: (unkonventionell) gegeben, gesendet, freigegeben
 * Verb: geben, senden, ausstrahlen, freilassen
 
-#### pi
+#### [pi](de_9.html)
 * Funktionswort: (gruppiert Adjektive um)
 
-#### pilin
+#### [pilin](de_12.html)
 * Nomen: Herz, Gefühl, Sinn
 * Adjektiv: gefühlt, ertastet
 * Verb: fühlen, tasten, denken
 
-#### pimeja
+#### [pimeja](de_8.html)
 * Nomen: (die Farbe) Schwarz (und Schattierungen), Schatten
 * Adjektiv: schwarz, dunkel
 * Verb: etwas schwarz färben, einen Schatten werfen
 
-#### pini
+#### [pini](de_10.html)
 * Nomen: Ende, Schluss
 * Adjektiv: endgültig, abgeschlossen, beendet, vorbei (mit tenpo)
 * Verb: beenden, abschließen, schließen
 * Hilfsverb: aufhören (etwas zu tun)
 
-#### pipi
+#### [pipi](de_4.html)
 * Nomen: Insekt, Käfer
 
-#### poka
+#### [poka](de_6.html)
 * Nomen: Hüfte, Seite, Nähe
 * Adjektiv: benachbart, nah, an der Seite
 
-#### poki
+#### [poki](de_11.html)
 * Nomen: Box, Behälter, Schüssel, Tasse, Schublade
 * Verb (unkonventionell): einpacken, einkisten
 
-#### pona
+#### [pona](de_1.html)
 * Nomen: Güte, Einfachheit
 * Adjektiv: gut, einfach, freundlich, friedlich
 * Verb: verbessern, reparieren
 
-#### pu
+#### [pu](de_12.html)
 * Nomen: das offizielle Toki-Pona-Buch
 * Adjektiv: wie im offiziellen Toki-Pona-Buch beschrieben
 * Verb: mit dem offiziellen Toki-Pona-Buch interagieren
@@ -396,115 +397,118 @@ werden. Beispielsweise kann "moku soweli" je nach Kontext "Tierfutter" oder
 > Manche Leute wollen es nur in der Verb-Version verwenden, während andere auch 
 > die anderen benutzen.
 
-#### sama
+#### [sama](de_6.html)
 * Nomen: Ähnlichkeit, (jemandes) Geschwister
 * Adjektiv: ähnlich, wie, geschwisterlich
 * Präposition: as, like
 
-#### seli
+#### [seli](de_5.html)
 * Nomen: Hitze, Wärme, chemische Reaktion, Wärmequelle
 * Adjektiv: warm, heiß
 * Verb: wärmen
 
-#### selo
+#### [selo](de_9.html)
 * Nomen: äußere Form, äußere Schicht, Schale, Haut, Begrenzung
 * Adjektiv: äußeres
 
-#### seme
+#### [seme](de_7.html)
 * Funktionswort: was? (für Fragen)
 
-#### sewi
+#### [sewi](de_6.html)
 * Nomen: überliegender Bereich, Oben, oberer Teil, Himmel, Gott
 * Adjektiv: hoch, über, göttlich, heilig
 
-#### sijelo
+#### [sijelo](de_9.html)
 * Nomen: Körper, physischer Zustand, Torso
 * Adjektiv: physisch, körperlich
 
-#### sike
+#### [sike](de_11.html)
 * Nomen: Kreis, Kugel, Zyklus, Rad, (with tenpo) Jahr
 * Adjektiv: rund, kreisförmig, kugelförmig, ein Jahr betreffend
 * Verb: umkreisen
 
-#### sin
+#### [sin](de_11.html)
 * Nomen: Neuheit, Ergänzung, (unkonventionell) Update, Gewürz
 * Adjektiv: neu, ergänzend, frisch, extra
 * Verb: hinzufügen, aktualisieren
 
-#### sina
+#### [sina](de_1.html)
 * Nomen: du, Sie, ihr
 * Adjektiv: dein, Ihr, ihr
 
-#### sinpin
+#### [sinpin](de_6.html)
 * Nomen: Gesicht, vorderster Teil, Front, Wand
 * Adjektiv: das Gesicht betreffend, vorderst
 
-#### sitelen
+#### [sitelen](de_4.html)
 * Nomen: Symbol, Bild, Schrift
 * Adjektiv: symbolisch, schriftlich, aufgezeichnet
 * Verb: schreiben, zeichnen, aufzeichnen
 
-#### sona
+#### [sona](de_10.html)
 * Nomen: Wissen, Information
 * Adjektiv: bekannt
 * Verb: wissen
 * Hilfsverb: wissen (wie man etwas tut)
 
-#### soweli
+#### [soweli](de_1.html)
 * Nomen: Landsäugetier, Tier
 
-#### suli
+#### [suli](de_1.html)
 * Nomen: Größe, Großartigkeit
 * Adjektiv: groß, schwer, hoch, groß, wichtig, erwachsen
 * Verb: wachsen
 
-#### suno
+#### [suno](de_11.html)
 * Nomen: Sonne, Licht, Helligkeit, Lichtquelle
 * Adjektiv: sonnig, hell
 * Verb: leuchten, scheinen
 
-#### supa
+#### [supa](de_12.html)
 * Nomen: horizontale Oberfläche
 
-#### suwi
+#### [suwi](de_2.html)
 * Nomen: (unkonventionell) Süßigkeiten, Aromen
 * Adjektiv: süß, duftend, niedlich, bezaubernd
 
-#### tan
+#### [tan](de_6.html)
 * Nomen: Ursache, Grund, Herkunft
 * Adjektiv: original-...
 * Verb mit Objekt (unkonventionell): verursachen
 * Präposition: von, wegen
 
-#### taso
+#### [taso](de_12.html)
 * Funktionswort (am Satzanfang): aber, jedoch
 * Adjektiv: nur
 
-#### tawa
+#### [tawa](de_6.html)
 * Nomen: Bewegung
 * Adjektiv: bewegt
 * Verb: bewegen
 * Präposition: zu, für, aus der Perspektive von
 
-#### telo
+#### [telo](de_3.html)
 * Nomen/Adjektiv: Wasser, Flüssigkeit
 * Adjektiv: nass, flüssig, fließend
 * Verb: wässern, waschen
 
-#### tenpo
+#### [tenpo](de_10.html)
 * Nomen: Zeit, Moment, Anlass
 * Adjektiv: zeitlich
 
-#### toki
+#### [toki](de_4.html)
 * Nomen: Rede, Gespräch, Sprache
 * Adjektiv: verbal, gesprächig
 * Verb: sprechen, reden, Sprache benutzen, denken
 
-#### tomo
+#### [tomo](de_3.html)
 * Nomen: Haus, Gebäude, Struktur, Innenraum, Raum
 * Adjektiv: innen
 
-#### tu
+#### [tonsi](de_x1.html)
+* Adjektiv: genderqueer, nichtbinär, trans
+
+#### [tu](de_11.html)
 * Zahl: 2
 * Nomen: Trennung
 * Adjektiv: geteilt
@@ -519,26 +523,26 @@ werden. Beispielsweise kann "moku soweli" je nach Kontext "Tierfutter" oder
 >
 > kulupu li tu. -- Die Gesellschaft ist geteilt.
 
-#### unpa
+#### [unpa](de_8.html)
 * Nomen: Sex
 * Adjektiv: sexuell
 * Verb: sex haben (mit)
 
-#### uta
+#### [uta](de_12.html)
 * Nomen: Mund, Lippen
 * Adjektiv: oral
 
-#### utala
+#### [utala](de_2.html)
 * Nomen: Kampf, Schlacht, Herausforderung, Krieg
 * Adjektiv: aggressiv, kriegerisch
 * Verb: kämpfen, streiten, herausfordern
 
-#### walo
+#### [walo](de_8.html)
 * Nomen: (die Farbe) Weiß (und Schattierungen)
 * Adjektiv: weiß, hell
 * Verb: etwas weiß färben
 
-#### wan
+#### [wan](de_11.html)
 * Zahl: 1
 * Nomen: Teil (von etwas)
 * Adjektiv: vereinigt, verheiratet
@@ -557,19 +561,19 @@ werden. Beispielsweise kann "moku soweli" je nach Kontext "Tierfutter" oder
 > 
 > kulupu mute li wan -- Viele (oder 20) Gesellschaften sind vereinigt.
 
-#### waso
+#### [waso](de_4.html)
 * Nomen: Vogel, fliegendes Lebewesen
 
-#### wawa
+#### [wawa](de_2.html)
 * Nomen: Stärke, Macht, Energie
 * Adjektiv: stark, mächtig, energisch
 
-#### weka
+#### [weka](de_12.html)
 * Nomen: Abwesenheit, Ferne
 * Adjektiv: abwesend, weg, entfernt
 * Verb: entfernen, loswerden
 
-#### wile
+#### [wile](de_10.html)
 * Nomen: Wille, Bedürfnis, Wunsch
 * Adjektiv: gewünscht, benötigt, erforderlich
 * Verb: wollen

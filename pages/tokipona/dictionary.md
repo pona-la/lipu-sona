@@ -3,7 +3,8 @@
 % july 2020
 
 This is a list of all official words in toki pona as described on the pages from
-1 to 12, arranged alphabetically. Each word is listed with different meanings
+1 to 12, arranged alphabetically. You can click on the words to get to the
+lesson they get introduced in. Each word is listed with different meanings
 depending on which parts of speech it can be used as.
 
 The "adjective" definition applies to both adjectives and adverbs, as the only
@@ -25,367 +26,367 @@ example, "moku soweli" can mean "animal food" or "meat", depending on context.
 
 ---
 
-#### a
+#### [a](7.html)
 * particle: (emotional interjection, emphasis or confirmation)
 
-#### akesi
+#### [akesi](12.html)
 * noun: "non-cute" animal, lizard
 
-#### ala
+#### [ala](2.html)
 * noun: nothing
 * adjective: not, no, empty
 * number: zero
 
-#### alasa
+#### [alasa](12.html)
 * verb: to hunt, to gather
 * verb (unconventional): to search, to look for
 
-#### ale/ali
+#### [ale/ali](2.html)
 * noun: everything, universe
 * adjective: every, all, abundant
 * number: all/infinite (simple system), 100 (complex system)
 
-#### anpa
+#### [anpa](7.html)
 * noun (old/non-pu): lower part
 * adjective: bowing down, downward, lowly, humble, dependent
 * verb w/o obj: to bow down
 * verb w/ obj: to conquer, to defeat
 
-#### ante
+#### [ante](5.html)
 * noun: difference, change, (unconventional) version
 * adjective: different, other, changed
 * verb: to change
 
-#### anu
+#### [anu](7.html)
 * particle: or
 
-#### awen
+#### [awen](5.html)
 * noun (unconventional): stability, safety, wait
 * adjective: kept, safe, enduring, resilient, waiting, staying
 * verb: keep, stay, endure, protect
 * pre-verb: continue (doing something)
 
-#### e
+#### [e](3.html)
 * particle: (specifies an object)
 
-#### en
+#### [en](5.html)
 * particle: and (combines subjects)
 
-#### esun
+#### [esun](11.html)
 * noun: trade, transaction, exchange
 * adjective: trade/exchange-related, commercial
 * verb: to trade, to exchange
 
-#### ijo
+#### [ijo](3.html)
 * noun: thing, object, matter
 * adjective: material, physical
 
-#### ike
+#### [ike](1.html)
 * noun: evil
 * adjective: bad, evil, complex, unnecessary
 * verb (unconventional): make smth worse
 
-#### ilo
+#### [ilo](3.html)
 * noun: tool, machine, device
 * adjective: useful, (unconventional) electronic, metallic
 
-#### insa
+#### [insa](7.html)
 * noun: insides, contents, center, stomach
 * adjective: central, inside, between
 
-#### jaki
+#### [jaki](8.html)
 * noun: dirt, waste
 * adjective: dirty, disgusting, toxic, unclean, unsanitary
 * verb: to make something dirty
 
-#### jan
+#### [jan](2.html)
 * noun: person, people, humanity, somebody
 * adjective: human-like, personal
 
-#### jelo
+#### [jelo](8.html)
 * noun/adjective: (the color) yellow (and its shades)
 * verb: to color smth yellow
 
-#### jo
+#### [jo](4.html)
 * noun: (unconventional) possessions, property
 * verb: to have/carry/contain/hold
 
-#### kala
+#### [kala](4.html)
 * noun: fish, marine animal, sea creature
 
-#### kalama
+#### [kalama](5.html)
 * noun: sound, noise
 * adjective: loud, noisy, sound-making
 * verb: to make noise, to recite, to play (an instrument)
 
-#### kama
+#### [kama](10.html)
 * noun: event, arrival
 * adjective: arriving, coming, future, summoned
 * pre-verb: to become, to be in the process of (doing smth), to manage to, to
   succeed in
 
-#### kasi
+#### [kasi](4.html)
 * noun: plant, grass, herb, leaf
 
-#### ken
+#### [ken](10.html)
 * noun: ability, possibility, (unconventional) right, liberty
 * adjective (unconventional): able, possible
 * pre-verb: can (do smth), may (do smth)
 
-#### kepeken
+#### [kepeken](6.html)
 * noun: use, (unconventional) practice
 * verb w/ obj: to use smth
 * preposition: (do smth) using, with the help of
 
-#### kili
+#### [kili](1.html)
 * noun: fruit, vegetable, mushroom
 
-#### kiwen
+#### [kiwen](4.html)
 * noun: hard object, metal, stone, solid
 * adjective: hard, metallic, solid
 
-#### ko
+#### [ko](4.html)
 * noun: powder, clay, paste, semi-solid
 
-#### kon
+#### [kon](12.html)
 * noun: air, essence, spirit, (unconventional) gas
 * adjective: invisible, ephemeral, (unconventional) gaseous
 
-#### kule
+#### [kule](8.html)
 * noun: color, (rare) gender
 * adjective: colorful, painted
 * verb: to paint smth a color
 
-#### kulupu
+#### [kulupu](5.html)
 * noun: group, community, company, society, nation, tribe
 * adjective: communal, social
 
-#### kute
+#### [kute](7.html)
 * noun: ear, hearing
 * adjective: ...-sounding
 * verb: to hear, to listen, to obey
 
-#### la
+#### [la](9.html)
 * particle: "if/when" (introduces context)
 
-#### lape
+#### [lape](5.html)
 * noun: sleep, rest
 * adjective: sleeping, restful
 * verb: to sleep, to rest
 
-#### laso
+#### [laso](8.html)
 * noun/adjective: (the color) blue, green (and its shades)
 * verb: to color something blue/green
 
-#### lawa
+#### [lawa](7.html)
 * noun: head, mind
 * adjective: main, primary, controlling, ruling
 * verb: to head, to control, to direct, to guide, to lead, to own, to rule
 
-#### len
+#### [len](9.html)
 * noun: cloth, clothes, fabric, layer of privacy
 * adjective: clothed, made of cloth/fabric
 * verb: to clothe, to provide a layer of privacy
 
-#### lete
+#### [lete](9.html)
 * noun: cold
 * adjective: cold, cool, raw, uncooked
 * verb: to cool down
 
-#### li
+#### [li](1.html)
 * particle: (between subj. and verb/adj.)
 
-#### lili
+#### [lili](1.html)
 * noun: smallness
 * adjective: small, few, young
 * verb: to shrink
 
-#### linja
+#### [linja](9.html)
 * noun: long flexible object, string, rope, hair
 
-#### lipu
+#### [lipu](3.html)
 * noun: flat object, book, document, paper, page, record, website
 * adjective: flat, used as lipu, lipu-like, of lipu
 
-#### loje
+#### [loje](8.html)
 * noun/adjective: (the color) red (and its shades)
 * verb: to color smth red
 
-#### lon
+#### [lon](6.html)
 * noun: truth, life, existence
 * adjective: real, true, present, existing
 * verb w/o object: is true, exists
 * preposition: in, at, on
 
-#### luka
+#### [luka](9.html)
 * noun: hand, arm
 * number: 5 (complex system)
 
-#### lukin+
+#### [lukin](3.html)
 * noun: eye, vision
 * adjective: ...-looking, visual
 * verb: to look, to see, to read
 * pre-verb: to seek (to do something)
 
-#### lupa
+#### [lupa](10.html)
 * noun: hole, door, orifice, window
 
-#### ma
+#### [ma](4.html)
 * noun: earth, land, outdoors, territory, country
 
-#### mama
+#### [mama](2.html)
 * noun: parent, ancestor, creator, origin, caretaker
 * verb: to create, to parent, to take care of
 
-#### mani
+#### [mani](11.html)
 * noun: money, large domesticated animal
 * adjective: (unconventional) wealthy
 
-#### meli
+#### [meli](2.html)
 * noun: woman, female, wife
 * adjective: feminine
 
-#### mi
+#### [mi](1.html)
 * noun: i, me, we, us 
 * adjective: my, our
 
-#### mije
+#### [mije](2.html)
 * noun: man, male, husband
 * adjective: masculine
 
-#### moku
+#### [moku](2.html)
 * noun: food
 * adjective: edible, of food
 * verb: to eat, to drink, to swallow
 
-#### moli
+#### [moli](8.html)
 * noun: death
 * adjective: dead, dying
 * verb: to kill
 
-#### monsi
+#### [monsi](6.html)
 * noun: back, behind, rear, butt
 * adjective: back, rear
 
-#### mu
+#### [mu](7.html)
 * (any animal sound)
 
-#### mun
+#### [mun](11.html)
 * noun: moon, star, night sky object
 * adjective: lunar, stellar
 
-#### musi
+#### [musi](9.html)
 * noun: game, art
 * adjective: entertaining, artistic, amusing
 * verb: to amuse, to play, to have fun
 
-#### mute
+#### [mute](5.html)
 * noun: quantity
 * adjective: many, more
 * number: 3 or more (simple system), 20 (complex system)
 
-#### nanpa
+#### [nanpa](11.html)
 * noun: number
 * adjective: -th (ordinal indicator), mathematical, numeric, 
     (unconventional) digital
 
-#### nasa
-* adjective: weird, unusual, strange, crazy, drunk
+#### [nasa](8.html)
+* adjective: weird, unusual, strange, drunk
 
-#### nasin
+#### [nasin](10.html)
 * noun: path, road, street, directive, way, custom
 * adjective: street-, true to the directive/way/custom
 * verb (unconventional): to guide, to show the path
 
-#### nena
+#### [nena](10.html)
 * noun: hill, mountain, button, bump, nose
 * adjective: hilly, mountainous, bumpy
 
-#### ni
+#### [ni](5.html)
 * noun/adjective: this, that
 
-#### nimi
+#### [nimi](7.html)
 * noun: word, name
 
-#### noka
+#### [noka](6.html)
 * noun: foot, leg, bottom, lower part, under (smth)
 
-#### o
+#### [o](7.html)
 * particle: (addressing people, commands)
 
-#### olin
+#### [olin](3.html)
 * noun: love, compassion, affection, respect
 * adjective: loved, favorite, respected
 * verb: to love, to respect
 
-#### ona
+#### [ona](1.html)
 * noun: he, she, they, it 
 * adjective: his, her, their, its
 
-#### open
+#### [open](10.html)
 * noun: start, beginning
 * adjective: initial, starting
 * verb: to start, to open, to turn on
 * pre-verb: to begin (doing something)
 
-#### pakala
+#### [pakala](5.html)
 * noun: damage, mistake
 * adjective: broken, wrong
 * verb: to break, to make mistakes
 * particle: (generic curse)
 
-#### pali
+#### [pali](3.html)
 * noun: work, labor
 * adjective: working
 * verb: to work (on), to make
 
-#### palisa
+#### [palisa](9.html)
 * noun: long solid object, branch, stick, (unconventional) length
 * adjective: long
 
-#### pan
+#### [pan](12.html)
 * noun: bread, grain, corn, rice, pizza
 
-#### pana
+#### [pana](3.html)
 * adjective: (unconventional) given, sent, released
 * verb: to give, to send, to emit, to release
 
-#### pi
+#### [pi](9.html)
 * particle: "of" (regroups two or more modifiers)
 
-#### pilin
+#### [pilin](12.html)
 * noun: heart, feeling, touch, sense
 * adjective: feeling, touch-based
 * verb: to touch, to think, to feel
 
-#### pimeja
+#### [pimeja](8.html)
 * noun: (the color) black (and its shades), shadow
 * adjective: black, dark
 * verb: to color smth black, to cast a shadow
 
-#### pini
+#### [pini](10.html)
 * noun: end, finish
 * adjective: final, completed, finished, past (with tenpo)
 * verb: to end, to finish, to close
 * pre-verb: to end/stop doing something
 
-#### pipi
+#### [pipi](4.html)
 * noun: insect, bug
 
-#### poka
+#### [poka](6.html)
 * noun: hip, side, nearby area
 * adjective: neighboring, nearby, at one's side
 
-#### poki
+#### [poki](11.html)
 * noun: box, container, bowl, cup, drawer
 * verb (unconventional): to put in a box
 
-#### pona
+#### [pona](1.html)
 * noun: good, simplicity
 * adjective: good, simple, friendly, peaceful
 * verb: to improve, to fix
 
-#### pu
+#### [pu](12.html)
 * noun: the official toki pona book
 * adjective: as told in the official toki pona book
 * verb: interacting with the official toki pona book
@@ -395,115 +396,123 @@ example, "moku soweli" can mean "animal food" or "meat", depending on context.
 > Some people in the toki pona community prefer to only use it in the verb
 > meaning, while others use it in others as well.
 
-#### sama
+#### [sama](6.html)
 * noun: similarity, (someone's) sibling
 * adjective: similar, like, sibling
 * preposition: as, like
 
-#### seli
+#### [seli](5.html)
 * noun: heat, warmth, chemical reaction, heat source
 * adjective: warm, hot
 * verb: to heat
 
-#### selo
+#### [selo](9.html)
 * noun: outer form, outer layer, shell, skin, boundary
 * adjective: outer
 
-#### seme
+#### [seme](7.html)
 * particle: what? which? (for questions)
 
-#### sewi
+#### [sewi](6.html)
 * noun: area above, top, highest part, sky, god
 * adjective: high, above, divine, sacred
 
-#### sijelo
+#### [sijelo](9.html)
 * noun: body, physical state, torso
 * adjective: physical, of sijelo
 
-#### sike
+#### [sike](11.html)
 * noun: circle, ball, cycle, wheel, (with tenpo) year
 * adjective: round, circular, spherical, of one year
-* verb: to make a circle around
+* verb: to make a circle around, to surround
 
-#### sin
+#### [sin](11.html)
 * noun: novelty, addition, (unconventional) update, spice
 * adjective: new, additional, fresh, extra
 * verb: to add, to update
 
-#### sina
+#### [sina](1.html)
 * noun: you
 * adjective: your
 
-#### sinpin
+#### [sinpin](6.html)
 * noun: face, foremost part, front, wall
 * adjective: of face, foremost
 
-#### sitelen
+#### [sitelen](4.html)
 * noun: symbol, image, writing
 * adjective: symbolic, written, recorded
 * verb: to write, to draw, to record
 
-#### sona
+#### [sona](10.html)
 * noun: knowledge, information
 * adjective: known
 * verb: to know
 * pre-verb: to know (how to do something)
 
-#### soweli
+#### [soweli](1.html)
 * noun: land mammal, animal
 
-#### suli
+#### [suli](1.html)
 * noun: size, greatness
 * adjective: big, heavy, tall, great, important, adult
 * verb: to grow
 
-#### suno
+#### [suno](11.html)
 * noun: sun, light, brightness, light source
 * adjective: solar, bright
 * verb: to light, to shine
 
-#### supa
+#### [supa](12.html)
 * noun: horizontal surface
 
-#### suwi
+#### [suwi](2.html)
 * noun: (unconventional) sweets, fragrances
 * adjective: sweet, fragrant, cute, adorable
 
-#### tan
+#### [tan](6.html)
 * noun: cause, reason, origin
 * adjective: original
 * verb w/ object (unconventional): to cause
 * preposition: from, because of
 
-#### taso
+#### [taso](12.html)
 * particle (at beginning of sentence): but, however
 * adjective: only
 
-#### tawa
+#### [tawa](6.html)
 * noun: movement
 * adjective: moving
 * verb: to move
 * preposition: to, for, from perspective of
 
-#### telo
+#### [telo](3.html)
 * noun/adjective: water, fluid, liquid
 * adjective: wet, fluid, liquid
 * verb: to water, to clean
 
-#### tenpo
+#### [tenpo](10.html)
 * noun: time, moment, occasion
 * adjective: temporal
 
-#### toki
+#### [toki](4.html)
 * noun: speech, conversation, language
 * adjective: verbal, conversational
 * verb: to speak, to talk, to use language, to think
 
-#### tomo
+#### [tomo](3.html)
 * noun: home, building, structure, indoor space, room
 * adjective: indoor
 
-#### tu
+#### [tonsi](x1.html)
+* noun: non-binary person, trans person
+* adjective: gender-nonconforming, trans
+
+> %warning%
+> "tonsi" is the only non-official word in this list. It was created by the community 
+> after the official book was released and it is the most accepted non-official word.
+
+#### [tu](11.html)
 * number: 2
 * noun: divide
 * adjective: divided
@@ -517,26 +526,26 @@ example, "moku soweli" can mean "animal food" or "meat", depending on context.
 >
 > kulupu li tu. -- the community is divided.
 
-#### unpa
+#### [unpa](8.html)
 * noun: sex
 * adjective: sexual
 * verb: to have sex with
 
-#### uta
+#### [uta](12.html)
 * noun: mouth, lips
 * adjective: oral
 
-#### utala
+#### [utala](2.html)
 * noun: fight, battle, challenge, war
 * adjective: aggressive, warlike
 * verb: to fight, to battle, to challenge
 
-#### walo
+#### [walo](8.html)
 * noun: the color white (and its shades)
 * adjective: white, bright/light
 * verb: to color something white
 
-#### wan
+#### [wan](11.html)
 * number: 1
 * noun: part (of smth)
 * adjective: united, married
@@ -554,19 +563,19 @@ example, "moku soweli" can mean "animal food" or "meat", depending on context.
 > 
 > kulupu mute li wan -- many (or 20) communities are united.
 
-#### waso
+#### [waso](4.html)
 * noun: bird, flying creature
 
-#### wawa
+#### [wawa](2.html)
 * noun: strength, power, energy
 * adjective: strong, powerful, energetic
 
-#### weka
+#### [weka](12.html)
 * noun: absence, remoteness
 * adjective: absent, away, remote
 * verb: remove, get rid of
 
-#### wile
+#### [wile](10.html)
 * noun: want, need, desire
 * adjective: desired, needed, required
 * verb: to want smth
