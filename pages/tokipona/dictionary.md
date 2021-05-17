@@ -393,6 +393,7 @@ example, "moku soweli" can mean "animal food" or "meat", depending on context.
 
 > %note%
 > The official toki pona book only defines the verb meaning of the word "pu".
+> (Although the phrase "pu la" is used to mean "in the official book".)
 > Some people in the toki pona community prefer to only use it in the verb
 > meaning, while others use it in others as well.
 
