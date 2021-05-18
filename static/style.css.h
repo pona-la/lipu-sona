@@ -55,6 +55,9 @@
 
 html {
 	min-height: 100%;
+	overflow-y: scroll;
+	scrollbar-color: C_LGREEN C_DLINK;
+	scrollbar-width: auto;
 }
 
 body {
