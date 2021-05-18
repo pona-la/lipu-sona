@@ -35,7 +35,7 @@ OUT_STATIC = $(patsubst static/%,out/%,$(_STATIC_FILES)) $(patsubst static/%.h,o
 .SUFFIXES:
 .PHONY: all upload
 
-all: $(OUTDIR)/blog/index.html $(OUTDIR)/dc/blog/index.html $(OUTDIR)/blog/main.rss $(OUTDIR)/text/index.html $(PAGES_HTML) $(PAGES_HTML_DC) $(TEXT_PAGES_TXT) $(TEXT_PAGES_HTML) $(OUT_STATIC)
+all: $(OUTDIR)/blog/index.html $(OUTDIR)/dc/blog/index.html $(OUTDIR)/blog/main.rss $(OUTDIR)/text/index.html $(OUTDIR)/dc/text/index.html $(PAGES_HTML) $(PAGES_HTML_DC) $(TEXT_PAGES_TXT) $(TEXT_PAGES_HTML) $(OUT_STATIC)
 
 upload:
 	./upload.sh
@@ -55,6 +55,10 @@ $(OUTDIR)/blog/main.rss: $(_BLOG_PAGES)
 $(OUTDIR)/text/%.txt: $(PAGEDIR)/text/%.txt
 	@mkdir -p $(@D)
 	cp $< $@
+
+$(OUTDIR)/dc/text/index.html: $(_TEXT_PAGES)
+	@mkdir -p $(@D)
+	./textindex.sh -d | $(THEME) $(DC_THEME_FLAGS) -t $(TPLDIR)/dreamcast.tpl -p text/index.html -o $@
 
 $(OUTDIR)/text/index.html: $(_TEXT_PAGES)
 	@mkdir -p $(@D)
