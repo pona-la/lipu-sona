@@ -67,7 +67,6 @@ cat << RSSHEADER
 <link>https://rnd.neocities.org/blog</link>
 <description>The RSS feed of articles published on the blog thingy</description>
 RSSHEADER
-
 else
   cat tpl/blog_header.md
 fi
