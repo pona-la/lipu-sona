@@ -52,6 +52,8 @@
 	width="88" height="31" alt="jan li lukin e lipu ni lon tenpo mute"/ ></a>
 	<a href="https://jetsetradio.live/"><img src="/banners/jsrl.gif"
 	width="88" height="31" alt="Jet Set Radio Live"/ ></a>
+	<img src="/banners/trans_rights.gif"
+	width="88" height="31" alt="Trans Rights Now!"/ >
 	<br />
 	Website created and updated by /dev/urandom. Source code available on the 
 	<a href="https://gitlab.com/dev_urandom/simple-site">GitLab page</a>.
