@@ -50,7 +50,7 @@ $(OUTDIR)/blog/index.html: $(_BLOG_PAGES) $(TPLDIR)/blog_header.md $(TPLDIR)/blo
 
 $(OUTDIR)/blog/main.rss: $(_BLOG_PAGES)
 	@mkdir -p $(@D)
-	./blogrss.sh > $@
+	./blogindex.sh -r > $@
 
 $(OUTDIR)/text/%.txt: $(PAGEDIR)/text/%.txt
 	@mkdir -p $(@D)
