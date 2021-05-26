@@ -91,7 +91,12 @@ fi
 
 if [[ ${#UPARGS[@]} -gt 0 ]]; then
   if [[ ! ${NOUPLOAD} ]]; then
-	curl ${UPARGS[@]} "https://$N_USER:$N_PWD@neocities.org/api/upload" && touch upload.lasttime
+	# Upload 20 files at a time to avoid cURL crashes
+	STARTINDEX=0
+	while [ $STARTINDEX -lt ${#UPARGS[@]} ]; do
+	  curl ${UPARGS[@]:$STARTINDEX:20} "https://$N_USER:$N_PWD@neocities.org/api/upload" && touch upload.lasttime
+	  STARTINDEX=$(($STARTINDEX+20))
+	done
   else
 	echo "Not uploading differing files."
   fi
