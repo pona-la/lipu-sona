@@ -29,7 +29,7 @@ _DIRECTORIES = $(shell find $(PAGEDIR)/* -type d)
 DIRECTORIES = $(patsubst $(PAGEDIR)/, $(OUTDIR)/, $(_PAGES))
 
 _STATIC_FILES = $(shell find -L static/ -type f -name \* | grep -v \\.h$)
-_STATIC_HEADERS = $(shell find -L static/ -type f -name \*\\.h$)
+_STATIC_HEADERS = $(shell find -L static/ -type f -name \*\\.h)
 OUT_STATIC = $(patsubst static/%,out/%,$(_STATIC_FILES)) $(patsubst static/%.h,out/%,$(_STATIC_HEADERS))
 
 .SUFFIXES:
