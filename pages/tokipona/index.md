@@ -140,6 +140,8 @@ language's 120 word dictionary.
 
 * [list of Russian/Ukrainian/Belarusian city names](city_names.html)
 
+* ["nasin Juni pi ilo kon"](nasin_juni.html), a short page about the "Unix way"
+
 ## Software
 
 Here are links to some software that I personally found useful:
