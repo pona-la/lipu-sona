@@ -54,7 +54,11 @@ Makinto (*Mac OS*) pi tenpo ni li jo e insa lawa wan, e ilo lili mute pi ilo
 Peli.  ilo Nu (*GNU*) en ilo Linu (*Linux*) li kama ala tan ilo Juni. taso, ona
 li jo e ilo kon lili mute pi pali sama, pi nasin sama.
 
-# toki sin
+# sona sin
+
+> %info%
+> sona ni li lon "lipu tenpo" ala. mi pali e ona tawa lipu ni.
+>
 
 mi pali e kulupu pi lipu kon mute. mi wile e ni: ilo sona li pali e lipu sin.
 lipu sin ni li jo e nimi nasin pi lipu ante ale. nimi nasin ni li kepeken e
