@@ -4,4 +4,5 @@ remotehashes.txt
 Makefile.cfg
 upload.pwd
 upload.lasttime
+upload.sh
 out/
