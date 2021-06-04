@@ -29,7 +29,7 @@
     <tr><td colspan="2" bgcolor="#050403">
       <font color="#fefefe">
 	<a href="https://neocities.org/"><img src="/banners/neocities.gif"
-	width="88" height="31" alt="Hosted by Neocities" /></a>
+	width="88" height="31" alt="Neocities: free homepages" title="This website recommends Neocities for your homepage needs."/></a>
 	<a rel="me" href="https://cybre.space/@devurandom"><img src="/banners/mastodon.gif"
 	width="88" height="31" alt="Follow me on Mastodon" /></a>
 	<a href="https://www.vim.org"><img src="/banners/vim.gif"
