@@ -112,10 +112,10 @@ pona"](https://www.youtube.com/watch?v=4L-dvvng4Zc) Митча Хэлли (та�
  документа от [jan Lini](https://morr.cc/toki-pona-cheat-sheet/)): 
 
 * * [формат
-  PDF](https://rnd.neocities.org/tokipona/toki-pona-cheat-sheet-ru.pdf)
+  PDF](/toki-pona-cheat-sheet-ru.pdf)
 
 * * [формат ODT
- (LibreOffice)](https://rnd.neocities.org/tokipona/toki-pona-cheat-sheet-ru.odt)
+ (LibreOffice)](/tokipona/toki-pona-cheat-sheet-ru.odt)
 
 ---
 
