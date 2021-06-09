@@ -1,8 +1,4 @@
 blogdates.txt
-localhashes.txt
-remotehashes.txt
 Makefile.cfg
-upload.pwd
-upload.lasttime
-upload.sh
+upload.name
 out/
