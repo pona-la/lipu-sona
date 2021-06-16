@@ -64,7 +64,7 @@ cat << RSSHEADER
 <rss version="2.0">
 <channel>
 <title>rnd's blog</title>
-<link>https://rnd.neocities.org/blog</link>
+<link>https://devurandom.xyz/blog</link>
 <description>The RSS feed of articles published on the blog thingy</description>
 RSSHEADER
 else
@@ -86,7 +86,7 @@ for f in $FILES; do
 	if [ $RSSMODE ]; then
 		echo "<item>"
 		echo "<title>$TITLE</title>"
-		echo "<link>https://rnd.neocities.org/blog/$OUTPAGE</link>"
+		echo "<link>https://devurandom.xyz/blog/$OUTPAGE</link>"
 
 		if [ $MTIME -gt 0 ]; then
 			RDATE=`date -R -u -d @$MTIME`
