@@ -1,5 +1,5 @@
 #!/bin/sh
-source upload.name
+source ./upload.name
 # flags:
 # -c makes sure uploads are based on file checksums
 # -i shows stats for every changed file
