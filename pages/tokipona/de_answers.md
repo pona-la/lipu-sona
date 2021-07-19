@@ -170,6 +170,23 @@
 > * mi lukin e lipu. tenpo lili la ona li pini.
 > * mi ken toki pi pona mute kepeken toki pona.
 
+<h1><a name="p13" id="p13" href="de_13.html">Seite 13</a></h1>
+
+> * Waschbären sind großartige Tiere.
+> * Die Trans-/Genderqueer-Community ist furchtlos.
+> * Der Doktor gab mir Medizin.
+> * Wenn du mehr wissen möchtest ("das Wissen vergrößern"), ließ das 
+> Toki-Pona-Wörterbuch. 
+> * Dieser Film / diese Fernsehserie ("bewegte Bilder") ist mittelmäßig.
+<!---->
+> * seli li monsuta e mi. / mi pilin monsuta tan seli. / mi pilin ike tan seli.
+> * sina kokosila tan seme? / sina toki kepeken toki pona ala tan seme?
+> * sina wile ala e ni: oko sina li pakala. o pana e len oko tawa sina. / sina
+> wile ala e ni: lukin sina li pakala. o pana e len lukin tawa sina.
+> * o pana e namako walo suwi tawa mi. / o pana e sin moku walo suwi tawa mi.
+> * sina wile e ni: mi kipisi e sike pan kepeken nasin seme? / sina wile e ni:
+> mi tu e sike pan kepeken nasin seme?
+
 <h1><a name="sp" id="sp" href="de_sitelen_pona.html">Seite auf sitelen pona</a></h1>
 > Dieser Teil des Dokuments ist in sitelen pona geschrieben. Könnt ihr es 
 > verstehen?

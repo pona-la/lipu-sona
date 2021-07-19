@@ -100,6 +100,8 @@ offiziellen Wörterbuch einführen.
 
 * [Seite 12 - Abschluss](de_12.html)
 
+* [Seite 13 - Wörterbuch-Spezial-Seite](de_13.html)
+
 ### Extra-Seiten
 
 * [Extra-Seite 1 - alte und neue Wörter](de_x1.html)
