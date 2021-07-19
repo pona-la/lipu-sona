@@ -104,6 +104,8 @@ language's 120 word dictionary.
 
 * [page 12 - the final countdown](12.html)
 
+* [page 13 - special dictionary edition](13.html) **NEW**
+
 ### Extra pages
 
 * [extra page 1 - old and new words](x1.html)
