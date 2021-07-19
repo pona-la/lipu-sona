@@ -3,7 +3,8 @@
 % Dezember 2020
 
 Alle Wörter, die auf den Seiten 1 bis 12 besprochen wurden, sind im offiziellen
-Toki-Pona-Buch veröffentlicht. Allerdings gibt es weitere Wörter, die entweder 
+Toki-Pona-Buch veröffentlicht. Wörter auf [Seite 13](de_13.html) werden im zweiten 
+offiziellen Toki-Pona-Buch beschrieben. Allerdings gibt es weitere Wörter, die entweder 
 vor dem Buch benutzt wurden und dort nicht auftauchen oder von der 
 Toki-Pona-Sprachgemeinschaft hinterher erfunden wurden. Anders als 
 "inoffizielle Wörter", die für Eigennamen verwendet werden (siehe [Seite 7](de_7.html)), 
@@ -50,6 +51,8 @@ getrennte Wörter waren, bedeutete "oko" speziell "Auge", während "lukin"
 "hören" als auch "Ohr" bedeutet, scheint mir das die richtige Entscheidung 
 zu sein.
 
+(*lipu ku* führt diese Worte wieder als richtige Wörter in Toki Pona ein.)
+
 ## Veraltete Wörter
 
 Es gibt auch einige Worte, die manchmal von der Sprachgemeinschaft verwendet 
@@ -94,6 +97,8 @@ sein. Zum Beispiel:
 
 > tenpo mute la ona mute li lon. -- Sie haben für lange Zeit existiert.
 
+Das Wort "misikeke" bedeutet "Medizin" oder "Heilung".
+
 Das Wort "pasila" war ein eigenes Wort für "einfach", wurde aber vor langer Zeit 
 in "pona" zusammengeführt. 
 
@@ -110,6 +115,8 @@ Fehlinformation") gesagt werden kann, wurde es entfernt.
 
 Es gab auch "tuli" und "po" als Zahlenworte für 3 und 4. Sie 
 wurden durch die Begriffe "tu wan" und "tu tu" ersetzt.
+
+(*lipu ku* führt "kipisi", "leko", "monsuta" und "misikeke" wieder ein.)
 
 ## Richtungen
 
