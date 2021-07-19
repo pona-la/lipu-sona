@@ -2,11 +2,11 @@
 % /dev/urandom
 % march 2020
 
-| Translations / ante toki             | Author / jan pali |
-|--------------------------------------|-------------------|
-| [Deutsch / toki Tosi](de_index.html) | [Ret "jan Ke Tami" Samys](https://janketami.wordpress.com) |
-| [Polski / toki Posuka](pl_index.html) | Maksymilian Król (jan Otele) |
-| [Русский / toki Losi](ru_index.html) | jan Lentan        |
+| Translations / ante toki             | Author / jan pali | Last update / tenpo pi ante sin |
+|--------------------------------------|-------------------|---------------------------------|
+| [Deutsch / toki Tosi](de_index.html) | [Ret "jan Ke Tami" Samys](https://janketami.wordpress.com) | 2021-04-05 |
+| [Polski / toki Posuka](pl_index.html) | Maksymilian Król (jan Otele) | 2021-05-15 |
+| [Русский / toki Losi](ru_index.html) | jan Lentan        | 2021-07-19 |
 
 This is the a series of pages comprising an attempt at an unofficial educational
 course about *toki pona*, a constructed language originally designed in 2001 and
