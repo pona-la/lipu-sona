@@ -46,10 +46,12 @@ das auch für eine Vielzahl der Han-Zeichen zu.)
 
 ![table of sitelen pona characters](/tokipona/sitelen_pona.gif)
 
-> Diese Tabelle zeigt alle Zeichen in sitelen pona, die für die 120 offiziellen
-> Wörter benutzt werden, sowie ein paar Zeichen, die für Zusatzwörter ("nimi sin") 
-> und alternative Darstellungen ("nasin lukin ante") benutzt 
-> werden .
+> In dieser Tabelle sind alle sitelen-pona-Zeichen, die für die 120 offiziellen
+> Wörter und die wichtigen Wörter im zweiten offiziellen Buch ("nimi ku suli")
+> aufgelisted, sowie ein paar weitere Zeichen, die für gebräuchliche Zusatzworte
+> ("nimi sin") verwendet werden, und alternative Darstellungen ("nasin lukin
+> ante"). Einige der alternativen Zeichen sind aus meiner eigenen Feder -- diese
+> habe ich mit einem roten Dreieck in der unteren rechten Ecke gekennzeichnet.
 
 Wie beim lateinischen Alphabet, wird es von links nach rechts und von oben 
 nach unten geschrieben. Jedes Toki-Pona-Wort wird mit seinem Zeichen geschrieben 

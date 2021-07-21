@@ -45,8 +45,11 @@ extent, the same is true for a number of Han characters as well.)
 ![table of sitelen pona characters](/tokipona/sitelen_pona.gif)
 
 > This table shows all the sitelen pona characters used for the 120 official
-> words, as well as some characters commonly used for additional words ("nimi
-> sin") and alternative representations ("nasin lukin ante").
+> words, the important words in the second official book ("nimi ku suli"), as
+> well as some characters commonly used for additional words ("nimi sin") and
+> alternative representations ("nasin lukin ante"). Some of the alternate
+> characters are my original designs -- these are indicated with a small red
+> triangle in the bottom-right corner.
 
 Much like the Latin alphabet, it is written left-to-right and top-to-bottom.
 Each toki pona word is written using its character, without extra spaces between
