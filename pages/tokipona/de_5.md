@@ -72,9 +72,12 @@ Es kann auch genauere Beschreibungen von Subjekten oder Objekten liefern.
 > Dieser Teil des Dokuments beschreibt, wie andere Toki-Pona-Kurse sich bei 
 > manchen Erklärungen unterscheiden.
 
-Man ist sich nicht einig, ob "en" in Ausdrücken mit "pi" (wird auf [Seite 9](9.html) erklärt) 
-benutzt werden darf. Gleichzeitig hat Sonja Lang selbst gesagt, dass das Verbinden von 
-mehreren Objekten mit "en" zwar "nicht völlig falsch" ist, aber stilistisch unelegant.
+Man ist sich nicht einig, ob "en" in Ausdrücken mit "pi" (wird auf [Seite
+9](9.html) erklärt) benutzt werden darf. Gleichzeitig hat Sonja Lang selbst
+gesagt, dass das Verbinden von mehreren Objekten mit "en" zwar "nicht völlig
+falsch" ist([1][mapona_en]), aber stilistisch unelegant.
+
+[mapona_en]: https://discord.com/channels/301377942062366741/301377942062366741/640764719614918656
 
 ## Übungen
 

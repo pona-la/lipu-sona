@@ -74,8 +74,10 @@ ma dużo kamieni”.)
 Nie ma żadnego konsensusu na temat tego, czy słowo „en” może zostać
 użyte wśród wyrażeń korzystających z partykuły „pi” (dowiemy się
 o niej na [stronie 9](9.html)). Ponadto, sama Sonja Lang przyznała,
-że użycie wyrazu „en” w ten sposób nie jest „całkowicie niepoprawne",
-ale nieeleganckie stylistycznie.
+że użycie wyrazu „en” w ten sposób nie jest „całkowicie
+niepoprawne”([1][mapona_en]), ale nieeleganckie stylistycznie.
+
+[mapona_en]: https://discord.com/channels/301377942062366741/301377942062366741/640764719614918656
 
 ## Ćwiczenia
 
