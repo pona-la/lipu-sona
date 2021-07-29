@@ -33,7 +33,11 @@ werden. Beispielsweise kann "moku soweli" je nach Kontext "Tierfutter" oder
 * Funktionswort: (emotionaler Ausruf/Ausdruck, Betonung oder Bestätigung)
 
 #### [akesi](de_12.html)
-* Nomen: "nicht niedliches" Tier, Echse
+* Nomen: Echse, Reptil
+
+> %warning%
+> Das Wort "akesi" bedeutete früher auch "'nicht niedliches' Tier", aber
+> das zweite offizielle Toki-Pona-Buch hat diese Bedeutung gestrichen.
 
 #### [ala](de_2.html)
 * Nomen: Nichts
@@ -43,6 +47,7 @@ werden. Beispielsweise kann "moku soweli" je nach Kontext "Tierfutter" oder
 #### [alasa](de_12.html)
 * Verb: jagen, sammeln
 * Verb (unkonventionell): suchen
+* Hilfsverb (unkonventionell): versuchen (etwas zu tun)
 
 #### [ale/ali](de_2.html)
 * Nomen: Gesamtheit, Universum
