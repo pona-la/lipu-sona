@@ -30,7 +30,11 @@ example, "moku soweli" can mean "animal food" or "meat", depending on context.
 * particle: (emotional interjection, emphasis or confirmation)
 
 #### [akesi](12.html)
-* noun: "non-cute" animal, lizard
+* noun: lizard, reptile
+
+> %warning%
+> The word "akesi" used to also mean "'non-cute' animal", but the second
+> official toki pona book has removed this meaning.
 
 #### [ala](2.html)
 * noun: nothing
@@ -40,6 +44,7 @@ example, "moku soweli" can mean "animal food" or "meat", depending on context.
 #### [alasa](12.html)
 * verb: to hunt, to gather
 * verb (unconventional): to search, to look for
+* pre-verb (unconventional): to try (doing something)
 
 #### [ale/ali](2.html)
 * noun: everything, universe
