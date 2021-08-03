@@ -22,6 +22,8 @@ course:
 * **Ret Samys / jan Ke Tami** for suggesting to add links to lessons for every
   word on the dictionary pages (de/en/ru)
 
+* **jan Pensa** for fixes on usage of different words on page 13
+
 * **jan Sonja** (Sonja Lang) for, well, creating toki pona itself, as well as
   suggesting important changes to pages 0, 4 and x1.
 
