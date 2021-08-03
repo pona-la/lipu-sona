@@ -144,6 +144,9 @@ language's 120 word dictionary.
 
 * ["nasin Juni pi ilo kon"](nasin_juni.html), a short page about the "Unix way"
 
+* ["o lawa e sona sina!"](o_lawa_e_sona_sina.html), a small article about the
+  centralization of the internet
+
 ## Software
 
 Here are links to some software that I personally found useful:
