@@ -15,7 +15,7 @@ Vokabeln für diese Seite:
 | mute    | viel, viele, mehr, Menge                            |
 | ni      | dies, das                                           |
 | pakala  | Bruch, Fehler, kaputt, (allgemeiner Fluch)          |
-| seli    | Hitze, Wärme, chemische Reaktion                    |
+| seli    | Feuer, Hitze, Wärme, chemische Reaktion             |
 
 Bevor wir eine ganz neue Wortart und neue Grammatik entdecken, hier ein paar 
 Informationen, die das Gesamtbild vervollständigen.
