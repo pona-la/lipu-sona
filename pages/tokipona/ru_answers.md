@@ -184,7 +184,7 @@
 > официальный словарь toki pona.
 > * Этот фильм / эта телепередача ("подвижное изображение") посредственна.
 <!---->
-> * seli li monsuta e mi. / mi pilin monsuta tan seli. / mi pilin ike tan seli.
+> * seli li monsuta e mi. / seli li monsuta tawa mi. / mi pilin monsuta tan seli. / mi pilin ike tan seli.
 > * sina kokosila tan seme? / sina toki kepeken toki pona ala tan seme?
 > * sina wile ala e ni: oko sina li pakala. o pana e len oko tawa sina. / sina
 > wile ala e ni: lukin sina li pakala. o pana e len lukin tawa sina.
