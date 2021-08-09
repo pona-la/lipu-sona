@@ -12,7 +12,7 @@ Vokabeln für diese Seite:
 | kalama  | Geräusch, Krach, Töne machen                        |
 | kulupu  | Gruppe, Gemeinschaft, Gesellschaft                  |
 | lape    | Schlaf, Pause, ruhen                                |
-| mute    | viel, viele, mehr, Menge                            |
+| mute    | viel, viele, mehr, Menge, sehr                      |
 | ni      | dies, das                                           |
 | pakala  | Bruch, Fehler, kaputt, (allgemeiner Fluch)          |
 | seli    | Feuer, Hitze, Wärme, chemische Reaktion             |

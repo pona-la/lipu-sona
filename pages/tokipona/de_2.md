@@ -13,8 +13,8 @@ Vokabeln für diese Seite:
 | suwi    | süß, niedlich                              |
 | jan     | Person, Leute, Volk, Menschheit            |
 | mama    | Elternteil, Vorfahre, Erschaffer, Ursprung |
-| meli    | Frau, weiblich                             |
-| mije    | Mann, männlich                             |
+| meli    | Frau, weiblich, Ehefrau                    |
+| mije    | Mann, männlich, Ehemann                    |
 | moku    | Nahrung, esssen                            |
 
 Um Begriffe genauer zu definieren, können weitere Wörter als Adjektive hinzugefügt 
@@ -42,6 +42,11 @@ Außerdem können Adjektive als Nomen verwendet werden:
 > %info%
 > Der Begriff "jan pona" ist von Bedeutung, er wird wörtlich als "gute Person" 
 > übersetzt, wird aber weithin (und offiziell) auch als "Freund" verstanden.
+>
+> sina pona. - Du bist gut.
+>
+> sina ale li pona. - Ihr alle seid gut.
+>
 
 Mehrere Adjektive können gleichzeitig verwendet werden:
 
