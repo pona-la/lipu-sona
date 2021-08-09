@@ -8,7 +8,7 @@
 | [Polski / toki Posuka](pl_index.html) | Maksymilian Król (jan Otele) | 2021-05-15 |
 | [Русский / toki Losi](ru_index.html) | jan Lentan        | 2021-08-04 |
 
-This is the a series of pages comprising an attempt at an unofficial educational
+This is a series of pages comprising an attempt at an unofficial educational
 course about *toki pona*, a constructed language originally designed in 2001 and
 then gradually revised over the years by Sonja Lang.
 
