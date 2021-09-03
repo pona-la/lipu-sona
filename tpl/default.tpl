@@ -24,6 +24,9 @@
 	<div class="itime-text">internet time @ <span id="itime-value">???</span></div>
 	<div class="itime-bar"><div id="itime-progress"></div></div>
       </div>
+      <div class="tenpo">
+	<div class="tenpo-text">tenpo ni li "<span id="tenpo-value">???</span>"</div>
+      </div>
       <div class="header_text">
 	<h2><a href="/">rnd's website</a><span class="titlesep"> | </span></h2><h3><?theme title?></h3>
       </div>

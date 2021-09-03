@@ -254,11 +254,8 @@ th, td {
 	font-size: 1.5em;
 }
 
-.itime {
+.itime,.tenpo {
 	float: right;
-	border: 1px solid C_DBORDER;
-	background: C_FOOTERBG;
-	color: C_FOOTERFG;
 	width: 128pt;
 	padding: 2px;
 	margin: 4px;
@@ -268,12 +265,25 @@ th, td {
 	font-size: 10pt;
 }
 
-.itime-bar {
+.itime {
+	border: 1px solid C_DBORDER;
+	background: C_FOOTERBG;
+	color: C_FOOTERFG;
+}
+
+.tenpo {
+	display: none;
+	border: 1px solid #9B6E2D;
+	background: #f5ee9b;
+	color: #404a68;
+}
+
+.itime-bar,.tenpo-bar {
 	height: 2px;
 	width: 100%;
 }
 
-.itime-text {
+.itime-text,.tenpo-text {
 	text-align: end;
 }
 

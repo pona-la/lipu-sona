@@ -3,6 +3,10 @@
   color: #404a68;
 }
 
+.tenpo {
+  display: inline-block;
+}
+
 @media screen {
 
 	.header_image {
