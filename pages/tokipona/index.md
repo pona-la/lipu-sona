@@ -147,6 +147,9 @@ language's 120 word dictionary.
 * ["o lawa e sona sina!"](o_lawa_e_sona_sina.html), a small article about the
   centralization of the internet
 
+* [nasin tenpo](nasin_tenpo.html), a time measurement system that only uses a
+  few numbers
+
 ## Software
 
 Here are links to some software that I personally found useful:

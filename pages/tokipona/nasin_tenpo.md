@@ -2,6 +2,8 @@
 % jan Lentan
 % 2021-09-02
 
+# nasin tenpo
+
 mi pali e nasin pi nanpa tenpo tawa toki pona. nasin mi li lawa ala. sina wile
 kepeken e ona la, sina ken. taso, nasin tenpo ante li lon.
 
@@ -28,9 +30,9 @@ li open lon 20:00, li pini lon 21:59.
 
 sina ken sitelen e wan ni kepeken nimi lili:
 
- * "wan pimeja nanpa ala" -- pimeja:0
- * "wan loje nanpa tu" -- loje:2
- * "wan laso nanpa mute" -- laso:3
+ * "wan pimeja nanpa ala" -- "pimeja:0" anu "pimeja:ala"
+ * "wan loje nanpa tu" -- "loje:2" anu "loje:tu"
+ * "wan laso nanpa mute" -- "laso:3" anu "laso:mute"
 
 sin la, sina ken tu e wan lili kepeken nanpa sin. wan lili li sama tenpo Minuta
 30.
@@ -45,7 +47,36 @@ pi nanpa mute en wan" li open lon 22:30, li pini lon 22:59.
 
 sina ken sitelen e wan ni kepeken nimi lili:
 
- * "wan pimeja pi nanpa ala en wan" -- pimeja:0:1
- * "wan loje pi nanpa tu en tu" -- loje:2:2
- * "wan laso pi nanpa mute en ala" -- laso:3:0
+ * "wan pimeja pi nanpa ala en wan" -- "pimeja:0:1" anu "pimeja:ala:wan"
+ * "wan loje pi nanpa tu en tu" -- "loje:2:2" anu "loje:tu:tu"
+ * "wan laso pi nanpa mute en ala" -- "laso:3:0" anu "laso:mute:ala"
 
+# ilo tenpo
+
+ilo tenpo ni li ken.
+
+## ilo tenpo pi ilo suno
+
+![sitelen pi ilo tenpo pi ilo suno](/tokipona/ilo_tenpo_suno.gif)
+
+ilo tenpo ni li pana e sona tenpo kepeken ilo suno lili. ona li ken pana e
+sitelen tu wan.
+
+sitelen nanpa wan li toki e nimi "pimeja" anu nimi "laso" anu nimi "loje".
+
+sitelen nanpa tu en sitelen nanpa tu wan li toki e nanpa "ala" anu nanpa "wan"
+anu nanpa "tu" anu nanpa "tu wan".
+
+## ilo tenpo sike
+
+![sitelen pi ilo tenpo sike](/tokipona/ilo_tenpo_sike.gif)
+
+ilo tenpo ni li pana e sona tenpo kepeken palisa tu.
+
+ilo nanpa wan la, palisa lawa (lili) li toki e wan tenpo. palisa anpa (suli) li
+toki e wan suli, e wan lili.
+
+ilo nanpa tu la, palisa lawa li toki e wan tenpo, e wan suli. palisa anpa li
+toki e wan lili.
+
+ilo tu ale li toki e ni: tenpo "pimeja:tu:wan" li lon.
