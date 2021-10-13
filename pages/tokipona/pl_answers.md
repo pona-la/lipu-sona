@@ -170,7 +170,23 @@
 > * mi lukin e lipu. tenpo lili la ona li pini.
 > * mi ken toki pi pona mute kepeken toki pona.
 
-<h1><a name="sp" id="sp" href="pl_sitelen_pona.html">strona </a></h1>
+<h1><a name="p13" id="p13" href="pl_13.html">strona 13</a></h1>
+
+> * Szop pracz jest epickim zwierzęciem.
+> * Społeczność trans jest nieustraszona.
+> * Lekarz dał mi lekarstwa.
+> * Jeśli chcesz wiedzieć więcej, (zwiększyć swoją wiedzę) przeczytaj Słownik Toki Pony.
+> * Ten film ("ruchomy obrazek") jest średni.
+<!---->
+> * seli li monsuta e mi. / seli li monsuta tawa mi. / mi pilin monsuta tan seli. / mi pilin ike tan seli.
+> * sina kokosila tan seme? / sina toki kepeken toki pona ala tan seme?
+> * sina wile ala e ni: oko sina li pakala. o pana e len oko tawa sina. / sina
+> wile ala e ni: lukin sina li pakala. o pana e len lukin tawa sina.
+> * o pana e namako walo suwi tawa mi. / o pana e sin moku walo suwi tawa mi.
+> * sina wile e ni: mi kipisi e sike pan kepeken nasin seme? / sina wile e ni:
+> mi tu e sike pan kepeken nasin seme?
+
+<h1><a name="sp" id="sp" href="pl_sitelen_pona.html">strona "sitelen pona"</a></h1>
 > Ta część dokumentu korzysta z pisma sitelen pona. Rozumiesz je?
 >
 > zasób słownictwa toki pony jest maciupki. Dzięki temu możliwe jest stworzenie

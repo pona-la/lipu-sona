@@ -94,6 +94,8 @@ w słowniku toki pony.
 
 * [strona 12 – to już jest koniec](pl_12.html)
 
+* [strona 13 – edycja ze specjalnym słownikiem](pl_13.html)
+
 ### Dodatki
 
 * [dodatek: strona 1 – słowa stare i nowe](pl_x1.html)
@@ -102,8 +104,6 @@ w słowniku toki pony.
 * * [sitelen pona](pl_sitelen_pona.html)
 
 * [słownik](pl_dictionary.html)
-
-* [autorzy i słowa uznania](pl_credits.html)
 
 ---
 

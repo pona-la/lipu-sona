@@ -5,7 +5,7 @@
 | Translations / ante toki             | Author / jan pali | Last update / tenpo pi ante sin |
 |--------------------------------------|-------------------|---------------------------------|
 | [Deutsch / toki Tosi](de_index.html) | [Ret "jan Ke Tami" Samys](https://janketami.wordpress.com) | 2021-08-09 |
-| [Polski / toki Posuka](pl_index.html) | Maksymilian Król (jan Otele) | 2021-05-15 |
+| [Polski / toki Posuka](pl_index.html) | p0-12,x1,x2: Maksymilian Król (jan Otele), p13: Alicja / jan Alise (filiżanka#4087) | 2021-10-13 |
 | [Русский / toki Losi](ru_index.html) | jan Lentan        | 2021-08-04 |
 
 This is a series of pages comprising an attempt at an unofficial educational
