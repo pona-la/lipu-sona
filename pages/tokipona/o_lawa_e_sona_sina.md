@@ -78,9 +78,9 @@ sina sona e ilo sona la, sina ken esun e lawa pi ilo sona weka lili kepeken mani
 lili. sina ken pana e lipu kon kepeken ona. ante la, sina ken pana e ilo kon
 tawa ona. ilo kon ni li ken pali e ijo mute.
 
-<div style="float: right; border: 1px solid #9A93B7; font-size: 0.8em;"><img
-src="/images/240px-Fediverse_logo_proposal.svg.png" width="240px" height="240px"
-alt="sitelen lawa pi kulupu Wesiwe"><div>sitelen lawa pi kulupu Wesiwe</div></div>
+<div style="float: right; border: 1px solid #9A93B7; font-size: 0.8em;
+margin-inline: 6pt;"><img src="/images/240px-Fediverse_logo_proposal.svg.png" 
+width="240px" height="240px" alt="sitelen lawa pi kulupu Wesiwe"><div>sitelen lawa pi kulupu Wesiwe</div></div>
 
 > %info%
 > tenpo pini la, mi toki e ilo "Mastodon" kepeken nimi "Matoton". taso, kulupu

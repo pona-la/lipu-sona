@@ -179,6 +179,7 @@ th, td {
 	margin: 6pt;
 	padding-inline-start: 0.5em;
 	font-family: sans-serif;
+	overflow: auto;	
 }
 
 .info:before, .warning:before, .error:before {
