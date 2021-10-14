@@ -82,14 +82,23 @@ tawa ona. ilo kon ni li ken pali e ijo mute.
 src="/images/240px-Fediverse_logo_proposal.svg.png" width="240px" height="240px"
 alt="sitelen lawa pi kulupu Wesiwe"><div>sitelen lawa pi kulupu Wesiwe</div></div>
 
-jan toki la, lipu pi ilo kon Matoton (Mastodon) li pali sama lipu Tuwita. taso,
-ona li jo ala e kulupu lawa wan. kulupu mute li jo e ilo Matoton lon ilo sona
+> %info%
+> tenpo pini la, mi toki e ilo "Mastodon" kepeken nimi "Matoton". taso, kulupu
+> pi toki pona li lon ilo "Mastodon". kulupu ni li kepeken e nimi "Masoton". mi
+> ante e nimi "Matoton" tawa nimi "Masoton" lon sitelen kama.
+
+jan toki la, lipu pi ilo kon Masoton (Mastodon) li pali sama lipu Tuwita. taso,
+ona li jo ala e kulupu lawa wan. kulupu mute li jo e ilo Masoton lon ilo sona
 ante. kulupu li lawa e sona ona, e toki ona. ona li ken jo e nasin ante, li ken
 weka e toki ike tan ona. sin la, ilo ni li lon, li toki tawa ona ante kepeken
 nasin sama. ilo ante li pona tawa jan ante, li ken pali e ijo ante. ona ale li
 pali e kulupu suli. taso, kulupu ni li jo ala e lawa wan. jan mute li ken ante e
 ilo ona, li ken pona e ona, li ken pana e ante pona tawa jan ante. nimi pi
 kulupu suli ni li "kulupu Wesiwe" (Fediverse).
+
+> %info%
+> **sona sin**: jan li pali e kulupu pi toki pona lon ilo Masoton. nimi nasin
+> ona li <https://toki.social/>. 
 
 ni li pali mute. ilo pi kulupu Wesiwe li wawa lili tawa ilo pi kulupu esun suli.
 ona li ken pakala. kulupu li ken utala. taso, ni li lon: kulupu esun suli la,
