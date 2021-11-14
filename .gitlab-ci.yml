@@ -31,6 +31,5 @@ deploy-job:      # This job runs in the deploy stage.
     - chmod 700 ~/.ssh
     - eval $(ssh-agent -s)
     - echo "$DEPLOY_PRIVATE_KEY" | tr -d '\r' | ssh-add -
-    - ssh-add -l
   script:
     - rsync -e "ssh -o StrictHostKeyChecking=no" -ciIlprz out/ deploy@devurandom.xyz:~/out/
