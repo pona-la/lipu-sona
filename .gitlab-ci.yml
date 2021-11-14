@@ -27,9 +27,8 @@ deploy-job:      # This job runs in the deploy stage.
   before_script:
     - echo "Installing the dependencies..."
     - apk add rsync openssh-client
-    - mkdir -p ~/.ssh
-    - chmod 700 ~/.ssh
-    - eval $(ssh-agent -s)
-    - echo "$DEPLOY_PRIVATE_KEY" | tr -d '\r' | ssh-add -
+    - mkdir -m 700 -p ~/.ssh
+    - echo "$DEPLOY_PRIVATE_KEY" > ~/.ssh/id_rsa
+    - chmod 600 ~/.ssh/id_rsa
   script:
     - rsync -e "ssh -o StrictHostKeyChecking=no" -ciIlprz out/ deploy@devurandom.xyz:~/out/
