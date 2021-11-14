@@ -18,7 +18,7 @@ before_script:
   - echo "Installing the required programs..."
   - apk add discount rsync openssh-client
   - eval $(ssh-agent -s)
-  - echo "$SSH_PRIVATE_KEY" | tr -d '\r' | ssh-add -
+  - echo "$DEPLOY_PRIVATE_KEY" | tr -d '\r' | ssh-add -
   - mkdir -p ~/.ssh
   - chmod 700 ~/.ssh
 
