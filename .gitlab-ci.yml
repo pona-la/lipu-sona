@@ -44,8 +44,8 @@ deploy-job:      # This job runs in the deploy stage.
     - chmod 700 ~/.ssh
     - eval $(ssh-agent -s)
     - echo "$DEPLOY_PRIVATE_KEY" | tr -d '\r' | ssh-add -
-    - echo "$DEPLOY_KNOWN_HOSTS" > .ssh/known_hosts
-    - chmod 0600 .ssh/known_hosts
+    - echo "$DEPLOY_KNOWN_HOSTS" > ~/.ssh/known_hosts
+    - chmod 0600 ~/.ssh/known_hosts
     - ssh-add -l
   script:
     - rsync -ciIlprz out/ deploy@devurandom.xyz:~/out/
