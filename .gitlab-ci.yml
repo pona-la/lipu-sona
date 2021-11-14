@@ -16,7 +16,7 @@ image: alpine:latest
 
 before_script:
   - echo "Installing the required programs..."
-  - apk add discount rsync openssh-client make
+  - apk add discount rsync openssh-client make bash perl gcc
   - eval $(ssh-agent -s)
   - echo "$DEPLOY_PRIVATE_KEY" | tr -d '\r' | ssh-add -
   - mkdir -p ~/.ssh
