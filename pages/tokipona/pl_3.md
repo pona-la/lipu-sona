@@ -37,7 +37,7 @@ jak i czasownikach. W tym drugim przypadku obejmują funkcję przysłówka.
 
 > %info%
 > Czasowniki nie odmieniają się przez czas, dlatego zdanie „sina pali”
-> może oznaczać „pracuję” bądź „pracowałem”. Istnieje sposób na określenie
+> może oznaczać „pracujesz” bądź „pracowałeś/-aś”. Istnieje sposób na określenie
 > czasu, ale o tym na przyszłej lekcji.
 
 Dopełnienie zdania, czyli to, na czym wykonywana jest czynność, wymaga
