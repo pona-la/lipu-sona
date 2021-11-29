@@ -24,10 +24,10 @@ unit-test-job:   # This job runs in the test stage.
 
 deploy-job:      # This job runs in the deploy stage.
   stage: deploy  # It only runs when *both* jobs in the test stage complete successfully.
-	only:
-	  - main #Do not run the deploy pipeline on merge requests
+  only:
+    - main #Do not run the deploy pipeline on merge requests
   before_script:
-	  - if [ -z "$DEPLOY_PRIVATE_KEY" ]; then echo "Can't deploy without a private key."; exit 1; fi
+    - if [ -z "$DEPLOY_PRIVATE_KEY" ]; then echo "Can't deploy without a private key."; exit 1; fi
     - echo "Installing the dependencies..."
     - apk add rsync openssh-client
     - mkdir -m 700 -p ~/.ssh
