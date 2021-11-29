@@ -42,6 +42,8 @@
 	width="88" height="31" alt="Follow me on Mastodon" /></a>
 	<a rel="me" href="https://toki.social/@janLentan"><img src="/banners/mastodon_tp.gif"
 	width="88" height="31" alt="o kute e toki mi kepeken ilo Masoton" /></a>
+	<a href="https://patreon.com/dev_urandom"><img src="/banners/patreon.gif"
+	width="88" height="31" alt="Support me on Patreon" /></a>
 	<a href="https://ko-fi.com/dev_urandom"><img src="/banners/kofi.gif"
 	width="88" height="31" alt="Support me on Ko-fi" /></a>
 	<a href="https://www.vim.org"><img src="/banners/vim.gif"
