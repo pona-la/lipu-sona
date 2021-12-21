@@ -183,7 +183,7 @@ website](https://ankiweb.net/shared/info/204928497), by u/parentis\_shotgun
 
 * [/r/tokipona subreddit](https://reddit.com/r/tokipona)
 
-* ["ma pona pi toki pona" Discord server](https://discord.gg/XKzj3ex)
+* ["ma pona pi toki pona" Discord server](https://discord.gg/Byqn5z9)
 
 * [toki pona Telegram group](https://telegram.me/joinchat/BLVsYz92zHUp2h2TYp9kTA)
 * * [IRC channel #tokipona on Freenode, bridged with the Telegram group](ircs://freenode.org:6697/#tokipona)
