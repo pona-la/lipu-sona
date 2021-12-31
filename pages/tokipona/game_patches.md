@@ -74,7 +74,7 @@ tan ni, mi ken ante e musi ni. mi ken pana e lipu sin.
 
 -----
 
-# jan Nato pi kulupu wawa Ta nanpa 9: sona awen pi musi Soki
+# <a id="shogi">jan Nato pi kulupu wawa Ta nanpa 9: sona awen pi musi Soki</a>
 
 * nimi tan: "Naitou 9 Dan - Shougi Hiden" (内藤九段将棋秘伝)
 * kulupu pali: kulupu Seta
@@ -109,7 +109,7 @@ sitelen pona.
 * [lipu ante (ijo musi li sitelen kepeken sitelen Kansi)](/tokipona/shogi_tokipona.ips)
 * [lipu ante (ijo musi li sitelen kepeken sitelen pona)](/tokipona/shogi_tokipona2.ips)
 
-# musi Masan pi jan musi 4
+# <a id="mahjong">musi Masan pi jan musi 4</a>
 
 * nimi tan: "4 Nin Uchi Mahjong" (４人打ち麻雀)
 * kulupu pali: kulupu Atoson (Hudson Soft)
