@@ -167,7 +167,7 @@ th, td {
 	max-width: 100%;
 }
 
-.content a, .content a:visited {
+.content a:link, .content a:visited {
 	color: C_LINK;
 }
 
