@@ -774,8 +774,21 @@ per-move time. -->
 tenpo lawa \#2 pi jan lawa li kama ala la, ona li anpa. <!-- if a player's
 byoyomi runs out, they lose. -->
 
+## o musi kepeken ilo sona
+
+ * lipu kon "[Lishogi](https://lishogi.org)" la, jan li ken musi lon poka ilo,
+   lon poka jan ante. ona li ken toki kepeken toki Inli, kepeken toki Nijon.
+
+ * lipu kon "[81dojo](https://lishogi.org)" li pali e ijo sama. nasin ona li
+   sama nasin musi pi jan sona pi ma Nijon: sina pali e tawa ike la, sina anpa.
+   lipu ni li ken toki e toki mute.
+
 ----
 
-sona ni li kama tan lipu pi musi Soki pi lipu Wikipesija, tan sitelen tawa pi
-musi Soki pi jan Itesi (Hidetchi) (toki Inli: <https://www.youtube.com/user/HIDETCHI> )
+* sona ni li kama tan lipu pi musi Soki pi lipu Wikipesija, tan sitelen tawa pi
+  musi Soki pi jan Itesi (Hidetchi) (toki Inli:
+  <https://www.youtube.com/user/HIDETCHI> )
+
+* kulupu toki pi ilo Siko (toki Inli en toki Nijon): [Shogi Hall
+  将棋会館](https://discord.gg/t55wfGae6Q)
 
