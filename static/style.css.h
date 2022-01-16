@@ -336,3 +336,48 @@ HASH(#itime-progress) {
 	}
 }
 
+@media (prefers-color-scheme: dark) {
+	body {
+	    background: #221f31;
+	    color: #fefefe;
+	}
+
+	.content {
+	    color: #fefefe;
+	}
+
+	.content a:link, .content a:visited {
+	    color: #8be1e0;
+	}
+
+	.content a:focus, .content a:hover {
+	    color: #fefefe;
+	}
+
+	.warning {
+	    background: #543516;
+	    color: #f5ee9b;
+	    border-inline-start-color: #e1b047;
+	}
+
+	.info {
+	    background: #316f23;
+	    color: #f5ee9b;
+	    border-inline-start-color: #7cc264;
+	}
+
+	.error {
+	    background: #a14d3f;
+	    color: #fefefe;
+	    border-inline-start-color: #ea9182;
+	}
+
+	table {
+	    background: #050403;
+	    border-color: #9a93b7;
+	}
+
+	th,td {
+	    border-color: #404a68;
+	}
+}
