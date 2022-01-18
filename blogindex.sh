@@ -87,18 +87,18 @@ for f in $FILES; do
 		echo "<item>"
 		echo "<title>$TITLE</title>"
 		echo "<link>https://devurandom.xyz/blog/$OUTPAGE</link>"
-
+		GUID=$(uuidgen -n @url -N "https://devurandom.xyz/blog/$OUTPAGE")
+		echo "<guid>$GUID</guid>"
 		if [ $MTIME -gt 0 ]; then
 			RDATE=`date -R -u -d @$MTIME`
 			if [[ "$RDATE" == *UTC ]]; then
 				RDATE="${RDATE%UTC}+0000"
 			fi
-			echo "<pubdate>$RDATE</pubdate>"
+			echo "<pubDate>$RDATE</pubDate>"
 		fi
 		DESCRIPTION="`printcut $f`"
 		if [ $? -eq 0 ]; then
-			DESC_HTML=`echo "$DESCRIPTION" | markdown`
-			echo "<description>$DESC_HTML</description>"
+			echo "<description>$DESCRIPTION</description>"
 		fi
 		echo "</item>"
 	else
