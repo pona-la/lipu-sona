@@ -61,8 +61,9 @@ FILES=`cat blogdates.txt | sort -nr | cut -f 2-`
 if [ $RSSMODE ]; then
 cat << RSSHEADER
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
+<atom:link href="https://devurandom.xyz/blog/main.rss" rel="self" type="application/rss+xml" />
 <title>rnd's blog</title>
 <link>https://devurandom.xyz/blog</link>
 <description>The RSS feed of articles published on the blog thingy</description>
@@ -87,8 +88,7 @@ for f in $FILES; do
 		echo "<item>"
 		echo "<title>$TITLE</title>"
 		echo "<link>https://devurandom.xyz/blog/$OUTPAGE</link>"
-		GUID=$(uuidgen -n @url --sha1 -N "https://devurandom.xyz/blog/$OUTPAGE")
-		echo "<guid>$GUID</guid>"
+		echo "<guid>https://devurandom.xyz/blog/$OUTPAGE</guid>"
 		if [ $MTIME -gt 0 ]; then
 			RDATE=`date -R -u -d @$MTIME`
 			if [[ "$RDATE" == *UTC ]]; then
