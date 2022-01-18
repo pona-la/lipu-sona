@@ -87,7 +87,7 @@ for f in $FILES; do
 		echo "<item>"
 		echo "<title>$TITLE</title>"
 		echo "<link>https://devurandom.xyz/blog/$OUTPAGE</link>"
-		GUID=$(uuidgen -n @url -N "https://devurandom.xyz/blog/$OUTPAGE")
+		GUID=$(uuidgen -n @url --sha1 -N "https://devurandom.xyz/blog/$OUTPAGE")
 		echo "<guid>$GUID</guid>"
 		if [ $MTIME -gt 0 ]; then
 			RDATE=`date -R -u -d @$MTIME`
