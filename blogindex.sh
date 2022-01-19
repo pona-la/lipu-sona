@@ -16,6 +16,10 @@ FILES=`ls $DIRECTORY/*.md -1 | sort`
 
 RETURNDATE=""
 
+function rss_escape {
+	echo "$1" | sed 's/&/\&amp;/g; s/</\&lt;/g; s/>/\&gt;/g; s/"/\&quot;/g; s/'"'"'/\&#39;/g'
+}
+
 function printcut {
 # argument 1: filename
 
@@ -64,9 +68,9 @@ cat << RSSHEADER
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <atom:link href="https://devurandom.xyz/blog/main.rss" rel="self" type="application/rss+xml" />
-<title>rnd's blog</title>
-<link>https://devurandom.xyz/blog</link>
-<description>The RSS feed of articles published on the blog thingy</description>
+<title>$(rss_escape "${RSSTITLE}")</title>
+<link>$(rss_escape "${BASEURL}/blog")</link>
+<description>$(rss_escape "${RSSDESC}")</description>
 RSSHEADER
 else
   cat tpl/blog_header.md
@@ -86,7 +90,7 @@ for f in $FILES; do
 
 	if [ $RSSMODE ]; then
 		echo "<item>"
-		echo "<title>$TITLE</title>"
+		echo "<title>$(rss_escape "$TITLE")</title>"
 		echo "<link>https://devurandom.xyz/blog/$OUTPAGE</link>"
 		echo "<guid>https://devurandom.xyz/blog/$OUTPAGE</guid>"
 		if [ $MTIME -gt 0 ]; then
@@ -96,9 +100,9 @@ for f in $FILES; do
 			fi
 			echo "<pubDate>$RDATE</pubDate>"
 		fi
-		DESCRIPTION="`printcut $f`"
+		DESCRIPTION="$(printcut $f)"
 		if [ $? -eq 0 ]; then
-			echo "<description>$DESCRIPTION</description>"
+			echo "<description>$(rss_escape "$DESCRIPTION")</description>"
 		fi
 		echo "</item>"
 	else

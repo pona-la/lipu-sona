@@ -40,15 +40,15 @@ all: $(OUTDIR)/blog/index.html $(OUTDIR)/dc/blog/index.html $(OUTDIR)/blog/main.
 upload:
 	./upload.sh
 
-$(OUTDIR)/dc/blog/index.html: $(_BLOG_PAGES) $(TPLDIR)/blog_header.md $(TPLDIR)/blog_footer.md $(TPLDIR)/dreamcast.tpl
+$(OUTDIR)/dc/blog/index.html: $(_BLOG_PAGES) $(TPLDIR)/blog_header.md $(TPLDIR)/blog_footer.md $(TPLDIR)/dreamcast.tpl blogindex.sh
 	@mkdir -p $(@D)
 	./blogindex.sh | $(THEME) $(DC_THEME_FLAGS) -t $(TPLDIR)/dreamcast.tpl -p blog/index.html -o $@
 
-$(OUTDIR)/blog/index.html: $(_BLOG_PAGES) $(TPLDIR)/blog_header.md $(TPLDIR)/blog_footer.md $(TPLDIR)/default.tpl
+$(OUTDIR)/blog/index.html: $(_BLOG_PAGES) $(TPLDIR)/blog_header.md $(TPLDIR)/blog_footer.md $(TPLDIR)/default.tpl blogindex.sh
 	@mkdir -p $(@D)
 	./blogindex.sh | $(THEME) $(THEME_FLAGS) -t $(TPLDIR)/default.tpl -p blog/index.html -o $@
 
-$(OUTDIR)/blog/main.rss: $(_BLOG_PAGES)
+$(OUTDIR)/blog/main.rss: $(_BLOG_PAGES) blogindex.sh
 	@mkdir -p $(@D)
 	./blogindex.sh -r > $@
 
