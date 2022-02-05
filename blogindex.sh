@@ -1,6 +1,9 @@
 #!/bin/bash
 
 RSSMODE=
+RSSTITLE="rnd's blog"
+BASEURL="https://devurandom.xyz"
+RSSDESC="Feed of all the new articles in the blog section of rnd's website"
 
 while getopts r name
 do
