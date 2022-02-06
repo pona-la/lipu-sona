@@ -189,15 +189,25 @@ changes necessary due to the font's design.
 <div class="spitem"><div class="sp">wile</div>		wile</div>
 <div style="display:flex; flex-basis:100%; text-align:center;">Characters for words not in the
 official book:</div>
-<div class="spitem"><div class="sp">kin</div>		<b>kin</b></div>
-<div class="spitem"><div class="sp">tonsi</div>		<b>tonsi</b></div>
-<div class="spitem"><div class="sp">monsuta</div>	<b>monsuta</b></div>
-<div class="spitem"><div class="sp">leko</div>		<b>leko</b></div>
-<div class="spitem"><div class="sp">kipisi</div>	<b>kipisi</b></div>
 <div class="spitem"><div class="sp">namako</div>	<b>namako</b></div>
+<div class="spitem"><div class="sp">kin</div>		<b>kin</b></div>
 <div class="spitem"><div class="sp">oko</div>		<b>oko</b></div>
-<div class="spitem"><div class="sp">pake</div>		<b>pake</b></div>
+<div class="spitem"><div class="sp">kipisi</div>	<b>kipisi</b></div>
+<div class="spitem"><div class="sp">leko</div>		<b>leko</b></div>
+<div class="spitem"><div class="sp">monsuta</div>	<b>monsuta</b></div>
+<div class="spitem"><div class="sp">tonsi</div>		<b>tonsi</b></div>
+<div class="spitem"><div class="sp">jasima</div>	<b>jasima</b></div>
 <div class="spitem"><div class="sp">kijetesantakalu</div><b>kijetesantakalu</b></div>
+<div class="spitem"><div class="sp">soko</div>		<b>soko</b></div>
+<div class="spitem"><div class="sp">meso</div>		<b>meso</b></div>
+<div class="spitem"><div class="sp">epiku</div>		<b>epiku</b></div>
+<div class="spitem"><div class="sp">kokosila</div>	<b>kokosila</b></div>
+<div class="spitem"><div class="sp">lanpan</div>	<b>lanpan</b></div>
+<div class="spitem"><div class="sp">n</div>		<b>n</b></div>
+<div class="spitem"><div class="sp">misikeke</div>	<b>misikeke</b></div>
+<div class="spitem"><div class="sp">ku</div>		<b>ku</b></div>
+<div class="spitem"><div class="sp">pake</div>		<b>pake</b></div>
+<div class="spitem"><div class="sp">apeja</div>		<b>apeja</b></div>
 </div>
 
 ### example texts
