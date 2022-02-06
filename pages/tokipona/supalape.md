@@ -45,6 +45,11 @@ built from a bunch of 5x9 bitmaps for each character. The font includes all 120
 official words, several community-added ones (such as tonsi and leko) and
 loanword brackets (as replacement for cartouches).
 
+All the characters have ligatures: typing regular Latin-based toki pona text
+displays it using sitelen pona. In addition, characters have their own
+codepoints according to the [UCSUR standard for sitelen
+pona](https://www.kreativekorp.com/ucsur/charts/sitelen.html).
+
 Most characters are based on regular sitelen pona characters, but there are some
 changes necessary due to the font's design.
 
