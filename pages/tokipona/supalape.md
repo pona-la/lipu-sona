@@ -213,6 +213,8 @@ official book:</div>
 <div class="spitem"><div class="sp">ku</div>		<b>ku</b></div>
 <div class="spitem"><div class="sp">pake</div>		<b>pake</b></div>
 <div class="spitem"><div class="sp">apeja</div>		<b>apeja</b></div>
+<div class="spitem"><div class="sp">majuna</div>	<b>majuna</b></div>
+<div class="spitem"><div class="sp">powe</div>		<b>powe</b></div>
 </div>
 
 ### example texts
