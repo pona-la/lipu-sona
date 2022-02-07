@@ -1,6 +1,6 @@
 % toki pona strona dodatkowa 1 — stare i nowe słowa
 % /dev/urandom
-% kwiecień 2020
+% 2021-04-03
 
 Wszystkie słowa, które zostały opisane na stronach od 1 do 12 są obecne w oficjalnej 
 książce toki pony. Jednakże istnieje kilka dodatkowych słów, które albo były używane 

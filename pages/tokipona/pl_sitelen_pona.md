@@ -1,6 +1,6 @@
 % sitelen pona – opis i przykłady
 % /dev/urandom
-% czerwiec 2020
+% 2021-03-19
 
 ## sitelen pona
 

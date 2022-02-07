@@ -1,6 +1,6 @@
 % sitelen pona Beschreibung und Beispiele
 % /dev/urandom
-% Dezember 2020
+% 2020-12-21
 
 ## sitelen pona
 

@@ -1,6 +1,6 @@
 % toki pona: strona 1 – podstawowe zdania
 % /dev/urandom
-% marzec 2020
+% 2021-02-26
 
 Nowe słownictwo na tej lekcji:
 

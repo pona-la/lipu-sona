@@ -1,6 +1,6 @@
 % Toki Pona Seite 4 - Oh nein! Mehr Vokabeln
 % /dev/urandom
-% Dezember 2020
+% 2020-12-21
 
 Vokabeln für diese Seite:
 

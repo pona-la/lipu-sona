@@ -1,6 +1,6 @@
 % toki pona — słownik
 % /dev/urandom
-% lipiec 2020
+% 2021-03-17
 
 Oto lista wszystkich oficjalnych słów toki pony opisanych na stronach 1-12
 w kolejności alfabetycznej. Każdy wyraz może mieć różne znaczenia w zależności

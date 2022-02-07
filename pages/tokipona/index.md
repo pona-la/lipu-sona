@@ -1,6 +1,6 @@
 % lipu sona pona (toki pona course)
 % /dev/urandom
-% march 2020
+% 2020-03-17
 
 | Translations / ante toki             | Author / jan pali | Last update / tenpo pi ante sin |
 |--------------------------------------|-------------------|---------------------------------|

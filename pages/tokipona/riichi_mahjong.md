@@ -1,6 +1,6 @@
 % musi Lisi Masan (Riichi Mahjong)
 % /dev/urandom
-% tenpo mun #11 pi tenpo sike #2020
+% 2020-11-13
 
 > %warning%
 >

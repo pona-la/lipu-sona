@@ -1,6 +1,6 @@
 % Toki Pona Seite 0 - Schreibung und Aussprache
 % /dev/urandom
-% Dezember 2020
+% 2020-12-21
 
 Die Sprache *Toki Pona* benutzt nur 14 lateinische Buchstaben und sie werden alle immer gleich ausgesprochen.
 

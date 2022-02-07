@@ -1,6 +1,6 @@
 % toki pona: strona 7 – zdania wykrzyknikowe, pytające, rozkazujące i imiona
 % /dev/urandom
-% marzec 2020
+% 2021-02-26
 
 Nowe słownictwo na tej lekcji:
 

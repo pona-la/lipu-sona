@@ -1,6 +1,6 @@
 % musi pi jan lawa moli
 % /dev/urandom
-% october 2020
+% 2020-10-05
 
 ## musi pi jan lawa moli <!-- basic description -->
 

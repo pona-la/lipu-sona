@@ -1,6 +1,6 @@
 % ante toki tawa musi pi sitelen tawa tan jan Pije / jan Pije's game translations
 % /dev/urandom + jan Pije
-% tenpo mun #12 pi tenpo sike #2020
+% 2020-12-29
 
 <style>
 

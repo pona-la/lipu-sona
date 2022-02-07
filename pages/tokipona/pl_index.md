@@ -1,6 +1,6 @@
 % lipu sona pona (kurs toki pony)
 % /dev/urandom
-% marzec 2020
+% 2021-02-26
 
 Ta seria jest swego rodzaju nieoficjalnym kursem edukacyjnym na temat języka toki pona —
 języka sztucznego stworzonego w roku 2001, a następnie korygowanego na przestrzeni

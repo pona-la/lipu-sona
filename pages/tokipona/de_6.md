@@ -1,6 +1,6 @@
 % Toki Pona Seite 6 - Präpositionen und Orte
 % /dev/urandom
-% Dezember 2020
+% 2020-12-21
 
 Die Vokabeln auf dieser Seite sind in zwei Kategorien eingeteilt. Präpositionen:
 

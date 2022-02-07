@@ -1,6 +1,6 @@
 % musi Soki (Shogi)
 % /dev/urandom
-% october 2020
+% 2020-10-06
 
 > %warning%
 >

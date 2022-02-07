@@ -1,6 +1,6 @@
 % Seite 7a - Inoffizielle Wörter in Toki Pona erstellen
 % /dev/urandom
-% Dezember 2020
+% 2020-12-21
 
 Um zu lernen, wie Namen in inoffizielle Wörter umgewandelt werden können, muss 
 man erst wissen, die die Phonologie in Toki Pona aussieht. Alle Wörter in der 

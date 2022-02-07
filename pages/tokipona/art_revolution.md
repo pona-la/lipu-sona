@@ -1,6 +1,6 @@
 % "Art Revolution" conlang video / Видео "Арт-Революции" о конлангах
 % /dev/urandom
-% march 2021
+% 2021-03-01
 
 # English
 

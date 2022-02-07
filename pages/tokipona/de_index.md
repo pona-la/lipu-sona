@@ -1,6 +1,6 @@
 % lipu sona pona (Toki-Pona-Kurs)
 % /dev/urandom
-% Dezember 2020
+% 2020-12-21
 
 Diese Seiten stellen einen Versuch dar, einen inoffiziellen Lehrkurs für *Toki
 Pona* zu gestalten, einer Kunstsprache, die 2001 von Sonja Lang entworfen wurde

@@ -1,6 +1,6 @@
 % toki pona page 7 - Ausrufe, Fragen, Befehle und Namen
 % /dev/urandom
-% Dezember 2020
+% 2020-12-21
 
 Vokabeln für diese Seite:
 

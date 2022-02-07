@@ -1,6 +1,6 @@
 % toki pona: strona 0 – pisownia i wymowa
 % /dev/urandom
-% marzec 2020
+% 2021-02-26
 
 Język *toki pona* używa tylko czternastu liter alfabetu łacińskiego. Wszystkie
 z nich mają logiczną i spójną wymowę.

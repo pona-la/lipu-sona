@@ -1,6 +1,6 @@
 % toki pona personal style
 % /dev/urandom
-% november 2020
+% 2020-12-02
 
 Different people have different ideas about how toki pona is supposed to work.
 Given the language's intentionally minimalist grammar and vocabulary, that's to

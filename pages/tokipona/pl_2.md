@@ -1,6 +1,6 @@
 % toki pona: strona 2 – przymiotniki
 % /dev/urandom
-% march 2020
+% 2021-02-26
 
 Nowe słownictwo na tej lekcji:
 

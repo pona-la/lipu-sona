@@ -1,6 +1,6 @@
 % strona 7a – więcej na temat budowania nieoficjalnych słów
 % /dev/urandom
-% marzec 2020
+% 2021-02-26
 
 By dowiedzieć się, jak tworzone są nieoficjalne słowa, najpierw musisz
 nauczyć się zasad działania fonologii toki pony. Słowa w tym języku są konstruowane

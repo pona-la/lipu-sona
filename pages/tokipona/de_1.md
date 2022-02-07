@@ -1,6 +1,6 @@
 % Toki Pona Seite 1 - Einfache Sätze
 % /dev/urandom
-% march 2020
+% 2020-12-21
 
 Vokabeln für diese Seite:
 

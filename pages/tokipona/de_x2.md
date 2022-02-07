@@ -1,6 +1,6 @@
 % Toki Pona Extra-Seite 2 - andere Schreibsysteme
 % /dev/urandom
-% Dezember 2020
+% 2020-12-21
 
 Für Toki Pona ist die gebräuchlichste Art zu schreiben das lateinische Alphabet, 
 aber andere Schreibsysteme wurden an Toki Pona angepasst oder für Toki Pona 

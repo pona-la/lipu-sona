@@ -1,6 +1,6 @@
 % Toki Pona Extra-Seite 1 - alte und neue Wörter
 % /dev/urandom
-% Dezember 2020
+% 2020-12-21
 
 Alle Wörter, die auf den Seiten 1 bis 12 besprochen wurden, sind im offiziellen
 Toki-Pona-Buch veröffentlicht. Wörter auf [Seite 13](de_13.html) werden im zweiten 

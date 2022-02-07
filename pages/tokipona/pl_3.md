@@ -1,6 +1,6 @@
 % toki pona: strona 3 – czasowniki i dopełnienie
 % /dev/urandom
-% marzec 2020
+% 2021-02-26
 
 Nowe słownictwo na tej lekcji:
 

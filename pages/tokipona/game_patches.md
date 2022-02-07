@@ -1,6 +1,6 @@
 % ante toki tawa musi pi sitelen tawa / video game translations
 % /dev/urandom
-% tenpo mun #10 pi tenpo sike #2020
+% 2020-10-10
 
 # toki Inli (English)
 

@@ -1,6 +1,6 @@
 % toki pona: strona 9 – kontekst i złożone przymiotniki
 % /dev/urandom
-% marzec 2020
+% 2021-02-26
 
 Słownictwo na tej stronie:
 

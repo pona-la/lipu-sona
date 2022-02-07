@@ -1,6 +1,6 @@
 % toki pona answers
 % /dev/urandom
-% december 2020
+% 2020-12-16
 
 <h1><a name="p1" id="p1" href="1.html">page 1</a></h1>
 

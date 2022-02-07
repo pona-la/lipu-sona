@@ -1,6 +1,6 @@
 % toki pona - ответы
 % /dev/urandom
-% december 2020
+% 2020-12-16
 
 <h1><a name="p1" id="p1" href="ru_1.html">страница 1</a></h1>
 

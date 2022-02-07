@@ -1,6 +1,6 @@
 % toki pona: strona 6 – przyimki i miejsca
 % /dev/urandom
-% marzec 2020
+% 2021-02-26
 
 Słownictwo na tej lekcji zostanie podzielone na dwie kategorie. Przyimki:
 

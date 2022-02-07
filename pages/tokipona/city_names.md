@@ -1,6 +1,6 @@
 % city names
 % /dev/urandom
-% april 2020
+% 2021-04-03
 
 Here's an attempt to give toki pona names to cities/areas in Russia, Ukraine and
 Belarus, which don't have stated "unofficial words" in the official book or

@@ -1,6 +1,6 @@
 % toki pona course credits and acknowledgments
 % /dev/urandom
-% april 2020
+% 2020-04-09
 
 Here is a list of all the people who have since contributed to this toki pona
 course:

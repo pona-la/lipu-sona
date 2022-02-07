@@ -1,6 +1,6 @@
 % toki pona — odpowiedzi
 % /dev/urandom
-% grudzień 2020
+% 2021-02-26
 
 <h1><a name="p1" id="p1" href="pl_1.html">strona 1</a></h1>
 

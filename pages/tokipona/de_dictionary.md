@@ -1,6 +1,6 @@
 % Toki-Pona-Wörterbuch
 % /dev/urandom
-% Dezember 2020
+% 2020-12-21
 
 Das hier ist eine alphabetisch sortierte Liste aller offiziellen Toki-Pona-Wörter, 
 wie sie auf den Kursseiten 1 bis 12 auftauchen. Mit einem Klick auf ein Wort gelangt

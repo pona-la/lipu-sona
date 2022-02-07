@@ -1,6 +1,6 @@
 % jan lawa pi linja ilo (translation hack)
 % /dev/urandom
-% august 2020
+% 2020-08-23
 
 # what's it about?
 

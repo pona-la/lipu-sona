@@ -1,6 +1,6 @@
 % toki pona keyboard layout
 % /dev/urandom
-% may 2020
+% 2020-05-27
 
 # toki pona keyboard layout
 

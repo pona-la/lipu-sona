@@ -1,6 +1,6 @@
 % toki pona dictionary
 % /dev/urandom
-% july 2020
+% 2020-07-28
 
 This is a list of all official words in toki pona as described on the pages from
 1 to 12, arranged alphabetically. You can click on the words to get to the

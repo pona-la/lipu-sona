@@ -1,6 +1,6 @@
 % toki pona strona dodatkowa 2 — inne systemy pisma
 % /dev/urandom
-% kwiecień 2020
+% 2021-04-03
 
 Dotąd najczęściej używanym systemem pisma używanym do zapisu toki pony jest alfabet 
 łaciński, ale istnieją też inne, zaadaptowane bądź stworzone wyłącznie na potrzeby 

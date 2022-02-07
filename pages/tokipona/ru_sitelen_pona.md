@@ -1,6 +1,6 @@
 % описание и примеры письменности sitelen pona 
 % /dev/urandom
-% june 2020
+% 2020-07-03
 
 ## sitelen pona
 

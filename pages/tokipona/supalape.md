@@ -1,6 +1,6 @@
 % insa pi supa lape -- a sitelen pona font
 % /dev/urandom
-% may 2020
+% 2020-05-28
 
 <style>
 

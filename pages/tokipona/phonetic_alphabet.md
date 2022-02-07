@@ -1,6 +1,6 @@
 % toki pona phonetic alphabet
 % /dev/urandom
-% april 2020
+% 2020-04-29
 
 # toki pona phonetic alphabet
 
