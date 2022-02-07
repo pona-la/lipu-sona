@@ -1,6 +1,6 @@
 % nimi pi pu ala pi toki pona
 % /dev/urandom
-% tenpo mun #10 pi tenpo sike #2020
+% 2020-10-24
 
 > %info%
 > jan ale li ken jo, li ken ante, li ken pana e sona pi lipu ni kepeken [nasin
