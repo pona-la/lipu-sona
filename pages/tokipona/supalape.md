@@ -232,6 +232,12 @@ Loanword brackets test:
 > ma [\_kasi\_alasa\_nasin\_awen\_telo\_a] li suli.
 >
 
+**Note**: Proper cartouches can only be used by using UCSUR codepoints.
+
+> %sp%
+> 󱤰󱦐󱦒󱤗󱦒󱤃󱦒󱤿󱦒󱤈󱦒󱥪󱦒󱤀󱦑󱤧󱥣.
+>
+
 Composite "pi" test:
 
 > ona li jan \_pi\_sona\_mute.
