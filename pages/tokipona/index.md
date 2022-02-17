@@ -126,6 +126,8 @@ language's 120 word dictionary.
 
 * [keyboard layout](keyboard.html)
 
+* [IBus tables for sitelen pona](sitelen_pona_ibus.html) _by jan Komi_
+
 * [musi pi jan lawa moli (rules of chess)](chess.html)
 
 * * [musi Soki (rules of shogi) (wip)](shogi.html)
