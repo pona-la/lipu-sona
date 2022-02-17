@@ -176,11 +176,23 @@ fully-functional vector font.
 
 ![](/tokipona/insa.png)
 
+### sitelen pona in Unicode
+
+At this moment, toki pona has not been recognized by Unicode officially. Most 
+fonts designed for sitelen pona use ligatures in order to convert Latin-based 
+toki pona text into sitelen pona. However, the toki pona community submitted a 
+proposal to encode sitelen pona to the
+[Under-ConScript Unicode Registry](https://www.kreativekorp.com/ucsur/), an 
+unofficial project to coordinate using parts of the Private Use Areas to writing 
+systems for constructed languages. Said proposal has been 
+[accepted](https://www.kreativekorp.com/ucsur/charts/sitelen.html), and, as a 
+result, many newer toki pona fonts now try to use the same range of characters.
+
 ### sitelen emoji / sitelen pilin
 
 A system called "sitelen emoji" (or "sitelen pilin") adapts sitelen pona by
 using an emoji character for each of the possible sitelen pona characters. This
-makes it possible to use it in most web browsers and messenger apps.
+makes it possible to use in most web browsers and messenger apps.
 
 * [Official page](https://sites.google.com/view/sitelenemoji)
 
