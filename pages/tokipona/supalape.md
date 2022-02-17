@@ -226,24 +226,29 @@ Here's the basic example from the sitelen pona page, written in this font.
 
 Loanword brackets test:
 
-> ma [\_kasi\_alasa\_nasin\_awen\_telo\_a] li suli. (ma Kanata li suli.)
+> ma [kasi alasa nasin awen telo a] li suli. (ma Kanata li suli.)
 
 > %sp%
-> ma [\_kasi\_alasa\_nasin\_awen\_telo\_a] li suli.
+> ma [kasi alasa nasin awen telo a] li suli.
 >
 
 **Note**: Proper cartouches can only be used by using UCSUR codepoints.
 
 > %sp%
-> 󱤰󱦐󱦒󱤗󱦒󱤃󱦒󱤿󱦒󱤈󱦒󱥪󱦒󱤀󱦑󱤧󱥣.
->
+> 
+> 󱥜󱦐󱤗󱤀󱤿󱤈󱥪󱤀󱦑󱤧󱥣.
 
 Composite "pi" test:
 
-> ona li jan \_pi\_sona\_mute.
+> ona li jan pi\_ sona\_ mute\_.
 
 > %sp%
-> ona li jan \_pi\_sona\_mute.
+> ona li jan pi\_ sona\_ mute\_.
+
+or 
+
+> %sp%
+> 󱥆󱤧󱤑󱦓󱥡󱦔󱤼󱦔.
 
 ## download
 
