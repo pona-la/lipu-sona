@@ -188,6 +188,8 @@ systems for constructed languages. Said proposal has been
 [accepted](https://www.kreativekorp.com/ucsur/charts/sitelen.html), and, as a 
 result, many newer toki pona fonts now try to use the same range of characters.
 
+![chart of sitelen pona's UCSUR points](/tokipona/sitelen_ucsur.gif)
+
 ### sitelen emoji / sitelen pilin
 
 A system called "sitelen emoji" (or "sitelen pilin") adapts sitelen pona by

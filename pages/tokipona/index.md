@@ -126,8 +126,6 @@ language's 120 word dictionary.
 
 * [keyboard layout](keyboard.html)
 
-* [IBus tables for sitelen pona](sitelen_pona_ibus.html) _by jan Komi_
-
 * [musi pi jan lawa moli (rules of chess)](chess.html)
 
 * * [musi Soki (rules of shogi) (wip)](shogi.html)
@@ -140,8 +138,6 @@ language's 120 word dictionary.
 
 * * ["jan lawa pi linja ilo" ("LAN Master")](jan_lawa_pi_linja_ilo.html)
 
-* * [ante toki pi jan Pije (jan Pije's translations)](game_patches_jp.html)
-
 * [list of Russian/Ukrainian/Belarusian city names](city_names.html)
 
 * ["nasin Juni pi ilo kon"](nasin_juni.html), a short page about the "Unix way"
@@ -151,6 +147,12 @@ language's 120 word dictionary.
 
 * [nasin tenpo](nasin_tenpo.html), a time measurement system that only uses a
   few numbers
+
+### Other people's content
+
+* [IBus tables for sitelen pona](sitelen_pona_ibus.html) _by jan Komi_
+
+* [_jan Pije_'s video game translations](game_patches_jp.html)
 
 ## Software
 
