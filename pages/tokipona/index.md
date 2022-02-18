@@ -166,6 +166,9 @@ page](https://jan-lope.github.io/Toki_Pona_lessons_English/).
   Android phones. Supports both Latin (with some sitelen pona font features) and
   sitelen emoji. (WIP)
 
+* [ilo pi sitelen pona](https://ilo-pi-sitelen-pona.glitch.me/): a web-based
+  tool that converts Latin-based toki pona into UCSUR-compatible sitelen pona.
+
 ## Other courses online
 
 * [Jonathan Gabel's lessons](https://jonathangabel.com/toki-pona) teach both
