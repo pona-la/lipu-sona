@@ -190,6 +190,14 @@ result, many newer toki pona fonts now try to use the same range of characters.
 
 ![chart of sitelen pona's UCSUR points](/tokipona/sitelen_ucsur.gif)
 
+> **Description of sitelen pona in USCUR**
+> 
+> If you want to find the codepoint (character number) for a character, take 
+> the large number on the left, the small number on the top and add the two. For 
+> example, the character "lawa" has the number F1924. The number on the side is 
+> F1920 and the number on the top is 4. These are base-sixteen numbers. "10" 
+> doesn't mean ten, it means sixteen.
+
 ### sitelen emoji / sitelen pilin
 
 A system called "sitelen emoji" (or "sitelen pilin") adapts sitelen pona by
