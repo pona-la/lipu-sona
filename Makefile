@@ -1,6 +1,6 @@
 -include Makefile.cfg
 
-OUTDIR=out
+OUTDIR=public
 PAGEDIR=pages
 SRCDIR=src
 TPLDIR=tpl
@@ -30,7 +30,7 @@ DIRECTORIES = $(patsubst $(PAGEDIR)/, $(OUTDIR)/, $(_PAGES))
 
 _STATIC_FILES = $(shell find -L static/ -type f -name \* | grep -v \\.h$)
 _STATIC_HEADERS = $(shell find -L static/ -type f -name \*\\.h)
-OUT_STATIC = $(patsubst static/%,out/%,$(_STATIC_FILES)) $(patsubst static/%.h,out/%,$(_STATIC_HEADERS))
+OUT_STATIC = $(patsubst static/%,public/%,$(_STATIC_FILES)) $(patsubst static/%.h,public/%,$(_STATIC_HEADERS))
 
 .SUFFIXES:
 .PHONY: all upload
@@ -92,4 +92,4 @@ $(OUTDIR)/%: static/%
 	cp -r $< $@
 
 clean:
-	rm -rf out/* pages/blog/index.md
+	rm -rf public/* pages/blog/index.md

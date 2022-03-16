@@ -15,12 +15,12 @@ build-job:       # This job runs in the build stage, which runs first.
     - make THEME=discount-theme
   artifacts:
     paths: 
-      - "out"
+      - "public"
 
 unit-test-job:   # This job runs in the test stage.
   stage: test    # It only starts when the job in the build stage completes successfully.
   script:
-    - test $(stat -c %s out/index.html) -gt 0 #test that the index file exists
+    - test $(stat -c %s public/index.html) -gt 0 #test that the index file exists
 
 deploy-job:      # This job runs in the deploy stage.
   stage: deploy  # It only runs when *both* jobs in the test stage complete successfully.
@@ -36,5 +36,5 @@ deploy-job:      # This job runs in the deploy stage.
     - curl https://gitlab.com/dev_urandom/neocities-uploader/-/raw/main/upload.sh?inline=false > upload.sh
     - chmod +x upload.sh
   script:
-    - rsync -e "ssh -o StrictHostKeyChecking=no" -ciIlprz out/ deploy@devurandom.xyz:~/out/
+    - rsync -e "ssh -o StrictHostKeyChecking=no" -ciIlprz public/ deploy@devurandom.xyz:~/out/
     - ./upload.sh
