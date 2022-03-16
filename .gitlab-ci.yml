@@ -35,8 +35,8 @@ deploy-job:      # This job runs in the deploy stage.
     - chmod 600 ~/.ssh/id_rsa
     - curl https://gitlab.com/dev_urandom/neocities-uploader/-/raw/main/upload.sh?inline=false > upload.sh
     - chmod +x upload.sh
-    - echo "N_USER=\"${NEOCITIES_USERNAME}\"" > upload.pwd
-    - echo "N_PWD=\"${NEOCITIES_PASSWORD}\"" >> upload.pwd
+    - echo "N_USER=\"${NEOCITIES_USERNAME@Q}\"" > upload.pwd
+    - echo "N_PWD=\"${NEOCITIES_PASSWORD@Q}\"" >> upload.pwd
   script:
     - rsync -e "ssh -o StrictHostKeyChecking=no" -ciIlprz out/ deploy@devurandom.xyz:~/out/
     - ./upload.sh
