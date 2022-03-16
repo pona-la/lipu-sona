@@ -29,7 +29,7 @@ deploy-job:      # This job runs in the deploy stage.
   before_script:
     - if [ -z "$DEPLOY_PRIVATE_KEY" ]; then echo "Can't deploy without a private key."; exit 1; fi
     - echo "Installing the dependencies..."
-    - apk add rsync openssh-client curl jq
+    - apk add bash rsync openssh-client curl jq
     - mkdir -m 700 -p ~/.ssh
     - echo "$DEPLOY_PRIVATE_KEY" > ~/.ssh/id_rsa
     - chmod 600 ~/.ssh/id_rsa
