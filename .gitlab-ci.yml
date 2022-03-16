@@ -38,3 +38,11 @@ deploy-job:      # This job runs in the deploy stage.
   script:
     - rsync -e "ssh -o StrictHostKeyChecking=no" -ciIlprz public/ deploy@devurandom.xyz:~/out/
     - ./upload.sh
+
+pages:
+  stage: deploy  # This is the GitLab pages deploy script.
+  only:
+    - main #Do not run the deploy pipeline on merge requests
+  artifacts:
+    paths:
+      - "public"
