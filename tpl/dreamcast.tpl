@@ -6,7 +6,7 @@
 		<meta property="og:site_name" content="rnd's website"/>
 		<meta property="og:title" content="<?theme title?>"/>
 		<meta property="og:type" content="website"/>
-		<meta property="og:url" content="https://rnd.neocities.org/<?theme dir?><?theme source?>"/>
+		<meta property="og:url" content="https://devurandom.xyz/<?theme dir?><?theme source?>"/>
 		<link rel="icon" type="image/png" href="favicon.png">
 		<?theme style?>
 	</head>

@@ -7,7 +7,7 @@
 		<meta property="og:site_name" content="rnd's website"/>
 		<meta property="og:title" content="<?theme title?>"/>
 		<meta property="og:type" content="website"/>
-		<meta property="og:url" content="https://rnd.neocities.org/<?theme dir?><?theme source?>"/>
+		<meta property="og:url" content="https://devurandom.xyz/<?theme dir?><?theme source?>"/>
 		<link href="/style.css" rel="stylesheet" type="text/css" media="handheld,print,screen,projection,tv" title="Default Style">
 		<link href="/style_tty.css" rel="stylesheet" type="text/css" media="braille,speech,tty" title="TTY Web Browser Style">
 		<link href="xstyle.css" rel="stylesheet" type="text/css" media="handheld,print,screen,projection,tv">
@@ -42,8 +42,6 @@
 	width="88" height="31" alt="Follow me on Mastodon" /></a>
 	<a rel="me" href="https://toki.social/@janLentan"><img src="/banners/mastodon_tp.gif"
 	width="88" height="31" alt="o kute e toki mi kepeken ilo Masoton" /></a>
-	<a href="https://patreon.com/dev_urandom"><img src="/banners/patreon.gif"
-	width="88" height="31" alt="Support me on Patreon" /></a>
 	<a href="https://ko-fi.com/dev_urandom"><img src="/banners/kofi.gif"
 	width="88" height="31" alt="Support me on Ko-fi" /></a>
 	<a href="https://www.vim.org"><img src="/banners/vim.gif"
