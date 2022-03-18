@@ -29,12 +29,8 @@ deploy-job:      # This job runs in the deploy stage.
   before_script:
     - if [ -z "$DEPLOY_PRIVATE_KEY" ]; then echo "Can't deploy without a private key."; exit 1; fi
     - echo "Installing the dependencies..."
-    - apk add bash rsync openssh-client curl jq
-    - mkdir -m 700 -p ~/.ssh
-    - echo "$DEPLOY_PRIVATE_KEY" > ~/.ssh/id_rsa
-    - chmod 600 ~/.ssh/id_rsa
+    - apk add bash curl jq
     - curl https://gitlab.com/dev_urandom/neocities-uploader/-/raw/main/upload.sh?inline=false > upload.sh
     - chmod +x upload.sh
   script:
-    - rsync -e "ssh -o StrictHostKeyChecking=no" -ciIlprz public/ deploy@devurandom.xyz:~/out/
     - ./upload.sh
