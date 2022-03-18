@@ -55,10 +55,8 @@
 	<img src="/banners/trans_rights.gif"
 	width="88" height="31" alt="Trans Rights Now!"/ >
 	<br />
-	Website created and updated by /dev/urandom. Source code available on the 
-	<a href="https://gitlab.com/dev_urandom/simple-site">GitLab page</a>.
-			</div>
-		</div>
+	</div>
+	</div>
 	</body>
 	<script src="/scripts.js"></script>
 </html>

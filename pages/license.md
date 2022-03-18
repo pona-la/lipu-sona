@@ -3,8 +3,8 @@
 % 2021-05-13
 
 Most of this website's contents is available under the [MIT
-license](https://opensource.org/licenses/MIT). Please check the [source code
-page](https://gitlab.com/dev_urandom/simple-site) for more information.
+license](https://opensource.org/licenses/MIT). Please contact me for more
+information.
 
 In addition, the [toki pona course](tokipona/) is available
 under the terms of the CC-BY-SA
