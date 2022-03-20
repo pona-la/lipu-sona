@@ -215,7 +215,11 @@ website](https://ankiweb.net/shared/info/204928497), by u/parentis\_shotgun
 * [lipu Wikipesija, a recent project to make a toki pona
  Wikipedia](https://wikipesija.org) **NEW**
 
-* [Russian TV: "Art Revolution" on conlangs](art_revolution.html)
+* [Russian TV: "Art Revolution" on conlangs](art_revolution.html) with subtitles
+  by me
+
+* [nasin tenpo pona](https://weatherwhim.github.io/nasin-tenpo-pona/), a
+  calendar system that uses toki pona words
 
 ### Discussion groups and chats
 
