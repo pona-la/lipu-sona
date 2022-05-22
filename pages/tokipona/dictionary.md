@@ -77,6 +77,13 @@ example, "moku soweli" can mean "animal food" or "meat", depending on context.
 #### [en](5.html)
 * particle: and (combines subjects)
 
+#### [epiku](13.html) (*nimi ku suli*)
+* adjective: epic, awesome
+
+This word is typically used as a form of slang, and has also found common use in 
+"ma pona pi toki pona"'s "acro" games, as the only other non-particle word 
+starting with "e" is "esun".
+
 #### [esun](11.html)
 * noun: trade, transaction, exchange
 * adjective: trade/exchange-related, commercial
@@ -107,6 +114,11 @@ example, "moku soweli" can mean "animal food" or "meat", depending on context.
 #### [jan](2.html)
 * noun: person, people, humanity, somebody
 * adjective: human-like, personal
+
+#### [jasima](13.html) (*nimi ku suli*)
+* noun: mirror, reflection, echo
+* adjective: opposite
+* verb: to reflect, to reverse
 
 #### [jelo](8.html)
 * noun/adjective: (the color) yellow (and its shades)
@@ -143,8 +155,29 @@ example, "moku soweli" can mean "animal food" or "meat", depending on context.
 * verb w/ obj: to use smth
 * preposition: (do smth) using, with the help of
 
+#### [kijetesantakalu](13.html) (*nimi ku suli*)
+* noun: raccoon or other musteloid
+
+This is one of the "joke words" created by Sonja Lang. It has become very 
+popular among tokiponists, as has the sitelen pona character for it.
+
 #### [kili](1.html)
 * noun: fruit, vegetable, mushroom
+
+#### [kin](13.html) (*nimi ku suli*)
+* particle: very, really, also
+
+In the first official book, this word was merged with "**a**". However, many 
+people use it separately from "a". They would only use "a" to emphasize 
+someone's feelings.
+
+#### [kipisi](13.html) (*nimi ku suli*)
+* verb: to cut, to divide
+
+This is an old word that was not included in the first official book, but which 
+many people still use. Those who want to only use *lipu pu* vocabulary might 
+want to use "tu", which can also be used as a verb to mean "to divide", the same 
+way "wan" means "to unite".
 
 #### [kiwen](4.html)
 * noun: hard object, metal, stone, solid
@@ -153,9 +186,26 @@ example, "moku soweli" can mean "animal food" or "meat", depending on context.
 #### [ko](4.html)
 * noun: powder, clay, paste, semi-solid
 
+#### [kokosila](13.html) (*nimi ku suli*)
+* verb: to speak not in toki pona in an environment where others speak toki pona
+
+This word is taken from an Esperanto verb 
+"[krokodili](https://en.wiktionary.org/wiki/krokodili)", which in turn means to 
+not speak Esperanto in an Esperanto environment.
+
 #### [kon](12.html)
 * noun: air, essence, spirit, (unconventional) gas
 * adjective: invisible, ephemeral, (unconventional) gaseous
+
+#### [ku](13.html) (*nimi ku suli*)
+* noun: the Toki Pona Dictionary by Sonja Lang
+* verb: to interact with ku
+
+Much like interacting with the first official toki pona book was given the word 
+"pu", so does the second book with "ku". In fact, in *lipu ku*, words "ju", 
+"lu", "nu", "su" and "u" are all listed as "(word reserved for future use by 
+Sonja Lang)", presumably to be given to the next five official toki pona books 
+that (in my opinion) should be created in the future.
 
 #### [kule](8.html)
 * noun: color, (rare) gender
@@ -174,6 +224,15 @@ example, "moku soweli" can mean "animal food" or "meat", depending on context.
 #### [la](9.html)
 * particle: "if/when" (introduces context)
 
+#### [lanpan](13.html) (*nimi ku suli*)
+* verb: to get, to take, to steal
+
+Without this word, the typical way to express getting or taking something would 
+be "kama jo e ..."  (to come into possession of ...), possibly with additional 
+adjectives like "ike" or "utala". The word is famously used in the title of 
+["lanpan pan"](https://ingwine.neocities.org/conlangs/tokipona/lanpan_pan.html), 
+the toki pona translation/summary of Peter Kropotkin's "The Conquest of Bread".
+
 #### [lape](5.html)
 * noun: sleep, rest
 * adjective: sleeping, restful
@@ -187,6 +246,13 @@ example, "moku soweli" can mean "animal food" or "meat", depending on context.
 * noun: head, mind
 * adjective: main, primary, controlling, ruling
 * verb: to head, to control, to direct, to guide, to lead, to own, to rule
+
+#### [leko](13.html) (*nimi ku suli*)
+* noun: square, block, (sometimes) stairs
+
+This is an old word that was not included in the first official book, but which 
+is actively used by people, as it's considered hard to express the meaning of 
+"square" without it.
 
 #### [len](9.html)
 * noun: cloth, clothes, fabric, layer of privacy
@@ -251,6 +317,14 @@ example, "moku soweli" can mean "animal food" or "meat", depending on context.
 * noun: woman, female, wife
 * adjective: feminine
 
+#### [meso](13.html) (*nimi ku suli*)
+* noun: middle, center
+* adjective: average, moderate, mediocre
+
+In some ways, this word is similar to "insa", but it also lets people say that a 
+thing is moderately X without having to use phrases like "ona li wawa mute ala, 
+li wawa lili ala".
+
 #### [mi](1.html)
 * noun: i, me, we, us 
 * adjective: my, our
@@ -258,6 +332,15 @@ example, "moku soweli" can mean "animal food" or "meat", depending on context.
 #### [mije](2.html)
 * noun: man, male, husband
 * adjective: masculine
+
+#### [misikeke](13.html) (*nimi ku suli*)
+* noun: medicine, cure
+* adjective: medicinal
+* verb: to cure
+
+This word was invented by Sonja Lang, but was not included as part of *lipu pu*. 
+(My personal guess is because "ijo pi pona sijelo" is a rather simple way to say 
+"medicine" without it.)
 
 #### [moku](2.html)
 * noun: food
@@ -272,6 +355,15 @@ example, "moku soweli" can mean "animal food" or "meat", depending on context.
 #### [monsi](6.html)
 * noun: back, behind, rear, butt
 * adjective: back, rear
+
+#### [monsuta](13.html) (*nimi ku suli*)
+* noun: fear, monster
+* adjective: scary, monstrous
+* verb: to scare, to be afraid of, (sometimes) to turn into a monster
+
+The usage of this word can be especially confusing without extra context. Some 
+people refer to this confusion as 
+["monsutatesu"](https://lipukule.org/post/2021/01/29/monsutatesu).
 
 #### [mu](7.html)
 * (any animal sound)
@@ -289,6 +381,24 @@ example, "moku soweli" can mean "animal food" or "meat", depending on context.
 * noun: quantity
 * adjective: many, more
 * number: 3 or more (simple system), 20 (complex system)
+
+#### [n](13.html) (*nimi ku suli*)
+* interjection: um..., hm... ("thinking noise")
+
+Technically, the word "n" breaks the rules of toki pona by using a non-allowed 
+syllable, but as it basically functions as a word on its own, it's allowed. Or 
+one can interpret syllable-final "n" as a separate mora, like in Japanese, 
+where "n" on its own is apparently [also used as an 
+interjection](https://jisho.org/search/%E3%82%93#)...
+
+#### [namako](13.html) (*nimi ku suli*)
+* noun: spice, addition
+* adjective: additional, extra
+* verb: to add, to spice up
+
+In the first official book, this word was merged with "**sin**". However, many 
+people keep using it separately from "sin". "sin" is interpreted to mean "new" 
+and "namako" to mean "additional".
 
 #### [nanpa](11.html)
 * noun: number
@@ -318,6 +428,13 @@ example, "moku soweli" can mean "animal food" or "meat", depending on context.
 
 #### [o](7.html)
 * particle: (addressing people, commands)
+
+#### [oko](13.html) (*nimi ku suli*)
+* noun: eye
+
+In the first official book, this word was merged into "**lukin**". People who 
+use this word separately from "lukin" typically use "oko" to mean "eye" and 
+"lukin" to mean "sight" or "vision".
 
 #### [olin](3.html)
 * noun: love, compassion, affection, respect
@@ -450,6 +567,13 @@ example, "moku soweli" can mean "animal food" or "meat", depending on context.
 * adjective: symbolic, written, recorded
 * verb: to write, to draw, to record
 
+#### [soko](13.html) (*nimi ku suli*)
+* noun: mushroom, fungus
+
+People who want to only use *lipu pu* vocabulary sometimes also use "kili ma" to 
+refer to mushrooms. Alternatively, "kili pi kasi ala" is also possible, since 
+"kili" also refers to mushrooms.
+
 #### [sona](10.html)
 * noun: knowledge, information
 * adjective: known
@@ -510,13 +634,14 @@ example, "moku soweli" can mean "animal food" or "meat", depending on context.
 * noun: home, building, structure, indoor space, room
 * adjective: indoor
 
-#### [tonsi](x1.html)
+#### [tonsi](13.html) (*nimi ku suli*)
 * noun: non-binary person, trans person
 * adjective: gender-nonconforming, trans
 
-> %warning%
-> "tonsi" is the only non-official word in this list. It was created by the community 
-> after the official book was released and it is the most accepted non-official word.
+The word "tonsi" was created by the community after the official book was 
+released and, according to [a poll in October of 
+2021](https://www.reddit.com/r/tokipona/comments/qa3inn/survey_results_heres_how_real_these_tp_words_are/), 
+is the most accepted "new" non-official word.
 
 #### [tu](11.html)
 * number: 2
