@@ -1,36 +1,62 @@
 #define HASH(x) x
 
-#define C_PAGEBG #221f31
-#define C_HEADERBG #221f31
-#define C_BODYBG #fefefe
-#define C_FOOTERBG #050403
+#define C_PAGEBG #1b2632
+#define C_HEADERBG #1b2632
+#define C_BODYBG #ffffff
+#define C_FOOTERBG #000000
 
-#define C_HEADERFG #fefefe
-#define C_BODYFG #050403
-#define C_FOOTERFG #fefefe
-#define C_BLEAKFG #9a93b7
+#define C_HEADERFG #ffffff
+#define C_BODYFG #000000
+#define C_FOOTERFG #ffffff
+#define C_BLEAKFG #9d9d9d
 
-#define C_BBORDER #221f31
+#define C_BBORDER #2f484e
 
-#define C_DLINK #221f31
-#define C_LINK #404a68
-#define C_VISLINK #678fcb
-#define C_FOOTLINK #8be1e0
+#define C_DLINK #1b2632
+#define C_LINK #005784
+#define C_VISLINK #493c2b
+#define C_FOOTLINK #b2dcef
 
-#define C_DBORDER #404a68
-#define C_LBORDER #9a93b7
+#define C_HVBORDER #2f484e
+#define C_LTBORDER #9d9d9d
 
-#define C_DERR #a14d3f
-#define C_LERR #ea9182
-#define C_DINF #221f31
-#define C_LINF #8be1e0
-#define C_DWRN #543516
-#define C_LWRN #f5ee9b
+#define C_ERRFG #1b2632
+#define C_ERRBRD #be2633
+#define C_ERRBG #e06f8b
 
-#define C_LGREEN #7cc264
-#define C_DGREEN #316F23
+#define C_INFFG #005784
+#define C_INFBRD #31a2f2
+#define C_INFBG #b2dcef
 
-#define C_NAVFG #fefefe
+#define C_WRNFG #493c2b
+#define C_WRNBRD #a46422
+#define C_WRNBG #f7e26b
+
+#define C_LGREEN #a3ce27
+#define C_DGREEN #44891a
+
+#define C_NAVFG #ffffff
+
+#define C_BODYBG_DARK #000000
+#define C_BODYFG_DARK #ffffff
+
+#define C_LINK_DARK #8be1e0
+#define C_DLINK_DARK #ffffff
+
+#define C_WRNBG_DARK #493c2b
+#define C_WRNBRD_DARK #a46422
+#define C_WRNFG_DARK #f7e26b
+
+#define C_INFBG_DARK #005784
+#define C_INFBRD_DARK #31a2f2
+#define C_INFFG_DARK #b2dcef
+
+#define C_ERRBG_DARK #be2633
+#define C_ERRBRD_DARK #e06f8b
+#define C_ERRFG_DARK #ffffff
+
+#define C_HVBORDER_DARK #9d9d9d
+#define C_LTBORDER_DARK #2f484e
 
 
 @font-face {
@@ -74,7 +100,7 @@ pre {
 blockquote {
 	margin: 6pt;
 	padding-inline: 1em;
-	border-inline-start: 4px solid C_LBORDER;
+	border-inline-start: 4px solid C_LTBORDER;
 }
 
 p {
@@ -82,13 +108,13 @@ p {
 }
 
 table {
-	background: #fefefe;
-	border: 2px solid C_DBORDER;
+	background: C_BODYBG;
+	border: 2px solid C_HVBORDER;
 	border-collapse: collapse;
 }
 
 th, td {
-    border: 1px solid C_LBORDER;
+    border: 1px solid C_LTBORDER;
     padding: 4pt;
 }
 
@@ -202,37 +228,37 @@ th, td {
 }
 
 .info {
-	border-inline-start: 4px solid C_DINF;
-	background: C_LINF;
-	color: C_DINF;
+	border-inline-start: 4px solid C_INFBRD;
+	background: C_INFBG;
+	color: C_INFFG;
 }
 
 .warning {
-	border-inline-start: 4px solid C_DWRN;
-	background: C_LWRN;
-	color: C_DWRN;
+	border-inline-start: 4px solid C_WRNBRD;
+	background: C_WRNBG;
+	color: C_WRNFG;
 }
 
 .error {
-	border-inline-start: 4px solid C_DERR;
-	background: C_LERR;
-	color: C_DERR;
+	border-inline-start: 4px solid C_ERRBRD;
+	background: C_ERRBG;
+	color: C_ERRFG;
 }
 
 .spoiler {
-	border-inline-start: 4px solid C_DBORDER;
+	border-inline-start: 4px solid C_HVBORDER;
 	color:;
 	visibility: hidden;
 }
 
 .content .linkbuttons a img {
   display: inline-block;
-  border: 1px solid #404A68;
+  border: 1px solid C_HVBORDER;
   padding: 2px;
 }
 
 .content .linkbuttons a img[title] {
-  border: 2px solid #7cc264;
+  border: 2px solid C_LGREEN;
   padding: 1px;
 }
 
@@ -267,7 +293,7 @@ th, td {
 }
 
 .itime {
-	border: 1px solid C_DBORDER;
+	border: 1px solid C_HVBORDER;
 	background: C_FOOTERBG;
 	color: C_FOOTERFG;
 }
@@ -338,46 +364,46 @@ HASH(#itime-progress) {
 
 @media (prefers-color-scheme: dark) {
 	body {
-	    background: #221f31;
-	    color: #fefefe;
+	    background: C_BODYBG_DARK;
+	    color: C_BODYFG_DARK;
 	}
 
 	.content {
-	    color: #fefefe;
+	    color: C_BODYFG_DARK;
 	}
 
 	.content a:link, .content a:visited {
-	    color: #8be1e0;
+	    color: C_LINK_DARK;
 	}
 
 	.content a:focus, .content a:hover {
-	    color: #fefefe;
+	    color: C_DLINK_DARK;
 	}
 
 	.warning {
-	    background: #543516;
-	    color: #f5ee9b;
-	    border-inline-start-color: #e1b047;
+	    background: C_WRNBG_DARK;
+	    color: C_WRNFG_DARK;
+	    border-inline-start-color: C_WRNBRD_DARK;
 	}
 
 	.info {
-	    background: #316f23;
-	    color: #f5ee9b;
-	    border-inline-start-color: #7cc264;
+	    background: C_INFBG_DARK;
+	    color: C_INFFG_DARK;
+	    border-inline-start-color: C_INFBRD_DARK;
 	}
 
 	.error {
-	    background: #a14d3f;
-	    color: #fefefe;
-	    border-inline-start-color: #ea9182;
+	    background: C_ERRBG_DARK;
+	    color: C_ERRFG_DARK;
+	    border-inline-start-color: C_ERRBRD_DARK;
 	}
 
 	table {
-	    background: #050403;
-	    border-color: #9a93b7;
+	    background: C_BODYBG_DARK;
+	    border-color: C_HVBORDER_DARK;
 	}
 
 	th,td {
-	    border-color: #404a68;
+	    border-color: C_LTBORDER_DARK;
 	}
 }
