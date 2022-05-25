@@ -1,7 +1,7 @@
 #define HASH(x) x
 
 #define C_PAGEBG #1b2632
-#define C_HEADERBG #1b2632
+#define C_HEADERBG #44891a
 #define C_BODYBG #ffffff
 #define C_FOOTERBG #000000
 
