@@ -20,7 +20,7 @@
 	}
 	
 	.header_text {
-		background: rgba(245,238,155,0.75);
+		background: rgba(255,236,39,0.75);
 	}
 
 }
