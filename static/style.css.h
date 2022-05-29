@@ -1,63 +1,66 @@
 #define HASH(x) x
 
-#define C_PAGEBG #1b2632
-#define C_HEADERBG #44891a
-#define C_BODYBG #ffffff
+#define C_PAGEBG #1d2b53
+#define C_HEADERBG #008751
+#define C_BODYBG #fff1e8
 #define C_FOOTERBG #000000
 
-#define C_HEADERFG #ffffff
+#define C_HEADERFG #fff1e8
 #define C_BODYFG #000000
-#define C_FOOTERFG #ffffff
-#define C_BLEAKFG #9d9d9d
+#define C_FOOTERFG #fff1e8
+#define C_BLEAKFG #83769c
 
-#define C_BBORDER #2f484e
+#define C_BBORDER #000000
 
-#define C_DLINK #1b2632
-#define C_LINK #005784
-#define C_VISLINK #493c2b
-#define C_FOOTLINK #b2dcef
+#define C_DLINK #000000
+#define C_LINK #1d2b53
+#define C_VISLINK #7e2553
+#define C_FOOTLINK #29adff
 
-#define C_HVBORDER #2f484e
-#define C_LTBORDER #9d9d9d
+#define C_HVBORDER #83769c
+#define C_LTBORDER #c2c3c7
 
-#define C_ERRFG #1b2632
-#define C_ERRBRD #be2633
-#define C_ERRBG #e06f8b
+#define C_ERRFG #7e2553
+#define C_ERRBRD #ff004d
+#define C_ERRBG #ff77a8
 
-#define C_INFFG #005784
-#define C_INFBRD #31a2f2
-#define C_INFBG #b2dcef
+#define C_INFFG #1d2b53
+#define C_INFBRD #83769c
+#define C_INFBG #29adff
 
-#define C_WRNFG #493c2b
-#define C_WRNBRD #a46422
-#define C_WRNBG #f7e26b
+#define C_WRNFG #ab5236
+#define C_WRNBRD #ffa300
+#define C_WRNBG #ffccaa
 
-#define C_LGREEN #a3ce27
-#define C_DGREEN #44891a
+#define C_LGREEN #00e436
+#define C_DGREEN #008751
 
-#define C_NAVFG #ffffff
+#define C_NAVFG #fff1e8
 
 #define C_BODYBG_DARK #000000
-#define C_BODYFG_DARK #ffffff
+#define C_BODYFG_DARK #fff1e8
 
-#define C_LINK_DARK #8be1e0
-#define C_DLINK_DARK #ffffff
+#define C_LINK_DARK #29adff
+#define C_DLINK_DARK #fff1e8
 
-#define C_WRNBG_DARK #493c2b
-#define C_WRNBRD_DARK #a46422
-#define C_WRNFG_DARK #f7e26b
+#define C_WRNBG_DARK #ab5236
+#define C_WRNBRD_DARK #ffec27
+#define C_WRNFG_DARK #ffccaa
 
-#define C_INFBG_DARK #005784
-#define C_INFBRD_DARK #31a2f2
-#define C_INFFG_DARK #b2dcef
+#define C_INFBG_DARK #1d2b53
+#define C_INFBRD_DARK #83769c
+#define C_INFFG_DARK #29adff
 
-#define C_ERRBG_DARK #be2633
-#define C_ERRBRD_DARK #e06f8b
-#define C_ERRFG_DARK #ffffff
+#define C_ERRBG_DARK #7e2553
+#define C_ERRBRD_DARK #ff004d
+#define C_ERRFG_DARK #fff7a8
 
-#define C_HVBORDER_DARK #9d9d9d
-#define C_LTBORDER_DARK #2f484e
+#define C_HVBORDER_DARK #83769c
+#define C_LTBORDER_DARK #5f574f
 
+#define C_TENPOBORDER #1D2B53
+#define C_TENPOBG #FFEC27
+#define C_TENPOFG #1D2B53
 
 @font-face {
 	font-family: "Xolonium";
