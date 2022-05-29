@@ -1,5 +1,5 @@
 .header {
-  background: #ffec27;
+  background: #ffccaa;
   color: #1d2b53;
 }
 
@@ -20,7 +20,7 @@
 	}
 	
 	.header_text {
-		background: rgba(255,236,39,0.75);
+		background: rgba(255,204,170,0.75);
 	}
 
 }

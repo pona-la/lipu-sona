@@ -148,6 +148,10 @@ language's 120 word dictionary.
 * [nasin tenpo](nasin_tenpo.html), a time measurement system that only uses a
   few numbers
 
+### Alternative versions
+
+* [Google Docs version](https://docs.google.com/document/d/1uZ-OqpATrjJwCRRvKLEoT16mphES4Id_za_gHmrtEQ4/edit?usp=sharing)
+
 ### Other people's content
 
 * [IBus tables for sitelen pona](sitelen_pona_ibus.html) _by jan Komi_
