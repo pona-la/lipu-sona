@@ -1,6 +1,6 @@
 .header {
-  background: #f5ee9b;
-  color: #404a68;
+  background: #ffec27;
+  color: #1d2b53;
 }
 
 .tenpo {
