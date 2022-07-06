@@ -2,12 +2,6 @@
 % /dev/urandom
 % julio 2022
 
-| Tradukoj / ante toki             | Farinto / jan pali | Lasta ŝanĝo / tenpo pi ante sin |
-|--------------------------------------|-------------------|---------------------------------|
-| [Deutsch / toki Tosi](de_index.html) | [Ret "jan Ke Tami" Samys](https://janketami.wordpress.com) | 2021-07-29 |
-| [Polski / toki Posuka](pl_index.html) | Maksymilian Król (jan Otele) | 2021-05-15 |
-| [Русский / toki Losi](ru_index.html) | jan Lentan        | 2021-07-29 |
-
 Ĉi tio estas aro de paĝoj cele al prezento de neoficiala lingvokurso pri
 Tokipono, planlingvo origine kreita en la jaro 2001 kaj iom-post-iom reviziita
 dum pluraj jaroj de Sonja Lang.
