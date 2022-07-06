@@ -1,1 +1,86 @@
-% paĝo 7a - farado de propraj adjektivoj en Tokipono% /dev/urandom% julio 2022Antaŭ ol lerni kiel tokiponigi nomojn, unue oni sciu kiel funkcias la fonologio deTokipono. La lingvo konsistas el serio de silaboj, kiuj sekvas la sistemon\(K\)V\(N\). Tio signifas, ke ĉiu silabo konsistas el nedeviga konsonanto, postevokalo, kaj post tio nedeviga nazalo (la sono "n").Krome, la sinsekvoj "ji", "ti", "wo" kaj "wu" iĝas "i", "si", "o" kaj "u".Jen tabelo de ĉiuj eblaj silaboj.| a | e | i | o | u | an| en| in| on| un||:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|| a | e | i | o | u | an| en| in| on| un||ja |je |   |jo |ju |jan|jen|   |jon|jun||ka |ke |ki |ko |ku |kan|ken|kin|kon|kun||la |le |li |lo |lu |lan|len|lin|lon|lun||ma |me |mi |mo |mu |man|men|min|mon|mun||na |ne |ni |no |nu |nan|nen|nin|non|nun||pa |pe |pi |po |pu |pan|pen|pin|pon|pun||sa |se |si |so |su |san|sen|sin|son|sun||ta |te |   |to |tu |tan|ten|   |ton|tun||wa |we |wi |   |   |wan|wen|win|   |   |Alia regulo estas, ke vokalo ne sekvu alian vokalon, kaj ke ne estu"n"-sono antaŭ "m" aŭ alia "n".> %info%> La regulo, kiu malpermesas "n" antaŭ "m" aŭ "n", ne estas menciita en la> oficiala libro, sed ĉiuj landonomoj proponitaj en ĝi sekvas ĉi tiun regulon> (ekzemple Birmo/Mjanmao estas "ma Mijama", ne "ma Mijanma").Oni anstataŭigas konsontantojn, kiuj ne ekzistas en Tokipono, per similaj sonoj.Ekzemple, Romo (Roma) iĝas "ma tomo Loma" kaj Ĝakarto (Jakarta) iĝas "ma tomoSakata".| konsonanto | tokiponen ||:----------:|:--------------------------------|| j          | y                                || k          | k, g, fojfoje h, franca r        || l          | l, r                             || m          | m                                || n          | n, silabfina m                   || p          | p, b, f, fojfoje v               || s          | s, z, ĝ, ĉ, ĉ, ĵ, c, ks          || t          | t, d                             || w          | v, ŭ, fojfoje r                  |Kiam estas pluraj sekvaj konsonantoj aŭ vokaloj, oni plej bone forigu unu el ili, sed alternative, oni povas aldoni kroman silabon.Se vi aldonas silabon por vokala sono, kutime aperas "j" aŭ "w"konsonanto, ĉar ili havas subtilan sonon. (ekzemploj: la kontinento de Azio estas"ma Asija" kaj la lando de Eritrea estas "ma Eliteja").Se vi aldonas silabon por konsonanto, la vokalo estas aŭ tiu dela lasta silabo aŭ "u" (ekzemploj: Islando (Ísland) estas "ma Isilan" kaj Skotlandoestas "ma Sukosi").Por nomoj de urboj, plej bone estas, se oni elparolas ĝin same kiel homoj _en_ tiu urbo. Ekzemple, la urbo de Toronto, Kanado estas skribita en laoficiala libro kiel "ma tomo Towano", ne "ma tomo Tolonto".Nomojn por landoj oni povas derivi per la genitivo kazo aŭ la formoj uzataj poraludi la homojn de ilia lando aŭ la lingvo. Ekzemple, la nomon denaskan porJapanio oni elparolas kiel "Nippon", sed la nomo por Japanoj kaj la lingvoestas "Nihonjin" kaj "Nihongo" respektive. La postaj du estas uzataj por krei laneoficialan vorton "Nijon". Simile, la nomo por Svedio estas "Wensa", de"svenska" ("Swedish").Se lando aŭ urbo havas ofte uzatan mallongigon aŭ inicial-nomon,neoficiala vorto povas deveni de tio. Ekzemple, Los Angeles (L.A.) estas "matomo Ele" kaj la Unuiĝinta Reĝlando (U.K.) estas "ma Juke". Ĉi tiu regulo taŭgasankaŭ por aliaj lingvoj -- ekzemple, la Sovetunio (СССР,"es-es-es-er") estus "ma Sesesele".Regulo sekvata de iuj estas tio, se la rezulta neoficiala vorto ŝajnas ekzaktekiel denaska tokipona vorto, la neoficiala vorto estas ŝanĝita. Ekzemple,la nomo "Mary" (de kiu "meli" estas jam derivita) estas kutime ŝanĝitaal "jan Mewi" anstataŭe por eviti konfuzon.Estas aliaj reguloj, kaj iliaj interpretoj malsimilas. La oficiala librohavas propran liston, kiu estas malpli longa, sed malpli kompleta.[Reen al paĝo 7](eo_7.html) [Ĉefpaĝo](eo_index.html)
+% paĝo 7a - farado de propraj adjektivoj en Tokipono
+% /dev/urandom
+% julio 2022
+
+Antaŭ ol lerni kiel tokiponigi nomojn, unue oni sciu kiel funkcias la fonologio de
+Tokipono. La lingvo konsistas el serio de silaboj, kiuj sekvas la sistemon
+\(K\)V\(N\). Tio signifas, ke ĉiu silabo konsistas el nedeviga konsonanto, poste
+vokalo, kaj post tio nedeviga nazalo (la sono "n").
+
+Krome, la sinsekvoj "ji", "ti", "wo" kaj "wu" iĝas "i", "si", "o" kaj "u".
+
+Jen tabelo de ĉiuj eblaj silaboj.
+
+| a | e | i | o | u | an| en| in| on| un|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| a | e | i | o | u | an| en| in| on| un|
+|ja |je |   |jo |ju |jan|jen|   |jon|jun|
+|ka |ke |ki |ko |ku |kan|ken|kin|kon|kun|
+|la |le |li |lo |lu |lan|len|lin|lon|lun|
+|ma |me |mi |mo |mu |man|men|min|mon|mun|
+|na |ne |ni |no |nu |nan|nen|nin|non|nun|
+|pa |pe |pi |po |pu |pan|pen|pin|pon|pun|
+|sa |se |si |so |su |san|sen|sin|son|sun|
+|ta |te |   |to |tu |tan|ten|   |ton|tun|
+|wa |we |wi |   |   |wan|wen|win|   |   |
+
+Alia regulo estas, ke vokalo ne sekvu alian vokalon, kaj ke ne estu
+"n"-sono antaŭ "m" aŭ alia "n".
+
+> %info%
+> La regulo, kiu malpermesas "n" antaŭ "m" aŭ "n", ne estas menciita en la
+> oficiala libro, sed ĉiuj landonomoj proponitaj en ĝi sekvas ĉi tiun regulon
+> (ekzemple Birmo/Mjanmao estas "ma Mijama", ne "ma Mijanma").
+
+Oni anstataŭigas konsontantojn, kiuj ne ekzistas en Tokipono, per similaj sonoj.
+Ekzemple, Romo (Roma) iĝas "ma tomo Loma" kaj Ĝakarto (Jakarta) iĝas "ma tomo
+Sakata".
+
+| konsonanto | tokiponen |
+|:----------:|:--------------------------------|
+| j          | y                                |
+| k          | k, g, fojfoje h, franca r        |
+| l          | l, r                             |
+| m          | m                                |
+| n          | n, silabfina m                   |
+| p          | p, b, f, fojfoje v               |
+| s          | s, z, ĝ, ĉ, ĉ, ĵ, c, ks          |
+| t          | t, d                             |
+| w          | v, ŭ, fojfoje r                  |
+
+Kiam estas pluraj sekvaj konsonantoj aŭ vokaloj, oni plej bone 
+forigu unu el ili, sed alternative, oni povas aldoni kroman silabon.
+
+Se vi aldonas silabon por vokala sono, kutime aperas "j" aŭ "w"
+konsonanto, ĉar ili havas subtilan sonon. (ekzemploj: la kontinento de Azio estas
+"ma Asija" kaj la lando de Eritrea estas "ma Eliteja").
+
+Se vi aldonas silabon por konsonanto, la vokalo estas aŭ tiu de
+la lasta silabo aŭ "u" (ekzemploj: Islando (Ísland) estas "ma Isilan" kaj Skotlando
+estas "ma Sukosi").
+
+Por nomoj de urboj, plej bone estas, se oni elparolas ĝin same kiel homoj _en_ tiu urbo. 
+Ekzemple, la urbo de Toronto, Kanado estas skribita en la
+oficiala libro kiel "ma tomo Towano", ne "ma tomo Tolonto".
+
+Nomojn por landoj oni povas derivi per la genitivo kazo aŭ la formoj uzataj por
+aludi la homojn de ilia lando aŭ la lingvo. Ekzemple, la nomon denaskan por
+Japanio oni elparolas kiel "Nippon", sed la nomo por Japanoj kaj la lingvo
+estas "Nihonjin" kaj "Nihongo" respektive. La postaj du estas uzataj por krei la
+neoficialan vorton "Nijon". Simile, la nomo por Svedio estas "Wensa", de
+"svenska" ("Swedish").
+
+Se lando aŭ urbo havas ofte uzatan mallongigon aŭ inicial-nomon,
+neoficiala vorto povas deveni de tio. Ekzemple, Los Angeles (L.A.) estas "ma
+tomo Ele" kaj la Unuiĝinta Reĝlando (U.K.) estas "ma Juke". Ĉi tiu regulo taŭgas
+ankaŭ por aliaj lingvoj -- ekzemple, la Sovetunio (СССР,"es-es-es-er") estus "ma Sesesele".
+
+Regulo sekvata de iuj estas tio, se la rezulta neoficiala vorto ŝajnas ekzakte
+kiel denaska tokipona vorto, la neoficiala vorto estas ŝanĝita. Ekzemple,
+la nomo "Mary" (de kiu "meli" estas jam derivita) estas kutime ŝanĝita
+al "jan Mewi" anstataŭe por eviti konfuzon.
+
+Estas aliaj reguloj, kaj iliaj interpretoj malsimilas. La oficiala libro
+havas propran liston, kiu estas malpli longa, sed malpli kompleta.
+
+[Reen al paĝo 7](eo_7.html) [Ĉefpaĝo](eo_index.html)
