@@ -159,7 +159,7 @@ ma ale, li jo e mute jan suli #6 lon ma ale.
 
 ## pake
 
-nimi "**pasila**" li nimi pi tenpo pini. ona li toki e ni:
+nimi "**pake**" li nimi pi tenpo pini. ona li toki e ni:
 
 jan li __pake__ e ijo la, jan li pali e ni: ijo li ken ala pali. taso, jan li
 pakala ala e ona. jan li pini pake e ijo la, ijo li ken pali.
