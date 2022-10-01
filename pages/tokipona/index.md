@@ -149,6 +149,9 @@ language's 120 word dictionary.
 * [nasin tenpo](nasin_tenpo.html), a time measurement system that only uses a
   few numbers
 
+* ["pilin pi kama pona"](la_espero.html): a translation of the Esperantist
+  anthem
+
 ### Alternative versions
 
 * [Google Docs version](https://docs.google.com/document/d/1uZ-OqpATrjJwCRRvKLEoT16mphES4Id_za_gHmrtEQ4/edit?usp=sharing)
