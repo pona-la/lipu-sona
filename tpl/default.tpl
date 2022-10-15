@@ -38,7 +38,7 @@
 	<?theme body?>
 			</article>
 			<div class="footer">
-	<a rel="me" href="https://cutiehaven.club/@rnd"><img src="/banners/mastodon.gif"
+	<a rel="me" href="https://cutiehaven.club/rnd"><img src="/banners/mastodon.gif"
 	width="88" height="31" alt="Follow me on Mastodon" /></a>
 	<a rel="me" href="https://toki.social/@janLentan"><img src="/banners/mastodon_tp.gif"
 	width="88" height="31" alt="o kute e toki mi kepeken ilo Masoton" /></a>
