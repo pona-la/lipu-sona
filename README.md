@@ -5,7 +5,14 @@ minimalist constructed language *toki pona*.
 
 Included are all the files and scripts used to build it.
 
-# building
+# automatically building
+
+This website uses *GitHub Pages* to automatically build and deploy the latest
+version of itself. Whenever new commits are pushed to GitHub's
+`lipu-sona-pona/lipu-sona-pona.github.io` repository, the website uses them to
+build a new version of the website.
+
+# manually building
 
 You will need a Linux-based OS, or a UNIX-like environment, to build the
 website from this source package. If you already have one, you can skip until

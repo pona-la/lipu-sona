@@ -7,7 +7,7 @@
 		<meta property="og:site_name" content="lipu sona pona"/>
 		<meta property="og:title" content="<?theme title?>"/>
 		<meta property="og:type" content="website"/>
-		<meta property="og:url" content="https://tbd/<?theme dir?><?theme source?>"/>
+		<meta property="og:url" content="https://lipu-sona-pona.github.io/<?theme dir?><?theme source?>"/>
 		<link href="/style.css" rel="stylesheet" type="text/css" media="handheld,print,screen,projection,tv" title="Default Style">
 		<link rel="icon" type="image/png" href="favicon.png">
 		<?theme style?>
@@ -24,7 +24,7 @@
 	<?theme body?>
 			</article>
 			<div class="footer">
-			This website's source code is available <a href="https://codeberg.org/lipu-sona-pona/lipu-sona-pona">on Codeberg</a>.
+			This website's source code is available <a href="https://github.com/lipu-sona-pona/lipu-sona-pona.github.io">on GitHub</a>.
 	</div>
 	</div>
 	</body>
