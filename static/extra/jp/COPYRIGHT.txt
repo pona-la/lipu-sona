@@ -1,0 +1,18 @@
+Files in this directory include copyrighted contents that belong to other people
+and companies and therefore can not be released under the terms of the MIT
+license.
+
+Screenshots of video games:
+batman.png: © SUNSOFT, DC Comics
+duckhunt.png: © Nintendo
+jaws.png: © LJN Toys Ltd., Universal Pictures
+loz.png: © Nintendo
+smb1.png: © Nintendo
+smb2.png: © Nintendo
+smb3.png: © Nintendo
+smw.png: © Nintendo
+tmnt2.png: © Konami Group Corp., Mirage Studios
+toki.png: © TAD Corporation
+zeldaii.png: © Nintendo
+
+The .zip files are all made by Bryant Knight (jan Pije) and provided here with permission from the author.
