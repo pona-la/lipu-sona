@@ -2,7 +2,7 @@
 % /dev/urandom
 % julio 2022
 
-<h1><a name="p1" id="p1" href="1.html">paĝo 1</a></h1>
+<h1><a name="p1" id="p1" href="eo_1.html">paĝo 1</a></h1>
 
 > * ona li lili.
 > * soweli li suli.
@@ -10,7 +10,7 @@
 > * ona li soweli.
 > * sina ike.
 
-<h1><a name="p2" id="p2" href="2.html">paĝo 2</a></h1>
+<h1><a name="p2" id="p2" href="eo_2.html">paĝo 2</a></h1>
 
 > * Mia edzino estas bona.
 > * Via edzo estas (granda/grava).
@@ -24,7 +24,7 @@
 > * jan lili mije sina li wawa.
 > * kili lili li suwi.
 
-<h1><a name="p3" id="p3" href="3.html">paĝo 3</a></h1>
+<h1><a name="p3" id="p3" href="eo_3.html">paĝo 3</a></h1>
 
 > * Infano ploras (ellasas okulan akvon).
 > * (Li/ŝi/ili) rigardas dokumenton.
@@ -39,7 +39,7 @@
 > * jan utala ike li lukin e tomo sina.
 > * ilo mi li pali pona.
 
-<h1><a name="p4" id="p4" href="4.html">paĝo 4</a></h1>
+<h1><a name="p4" id="p4" href="eo_4.html">paĝo 4</a></h1>
 
 > * Mi ne manĝas bestojn. (aŭ: Mi ne manĝas viandon.)
 > * Via amiko parolas pri tero kaj akvo.
@@ -53,7 +53,7 @@
 > * sitelen sina li pona lukin.
 > * jan pona mi li jo e kala e kili li pali e moku pona.
 
-<h1><a name="p5" id="p5" href="5.html">paĝo 5</a></h1>
+<h1><a name="p5" id="p5" href="eo_5.html">paĝo 5</a></h1>
 
 > * Via komunumo estas tre malsama.
 > * Malbonulo rompis miajn ilojn.
@@ -67,7 +67,7 @@
 > * sina ante lukin.
 > * tomo ni li awen e seli.
 
-<h1><a name="p6" id="p6" href="6.html">paĝo 6</a></h1>
+<h1><a name="p6" id="p6" href="eo_6.html">paĝo 6</a></h1>
 
 > * Li/ŝi/ili parolas al sia patro per telefono.
 > * Mi malŝatas dolĉajn manĝaĵojn / Dolĉaj manĝaĵoj malbonas por mi.
@@ -81,7 +81,7 @@
 > * mi pona e tomo tan sina.
 > * ona li lukin e lipu lon tomo lipu.
 
-<h1><a name="p7" id="p7" href="7.html">paĝo 7</a></h1>
+<h1><a name="p7" id="p7" href="eo_7.html">paĝo 7</a></h1>
 
 > * Ne manĝu ĉi tiun frukton/legomon/funkon, Lisa!
 > * La Kansas-a teamo venkis ĉiujn aliajn teamojn.
@@ -95,7 +95,7 @@
 > * jan sama mije sina li sama mute lukin sina.
 > * o tawa ala lon ma.
 
-<h1><a name="p8" id="p8" href="8.html">paĝo 8</a></h1>
+<h1><a name="p8" id="p8" href="eo_8.html">paĝo 8</a></h1>
 
 > * La ruĝa koloro plaĉas al mi.
 > * Donu al mi la flavan sukon.
@@ -109,7 +109,7 @@
 > * mi lon tomo loje.
 > * jan nasa li kute ala e mi.
 
-<h1><a name="p9" id="p9" href="9.html">paĝo 9</a></h1>
+<h1><a name="p9" id="p9" href="eo_9.html">paĝo 9</a></h1>
 
 > * Al mi ne plaĉas komunumoj kun multaj personoj.
 > * En ĉi tiu domo, mi parolas Tokiponon kaj la anglan.
@@ -124,7 +124,7 @@
 > * meli ni pi linja walo li pona lukin.
 > * sina toki ala tawa jan la sina jo ala e jan pona.
 
-<h1><a name="p10" id="p10" href="10.html">paĝo 10</a></h1>
+<h1><a name="p10" id="p10" href="eo_10.html">paĝo 10</a></h1>
 
 > * Malfermu la pordon.
 > * Post momento, mi venos al vi.
@@ -140,7 +140,7 @@
 > * tenpo suli la mi pali e ni. / mi pali e ni lon tenpo suli.
 > * mi awen kama sona e toki pona.
 
-<h1><a name="p11" id="p11" href="11.html">paĝo 11</a></h1>
+<h1><a name="p11" id="p11" href="eo_11.html">paĝo 11</a></h1>
 
 > * Mi volas interŝanĝi ĉi tiujn tri grandajn bestojn.
 > * Hieraŭ, mi estis en la lernejo/universitato ("domo de scio").
@@ -154,7 +154,7 @@
 > * (tenpo mun / tenpo sike mun) nanpa luka li (pona / suwi).
 > * sina jo e ilo mute pi kalama musi a!
 
-<h1><a name="p12" id="p12" href="12.html">paĝo 12</a></h1>
+<h1><a name="p12" id="p12" href="eo_12.html">paĝo 12</a></h1>
 
 > * Se vi deziras lerni Tokiponon, la oficiala libro estas la plej bona rimedo.
 > * Hodiaŭ, mi sentas min tre bona.
@@ -170,7 +170,7 @@
 > * mi lukin e lipu. tenpo lili la ona li pini.
 > * mi ken toki pi pona mute kepeken toki pona.
 
-<h1><a name="p13" id="p13" href="13.html">paĝo 13</a></h1>
+<h1><a name="p13" id="p13" href="eo_13.html">paĝo 13</a></h1>
 
 > * La lavurso estas mirinda besto.
 > * La komunumo transgenra/nedugenra estas sentima.
@@ -192,4 +192,4 @@ mi tu e sike pan kepeken nasin seme?
 > Tokipono havas malgrandan stokon de vortoj. Pro tio, oni povas
 > krei skribsistemon po unu signon vorte, kaj ĉiuj signoj similas al siaj signifoj.
 
-[Reen al la ĉefa paĝo](index.html)
+[Reen al la ĉefa paĝo](eo_index.html)

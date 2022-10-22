@@ -85,6 +85,6 @@ Kaj penu traduki la sekvajn frazojn en Tokiponon.
 * Mi estas en la ruĝa domo.
 * La ebria homo ne aŭskultas min.
 
-[Respondoj](answers.html#p8)
+[Respondoj](eo_answers.html#p8)
 
-[Antaŭa paĝo](7.html) [Unua paĝo](index.html) [Sekva paĝo](9.html)
+[Antaŭa paĝo](eo_7.html) [Unua paĝo](eo_index.html) [Sekva paĝo](eo_9.html)

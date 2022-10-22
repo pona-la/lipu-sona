@@ -105,8 +105,8 @@ telo", ideografia skripto en kiu ĉiuj oficialaj vortoj (kaj iuj popularaj
 komunume kreitaj vortoj) havas signon, kaj el "linja sin", hangul-simila
 silabaro por neoficialaj vortoj.
 
-![tabelo de sitelen telo signoj](/Tokipona/sitelen_telo.gif)
-![tabelo de linja sin silabaj signoj](/Tokipona/sitelen_telo_2.gif)
+![tabelo de sitelen telo signoj](/sitelen_telo.gif)
+![tabelo de linja sin silabaj signoj](/sitelen_telo_2.gif)
 
-[Ĉefa paĝo](index.html)
+[Ĉefa paĝo](eo_index.html)
 

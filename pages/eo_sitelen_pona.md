@@ -42,7 +42,7 @@ ekzemple, "lawa", kiu signifas "kapon", laŭvide estas simbolo de kapo kun ĉape
 
 ### Sitelenpona diagramo
 
-![diagramo de Sitelenponaj signoj](/Tokipona/sitelen_pona.gif)
+![diagramo de Sitelenponaj signoj](/sitelen_pona.gif)
 
 > Ĉi tiu diagramo montras ĉiujn Sitelenponajn signojn de la 120 oficialaj
 > vortoj, la gravajn vortojn en la dua oficiala libro ("nimi ku suli"), kaj
@@ -95,9 +95,9 @@ Jen bazaj tekstoj skribitaj Sitelenpone.
 ![wan ni pi lipu ni li sitelen kepeken sitelen pona. sina ken ala ken sona e ni.
 / toki pona li jo e nimi pi mute lili. tan ni nasin sitelen ni li ken: sitelen
 wan li toki e nimi wan. sitelen ale li lukin sama kon
-ona.](/Tokipona/sitelen_pona_example.png)
+ona.](/sitelen_pona_example.png)
 
-[Traduko](answers.html#sp)
+[Traduko](eo_answers.html#sp)
 
 Por pliaj tekstoj skribitaj Sitelenpone, inkluzive paĝon kiu instruas
 legadon de Sitelenpono per la signoj mem, rigardu la
@@ -147,23 +147,23 @@ plej oftaj.
 
 * linja pona:
 
-![](/Tokipona/lpona.png)
+![](/lpona.png)
 
 * linja pona (silaboj per kunmetitaj signoj):
 
-![](/Tokipona/lpona2.png)
+![](/lpona2.png)
 
 * linja pimeja:
 
-![](/Tokipona/lpimeja.png)
+![](/lpimeja.png)
 
 * sitelen pona pona:
 
-![](/Tokipona/spp.png)
+![](/spp.png)
 
 * insa pi supa lape:
 
-![](/Tokipona/insa.png)
+![](/insa.png)
 
 ### sitelen emoji / sitelen pilin
 
@@ -177,8 +177,8 @@ en multaj retpaĝoj kaj mesaĝiloj.
 
 ---
 
-[Paĝo pri aliaj skribsistemoj](x2.html)
+[Paĝo pri aliaj skribsistemoj](eo_x2.html)
 
-[Unua paĝo](index.html)
+[Unua paĝo](eo_index.html)
 
 

@@ -163,6 +163,6 @@ Kaj penu traduki la sekvajn frazojn en Tokiponon.
 * Tiu blondulino ("virino de blanka haroj") estas bela. 
 * Se vi ne parolus kun homoj, vi ne havus amikojn.
 
-[Respondojn](answers.html#p9)
+[Respondojn](eo_answers.html#p9)
 
-[Antaŭa paĝo](8.html) [Unua paĝo](index.html) [Sekva paĝo](10.html)
+[Antaŭa paĝo](eo_8.html) [Unua paĝo](eo_index.html) [Sekva paĝo](eo_10.html)

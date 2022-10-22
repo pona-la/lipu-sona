@@ -3,11 +3,11 @@
 % julio 2022
 
 Ĉiuj vortoj traktitaj en paĝoj 1 ĝis 12 ankaŭ estas en la
-oficiala Tokipona libro. Vortoj en [paĝo 13](13.html) estas taksitaj gravaj
+oficiala Tokipona libro. Vortoj en [paĝo 13](eo_13.html) estas taksitaj gravaj
 en la dua oficiala Tokipona libro. Tamen, estas iom da aldonitaj vortoj,
 kiujn oni aŭ uzis sed kiuj ne aperas en la libro, kaj iuj vortoj poste kreitaj
 de la Tokipona komunumo. Malsame al "neoficialaj vortoj" uzataj por propraj nomoj 
-(vidu la [paĝon 7](7.html)), ĉi tiujn oni ĝenerale traktas kiel denaske Tokiponaj vortoj 
+(vidu la [paĝon 7](eo_7.html)), ĉi tiujn oni ĝenerale traktas kiel denaske Tokiponaj vortoj 
 kiuj ne havas majusklon.
 
 Pli kompleta listo de ĉiuj vortoj Tokiponaj, kiuj iam estis uzitaj, estas en la dokumento ["nimi ale pona"][nap].
@@ -215,4 +215,4 @@ provojn priskribi iujn el ĉi tiuj vortoj nur per la oficiala Tokipona
 vortprovizo. Ĉi tio estas foje facila, foje malfacila. Legante ĉi
 tiun liston, vi mem povas decidi, ĉu ĉi tiuj vortoj estas uzindaj aŭ ne.
 
-[Unua paĝo](index.html)
+[Unua paĝo](eo_index.html)
