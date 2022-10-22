@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>toki pona keyboard layout</title>
+		<meta property="og:site_name" content="lipu sona pona"/>
+		<meta property="og:title" content="toki pona keyboard layout"/>
+		<meta property="og:type" content="website"/>
+		<meta property="og:url" content="https://tbd/keyboard.html"/>
+		<link href="/style.css" rel="stylesheet" type="text/css" media="handheld,print,screen,projection,tv" title="Default Style">
+		<link rel="icon" type="image/png" href="favicon.png">
+		
+	</head>
+	<body>
+		<div class="header">
+			<div class="header_image"></div>
+			<div class="header_text">
+	<h2><a href="/">lipu sona pona</a><span class="titlesep"> | </span></h2><h3>toki pona keyboard layout</h3>
+			</div>
+		</div>
+		<div class="middle">
+			<article class="content">
+	<a name="toki-pona-keyboard-layout"></a>
+<h1>toki pona keyboard layout</h1>
+
+<div class="warning"><p>This page uses box-drawing characters heavily. It may display incorrectly on
+some web browsers and computers.</p></div>
+
+<p>Inspired by jan Misali&rsquo;s <a href="https://www.seximal.net/tkpn">toki pona ASCII
+syllabary</a>, I had an idea: what would such a
+syllabary look like if the final &ldquo;n&rdquo; was treated as a separate syllable (like in
+Japanese)? How far could it be compressed?</p>
+
+<p>The end result of my experiments turned out to look like this:</p>
+
+<pre>
+   ┌───┬───┬───┬───┬───┐
+   │-i │-u │-e │-o │-a │
+┌──┼───┼───┼───┼───┼───┤
+│ -│ i │ u │ e │ o │ a │
+├──┼───┼───┼───┼───┼───┤ ┌───┐
+│m-│ I │ 3 │ M │ X │ x │ │ - │
+├──┼───┼───┼───┼───┼───┤─├───┤
+│n-│ y │ Y │ N │ H │ h │ │ n │
+├──┼───┼───┼───┼───┼───┤─└───┘
+│p-│ b │ B │ P │ F │ f │
+├──┼───┼───┼───┼───┼───┤
+│t-│###│ 2 │ T │ D │ d │
+├──┼───┼───┼───┼───┼───┤
+│k-│ q │ Q │ K │ G │ g │
+├──┼───┼───┼───┼───┼───┤
+│s-│ c │ C │ S │ Z │ z │
+├──┼───┼───┼───┼───┼───┤
+│w-│ v │###│ W │###│ 1 │
+├──┼───┼───┼───┼───┼───┤
+│l-│ J │ 5 │ L │ R │ r │
+├──┼───┼───┼───┼───┼───┤
+│j-│###│ U │ E │ O │ A │
+└──┴───┴───┴───┴───┴───┘
+</pre>
+
+
+<p>To make the system easier to learn, the characters in it all follow a set of
+rules:</p>
+
+<ul>
+<li>all j+? syllables use the capital version of the vowel</li>
+<li>all ?+e syllables use the capital version of the consonant</li>
+<li>1, 2, 3 and 5 are wa(n), tu, mu(te) and lu(ka)</li>
+<li>li is J and mi is I</li>
+<li>if a ?+u syllable is a capital letter, a corresponding ?+i is its lowercase version</li>
+<li>if a ?+o syllable is a capital letter, a corresponding ?+a is its lovercase version</li>
+<li>none of the lowercase toki pona characters should used</li>
+</ul>
+
+
+<p>At the end, it completely used up all of the remaining lowercase and uppercase
+letters of the Latin alphabet, with the exception of V, as well as a few
+numbers. Which in turn made me think: how would it look as a keyboard layout?</p>
+
+<pre>
+┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬──────
+│    │    │    │    │    │    │    │    │    │    │    │    │
+│ wa │ tu │ mu │  4 │ lu │  6 │  7 │  8 │  9 │  0 │  - │  = │ Back
+┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬───
+ |<│ ku │ we │ je │ lo │ te │ nu │ ju │ mi │ jo │ pe │ {  │ }  │
+ |>│ ki │ w  │  e │ la │ t  │ ni │  u │  i │  o │ p  │ [  │ ]  │
+───┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬
+ Caps │ ja │ se │ to │ po │ ko │ no │ li │ ke │ le │ :  │ "  │ │  │
+ Lock │  a │ s  │ ta │ pa │ ka │ na │ j  │ k  │ l  │ ;  │ '  │ \  │
+──────┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─┴────┴─
+         │ so │ mo │ su │ lu │ pu │ ne │ me │  < │  > │  ? │
+ Shift ^ │ sa │ ma │ si │ wi │ pi │ n  │ m  │  , │  . │  / │ Shift ^
+─────────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────────
+</pre>
+
+
+<p>(In this version, uppercase V is also used for &ldquo;lu&rdquo;. After all, V is the Roman
+numeral for 5, and V is an easier key to reach than 5.)</p>
+
+<a name="toki-pona-smartphone-keyboard-layout"></a>
+<h1>toki pona smartphone keyboard layout</h1>
+
+<p>Of course, on smartphones, everything is much easier. You can use whatever
+layout you want. Here&rsquo;s an Android-style virtual keyboard, modified to only
+include characters needed in toki pona (the ones shown on the upper part are the
+characters shown when holding the corresponding key down):</p>
+
+<pre>
+     ┌────┬────┬────┬────┬────┬────┬────┐
+     │VF  │?   │D   │'   │"   │:;  │BH  │
+     │  w │  e │  t │  u │  i │  o │  p │
+┌────├────┼────┼────┼────┼────┼────┼────┤────┐
+│    │!@  │CXZ │#   │-+$ │Y   │GQ  │R   │Back│
+│Shft│  a │  s │  n │  m │  j │  k │  l │ <- │
+└────└────┴────┴────┴────┴────┴────┴────┘────┘
+│   #  │    │                    │    │      │    
+│  123 │ ,  │ t o k i    p o n a │ .  │      │    
+└──────┴────┴────────────────────┴────┴──────┘
+</pre>
+
+
+<p><a href="index.html">Top page</a></p>
+
+			</article>
+			<div class="footer">
+			This website's source code is available <a href="https://codeberg.org/lipu-sona-pona/lipu-sona-pona">on Codeberg</a>.
+	</div>
+	</div>
+	</body>
+	<script src="/scripts.js"></script>
+</html>
