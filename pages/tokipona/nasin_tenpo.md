@@ -57,7 +57,7 @@ ilo tenpo ni li ken.
 
 ## ilo tenpo pi ilo suno
 
-![sitelen pi ilo tenpo pi ilo suno](/tokipona/ilo_tenpo_suno.gif)
+![sitelen pi ilo tenpo pi ilo suno](/ilo_tenpo_suno.gif)
 
 ilo tenpo ni li pana e sona tenpo kepeken ilo suno lili. ona li ken pana e
 sitelen tu wan.
@@ -69,7 +69,7 @@ anu nanpa "tu" anu nanpa "tu wan".
 
 ## ilo tenpo sike
 
-![sitelen pi ilo tenpo sike](/tokipona/ilo_tenpo_sike.gif)
+![sitelen pi ilo tenpo sike](/ilo_tenpo_sike.gif)
 
 ilo tenpo ni li pana e sona tenpo kepeken palisa tu.
 

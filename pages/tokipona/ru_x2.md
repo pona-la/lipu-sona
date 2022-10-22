@@ -106,7 +106,7 @@ telo", логографической системы для официальны
 слов, и "linja sin", напоминающей хангыль слоговой системой для неофициальных
 слов.
 
-![таблица символов sitelen telo](/tokipona/sitelen_telo.gif)
-![таблица слоговых символов linja sin](/tokipona/sitelen_telo_2.gif)
+![таблица символов sitelen telo](/sitelen_telo.gif)
+![таблица слоговых символов linja sin](/sitelen_telo_2.gif)
 
 [Главная страница](ru_index.html)

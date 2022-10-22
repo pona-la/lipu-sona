@@ -38,7 +38,7 @@
 
 ### таблица sitelen pona
 
-![таблица символов sitelen pona](/tokipona/sitelen_pona.gif)
+![таблица символов sitelen pona](/sitelen_pona.gif)
 
 > Данная таблица изображает все символы, используемые для 120 официальных слов в
 > письменности sitelen pona, используемые сообществом символы для слов,
@@ -95,7 +95,7 @@
 ![wan ni pi lipu ni li sitelen kepeken sitelen pona. sina ken ala ken sona e ni.
 / toki pona li jo e nimi pi mute lili. tan ni nasin sitelen ni li ken: sitelen
 wan li toki e nimi wan. sitelen ale li lukin sama kon
-ona.](/tokipona/sitelen_pona_example.png)
+ona.](/sitelen_pona_example.png)
 
 [Перевод](ru_answers.html#sp)
 
@@ -144,23 +144,23 @@ pimeja". Однако это не единственный шрифт, кото�
 
 * linja pona:
 
-![](/tokipona/lpona.png)
+![](/lpona.png)
 
 * linja pona (с использованием совмещённых символов для слогов):
 
-![](/tokipona/lpona2.png)
+![](/lpona2.png)
 
 * linja pimeja:
 
-![](/tokipona/lpimeja.png)
+![](/lpimeja.png)
 
 * sitelen pona pona:
 
-![](/tokipona/spp.png)
+![](/spp.png)
 
 * insa pi supa lape:
 
-![](/tokipona/insa.png)
+![](/insa.png)
 
 ### sitelen pona в Unicode
 
@@ -175,7 +175,7 @@ sitelen pona. Однако, сообщество токипонистов усп
 для частного использования" Unicode для письменностей конлангов. Как результат, 
 более новые шрифты для sitelen pona используют описанные кодовые позиции.
 
-![таблица кодовых позиций sitelen pona в UCSUR](/tokipona/sitelen_ucsur.gif)
+![таблица кодовых позиций sitelen pona в UCSUR](/sitelen_ucsur.gif)
 
 > **Описание sitelen pona в USCUR**
 > 

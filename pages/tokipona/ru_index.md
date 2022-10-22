@@ -120,7 +120,7 @@ pona"](https://www.youtube.com/watch?v=4L-dvvng4Zc) Митча Хэлли (та�
   PDF](/toki-pona-cheat-sheet-ru.pdf)
 
 * * [формат ODT
- (LibreOffice)](/tokipona/toki-pona-cheat-sheet-ru.odt)
+ (LibreOffice)](/toki-pona-cheat-sheet-ru.odt)
 
 ---
 

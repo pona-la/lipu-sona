@@ -41,7 +41,7 @@ samo można powiedzieć o wielu znakach Han).
 
 ### Tablica znaków pisma sitelen pona
 
-![tablica znaków pisma sitelen pona](/tokipona/sitelen_pona.gif)
+![tablica znaków pisma sitelen pona](/sitelen_pona.gif)
 
 > W powyżej tabelce przedstawiono wszystkie 120 oficjalnych słów toki pony.
 > Oprócz tego umieszczono tam też często używane dodatkowe słow („nimi sin”)
@@ -95,7 +95,7 @@ Oto zwykły tekst zapisany za pomocą pisma sitelen pona:
 ![wan ni pi lipu ni li sitelen kepeken sitelen pona. sina ken ala ken sona e ni.
 / toki pona li jo e nimi pi mute lili. tan ni nasin sitelen ni li ken: sitelen
 wan li toki e nimi wan. sitelen ale li lukin sama kon
-ona.](/tokipona/sitelen_pona_example.png)
+ona.](/sitelen_pona_example.png)
 
 [Tłumaczenie](pl_answers.html#sp)
 
@@ -149,23 +149,23 @@ wyświetlić też na wiele innych sposobów. Oto najpopularniejsze z nich:
 
 * linja pona:
 
-![](/tokipona/lpona.png)
+![](/lpona.png)
 
 * linja pona (sylaby używają znaków kompozytowych):
 
-![](/tokipona/lpona2.png)
+![](/lpona2.png)
 
 * linja pimeja:
 
-![](/tokipona/lpimeja.png)
+![](/lpimeja.png)
 
 * sitelen pona pona:
 
-![](/tokipona/spp.png)
+![](/spp.png)
 
 * insa pi supa lape:
 
-![](/tokipona/insa.png)
+![](/insa.png)
 
 ### sitelen emoji / sitelen pilin
 

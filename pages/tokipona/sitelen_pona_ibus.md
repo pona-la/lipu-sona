@@ -30,7 +30,7 @@ Use `[`,`_`,`]` for cartouches, `pi_` to start long pi and `'` to extend long pi
 (these can be changed if you edit `sitelen_pona_ibus.txt` and re-run the 
 commands)
 
-* [Download the sitelen\_pona\_ibus file](/tokipona/sitelen_pona_ibus.txt)
+* [Download the sitelen\_pona\_ibus file](/sitelen_pona_ibus.txt)
 
 ---
 

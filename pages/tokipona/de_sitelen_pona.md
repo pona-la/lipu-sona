@@ -44,7 +44,7 @@ das auch für eine Vielzahl der Han-Zeichen zu.)
 
 ### sitelen-pona-Tabelle
 
-![table of sitelen pona characters](/tokipona/sitelen_pona.gif)
+![table of sitelen pona characters](/sitelen_pona.gif)
 
 > In dieser Tabelle sind alle sitelen-pona-Zeichen, die für die 120 offiziellen
 > Wörter und die wichtigen Wörter im zweiten offiziellen Buch ("nimi ku suli")
@@ -108,7 +108,7 @@ Hier ist ein einfacher Text in sitelen pona.
 ![wan ni pi lipu ni li sitelen kepeken sitelen pona. sina ken ala ken sona e ni.
 / toki pona li jo e nimi pi mute lili. tan ni nasin sitelen ni li ken: sitelen
 wan li toki e nimi wan. sitelen ale li lukin sama kon
-ona.](/tokipona/sitelen_pona_example.png)
+ona.](/sitelen_pona_example.png)
 
 [Übersetzung](de_answers.html#sp)
 
@@ -164,23 +164,23 @@ darzustellen. Hier sind die gebräuchlichsten.
 
 * linja pona:
 
-![](/tokipona/lpona.png)
+![](/lpona.png)
 
 * linja pona (mit zusammengesetzten Zeichen):
 
-![](/tokipona/lpona2.png)
+![](/lpona2.png)
 
 * linja pimeja:
 
-![](/tokipona/lpimeja.png)
+![](/lpimeja.png)
 
 * sitelen pona pona:
 
-![](/tokipona/spp.png)
+![](/spp.png)
 
 * insa pi supa lape:
 
-![](/tokipona/insa.png)
+![](/insa.png)
 
 ### sitelen emoji / sitelen pilin
 

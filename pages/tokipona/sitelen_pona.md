@@ -42,7 +42,7 @@ extent, the same is true for a number of Han characters as well.)
 
 ### sitelen pona chart
 
-![table of sitelen pona characters](/tokipona/sitelen_pona.gif)
+![table of sitelen pona characters](/sitelen_pona.gif)
 
 > This table shows all the sitelen pona characters used for the 120 official
 > words, the important words in the second official book ("nimi ku suli"), as
@@ -112,7 +112,7 @@ Here's some basic text written in sitelen pona.
 ![wan ni pi lipu ni li sitelen kepeken sitelen pona. sina ken ala ken sona e ni.
 / toki pona li jo e nimi pi mute lili. tan ni nasin sitelen ni li ken: sitelen
 wan li toki e nimi wan. sitelen ale li lukin sama kon
-ona.](/tokipona/sitelen_pona_example.png)
+ona.](/sitelen_pona_example.png)
 
 [Translation](answers.html#sp)
 
@@ -167,23 +167,23 @@ fully-functional vector font.
 
 * linja pona:
 
-![](/tokipona/lpona.png)
+![](/lpona.png)
 
 * linja pona (syllables using composite characters):
 
-![](/tokipona/lpona2.png)
+![](/lpona2.png)
 
 * linja pimeja:
 
-![](/tokipona/lpimeja.png)
+![](/lpimeja.png)
 
 * sitelen pona pona:
 
-![](/tokipona/spp.png)
+![](/spp.png)
 
 * insa pi supa lape:
 
-![](/tokipona/insa.png)
+![](/insa.png)
 
 ### sitelen pona in Unicode
 
@@ -197,7 +197,7 @@ systems for constructed languages. Said proposal has been
 [accepted](https://www.kreativekorp.com/ucsur/charts/sitelen.html), and, as a 
 result, many newer toki pona fonts now try to use the same range of characters.
 
-![chart of sitelen pona's UCSUR points](/tokipona/sitelen_ucsur.gif)
+![chart of sitelen pona's UCSUR points](/sitelen_ucsur.gif)
 
 > **Description of sitelen pona in USCUR**
 > 

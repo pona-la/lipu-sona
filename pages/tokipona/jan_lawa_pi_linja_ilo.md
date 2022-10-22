@@ -60,15 +60,15 @@ hosting the game.
 
 # screenshots / sitelen
 
-![Title Screen / lipu lawa](/tokipona/jan_lawa_title.png)
+![Title Screen / lipu lawa](/jan_lawa_title.png)
 
-![Gameplay / lipu musi](/tokipona/jan_lawa_gameplay.png)
+![Gameplay / lipu musi](/jan_lawa_gameplay.png)
 
 # downloads / o kama jo e musi ni
 
-* [NES ROM file (v2) / lipu sona pi ilo NES (ante #2)](/tokipona/jan_lawa.nes)
+* [NES ROM file (v2) / lipu sona pi ilo NES (ante #2)](/jan_lawa.nes)
 
-* [(Very messy) source code / lipu pi nasin pali pi lipu sona](/tokipona/jan_lawa_src.tar.gz)
+* [(Very messy) source code / lipu pi nasin pali pi lipu sona](/jan_lawa_src.tar.gz)
 
 ## ante
 
