@@ -7,7 +7,7 @@
 		<meta property="og:site_name" content="lipu sona pona"/>
 		<meta property="og:title" content="<?theme title?>"/>
 		<meta property="og:type" content="website"/>
-		<meta property="og:url" content="https://lipu-sona-pona.github.io/<?theme dir?><?theme source?>"/>
+		<meta property="og:url" content="https://lipu-sona.pona.la/<?theme dir?><?theme source?>"/>
 		<link href="/style.css" rel="stylesheet" type="text/css" media="handheld,print,screen,projection,tv" title="Default Style">
 		<link rel="icon" type="image/png" href="favicon.png">
 		<?theme style?>
