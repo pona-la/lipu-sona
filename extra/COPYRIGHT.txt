@@ -1,0 +1,17 @@
+Files in this directory include copyrighted contents that belong to other people
+and companies and therefore can not be released under the terms of the MIT
+license.
+
+shogi_title.png, shogi_game1.png, shogi_game2.png: © Universal Entertainment
+Corporation
+
+Features footage from the game "Naitou 9 Dan - Shougi Hiden" (内藤九段将棋秘伝),
+published by SETA Corporation in 1985 in Japan. The company no longer exists,
+and its properties presumably are now held by its parent company, "Universal
+Entertainment Corporation" (formerly Aruze).
+
+mahjong_title.png, mahjong_game1.png, mahjong_game2.png: © Konami Holdings
+Corporation
+
+Features footage from the game "4 Nin Uchi Mahjong" (４人打ち麻雀), published
+by Hudson Soft in 1984 in Japan. The company's assets are now owned by Konami.
