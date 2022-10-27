@@ -99,7 +99,7 @@ unofficial word "Nijon" ("Japan") written as three characters: "nena-ilo",
 Others use a different system: they put a single dot after a character inside a
 cartouche to mean the word's first syllable and two dots (typically in a
 colon-like formation) to mean the entire word's pronunciation. So, for example, "jan Mawijo" can
-be express as "jan \[mama·wile·jo·\]" and "jan Kilili" can be "jan \[kili:lipu·\]" or "jan \[kili:lili·\]".
+be express as "jan \[mama·wile·jo·\]" and "jan Kilili" can be "jan \[kili:lipu·\]" or "jan \[kili·lili:\]".
 
 It's worth noting that in both of these systems, the final "n" sound is treated
 as a syllable on its own. For example, the word "nanpa" is broken down into
