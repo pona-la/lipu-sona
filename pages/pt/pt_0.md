@@ -1,0 +1,83 @@
+% toki pona page 0 - spelling and pronunciation
+% /dev/urandom
+% 2020-03-15
+
+The language *toki pona* only uses 14 letters of the Latin alphabet, and all of
+these letters have consistent pronunciations. 
+
+These are: a,e,i,j,k,l,m,n,o,p,s,t,u,w.
+
+You might have noticed that all these letters are lowercase. This is because all
+toki pona words are spelled in lowercase, even at the start of sentences.
+
+The consonants (j,k,l,m,n,p,s,t,w) use the same sounds as those in English, with
+the exception of "j", which instead sounds like the English "y".
+
+The vowels (a,e,i,o,u) are a bit more complicated to explain (but simpler to
+pronounce). Unlike English, every vowel uses the same sound in all words. If you
+know how to pronounce the vowel sounds in Spanish, Japanese or Esperanto, then
+you can pronounce them the same way in toki pona.
+
+For examples of English words with corresponding pronunciations:
+
+* **a** sounds like the "a" in the word "far" or (in some dialects of English) 
+  the "u" in "up" or the "a" in "bath".
+
+* **e** sounds like the "e" in the word "bet".
+
+* **i** sounds like the "i" in the word "bit" or "ee" in "wee".
+
+* **o** sounds like the "o" in the word "or". 
+
+* **u** sounds like the "oo" in "oops" or "moon".
+
+> %info%
+> The "International Phonetic Alphabet" (IPA) is a common way to write
+> down specific pronunciations of words and phrases in any language. 
+>
+> It uses a version of the Latin alphabet with lots of additional characters
+> added. For example, the IPA pronunciation of the English word "language" is
+> /ˈlæŋɡwɪd͡ʒ/, but in toki pona, every single letter's pronunciation _is_ its
+> IPA symbol! So "toki pona" is pronounced /toki pona/.
+
+Since there are so few sounds, the way they can be pronounced can be very
+flexible. For example, some might substitute the sounds "p,t,k" with "b,d,g".
+Such a shift would cause a lot of ambiguity or confusion in other languages, but
+toki pona's sounds were chosen to be common to many languages and easy to
+distinguish.
+
+All toki pona words are pronounced with stress on their first syllable.
+
+## Exercises 
+
+Here are some toki pona words that are derived from, or sound similar to, other
+English words:
+
+| toki pona | derived from and sounds similar to |
+|-----------|-------------------|
+| jaki      | yucky             |
+| jelo      | yellow            |
+| ken       | can               |
+| mani      | money             |
+| mi        | me                |
+| mun       | moon              |
+| tu        | two               |
+| wan       | one               |
+
+| toki pona | sounds similar to (may depend on your dialect) |
+|-----------|-------------------|
+| jan       | young             |
+| jo        | yo!               |
+| kama      | comma             |
+| lukin     | looking           |
+| pan       | pun               |
+| sama      | summer            |
+| sin       | seen              |
+
+[Top page](index.html) [Next page](1.html)
+
+---
+
+While trying to create an original unofficial course, I ended up making this
+page's contents similar to those in the [**official book by Sonja
+Lang**](https://tokipona.org/). I recommend everyone check it out.
