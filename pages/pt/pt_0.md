@@ -1,83 +1,69 @@
-% toki pona page 0 - spelling and pronunciation
-% /dev/urandom
-% 2020-03-15
+% página 0 - grafia e pronúncia
+% jan Alise
+% 30 de maio de 2023
 
-The language *toki pona* only uses 14 letters of the Latin alphabet, and all of
-these letters have consistent pronunciations. 
+A língua *toki pona* usa apenas 14 letras do alfabeto Latim, e todas têm
+pronúncia constante.
 
-These are: a,e,i,j,k,l,m,n,o,p,s,t,u,w.
+Elas são: a,e,i,j,k,l,m,n,o,p,s,t,u,w.
 
-You might have noticed that all these letters are lowercase. This is because all
-toki pona words are spelled in lowercase, even at the start of sentences.
+Talvez você tenha percebido que toda essas letras estão em minúsculo, até no
+início de frases.
 
-The consonants (j,k,l,m,n,p,s,t,w) use the same sounds as those in English, with
-the exception of "j", which instead sounds like the English "y".
+As consoantes (j,k,l,m,n,p,s,t,w) usam os mesmos sons do português, com
+excessão de "j", que soa como o "y" do inglês (como um "i curto" no português)
+(aproximante palatal).
 
-The vowels (a,e,i,o,u) are a bit more complicated to explain (but simpler to
-pronounce). Unlike English, every vowel uses the same sound in all words. If you
-know how to pronounce the vowel sounds in Spanish, Japanese or Esperanto, then
-you can pronounce them the same way in toki pona.
+As vogais (a,e,i,o,u) são indênticas as do portugues, mas são de constante pronúncia:
 
-For examples of English words with corresponding pronunciations:
+* **a** soa como o "a" em ar**a**ra.
 
-* **a** sounds like the "a" in the word "far" or (in some dialects of English) 
-  the "u" in "up" or the "a" in "bath".
+* **e** soa como o "e" em m**e**sa.
 
-* **e** sounds like the "e" in the word "bet".
+* **i** soa como o "i" em **i**lha.
 
-* **i** sounds like the "i" in the word "bit" or "ee" in "wee".
+* **o** soa como o "o" em **o**lho.
 
-* **o** sounds like the "o" in the word "or". 
-
-* **u** sounds like the "oo" in "oops" or "moon".
+* **u** soa como o "u" em l**u**pa.
 
 > %info%
-> The "International Phonetic Alphabet" (IPA) is a common way to write
-> down specific pronunciations of words and phrases in any language. 
+> O "alfabeto fonético internacional" (IPA) é uma maneira comum de escrever
+> pronúncias específicas de palavras e frases em qualquer língua.
 >
-> It uses a version of the Latin alphabet with lots of additional characters
-> added. For example, the IPA pronunciation of the English word "language" is
-> /ˈlæŋɡwɪd͡ʒ/, but in toki pona, every single letter's pronunciation _is_ its
-> IPA symbol! So "toki pona" is pronounced /toki pona/.
+> Usa uma versão do alfabeto Latim, com muitos caracteres adicionais. Por
+> exemplo, a pronúncia em IPA da palavra inglesa "language" é /ˈlæŋɡwɪd͡ʒ/, mas
+> em toki pona, a pronúncia de toda letra _é_ o seu próprio símbolo no IPA!
+> Então toki pona é pronunciada /toki pona/.
 
-Since there are so few sounds, the way they can be pronounced can be very
-flexible. For example, some might substitute the sounds "p,t,k" with "b,d,g".
-Such a shift would cause a lot of ambiguity or confusion in other languages, but
-toki pona's sounds were chosen to be common to many languages and easy to
-distinguish.
+Tendo tão poucos sons, a maneira que pode ser pronunciada é bem flexível. Por
+exemplo, alguns podem substituir os sons "p,t,k" por "b,d,g". Tal mudança
+causaria muita ambiguidade e confusão em outras línguas, mas os sons de toki
+pona foram escolhidos para serem comuns através de muitas línguas e serem
+fáceis de distinguir.
 
-All toki pona words are pronounced with stress on their first syllable.
+Todas as palavras de toki pona são pronunciadas com a sílaba tônica sendo a
+primeira sílaba.
 
-## Exercises 
+## Exercícios
 
-Here are some toki pona words that are derived from, or sound similar to, other
-English words:
+Aqui temos algumas palavras de toki pona que são derivadas ou similares à
+palavras de outras línguas:
 
-| toki pona | derived from and sounds similar to |
-|-----------|-------------------|
-| jaki      | yucky             |
-| jelo      | yellow            |
-| ken       | can               |
-| mani      | money             |
-| mi        | me                |
-| mun       | moon              |
-| tu        | two               |
-| wan       | one               |
-
-| toki pona | sounds similar to (may depend on your dialect) |
-|-----------|-------------------|
-| jan       | young             |
-| jo        | yo!               |
-| kama      | comma             |
-| lukin     | looking           |
-| pan       | pun               |
-| sama      | summer            |
-| sin       | seen              |
+| toki pona | derivada de/similar à  |
+|-----------|------------------------|
+| jaki      | inglês "yucky"         |
+| jelo      | inglês "yellow"        |
+| lipu      | português "livro"      |
+| kulupu    | português "grupo"      |
+| mi        | português "mim"        |
+| meli      | nome "mary" (feminino) |
+| mu        | "mu" (mugido)          |
+| mani      | inglês "money"         |
 
 [Top page](index.html) [Next page](1.html)
 
 ---
 
-While trying to create an original unofficial course, I ended up making this
-page's contents similar to those in the [**official book by Sonja
-Lang**](https://tokipona.org/). I recommend everyone check it out.
+Enquanto eu tentei criar um curso original não-oficial, acabei fazendo o
+conteúdo dessa página similar ao que tem no
+[**livro oficial de Sonja Lang**](https://tokipona.org/). Recomendo que veja!
