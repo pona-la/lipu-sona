@@ -1,13 +1,6 @@
-% lipu sona pona (toki pona course)
-% /dev/urandom
-% 2020-03-17
-
-| Translations / ante toki             | Author / jan pali | Last update / tenpo pi ante sin |
-|--------------------------------------|-------------------|---------------------------------|
-| [Deutsch / toki Tosi](de_index.html) | [Ret "jan Ke Tami" Samys](https://janketami.wordpress.com) | 2021-08-09 |
-| [Esperanto / toki Epelanto](eo_index.html) | acreativename41, jan Pensa, soweli suno (Eriko) | 2022-07-06 |
-| [Polski / toki Posuka](pl_index.html) | p0-12,x1,x2: Maksymilian Król (jan Otele), p13: Alicja / jan Alise (filiżanka#4087) | 2021-10-13 |
-| [Русский / toki Losi](ru_index.html) | jan Lentan        | 2022-05-22 |
+% lipu sona pona (curso de toki pona)
+% jan Alise
+% 29 de maio de 2023
 
 Essa série de páginas constitui uma tentativa de criar um curso educacional
 não-oficial sobre *toki pona*, uma lingua planejada, originalmente projetada em
@@ -64,55 +57,55 @@ discriminatórios em seu conteúdo.
 
 Meu objetivo aqui é apresentar uma versão que tenta levar em consideração as
 diferentes maneiras que pessoas falam e escrevem toki pna e a maneira que é
-usada hoje. Algumas paginas irão incluir seções de "diferenças de dialeto", nas
+usada hoje. Algumas páginas irão incluir seções de "diferenças de dialeto", nas
 quais essas diferenças serão destacadas. Algumas das maiores distinções serão
 descritas diretamente. Irei providenciar minhas opiniões pessoais sobre algumas dessas diferenças, então, enquanto esse curso realmente tenta ser completo, não
 é imparcial.
 
 Essa página de número zero irá prover informações básicas da grafia e pronúncia
-da língua, e cada pagina seguinte irá introduzir 10 palavras do dicionário de
+da língua, e cada página seguinte irá introduzir 10 palavras do dicionário de
 120 palavras de língua.
 
 ## Tabela de conteúdos
 
 ### Páginas do curso
 
-* [pagina 0 - grafia e pronúncia](0.html) [(普通话)](zh_0.html)
+* [página 0 - grafia e pronúncia](0.html) [(普通话)](zh_0.html)
 
-* [pagina 1 - orações básicas](1.html)
+* [página 1 - orações básicas](1.html)
 
-* [pagina 2 - adjetivos](2.html)
+* [página 2 - adjetivos](2.html)
 
-* [pagina 3 - verbos e objetos](3.html)
+* [página 3 - verbos e objetos](3.html)
 
-* [pagina 4 - ah não! mais vocabulário](4.html)
+* [página 4 - ah não! mais vocabulário](4.html)
 
-* [pagina 5 - isso e aquilo](5.html)
+* [página 5 - isso e aquilo](5.html)
 
-* [pagina 6 - preposições e locais](6.html)
+* [página 6 - preposições e locais](6.html)
 
-* [pagina 7 - interjeições, questões, comandos e nomes](7.html)
+* [página 7 - interjeições, questões, comandos e nomes](7.html)
 
-* * [pagina 7a - mais sobre palavras não-oficiais](7a.html)
+* * [página 7a - mais sobre palavras não-oficiais](7a.html)
 
-* [pagina 8 - língua colorida](8.html)
+* [página 8 - língua colorida](8.html)
 
-* [pagina 9 - adjetivos complexos e contextos](9.html)
+* [página 9 - adjetivos complexos e contextos](9.html)
 
-* [pagina 10 - pre-verbos e tempo](10.html)
+* [página 10 - pre-verbos e tempo](10.html)
 
-* [pagina 11 - números](11.html)
+* [página 11 - números](11.html)
 
-* [pagina 12 - a contagem final](12.html)
+* [página 12 - a contagem final](12.html)
 
-* [pagina 13 - edição do dicionário especial](13.html) **NEW**
+* [página 13 - edição do dicionário especial](13.html) **NEW**
 
-### Paginas Extras
+### Páginas Extras
 
-* [pagina extra 1 - palavras velhas e novas](x1.html)
+* [página extra 1 - palavras velhas e novas](x1.html)
 * * [descrição de algumas dessas palavras em toki pona](nimi_pi_pu_ala.html)
 
-* [pagina extra 2 - outros sistemas de escrita](x2.html)
+* [página extra 2 - outros sistemas de escrita](x2.html)
 * * [sitelen pona](sitelen_pona.html)
 
 * [dicionário](dictionary.html)
