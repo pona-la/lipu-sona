@@ -1,0 +1,184 @@
+% página 6 - preposições e locais
+% jan Alise
+% 3 de junho de 2023
+
+O vocabulário dessa página será dividido em dois grupos. Preposições:
+
+| palavra | significado                                   |
+|---------|-----------------------------------------------|
+| kepeken | usar, usando, com ajuda de                    |
+| lon     | em, verdadeiro, presente, existente           |
+| sama    | o mesmo de, igual a, similar, parecido, irmão |
+| tan     | de, por causa de, razão                       |
+| tawa    | para, mover, da perspectiva de                |
+
+E palavras comuns (que nesse caso, todas se relacionam com localizações).
+
+| palavra | significado                     |
+|---------|---------------------------------|
+| sewi    | acima, céu, divino, sagrado     |
+| noka    | perna, pé, em baixo             |
+| poka    | lado, ao lado, próximo, quadril |
+| monsi   | traseira, atrás, bunda          |
+| sinpin  | face, frente, parede            |
+
+Preposições são palavras que são ligadas a outras partes da frase para
+especificar um local ou tempo (mais sobre isso no futuro) ou um detalhe
+específico sobre a ação.
+
+Em toki pona, as palavras "kepeken", "lon", "sama", "tan", e "tawa" são usadas
+como preposições, sendo adicionadas no final da frase, sem nenhuma partícula
+adicional.
+
+Aqui estão alguns exemplos de todas essas cinco palavras, amvas como
+preposições, assim como palavras normais:
+
+> mi pona e tomo kepeken ilo mi. -- Estou arrumando a casa usando minhas
+> ferramentas.
+
+> mi toki kepeken toki pona. -- Estou falando usando toki pona.
+
+> sina kepeken e ilo sitelen. -- você está usando a ferramenta de
+> desenho/escrita (lápis, pincel, caneta, etc).
+
+> mi lon tomo sina. -- Estou na sua casa.
+
+> jan ike li kalama mute lon tomo lipu. -- Uma pessoa ruim está fazendo muito
+> barulho na biblioteca.
+
+> ona li toki e ijo lon. -- elu/ela/ele fala coisas verdadeiras.
+
+> mi en sina li sama. -- Eu e você somos iguais.
+
+> meli sama mi li pona. -- Minha irmã é boa/legal.
+
+> kiwen lili li sama lukin pipi. -- A pedrinha parece um inseto.
+
+> mi lape tan ni: mi jo ala e wawa. -- Descanso, pois não tenho energia.
+
+> mi tawa tan tomo mi. -- Eu estou saindo da minha casa.
+
+> ona li awen lon tomo lipu. -- Ela ficcou na livraria.
+
+> tomo tawa mi li pona. -- Meu carro ("estrutura que move") é bom.
+
+> mi tawa tomo moku. -- Estou indo ao restaurante ("casa de comida").
+
+A palavra "tawa" também pode expressar perspectiva:
+
+> sina pona tawa mi. -- Eu gosto de você (você é boa para mim ("da minha
+> perspectiva")).
+
+> %warning%
+> Já que "tawa" pode ser usada como preposição e adjetivo, algumas frases podem
+> ser ambiguas. Por exemplo, "tomo tawa mi" pode significa "meu carro" e "uma
+> casa, do meu ponto de vista". O significado específico vai depender do
+> contexto.
+
+E aqui alguns exemplos das palavras de localização:
+
+> waso mute li lon sewi. -- Muitos pássaros estão no céu.
+
+> mi awen lon tomo mi. -- Estou esperando em minha casa.
+
+> mi toki tawa jan sewi. -- Estou falando com uma 
+> divindade/anjo/alguém divino/(literalmente)pessoa no céu.
+
+> mi tawa kepeken noka mi. -- Estou indo a pé ("usando meus pés").
+
+> kiwen lili li lon noka mi. -- Uma pedrinha está em baixo de mim.
+
+> mi tawa lon poka sina. -- Eu estou andando ao seu lado.
+
+> jan poka li ike tawa mi. -- Eu não gosto do meu vizinho.
+
+> poka mi li pakala. -- Meu quadril está quebrado.
+
+> ona li lon monsi sina. -- Estão atrás de você.
+
+> jan utala mute li lon sinpin mi. -- Guerreiros estão na minha frente.
+
+> lipu suli li lon sinpin ni. -- Um documento importante está nessa parede.
+
+> sinpin ona li pona lukin. -- O rosto dele é bonito.
+
+## Frases
+
+Existem duas maneiras de se despedir. Se você está saindo, é:
+
+> mi tawa! -- Tchau! (literalmente "estou indo").
+
+Se outra pessoa está saindo, é:
+ 
+> tawa pona! -- Tchau! (literalmente "bom movimento!", "vá bem!").
+
+Na verdade, muitas palavras seguidas de "pona" são usadas para saudações.
+
+> moku pona! -- Bom apetite! / Bom almoço/janta/etc! (literalmente "boa 
+> comida!").
+
+> lape pona! -- Boa noite! / Bons sonhos! (literalmente "bom descanso!").
+
+Também tem uma frase que funciona para muitas expressões positivas, de
+"obrigada" a "Salam Aleikum" ("que a paz esteja contigo"):
+
+> pona tawa sina! (literalmente "bom para você!").
+
+## Diferenças de dialeto
+
+> %info%
+> Essa parte do documento descreve como alguns cursos de toki pona diferem ao
+> explicar certas idéias.
+
+* O livro oficial usa "lon" com um significado mais abrangente, incluindo
+com. Por exemplo, "Eu falo em toki pona" é traduzido como "mi toki lon toki
+pona". Essa não aparenta ser uma maneira comum de usar a palavra.
+
+* O livro oficial usa "noka" para significar "pé" e "abaixo". Essa é uma
+maneira relativamente nova, e outros cursos preferem usar "anpa" invez de
+"noka" para dizer "abaixo" (e usar "noka" apenas para dizer "perna" ou "pé"). A
+palavra "anpa será discutida na [página 7](7.html).
+
+* As vezes, palavras como "kepeken" e "tawa" podem ser usadas como preposições
+("usando", "para") e verbos ("usar", "mover/ir"). O livro oficial trás exemplos
+de "kepeken" sendo usado como verbo.
+
+> o kepeken ala ilo ike. -- Não use ferramentas ruins.
+
+Mas, frequentemente na comunidade de toki pona, a partícula "e" ainda é
+adicionada, "kepeken" servindo como verbo transitivo, e não como preposição.
+
+> mi kepeken e ilo. -- Eu estou usando ferramentas.
+
+(Esse método também foi preferido pelo curso "o kama sona e toki pona!").
+
+A diferença é que no primeiro exemplo, o objeto ("ilo ike") segue diretamente a
+frase "kepeken ala",  e no segundo, "kepeken" é seguido por "e", como qualquer
+outro verbo.
+
+Esse curso seguirá a segunda convenção, já que é menos ambigua e permite mais
+gramática (Por exemplo, é possível adicionar modificadores a "kepeken" mais
+claramente). Mas na maioria dessas frases, tendo ou não a partícula "e", o
+sentido deveria ser o mesmo e não ser ambiguo.
+
+## Exercícios
+
+Agora, tente descobrir o significado dessas frases:
+
+* ona li toki tawa mama mije ona kepeken ilo toki.
+* moku suwi li ike tawa mi.
+* ma mama mi li utala e ma poka.
+* meli sama sina li jan pona mi.
+* pipi lili li lon sinpin sina.
+
+E tente traduzir as seguintes frases para toki pona.
+
+* Você quebrou meu carro.
+* O homem está alimentando ("dando comida") as crianças.
+* Não gosto dessa sala de conversa ("chat room").
+* Eu arrumei a casa por sua causa.
+* Eles estão lendo livros na livraria.
+
+[Respostas](answers.html#p6)
+
+[Previous page](5.html) [Top page](index.html) [Next page](7.html)
