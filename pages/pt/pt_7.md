@@ -1,0 +1,195 @@
+% página 7 - interjeições, questões, comandos e nomes
+% jan Alise
+% 5 de junho de 2023
+
+O vocabulário para essa página:
+
+| palavra | significado                      |
+|---------|----------------------------------|
+| a       | (interjeição emocional)          |
+| anu     | ou                               |
+| mu      | (qualquer som de animal)         |
+| o       | (chamar pessoas, comandos)       |
+| seme    | o que? (para questôes)           |
+
+| palavra | significado                                               |
+|-------|-------------------------------------------------------------|
+| kute  | ouvir, escutar, obedecer, orelha                            |
+| nimi  | palavra, nome                                               |
+| lawa  | cabeça, controle, próprio, regra                            |
+| anpa  | humilde, dependente, conquistar/derrotar, curvar-se, abaixo |
+| insa  | dentro, conteúdo, centro, estômago                          |
+
+## Vocabulary notes
+
+The word "anpa"'s different verb meanings sound mutually exclusive, but the
+actual meaning changes depending on what word follows after that.
+
+If "anpa" is used as a verb with "e" and an object following it, then it
+means "to conquer" or "to defeat":
+
+* jan wawa li anpa e jan utala ike. -- The strong person defeated the bad
+  warrior.
+
+However, if "anpa" is used without an object, or with a preposition like "tawa",
+then it means "to bow down":
+
+* jan pali li anpa tawa jan lawa. -- The worker bowed down to the boss.
+
+By itself, the word "anu" means "or":
+
+> ona li pona mute anu ike mute. mi sona ala. -- It is (either) very good or
+  very bad. I don't know.
+
+## Interjections and commands
+
+The word "a" functions like a emotional interjection, used to emphasize or add
+emotion to the sentence. It is usually either added at the end of a sentence or
+functions as a sentence on its own.
+
+> sina suwi a! -- You are so cute!
+
+More specifically, laughter is indicated with the sentence "a a a!" (ha ha ha!).
+
+The word "mu" substitutes for any sound made by any animal.
+
+The word "o" is used to address people and issue commands.
+
+When used on its own at the beginning of a sentence, it turns the rest of the
+message into a command.
+
+> o kute e mi! -- Listen to me!
+
+When used after a noun phrase, it addresses a person.
+
+> sina o! -- Hey, you!
+
+> jan ale o! -- Everybody!
+
+Both uses can be combined.
+
+> jan pali o, kepeken e ilo awen! -- Worker, use protective equipment!
+
+## Questions
+
+There are two ways to ask questions in toki pona.
+
+If you want to ask a yes-or-no question, you phrase the sentence normally, but
+replace the word being questioned with a "[word] ala [word]" structure.
+
+> sina pona ala pona? -- Are you okay?
+
+There are no words for "yes" and "no", so to answer positively, you repeat the
+word being used, and to answer negatively, you add "ala".
+
+> pona. -- Yes.
+
+> pona ala. -- No.
+
+(From what I understand, this structure is similar to what is used in Mandarin.)
+
+> ona li pali ala pali? -- Are they working?
+
+> jan lili li moku ala moku? -- Are the children eating?
+
+Alternatively, you can add "anu seme" ("or what?") at the end of the sentence
+instead.
+
+> sina pona anu seme? -- Are you okay?
+
+For freeform questions, you start with a regular sentence and insert "seme" into
+the part you want to ask:
+
+> sina pali e seme? -- What are you (doing/working on)? ("You work on what?")
+
+> jan seme li pakala e ona? -- Who broke it? ("What person broke it?")
+
+> ijo ni li seme? -- What is this thing? ("This thing is what?")
+
+> sewi li laso tan seme? -- Why is the sky blue? ("Sky is blue because of what?")
+
+## Names (unofficial words)
+
+So far, these pages only relied on native toki pona words to refer to things and
+people. But this is clearly not enough when you need to call someone by their
+name. For proper names, toki pona uses so-called "unofficial words". These are
+usually names of people, cities, countries, etc., taken from their native
+languages and adapted to toki pona's pronunciation rules. Unlike all toki pona
+words, they're spelled with the first letter capitalized.
+
+Unofficial words are always treated as adjectives, which means that before them
+is always a noun or a noun phrase describing what is being referred to.
+
+> jan Mimi -- (the person) Mimi
+
+> ma Kanata -- (the country) Canada
+
+> toki Inli -- (the language) English
+
+> ma tomo Napoli -- (the city) Naples
+
+Alternatively, the unofficial words can actually be used as adjectives:
+
+> jan Kanata -- a Canadian person
+
+Since there are multiple ways of matching native names to toki pona sounds,
+there may ultimately be several different unofficial names for the same city or
+country's name. (Although there are dictionaries that include lists of toki pona
+names for countries, cities and languages that people can use.)
+
+Also, people speaking toki pona are free to pick their own personal toki pona
+names, either by adapting the name from their native language or coming up with
+something new.
+
+> %info%
+> As you might have noticed, personal names are prefixed with "jan". People in
+> the toki pona community may refer to themselves with their toki pona name even
+> when using other languages, in which case they'll still add "jan" at the
+> beginning.
+>
+
+> %info%
+> The [page 7a](7a.html) contains some more information about how
+> unofficial words are created.
+
+> %warning%
+> While this isn't the most correct option, it is okay in most cases
+> to not use unofficial words and just pronounce or spell the name how you would
+> do in your (or their) native language. For example, you can refer to a person
+> named Robert as "jan Lope" _or_ "jan Robert".
+
+## Examples
+
+> o toki ala a! -- Shut up! ("Don't talk!")
+
+> sina pali ala pali e ni? -- Did you do this?
+
+> mi jan San. mi lon ma Mewika. -- I am John. I live in the United States.
+
+> nimi sina li seme? -- What is your name?
+
+> jan lawa mi li ike mute. -- (My boss / our leader) is very bad.
+
+> jan Lopin o, toki! -- Hi, Robin!
+
+## Exercises
+
+Now, try to figure out the meaning of these sentences.
+
+* jan Lisa o, moku ala e kili ni a!
+* kulupu Kensa li anpa e kulupu ale ante.
+* o toki insa ala e ni: jan pali li anpa tawa jan lawa.
+* sina pali e ni tan seme? 
+* insa mi li pakala. o pona e mi a!
+
+And try to translate the following sentences into toki pona.
+
+* I don't think gods exist.
+* Don't make noise in the library. 
+* My boss tells me not to sleep in the office. 
+* Your brother looks just like you. 
+* Don't go outside.
+
+[Answers](answers.html#p7)
+
+[Previous page](6.html) [Top page](index.html) [Next page](8.html)

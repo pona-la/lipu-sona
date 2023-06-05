@@ -14,7 +14,7 @@ As consoantes (j,k,l,m,n,p,s,t,w) usam os mesmos sons do português, com
 excessão de "j", que soa como o "y" do inglês (como um "i curto" no português)
 (aproximante palatal).
 
-As vogais (a,e,i,o,u) são indênticas as do portugues, mas são de constante pronúncia:
+As vogais (a,e,i,o,u) são indênticas às do português, mas são de constante pronúncia:
 
 * **a** soa como o "a" em ar**a**ra.
 

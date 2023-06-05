@@ -4,7 +4,7 @@
 
 Vocabulário para essa página:
 
-| palávra | significado                       |
+| palavra | significado                       |
 |---------|-----------------------------------|
 | mi      | eu, mim, nós                      |
 | sina    | você, vocês                       |
@@ -21,7 +21,7 @@ Vamos começar com a estrutura de oração mais básica em toki pona:
 
 > [substantivo] li [substantivo / adjetivo].
 
-Em português, teriamos:
+Em português, teríamos:
 
 > [substantivo] é [substantivo].
 
