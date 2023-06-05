@@ -1,7 +1,3 @@
-3.md
-4.md
-5.md
-6.md
 7.md
 7a.md
 8.md
@@ -12,7 +8,6 @@
 13.md
 answers.md
 dictionary.md
-index.md
 sitelen_pona.md
 x1.md
 x2.md
