@@ -60,7 +60,7 @@ palavras de outras línguas:
 | mu        | "mu" (mugido)          |
 | mani      | inglês "money"         |
 
-[Top page](index.html) [Next page](1.html)
+[Índice](pt_index.html) [Próxima página](pt_1.html)
 
 ---
 

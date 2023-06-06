@@ -127,6 +127,6 @@ E tente traduzir as seguintes frases para toki pona:
 * Sua pintura é bonita.
 * Meu amigo tem peixes e frutas e cozinha ("faz comida") bem.
 
-[Respostas](answers.html#p4)
+[Respostas](pt_answers.html#p4)
 
-[Previous page](3.html) [Top page](index.html) [Next page](5.html)
+[Página anterior](pt_3.html) [Índice](pt_index.html) [Próxima página](pt_5.html)

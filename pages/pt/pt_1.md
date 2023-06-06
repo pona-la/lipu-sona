@@ -56,6 +56,6 @@ Agora, como você expressaria as seguintes idéias?
 * (Ele) é um cachorro.
 * Você é má.
 
-[Respostas](answers.html#p1)
+[Respostas](pt_answers.html#p1)
 
-[Previous page](0.html) [Top page](index.html) [Next page](2.html)
+[Página anterior](pt_0.html) [Índice](pt_index.html) [Próxima página](pt_2.html)

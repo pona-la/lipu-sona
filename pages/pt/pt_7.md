@@ -149,7 +149,7 @@ novo.
 > quando usando outras línguas, onde ainda usam "jan" no começo. 
 
 > %info%
-> A [página 7a](7a.html) contém mais informações sobre como palavras
+> A [página 7a](pt_7a.html) contém mais informações sobre como palavras
 > não-oficiais são criadas.
 
 > %warning%
@@ -190,6 +190,6 @@ E agora, tente traduzir as seguintes frases para toki pona.
 * Seu irmão é igualzinho a você.
 * Não vá pra fora.
 
-[Respostas](answers.html#p7)
+[Respostas](pt_answers.html#p7)
 
-[Previous page](6.html) [Top page](index.html) [Next page](8.html)
+[Página anterior](pt_6.html) [Índice](pt_index.html) [Próxima página](pt_8.html)

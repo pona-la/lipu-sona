@@ -82,4 +82,4 @@ transformado em "jan Mewi" ou "jan Mawi" para evitar confusão.
 Existem outras regras, e interpretações delas diferem. O livro oficial tem sua
 lista própria, que é mais curta, mas menos completa.
 
-[Back to page 7](7.html) [Top page](index.html)
+[Voltar à página 7](pt_7.html) [Índice](pt_index.html)

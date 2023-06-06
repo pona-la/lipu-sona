@@ -94,6 +94,6 @@ E agora, tente traduzir as seguintes frases em toki pona:
 * Seu filho é forte.
 * A frutinha é doce.
 
-[Respostas](answers.html#p2)
+[Respostas](pt_answers.html#p2)
 
-[Previous page](1.html) [Top page](index.html) [Next page](3.html)
+[Página anterior](pt_1.html) [Índice](pt_index.html) [Próxima página](pt_3.html)

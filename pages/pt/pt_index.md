@@ -70,42 +70,42 @@ da língua, e cada página seguinte irá introduzir 10 palavras do dicionário d
 
 ### Páginas do curso
 
-* [página 0 - grafia e pronúncia](0.html) [(普通话)](zh_0.html)
+* [página 0 - grafia e pronúncia](pt_0.html) [(普通话)](zh_0.html)
 
-* [página 1 - orações básicas](1.html)
+* [página 1 - orações básicas](pt_1.html)
 
-* [página 2 - adjetivos](2.html)
+* [página 2 - adjetivos](pt_2.html)
 
-* [página 3 - verbos e objetos](3.html)
+* [página 3 - verbos e objetos](pt_3.html)
 
-* [página 4 - ah não! mais vocabulário](4.html)
+* [página 4 - ah não! mais vocabulário](pt_4.html)
 
-* [página 5 - isso e aquilo](5.html)
+* [página 5 - isso e aquilo](pt_5.html)
 
-* [página 6 - preposições e locais](6.html)
+* [página 6 - preposições e locais](pt_6.html)
 
-* [página 7 - interjeições, questões, comandos e nomes](7.html)
+* [página 7 - interjeições, questões, comandos e nomes](pt_7.html)
 
-* * [página 7a - mais sobre palavras não-oficiais](7a.html)
+* * [página 7a - mais sobre palavras não-oficiais](pt_7a.html)
 
-* [página 8 - língua colorida](8.html)
+* [página 8 - língua colorida](pt_8.html)
 
-* [página 9 - adjetivos complexos e contextos](9.html)
+* [página 9 - adjetivos complexos e contextos](pt_9.html)
 
-* [página 10 - pre-verbos e tempo](10.html)
+* [página 10 - pre-verbos e tempo](pt_10.html)
 
-* [página 11 - números](11.html)
+* [página 11 - números](pt_11.html)
 
-* [página 12 - a contagem final](12.html)
+* [página 12 - a contagem final](pt_12.html)
 
-* [página 13 - edição do dicionário especial](13.html) **NEW**
+* [página 13 - edição do dicionário especial](pt_13.html) **NEW**
 
 ### Páginas Extras
 
-* [página extra 1 - palavras velhas e novas](x1.html)
+* [página extra 1 - palavras velhas e novas](pt_x1.html)
 * * [descrição de algumas dessas palavras em toki pona](nimi_pi_pu_ala.html)
 
-* [página extra 2 - outros sistemas de escrita](x2.html)
+* [página extra 2 - outros sistemas de escrita](pt_x2.html)
 * * [sitelen pona](sitelen_pona.html)
 
 * [dicionário](dictionary.html)

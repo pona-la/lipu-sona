@@ -87,6 +87,6 @@ E tente traduzir as seguintes frases para toki pona:
 * O guerreiro ruim está olhando para a sua casa.
 * Minhas ferramentas funcionam bem.
 
-[Respostas](answers.html#p3)
+[Respostas](pt_answers.html#p3)
 
-[Previous page](2.html) [Top page](index.html) [Next page](4.html)
+[Página anterior](pt_2.html) [Índice](pt_index.html) [Próxima página](pt_4.html)

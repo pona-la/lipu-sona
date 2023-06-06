@@ -137,7 +137,7 @@ pona". Essa não aparenta ser uma maneira comum de usar a palavra.
 * O livro oficial usa "noka" para significar "pé" e "abaixo". Essa é uma
 maneira relativamente nova, e outros cursos preferem usar "anpa" invez de
 "noka" para dizer "abaixo" (e usar "noka" apenas para dizer "perna" ou "pé"). A
-palavra "anpa será discutida na [página 7](7.html).
+palavra "anpa será discutida na [página 7](pt_7.html).
 
 * As vezes, palavras como "kepeken" e "tawa" podem ser usadas como preposições
 ("usando", "para") e verbos ("usar", "mover/ir"). O livro oficial trás exemplos
@@ -179,6 +179,6 @@ E tente traduzir as seguintes frases para toki pona.
 * Eu arrumei a casa por sua causa.
 * Eles estão lendo livros na livraria.
 
-[Respostas](answers.html#p6)
+[Respostas](pt_answers.html#p6)
 
-[Previous page](5.html) [Top page](index.html) [Next page](7.html)
+[Página anterior](pt_5.html) [Índice](pt_index.html) [Pŕoxima página](pt_7.html)
