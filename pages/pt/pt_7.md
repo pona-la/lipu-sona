@@ -20,161 +20,161 @@ O vocabulário para essa página:
 | anpa  | humilde, dependente, conquistar/derrotar, curvar-se, abaixo |
 | insa  | dentro, conteúdo, centro, estômago                          |
 
-## Vocabulary notes
+## Notas de vocabulário
 
-The word "anpa"'s different verb meanings sound mutually exclusive, but the
-actual meaning changes depending on what word follows after that.
+Os diferentes significados da palavra "anpa" soam mutuamente exclusivos, mas o
+real significado muda dependendo da próxima palavra.
 
-If "anpa" is used as a verb with "e" and an object following it, then it
-means "to conquer" or "to defeat":
+Se "anpa" é usada como um verbo com "e" e um objeto depois, significa
+"conquistar", "derrotar":
 
-* jan wawa li anpa e jan utala ike. -- The strong person defeated the bad
-  warrior.
+* jan wawa li anpa e jan utala ike. -- A pessoa forte derrotou o guerreiro
+ ruim.
 
-However, if "anpa" is used without an object, or with a preposition like "tawa",
-then it means "to bow down":
+Mas, se "anpa" é usada sem um objeto, ou com uma preposição como "tawa", então
+significa "curvar-se":
 
-* jan pali li anpa tawa jan lawa. -- The worker bowed down to the boss.
+* jan pali li anpa tawa jan lawa. -- O trabalhador se curva ao chefe.
 
-By itself, the word "anu" means "or":
+Por conta própria, a palavra "anu" significa "ou":
 
-> ona li pona mute anu ike mute. mi sona ala. -- It is (either) very good or
-  very bad. I don't know.
+> ona li pona mute anu ike mute. mi sona ala. -- É muito bom, ou muito ruim. Eu
+> não sei.
 
-## Interjections and commands
+## Interjeições e comandos
 
-The word "a" functions like a emotional interjection, used to emphasize or add
-emotion to the sentence. It is usually either added at the end of a sentence or
-functions as a sentence on its own.
+A palavra "a" funciona como uma interjeição emocional, usada para enfatizar ou
+adicionar emoção para uma frase. É comumente colocada no final de uma frase, ou
+uma frase por conta própria.
 
-> sina suwi a! -- You are so cute!
+> sina suwi a! -- Você é tão fofe!
 
-More specifically, laughter is indicated with the sentence "a a a!" (ha ha ha!).
+Mais especificamente, risada é indicada pela frase "a a a!" ("ha ha ha!").
 
-The word "mu" substitutes for any sound made by any animal.
+A palavra "mu" substitui o som feito por qualquer animal.
 
-The word "o" is used to address people and issue commands.
+A palavra "o" é usada para chamar ou endereçar pessoas e dar comandos.
 
-When used on its own at the beginning of a sentence, it turns the rest of the
-message into a command.
+Quando usada sozinha no começo da frase, transforma a mensagem em um comando.
 
-> o kute e mi! -- Listen to me!
+> o kute e mi! -- Me escute!
 
-When used after a noun phrase, it addresses a person.
+Quando usada depois de uma frase constituída apenas por um substantivo, 
+endereça uma pessoa.
 
-> sina o! -- Hey, you!
+> sina o! -- Ei, você!
 
-> jan ale o! -- Everybody!
+> jan ale o! -- Gente! Ei, todo mundo!
 
-Both uses can be combined.
+Os dois usos podem ser combinados.
 
-> jan pali o, kepeken e ilo awen! -- Worker, use protective equipment!
+> jan pali o, kepeken e ilo awen! -- Proletário! Use equipamento de proteção!
 
-## Questions
+## Questões
 
-There are two ways to ask questions in toki pona.
+Têm duas maneiras de fazer perguntas em toki pona.
 
-If you want to ask a yes-or-no question, you phrase the sentence normally, but
-replace the word being questioned with a "[word] ala [word]" structure.
+Se você quer fazer uma pergunta do tipo sim-ou-não, você organiza a frase
+normalmente, mas troca a palavra questionada com a estrutura "[palavra] ala
+[palavra]".
 
-> sina pona ala pona? -- Are you okay?
+> sina pona ala pona? -- Você tá bem?
 
-There are no words for "yes" and "no", so to answer positively, you repeat the
-word being used, and to answer negatively, you add "ala".
+Não há palavras para "sim" e "não", então para responder positivamente, repita
+a palavra sendo usada e para responder negativamente, use "ala".
 
-> pona. -- Yes.
+> pona. -- Sim.
 
-> pona ala. -- No.
+> pona ala. -- Não.
 
-(From what I understand, this structure is similar to what is used in Mandarin.)
+(Até onde eu sei, essa estrutura é similar à que é usada em Mandarin.)
 
-> ona li pali ala pali? -- Are they working?
+> ona li pali ala pali? -- Ela está trabalhando?
 
-> jan lili li moku ala moku? -- Are the children eating?
+> jan lili li moku ala moku? -- As crianças estão comendo?
 
-Alternatively, you can add "anu seme" ("or what?") at the end of the sentence
-instead.
+Outra opção é usar "anu seme" ("ou o que?") no final da frase.
 
-> sina pona anu seme? -- Are you okay?
+> sina pona anu seme? -- Você tá bem?
 
-For freeform questions, you start with a regular sentence and insert "seme" into
-the part you want to ask:
+Para outros tipos de perguntas, você inicia com uma frase comum, e insere um
+"seme" na parte que você quer perguntar:
 
-> sina pali e seme? -- What are you (doing/working on)? ("You work on what?")
+> sina pali e seme? -- O que está fazendo? ("Está trabalhando no que?")
 
-> jan seme li pakala e ona? -- Who broke it? ("What person broke it?")
+> jan seme li pakala e ona? -- Quem quebrou? ("Que pessoa quebrou?")
 
-> ijo ni li seme? -- What is this thing? ("This thing is what?")
+> ijo ni li seme? -- Que coisa é essa? ("Essa coisa é o que?")
 
-> sewi li laso tan seme? -- Why is the sky blue? ("Sky is blue because of what?")
+> sewi li laso tan seme? -- Por que o céu é azul? ("O céu é azul por que?")
 
-## Names (unofficial words)
+## Nomes (palavras não-oficiais)
 
-So far, these pages only relied on native toki pona words to refer to things and
-people. But this is clearly not enough when you need to call someone by their
-name. For proper names, toki pona uses so-called "unofficial words". These are
-usually names of people, cities, countries, etc., taken from their native
-languages and adapted to toki pona's pronunciation rules. Unlike all toki pona
-words, they're spelled with the first letter capitalized.
+Até agora, essas páginas se basearam apenas em palavras nativas de toki pona
+para referir a coisas e pessoas. Mas, isso obviamente não é suficiente quando
+você precisa chamar alguém pelo nome. Para nomes próprios, toki pona usa as
+chamadas "palavras não-oficiais". São comumente nomes de pessoas, cidades,
+países, etc., tiradas de seus nomes em suas línguas nativas e adaptadas às
+regras de pronunciação de toki pona. Diferente de todas as palavras de toki
+pona, elas são escritas com a primeira letra capitalizada.
 
-Unofficial words are always treated as adjectives, which means that before them
-is always a noun or a noun phrase describing what is being referred to.
+Palavras não oficiais sempre são tratadas como adjetivos, o que significa que
+antes delas, sempre tem um substantivo descrevendo ao que se refere.
 
-> jan Mimi -- (the person) Mimi
+> jan Mimi -- (a pessoa) Mimi
 
-> ma Kanata -- (the country) Canada
+> ma Kanata -- (o país) Canada
 
-> toki Inli -- (the language) English
+> toki Inli -- (a língua) Inglês
 
-> ma tomo Napoli -- (the city) Naples
+> ma tomo Napoli -- (a cidade) Nápole
 
-Alternatively, the unofficial words can actually be used as adjectives:
+Alternativamente, as palavras não-oficiais podem ser usadas como adjetivos
+mesmo:
 
-> jan Kanata -- a Canadian person
+> jan Kanata -- uma pessoa Canadense
 
-Since there are multiple ways of matching native names to toki pona sounds,
-there may ultimately be several different unofficial names for the same city or
-country's name. (Although there are dictionaries that include lists of toki pona
-names for countries, cities and languages that people can use.)
+Já que têm múltiplas maneiras de encaixar nomes aos sons de toki pona, pode
+haver múltiplos nomes diferentes não-oficiais para a mesma cidade ou país.
+(Embora tenha dicionários que incluem listas de nomes de países, cidades e
+línguas em toki pona que pessoas podem usar).
 
-Also, people speaking toki pona are free to pick their own personal toki pona
-names, either by adapting the name from their native language or coming up with
-something new.
-
-> %info%
-> As you might have noticed, personal names are prefixed with "jan". People in
-> the toki pona community may refer to themselves with their toki pona name even
-> when using other languages, in which case they'll still add "jan" at the
-> beginning.
->
+Além disso, pessoas que falam toki pona são livras para escolher seus próprios
+nomes em toki pona, adaptando seu nome na sua língua nativa, ou criando algo
+novo.
 
 > %info%
-> The [page 7a](7a.html) contains some more information about how
-> unofficial words are created.
+> Como você pode ter percebido, nomes pessoais são prefixados com "jan".
+> Pessoas na comunidade às vezes se referem com seu nome em toki pona mesmo
+> quando usando outras línguas, onde ainda usam "jan" no começo. 
+
+> %info%
+> A [página 7a](7a.html) contém mais informações sobre como palavras
+> não-oficiais são criadas.
 
 > %warning%
-> While this isn't the most correct option, it is okay in most cases
-> to not use unofficial words and just pronounce or spell the name how you would
-> do in your (or their) native language. For example, you can refer to a person
-> named Robert as "jan Lope" _or_ "jan Robert".
+> Enquanto essa não é a opção mais correta, não tem problema em usar palavras
+> não-oficiais e apenas pronunciar o nome como faria em sua língua nativa na
+> maioria dos casos. Por exemplo, você pode se referir a alguém que se chama
+> "Mariana" como "jan Mali" ou "jan Malijana" ou "jan Mariana".
 
-## Examples
+## Exemplos
 
-> o toki ala a! -- Shut up! ("Don't talk!")
+> o toki ala a! -- Cala a boca! ("Não fale!")
 
-> sina pali ala pali e ni? -- Did you do this?
+> sina pali ala pali e ni? -- Você fez isso?
 
-> mi jan San. mi lon ma Mewika. -- I am John. I live in the United States.
+> mi jan Mose. mi lon ma Pasiju, -- Meu nome é Moisés. Moro no Brasil.
 
-> nimi sina li seme? -- What is your name?
+> nimi sina li seme? -- Quak o seu nome?
 
-> jan lawa mi li ike mute. -- (My boss / our leader) is very bad.
+> jan lawa mi li ike mute. -- (Meu chefe / Nosso líder) é muito ruim.
 
-> jan Lopin o, toki! -- Hi, Robin!
+> jan Tasi o! toki -- Oi Taís!
 
-## Exercises
+## Exercícios
 
-Now, try to figure out the meaning of these sentences.
+Agora, tente descobrir o significado dessas frases.
 
 * jan Lisa o, moku ala e kili ni a!
 * kulupu Kensa li anpa e kulupu ale ante.
@@ -182,14 +182,14 @@ Now, try to figure out the meaning of these sentences.
 * sina pali e ni tan seme? 
 * insa mi li pakala. o pona e mi a!
 
-And try to translate the following sentences into toki pona.
+E agora, tente traduzir as seguintes frases para toki pona.
 
-* I don't think gods exist.
-* Don't make noise in the library. 
-* My boss tells me not to sleep in the office. 
-* Your brother looks just like you. 
-* Don't go outside.
+* Eu não acho que deuses existem.
+* Não faça barulho na livraria.
+* Meu chefe me disse para não dormir no escritório.
+* Seu irmão é igualzinho a você.
+* Não vá pra fora.
 
-[Answers](answers.html#p7)
+[Respostas](answers.html#p7)
 
 [Previous page](6.html) [Top page](index.html) [Next page](8.html)
