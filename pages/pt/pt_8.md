@@ -11,7 +11,7 @@ O vocabulário para essa página:
 | laso    | azul, verde (e seus tons)         |
 | loje    | vermelho (e seus tons)            |
 | pimeja  | preto, escuro                     |
-| walo    | branco, luz, claro                |
+| walo    | branco, claro                     |
 | nasa    | anormal, maluco, estranho, bêbado |
 | jaki    | sujo, nojento, tóxico             |
 | moli    | morte, morrendo                   |
