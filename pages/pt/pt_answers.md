@@ -10,7 +10,7 @@
 > * ona li soweli.
 > * sina ike.
 
-<h1><a name="p2" id="p2" href="2.html">página 2</a></h1>
+<h1><a name="p2" id="p2" href="pt_2.html">página 2</a></h1>
 
 > * Minha esposa é boa.
 > * Seu marido é (grande/importante).
@@ -24,7 +24,7 @@
 > * jan lili mije sina li wawa.
 > * kili lili li suwi.
 
-<h1><a name="p3" id="p3" href="3.html">página 3</a></h1>
+<h1><a name="p3" id="p3" href="pt_3.html">página 3</a></h1>
 
 > * A criança está chorando (emitindo água dos olhos).
 > * (Ele/ela/elu) está lendo o documento.
@@ -39,7 +39,7 @@
 > * jan utala ike li lukin e tomo sina.
 > * ilo mi li pali pona.
 
-<h1><a name="p4" id="p4" href="4.html">página 4</a></h1>
+<h1><a name="p4" id="p4" href="pt_4.html">página 4</a></h1>
 
 > * Eu não como animais (leia: carne).
 > * Seu amigo está falando sobre a terra e sobre a água.
@@ -53,7 +53,7 @@
 > * sitelen sina li pona lukin.
 > * jan pona mi li jo e kala e kili li pali e moku pona.
 
-<h1><a name="p5" id="p5" href="5.html">página 5</a></h1>
+<h1><a name="p5" id="p5" href="pt_5.html">página 5</a></h1>
 
 > * Sua comunidade mudou muito.
 > * Uma pessoa ruim quebrou minhas ferramentas.
@@ -67,7 +67,7 @@
 > * sina ante lukin.
 > * tomo ni li awen e seli.
 
-<h1><a name="p6" id="p6" href="6.html">página 6</a></h1>
+<h1><a name="p6" id="p6" href="pt_6.html">página 6</a></h1>
 
 > * Elus estão falando com seu pai no telefone.
 > * Eu não gosto de comida doce. / Comida doce é ruim para mim.
@@ -81,7 +81,7 @@
 > * mi pona e tomo tan sina.
 > * ona li lukin e lipu lon tomo lipu.
 
-<h1><a name="p7" id="p7" href="7.html">página 7</a></h1>
+<h1><a name="p7" id="p7" href="pt_7.html">página 7</a></h1>
 
 > * Não coma essa fruta/vegetal/cogumelo, Lisa!
 > * O time de Kansas derrotou todos os outros times.
@@ -95,7 +95,7 @@
 > * jan sama mije sina li sama mute lukin sina.
 > * o tawa ala lon ma.
 
-<h1><a name="p8" id="p8" href="8.html">página 8</a></h1>
+<h1><a name="p8" id="p8" href="pt_8.html">página 8</a></h1>
 
 > * Eu gosto da cor vermelha.
 > * Me dê o suco amarelo.
@@ -109,7 +109,7 @@
 > * mi lon tomo loje.
 > * jan nasa li kute ala e mi.
 
-<h1><a name="p9" id="p9" href="9.html">página 9</a></h1>
+<h1><a name="p9" id="p9" href="pt_9.html">página 9</a></h1>
 
 > * Eu não gosto de comunidades com muitas pessoas.
 > * nessa casa, nós falamos em toki pona e em Português.
@@ -124,7 +124,7 @@
 > * meli ni pi linja walo li pona lukin.
 > * sina toki ala tawa jan la sina jo ala e jan pona.
 
-<h1><a name="p10" id="p10" href="10.html">página 10</a></h1>
+<h1><a name="p10" id="p10" href="pt_10.html">página 10</a></h1>
 
 > * Abra a porta.
 > * Daqui a pouco, eu estou indo até você.
@@ -140,7 +140,7 @@
 > * tenpo suli la mi pali e ni. / mi pali e ni lon tenpo suli.
 > * mi awen kama sona e toki pona.
 
-<h1><a name="p11" id="p11" href="11.html">página 11</a></h1>
+<h1><a name="p11" id="p11" href="pt_11.html">página 11</a></h1>
 
 > * Eu quero trocar esses três animais grandes.
 > * Ontem, eu estava na escola/faculdade/universidade ("casa do conhecimento").
@@ -154,7 +154,7 @@
 > * (tenpo mun / tenpo sike mun) nanpa luka li (pona / suwi).
 > * sina jo e ilo mute pi kalama musi a!
 
-<h1><a name="p12" id="p12" href="12.html">página 12</a></h1>
+<h1><a name="p12" id="p12" href="pt_12.html">página 12</a></h1>
 
 > * Se você quer aprender toki pona, o livro oficial é a melhor maneira.
 > * Hoje, eu estou me sentindo muito bem.
@@ -170,7 +170,7 @@
 > * mi lukin e lipu. tenpo lili la ona li pini.
 > * mi ken toki pi pona mute kepeken toki pona.
 
-<h1><a name="p13" id="p13" href="13.html">página 13</a></h1>
+<h1><a name="p13" id="p13" href="pt_13.html">página 13</a></h1>
 
 > * Guaxinins são animais incríveis.
 > * A comunidade (trans / não-binária) não tem medo.
