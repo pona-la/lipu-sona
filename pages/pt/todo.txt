@@ -1,6 +1,4 @@
-13.md
-answers.md
-dictionary.md
-sitelen_pona.md
 x1.md
 x2.md
+dictionary.md
+sitelen_pona.md
