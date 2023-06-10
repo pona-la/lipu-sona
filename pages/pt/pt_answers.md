@@ -148,7 +148,7 @@
 > * Eu gosto de você acima de todos os outros.
 > * A chuva continuou por 40 dias.
 <!---->
-> * mi lon tomo nanpa mute luka tu pi nasin Wasintan.
+> * mi lon tomo nanpa mute luka tu pi nasin Sotaka.
 > * ilo pi sitelen tawa li toki e ni: tenpo suno kama la suno li lon.
 > * tenpo pimeja ni la lete li lon.
 > * (tenpo mun / tenpo sike mun) nanpa luka li (pona / suwi).
