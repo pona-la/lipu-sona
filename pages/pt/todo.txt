@@ -1,4 +1,3 @@
-x1.md
 x2.md
 dictionary.md
 sitelen_pona.md
