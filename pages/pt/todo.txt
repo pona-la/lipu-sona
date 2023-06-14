@@ -1,1 +1,3 @@
 dictionary.md
+credits.md
+personal_style.md
