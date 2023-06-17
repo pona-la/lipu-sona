@@ -1,0 +1,92 @@
+% página 3 - verbos e objetos
+% jan Alise
+% 31 de maio de 2023
+
+O vocabulário para essa página é:
+
+| palavra | meaning                             |
+|---------|-------------------------------------|
+| e       | (especifica um objeto)              |
+| ijo     | coisa, objeto                       |
+| ilo     | ferramenta, máquina, dispositivo    |
+| lipu    | livro, documento, papel             |
+| lukin   | olho, olhar, ver, procurar          |
+| olin    | amor, compaixão, afeto              |
+| pali    | trabalho, fazer, trabalhar          |
+| pana    | dar, enviar, emitir                 |
+| telo    | água, fluido, molhar, limpar        |
+| tomo    | casa, construção, estrutura, quarto |
+
+Para adicionar um verbo a uma oração use a seguinte estrutura:
+
+> [substantivo] li [verbo]
+
+Por exemplo,
+
+> mije li pali. - Um homem está trabalhando / Um homem trabalha.
+
+Ambos substantivo e verbo podem ter adjetivos adicionados a eles. Se adicionado
+após um verbo, o adjetivo funciona como um advérbio.
+
+> jan wawa li pali pona. - A pessoa forte trabalha bem.
+
+> %warning%
+> Não há maneira de determinar se uma palavra nesse tipo de oração é um
+> adjetivo ou um verbo. Por exemplo, a frase "mi moku" pode significar "estou
+> comendo" ou "sou comida".
+
+> %info%
+> Verbos não têm nenhuma conjugação associada a eles. Uma maneira de
+> especificar tempo verbal vai ser explicada nas próximas páginas.
+
+Para adicionar um objeto - acoisa em que o verbo atua - use a partícula "e" na
+seguinte estrutura:
+
+> [sujeito] li [verbo] e [objeto]
+
+> jan wawa li pali e tomo. - Uma pessoa forte está construindo a casa.
+
+Objetos também podem ter adjetivos associados.
+
+> jan pali li pana e moku pona. - A trabalhadora (dá/está dando) comida boa.
+
+Aqui temos algumas frases:
+
+> jan pona mi li pona e ilo lukin. - Minha amiga está arrumando o instrumento 
+> visual (óculos, microscópio, etc).
+
+> mi telo e moku. - Eu (limpo/estou limpando) a comida.
+
+> mi olin e meli mi. - Eu amo minha esposa.
+
+> %warning%
+> 
+> Já que a palavra "lukin" por si só descreve o ato de ver algo/alguém, invez
+> de sua aparência, elogiar alguém baseado nisso geralmente seria expressado
+> como:
+> 
+> > sina pona lukin. - Você é bonita (você é "boa visualmente").
+>
+ 
+## Exercícios
+
+Agora, tente descobrir o significado das seguintes frases:
+
+* jan lili li pana e telo lukin.
+* ona li lukin e lipu.
+* soweli ike li utala e meli.
+* jan utala li moku e kili suli.
+* soweli lili li moku e telo.
+* mi telo e ijo suli.
+
+E tente traduzir as seguintes frases para toki pona:
+
+* Ela ama todas as pessoas.
+* O banheiro ("como de limpeza/água") é bom.
+* Eu entrego documentos.
+* O guerreiro ruim está olhando para a sua casa.
+* Minhas ferramentas funcionam bem.
+
+[Respostas](pt_answers.html#p3)
+
+[Página anterior](pt_2.html) [Índice](pt_index.html) [Próxima página](pt_4.html)

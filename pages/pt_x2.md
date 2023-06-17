@@ -1,0 +1,121 @@
+% página extra 2 - outros sistemas de escrita
+% jan Alise
+% 11 de junho de 2023
+
+Enquanto de longe, o sistema de escrita mais comum de toki pona é
+o alfabeto Latim, tem outros que foram adaptados, ou criados
+especificamente para toki pona.
+
+## Sistema de escrita adaptados
+
+toki pona usa apenas 5 sons de vogais e 9 sons de consoantes. Isso
+significa que para adaptar um alfabeto, só é necessário escolher
+14 letras (ou sequências de letras) que corresponderiam para os
+mesmos ou sons similares. Por exemplo, essa é a maneira que elas
+podem ser convertidas para Grego e Cirílico
+
+| Latim | Grego | Cirílico |
+|:-----:|:-----:|:--------:|
+| a | α | а |
+| e | ε | е |
+| i | ι | и |
+| j | γ | й |
+| k | κ | к |
+| l | λ | л |
+| m | μ | м |
+| n | ν | н |
+| o | ο | о |
+| p | π | п |
+| s | σ | с |
+| t | τ | т |
+| u | υ | у |
+| w | β | в |
+
+> %note%
+> Esses alfabetos não são completamente foneticamente compatíveis
+> com sons Gregos e Russos. Algumas das letras em toki pona são
+> pronunciadas diferentemente das suas letras correspondentes.
+
+É um pouco mais difícil adaptar toki pona para um abugida ou abjad
+-- um sistema de escrita onde sons de consoantes têm letras
+específicas, e vogais são escritas com diacríticos ou símbolos
+adicionais ao lado delas. O abjad mais famoso é o sistema de escrita
+Árabe, e o abugida mais famoso é o Devanagari (que é usado por
+muitas línguas na Índia).
+
+* Vídeo ["ARABI PONA - Arabic Script for Toki Pona | sitelen musi" video][arabic]
+* ["Toki Pona em Devanāgarī" (archived)][devanagari]
+
+[arabic]:https://www.youtube.com/watch?v=Mh9Wypm6pXs
+[devanagari]:https://web.archive.org/web/20060727115116/http://www.deadlybrain.org/projects/tokipona/deva_guja.php
+
+A língua também tem só 92 sílabas possíveis (47 se "-n" for tratado
+como sílaba separada). Isso significa que também pode ser adaptado
+para muitos sistemas silábicos.
+
+Por exemplo, aqui temos algumas sugestões de uma maneira de como
+escrever toki pona usando Hangul, o sistema de escrita Coreano
+(enquanto tem símbolos representando sons individuais, como um
+alfabeto, são organizados em blocos silábicos).
+
+* ["Escrevendo Toki Pona com Hangul Coreano" (arquivado)][hangularch]
+* ["Hangul for Toki Pona" no Reddit][hangulred]
+
+[hangularch]:https://web.archive.org/web/20070313181500/http://www.tokipona.bravehost.com/korean.html
+[hangulred]:https://www.reddit.com/r/tokipona/comments/8mx951/hangul_for_toki_pona/
+
+Com algumas mudanças relativamente pequenas, também pode ser escrito
+com o sistema Hiragana do Japonês, como proposto aqui
+
+* ["Hiragana para Toki Pona"][hiragana1]
+* ["sitelen Hiragana (ひらがな)" no Reddit][hiragana_red]
+
+[hiragana1]:https://www.deviantart.com/derroflcopter/journal/Hiragana-for-Toki-Pona-339541633
+[hiragana_red]:https://www.reddit.com/r/tokipona/comments/e7g91u/sitelen_hiragana_%E3%81%B2%E3%82%89%E3%81%8C%E3%81%AA/
+
+## sitelen pona
+
+O sistema de escrita mais comum criado para toki pona é a logografia
+_sitelen pona_ ("escrita simples"), criado pela Sonja Lang mesmo
+e publicada no livro oficial.
+
+Assim como o alfabeto Latim, é escrito da esquerda para a direita
+e de cima para baixo, mas cada caracter representa uma palavra
+inteira, invez de um único som (ou até mais se "caracteres compostos"
+são usados). Palavras não-oficiais são escritas dentro de caixinhas,
+com caracteres para cada letra.
+
+* **[Descrição completa, fontes e exemplos](pt_sitelen_pona.html)**
+
+## sitelen sitelen
+
+O sistema de escrita ["sitelen
+sitelen"](https://jonathangabel.com/toki-pona/) de Jonathan Gabel
+foi feito como uma maneira mais esteticamente prazeirosa de escrever
+textos em toki pona. Não é linear, visualmente inspirado no sistema
+de escrita Maia.
+
+Comparado com escrever toki pona no alfabeto Latim ou sitelen pona, sitelen sitelen é significamente mais difícil de entender, e então só é usado raramente na comunidade. Mas o detalhe impressionante visual dos textos escritos nele -- como
+[esse
+contrato](https://www.jonathangabel.com/archive/2012/artworks_lipu-lawa-pi-esun-kama.html)
+ou os
+[provérbios](https://jonathangabel.com/toki-pona/dictionaries/gallery/)
+de toki pona -- muitos dos quais são usados no livro oficial --
+não pode ser negado.
+
+## sitelen telo
+
+O sistema ["sitelen
+telo"](https://twitter.com/aarontoponce/status/1316350094598459392?lang=en)
+é outro sistema de escrita criado pela comunidade. É estilizado
+para parecer com os sistemas Kana e Kanji do Japonês, com pinceladas
+retas e formas curvadas suaves. Consiste de "linja telo", um sistema
+logográfico onde todas as palavras oficiais (e algumas populares
+criadas pela comunidade) têm um caracter e "linja sin", um silabário
+tipo Hangul para palavras não-oficiais.
+
+![tabela de caracteres de sitelen telo](/sitelen_telo.gif)
+![tabela de sílabas de linja sin](/sitelen_telo_2.gif)
+
+[Índice](pt_index.html)
+
