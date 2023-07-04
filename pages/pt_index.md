@@ -6,8 +6,8 @@ Essa série de páginas constitui uma tentativa de criar um curso educacional
 não-oficial sobre *toki pona*, uma lingua planejada, originalmente projetada em
 2001 e então gradualmente revisada ao longo dos anos por Sonja Lang.
 
-A língua é projetada em volta de idéias minimalistas e simplificar os
-pensamentos por meio de desmontar idéias em seus componentes mais básicos.
+A língua é projetada em volta de ideias minimalistas e simplificar os
+pensamentos por meio de desmontar ideias em seus componentes mais básicos.
 Usa apenas 120 "palavras oficiais" (com algumas adicionais usadas às vezes pela
 comunidade), tem uma gramática incrivelmente simples e usa sons fáceis de
 distinguir.
@@ -17,22 +17,22 @@ pessoas alegando poder ler em poucos dias e obtendo fluência em uma semana ou
 duas.
 
 Mas, tal simplicidade também vem com limitações. Muitas palavras têm mais de um
-significado, e algumas frases ou orações são ambiguas sem contexto. Expressar
-muitos conceitos e idéias em toki pona requer inventar novas formulações de
+significado, e algumas frases ou orações são ambíguas sem contexto. Expressar
+muitos conceitos e ideias em toki pona requer inventar novas formulações de
 frase ou refraseá-las completamente (que, como comentado antes, é parte da
-idéia da língua).
+ideia da língua).
 
 Falando em contexto, toki pona é uma língua altamente sensível ao contexto.
-Pessoas diferentes podem descrever as mesmas idéias básicas e coisas em
-maneiras completamente diferentes. Isso também é parte da idéia da língua. Até
+Pessoas diferentes podem descrever as mesmas ideias básicas e coisas em
+maneiras completamente diferentes. Isso também é parte da ideia da língua. Até
 algumas regras da língua também são interpretadas diferentemente por pessoas
-diferentes, dependendo da sua língua nativa ou suas opiniões em qual a melhor
+diferentes, dependendo da sua língua nativa ou suas opiniões qual a melhor
 maneira de comunicar algo.
 
 Além disso, toki pona também é projetada para ser de fácil uso independentemente
 de sua língua nativa. Os sons e estrutura silábica usadas em toki pona são
 distintas entre si e comuns através de muitas línguas, enquanto o vocabulário
-tras palavras emprestadas de muitas outras línguas ao redor do mundo.
+traz palavras emprestadas de muitas outras línguas ao redor do mundo.
 
 # Sobre esse curso
 
@@ -52,19 +52,19 @@ por Bryant Knight (conhecido também como "jan Pije") serviu como um recurso de
 aprendizado importante. Antes de ser retraido por seu criador, era uma das
 primeiras páginas de toki pona disponíveis online. Como resultado, tinha
 algumas diferenças em como usava certas palavras. As versões mais antigas do
-curso atrairam também controversas por incluir muitos comentários e textos
+curso atraíram também controversas por incluir muitos comentários e textos
 discriminatórios em seu conteúdo.
 
 Meu objetivo aqui é apresentar uma versão que tenta levar em consideração as
-diferentes maneiras que pessoas falam e escrevem toki pna e a maneira que é
+diferentes maneiras que pessoas falam e escrevem toki pona e a maneira que é
 usada hoje. Algumas páginas irão incluir seções de "diferenças de dialeto", nas
 quais essas diferenças serão destacadas. Algumas das maiores distinções serão
-descritas diretamente. Irei providenciar minhas opiniões pessoais sobre algumas dessas diferenças, então, enquanto esse curso realmente tenta ser completo, não
+descritas diretamente. Irei providenciar minhas opiniões pessoais sobre algumas dessas diferenças, então, apesar desse curso realmente tentar ser completo, não
 é imparcial.
 
 Essa página de número zero irá prover informações básicas da grafia e pronúncia
 da língua, e cada página seguinte irá introduzir 10 palavras do dicionário de
-120 palavras de língua.
+120 palavras da língua.
 
 ## Tabela de conteúdos
 
