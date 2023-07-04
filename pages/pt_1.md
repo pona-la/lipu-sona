@@ -34,11 +34,11 @@ Em uso prático, ambos "ona" e "suli" são mais claros quando em contexto.
 
 > kili li pona. - (fruta/vegetal/cogumelo)(s) (é/são) (bom/bons).
 
-E nesse caso, não faz sentido que "pona" signefique algo diferente de "bom" ou
+E nesse caso, não faz sentido que "pona" signifique algo diferente de "bom" ou
 "bons".
 
 Existe uma exceção à regra. Se o sujeito da oração é "mi" ou "sina", então não
-é necessário adicionar a palavra "li", então invez de
+é necessário adicionar a palavra "li", então ao invés de
 
 > sina li suli. - Você é importante.
 
@@ -48,7 +48,7 @@ Existe uma exceção à regra. Se o sujeito da oração é "mi" ou "sina", entã
 
 ## Exercícios
 
-Agora, como você expressaria as seguintes idéias?
+Agora, como você expressaria as seguintes ideias?
 
 * Animais são importantes.
 * Ela é pequena.

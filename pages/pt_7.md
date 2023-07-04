@@ -116,9 +116,9 @@ você precisa chamar alguém pelo nome. Para nomes próprios, toki pona usa as
 chamadas "palavras não-oficiais". São comumente nomes de pessoas, cidades,
 países, etc., tiradas de seus nomes em suas línguas nativas e adaptadas às
 regras de pronunciação de toki pona. Diferente de todas as palavras de toki
-pona, elas são escritas com a primeira letra capitalizada.
+pona, elas são escritas com a primeira letra maiúscula.
 
-Palavras não oficiais sempre são tratadas como adjetivos, o que significa que
+Palavras não-oficiais sempre são tratadas como adjetivos, o que significa que
 antes delas, sempre tem um substantivo descrevendo ao que se refere.
 
 > jan Mimi -- (a pessoa) Mimi
@@ -139,7 +139,7 @@ haver múltiplos nomes diferentes não-oficiais para a mesma cidade ou país.
 (Embora tenha dicionários que incluem listas de nomes de países, cidades e
 línguas em toki pona que pessoas podem usar).
 
-Além disso, pessoas que falam toki pona são livras para escolher seus próprios
+Além disso, pessoas que falam toki pona são livres para escolher seus próprios
 nomes em toki pona, adaptando seu nome na sua língua nativa, ou criando algo
 novo.
 
@@ -166,7 +166,7 @@ novo.
 
 > mi jan Mose. mi lon ma Pasiju, -- Meu nome é Moisés. Moro no Brasil.
 
-> nimi sina li seme? -- Quak o seu nome?
+> nimi sina li seme? -- Qual o seu nome?
 
 > jan lawa mi li ike mute. -- (Meu chefe / Nosso líder) é muito ruim.
 
