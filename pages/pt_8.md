@@ -22,7 +22,7 @@ O vocabulário para essa página:
 toki pona tem cinco termos básicos para cores: "loje" (vermelho), "jelo"
 (amarelo), "laso" (azul e verde), "pimeja" (preto), "walo" (branco).
 
-Esses termos podem ser combinados entre si, ou palavrs referindo a coisas
+Esses termos podem ser combinados entre si, ou palavras referindo a coisas
 naturais, para formar outros tons:
 
 > laso sewi -- azul ("azul/verde do céu")
@@ -83,7 +83,7 @@ E tente traduzir as seguintes frases para toki pona.
 
 * Sua casa é maior que a minha.
 * Eu gosto de flores azuis mais que flores vermelhas.
-* Ecam nojento! Essa comida é horrível.
+* Eca nojento! Essa comida é horrível.
 * Estou na casa vermelha.
 * A pessoa bêbada não me escuta.
 

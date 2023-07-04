@@ -20,8 +20,8 @@ de vista, parecem relativamente comuns no uso online, assim como
 a maneira como as 120 palavras oficiais são usadas de modo alternativo
 na comunidade.
 
-Claro que, dado que parte da idéia de toki pona é reduzir o número
-de palavras e remover idéias desnecessárias, qualquer uso desse
+Claro que, dado que parte da ideia de toki pona é reduzir o número
+de palavras e remover ideias desnecessárias, qualquer uso desse
 tipo vai ser um pouco controverso. Irei tentar prover minhas próprias
 opiniões sobre as palavras nessa lista.
 
@@ -45,7 +45,7 @@ No livro oficial, era listada como sinônimo de "sin", a palavra
 significando "novo", "extra" ou "adicional". Enquanto os dois usos
 têm significados relativamente separados, eu pessoalmente acho que
 quando usada como substantivo "sin moku" (adição de comida), pode
-ser usada para expressar a mesma idéia muito bem,
+ser usada para expressar a mesma ideia muito bem,
 
 A palavra "oko" é listada como sinônimo de "lukin". Quando essas
 duas eram palavras separadas "oko" especificamente significava
@@ -68,7 +68,7 @@ Descrever tal conceito usando apenas as palavras do livro oficial
 
 A palavra "kipisi" tem o significado de "dividir, cortar, fatiar".
 Esses significados foram mesclados nas palavras "tu" (dividir) e
-"wan" (parte), mas ainda é comumente usada pela comunidade, e idéias
+"wan" (parte), mas ainda é comumente usada pela comunidade, e ideias
 para caracteres de _sitelen pona_ para ela foram criadas (a mais
 comum parece com "%").
 
@@ -208,7 +208,7 @@ pelo usuário de reddit `qwertyer, com algumas mudanças baseadas em
 experiência pessoal.
 
 A coluna "alternativas" lista que palavras e frases podem ser usadas
-para expressar idéias similares usando apenas palavras oficiais.
+para expressar ideias similares usando apenas palavras oficiais.
 Nem todas essas podem ser usadas como as mesmas partes da fala (por
 exemplo, usar "tu" como um adjetivo sem uma partícula "li" para
 significar "dividido" pode ser facilmente confundido com o número

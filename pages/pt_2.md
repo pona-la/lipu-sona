@@ -44,7 +44,7 @@ Além disso, adjetivos podem ser usados como substantivos:
 > "pessoa boa", mas é largamente (e oficialmente) aceito para também significar
 > "amiga/amigo/amigue".
 
-Adjetivos múltiplos podem ser adicionados de uma vez:
+Adjetivos múltiplos podem ser adicionados em sequência:
 
 > soweli lili suwi -- bichinho fofo (animal pequeno)
 

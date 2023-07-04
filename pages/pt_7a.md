@@ -2,14 +2,13 @@
 % jan Alise
 % 6 de junho de 2023
 
-Para entender como adaptar nomes para palavras não-oficiais, primeir, você tem
+Para entender como adaptar nomes para palavras não-oficiais, primeiro, você tem
 que entender como a fonologia de toki pona funciona. As palavras da língua
 constituem uma sériede sílabas organizadas num sistema \(C\)V\(N\). Isso
 significa que toda sílaba é constituída por uma consoante opcional, uma vogal,
 e um nasal opcional (o som "n").
 
 Além disso, as sequências "ji", "ti", "wo" e "wu" viram "i", "si", "o" e "u".
-and "u".
 
 Aqui tem uma lista de todas as sílabas possíveis.
 
@@ -43,7 +42,7 @@ Por exemplo, "Roma" vira "ma Loma" e "Jakarta" vira "ma tomo Sakata".
 | k         | k, g, c(aou), r Francês, x      |
 | l         | l, r                            |
 | m         | m                               |
-| n         | n, m de fum de sílaba           |
+| n         | n, m de fim de sílaba           |
 | p         | p, b, f, às vezes v             |
 | s         | s, z, j, ch, sh, zh, ts, x      |
 | t         | t, d                            |

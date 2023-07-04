@@ -61,8 +61,8 @@ Aqui temos algumas frases:
 
 > %warning%
 > 
-> Já que a palavra "lukin" por si só descreve o ato de ver algo/alguém, invez
-> de sua aparência, elogiar alguém baseado nisso geralmente seria expressado
+> Já que a palavra "lukin" por si só descreve o ato de ver algo/alguém, ao invés 
+> de sua aparência, elogiar alguém baseado nisso geralmente seria expressado 
 > como:
 > 
 > > sina pona lukin. - Você é bonita (você é "boa visualmente").

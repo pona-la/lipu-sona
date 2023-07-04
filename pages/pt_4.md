@@ -37,7 +37,6 @@ Essa página só irá cobrir as dez novas palavras e alguns conceitos pequenos.
 > Não existe consenso em qual dessas maneiras é a mais correta, mas cada uma
 > tem seus positivos e negativos. Tudo nesse cabeçalho é uma grande "diferença
 > de dialeto", e as opiniões da pessoa que escreveu o texto estão a seguir.
-> will follow.
 
 Têm duas maneiras comumente usadas para especificar o tópico de conversa quando
 usando a palavra "toki".
@@ -53,7 +52,7 @@ mal"?
 
 O livro oficial não é claro sobre isso, mas usa "toki e ijo" para dizer
 "comunicar coisas" e "toki wawa" para "depor" ("falar forte/com segurança")
-invez de "falar sobre força".
+ao invés de "falar sobre força".
 
 A versão extendida dessa maneira, como também é usada pela comunidade de toki
 pona, é usar o tópico como um objeto:
@@ -61,7 +60,7 @@ pona, é usar o tópico como um objeto:
 > sina toki e kala. -- você está falando sobre peixes.
 
 Enquanto isso pode ser considerado um uso não-convencional da partícula "e"
-para algumas pessoas, é menos ambiguo e mais flexível. Por motivos de clareza,
+para algumas pessoas, é menos ambíguo e mais flexível. Por motivos de clareza,
 essa opção será usada no resto do curso.
 
 Sonja Lang usa a preposição "lon" nessa situação:
@@ -95,7 +94,7 @@ A palavra "toki", quando usada por si só, é uma saudação comum:
 
 > %info%
 > Essa parte do documento descreve como alguns cursos de toki pona diferem ao
-> explicar certas idéias.
+> explicar certas ideias.
 
 Se o sujeito é "mi" ou "sina" (e portanto, não tem a partícula "li"), você pode
 fazer uma de duas coisas para adicionar verbos extra.
@@ -122,7 +121,7 @@ Agora, tente descobrir o significado das seguintes frases
 E tente traduzir as seguintes frases para toki pona:
 
 * Sua cidade não tem trabalhadores.
-* Meu marido não trabalha, (só) como e briga.
+* Meu marido não trabalha, (só) come e briga.
 * Minha terra natal é grande.
 * Sua pintura é bonita.
 * Meu amigo tem peixes e frutas e cozinha ("faz comida") bem.

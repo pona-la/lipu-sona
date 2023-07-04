@@ -27,7 +27,7 @@ A palavra "en" permite combinar múltiplos sujeitos em uma só frase:
 Note que isso _não_ é usado para combinar múltiplos verbos ou objetos -- a
 maneira de fazer isso foi explicada na [página 4](pt_4.html).
 
-A palavra "mute" permite especificar se o sujeito ou objeto é singula ou plural.
+A palavra "mute" permite especificar se o sujeito ou objeto é singular ou plural.
 
 > jan utala mute -- muitos guerreiros
 
@@ -72,9 +72,9 @@ objetos.
 
 > %info%
 > Essa parte do documento descreve como alguns cursos de toki pona diferem
-> quando explicando certas idéias.
+> quando explicam certas ideias.
 
-Não aparenta existir concordância sobre "en" poder ou não ser usado dentro de
+Não parece existir concordância sobre "en" poder ou não ser usado dentro de
 frases que usam a partícula "pi" (será explicada na [página 9](pt_9.html)). Além
 disso, a própria Sonja Lang disse que usar "en" para combinar múltiplos objetos
 "não é completamente errado"([1][mapona_en]), mas não-elegante.
@@ -97,7 +97,7 @@ E agora, tente traduzir as seguintes frases para toki pona.
 * Crianças dormindo não fazem barulho.
 * As trabalhadoras disseram que são fortes.
 * Você parece (visualmente) diferente.
-* Essa casa mantem calor.
+* Essa casa mantém calor.
 
 [Respostas](pt_answers.html#p5)
 

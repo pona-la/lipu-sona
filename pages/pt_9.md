@@ -2,7 +2,7 @@
 % jan Alise
 % 8 de junho de 2023
 
-The vocabulary for this page:
+O vocabulário para essa página:
 
 | palavra | significado                                   |
 |---------|-----------------------------------------------|
@@ -15,7 +15,7 @@ The vocabulary for this page:
 | sijelo  | corpo, estado físico, torso                   |
 | len     | tecido, roupas, camada de privacidade         |
 | lete    | frio, crú                                     |
-| musi    | entreterimento, artístico, divertido, jogo    |
+| musi    | entretenimento, artístico, divertido, jogo    |
 
 Está na hora de introduzir duas outras partículas dessa língua: "pi" e "la".
 
@@ -127,7 +127,7 @@ Ou usada para conectar múltiplas frases:
 
 > %info%
 > Essa parte do documento descreve como certos cursos de toki pona diferem ao
-> explicar certas idéias, ou como comunidades diferem ao usá-las.
+> explicar certas ideias, ou como comunidades diferem ao usá-las.
 
 O livro oficial, diferentes cursos online e meu estilo pessoal diferem em como
 colocar pontuação em frases que usam "la".

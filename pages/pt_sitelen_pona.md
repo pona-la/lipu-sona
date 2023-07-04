@@ -27,7 +27,7 @@ seus próprios sistemas de escrita) Japonês e Coreano.
 > têm pouca ou nenhuma conjugação (muda muito pouco, senão nada,
 > baseada na gramática), e a gramática se baseia em juntar palavras
 > existentes (tais línguas são chamadas "isoladoras"). Línguas Chinesas
-> encaixam nessa idéia muito bem, e toki pona também.
+> encaixam nessa ideia muito bem, e toki pona também.
 
 Mas, já que o dicionário básico de toki pona usa apenas **120
 palavras** (mais algumas adições da comunidade), um sistema

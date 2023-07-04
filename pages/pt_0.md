@@ -2,7 +2,7 @@
 % jan Alise
 % 30 de maio de 2023
 
-A língua *toki pona* usa apenas 14 letras do alfabeto Latim, e todas têm
+A língua *toki pona* usa apenas 14 letras do alfabeto latino, e todas têm
 pronúncia constante.
 
 Elas são: a,e,i,j,k,l,m,n,o,p,s,t,u,w.
@@ -30,7 +30,7 @@ As vogais (a,e,i,o,u) são indênticas às do português, mas são de constante 
 > O "alfabeto fonético internacional" (IPA) é uma maneira comum de escrever
 > pronúncias específicas de palavras e frases em qualquer língua.
 >
-> Usa uma versão do alfabeto Latim, com muitos caracteres adicionais. Por
+> Usa uma versão do alfabeto latino, com muitos caracteres adicionais. Por
 > exemplo, a pronúncia em IPA da palavra inglesa "language" é /ˈlæŋɡwɪd͡ʒ/, mas
 > em toki pona, a pronúncia de toda letra _é_ o seu próprio símbolo no IPA!
 > Então toki pona é pronunciada /toki pona/.

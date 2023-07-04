@@ -30,8 +30,8 @@ Em toki pona, as palavras "kepeken", "lon", "sama", "tan", e "tawa" são usadas
 como preposições, sendo adicionadas no final da frase, sem nenhuma partícula
 adicional.
 
-Aqui estão alguns exemplos de todas essas cinco palavras, amvas como
-preposições, assim como palavras normais:
+Aqui estão alguns exemplos de todas essas cinco palavras, tanto como
+preposições, quanto como palavras normais:
 
 > mi pona e tomo kepeken ilo mi. -- Estou arrumando a casa usando minhas
 > ferramentas.
@@ -58,7 +58,7 @@ preposições, assim como palavras normais:
 
 > mi tawa tan tomo mi. -- Eu estou saindo da minha casa.
 
-> ona li awen lon tomo lipu. -- Ela ficcou na livraria.
+> ona li awen lon tomo lipu. -- Ela ficou na livraria.
 
 > tomo tawa mi li pona. -- Meu carro ("estrutura que move") é bom.
 
@@ -71,7 +71,7 @@ A palavra "tawa" também pode expressar perspectiva:
 
 > %warning%
 > Já que "tawa" pode ser usada como preposição e adjetivo, algumas frases podem
-> ser ambiguas. Por exemplo, "tomo tawa mi" pode significa "meu carro" e "uma
+> ser ambíguas. Por exemplo, "tomo tawa mi" pode significar "meu carro" e "uma
 > casa, do meu ponto de vista". O significado específico vai depender do
 > contexto.
 
@@ -128,14 +128,14 @@ Também tem uma frase que funciona para muitas expressões positivas, de
 
 > %info%
 > Essa parte do documento descreve como alguns cursos de toki pona diferem ao
-> explicar certas idéias.
+> explicar certas ideias.
 
 * O livro oficial usa "lon" com um significado mais abrangente, incluindo
 com. Por exemplo, "Eu falo em toki pona" é traduzido como "mi toki lon toki
-pona". Essa não aparenta ser uma maneira comum de usar a palavra.
+pona". Essa não parece ser uma maneira comum de usar a palavra.
 
 * O livro oficial usa "noka" para significar "pé" e "abaixo". Essa é uma
-maneira relativamente nova, e outros cursos preferem usar "anpa" invez de
+maneira relativamente nova, e outros cursos preferem usar "anpa" ao invés de
 "noka" para dizer "abaixo" (e usar "noka" apenas para dizer "perna" ou "pé"). A
 palavra "anpa será discutida na [página 7](pt_7.html).
 
@@ -156,7 +156,7 @@ A diferença é que no primeiro exemplo, o objeto ("ilo ike") segue diretamente 
 frase "kepeken ala",  e no segundo, "kepeken" é seguido por "e", como qualquer
 outro verbo.
 
-Esse curso seguirá a segunda convenção, já que é menos ambigua e permite mais
+Esse curso seguirá a segunda convenção, já que é menos ambígua e permite mais
 gramática (Por exemplo, é possível adicionar modificadores a "kepeken" mais
 claramente). Mas na maioria dessas frases, tendo ou não a partícula "e", o
 sentido deveria ser o mesmo e não ser ambiguo.
@@ -174,8 +174,8 @@ Agora, tente descobrir o significado dessas frases:
 E tente traduzir as seguintes frases para toki pona.
 
 * Você quebrou meu carro.
-* O homem está alimentando ("dando comida") as crianças.
-* Não gosto dessa sala de conversa ("chat room").
+* O homem está alimentando ("dando comida") às crianças.
+* Não gosto dessa sala de conversa ("bate-papo").
 * Eu arrumei a casa por sua causa.
 * Eles estão lendo livros na livraria.
 
