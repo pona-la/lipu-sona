@@ -108,15 +108,15 @@ Wenn jemand anderes weggeht:
 
 Tatsächlich sind viele Wörter, gefolgt von "pona", eine Art Gruß.
 
-> moku pona! -- Guten Appetit! / Mahlzeit! (wörtlich "Good food!")
+> moku pona! -- Guten Appetit! / Mahlzeit! (wörtlich "Gutes Essen!")
 
 > lape pona! -- Gute Nacht! / Schlaf gut! (wörtlich "Guter Schlaf!")
 
-There is also a phrase that functions as many positive expressions, from "thanks" all the way to "peace be upon you":
+Es gibt auch eine Phrase, welche allerlei positive Ausdrücke umfasst, von "Danke" bis hin zu "Friede sei mit dir":
 
-> pona tawa sina! (literally "Good to you!")
+> pona tawa sina! (wörtlich "Gut zu dir!")
 
-## Dialectal differences
+## Dialektunterschiede
 
 > %info%
 > Dieser Teil des Dokuments beschreibt, wie andere Toki-Pona-Kurse sich bei 
