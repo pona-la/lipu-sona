@@ -98,7 +98,7 @@ ale zastępując słowo, o które pytamy, wyrazem „seme”:
 
 > sina pali e seme? — Co robisz? / Nad czym pracujesz?
 
-> jen same li pakala e ona? — Kto to zepsuł? („Jaka osoba to zepsuła?”)
+> jan seme li pakala e ona? — Kto to zepsuł? („Jaka osoba to zepsuła?”)
 
 > ijo ni li seme? — Co to jest?
 
