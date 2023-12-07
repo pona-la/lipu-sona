@@ -2,7 +2,7 @@
 % jan Alise
 % 8 de junho de 2023
 
-The vocabulary for this page:
+O vocabulário para essa página:
 
 | palavra | significado                                   |
 |---------|-----------------------------------------------|
@@ -15,7 +15,7 @@ The vocabulary for this page:
 | sijelo  | corpo, estado físico, torso                   |
 | len     | tecido, roupas, camada de privacidade         |
 | lete    | frio, crú                                     |
-| musi    | entreterimento, artístico, divertido, jogo    |
+| musi    | entretenimento, artístico, divertido, jogo    |
 
 Está na hora de introduzir duas outras partículas dessa língua: "pi" e "la".
 
