@@ -127,7 +127,7 @@ Ou usada para conectar múltiplas frases:
 
 > %info%
 > Essa parte do documento descreve como certos cursos de toki pona diferem ao
-> explicar certas idéias, ou como comunidades diferem ao usá-las.
+> explicar certas ideias, ou como comunidades diferem ao usá-las.
 
 O livro oficial, diferentes cursos online e meu estilo pessoal diferem em como
 colocar pontuação em frases que usam "la".

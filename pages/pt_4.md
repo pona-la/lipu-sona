@@ -94,7 +94,7 @@ A palavra "toki", quando usada por si só, é uma saudação comum:
 
 > %info%
 > Essa parte do documento descreve como alguns cursos de toki pona diferem ao
-> explicar certas idéias.
+> explicar certas ideias.
 
 Se o sujeito é "mi" ou "sina" (e portanto, não tem a partícula "li"), você pode
 fazer uma de duas coisas para adicionar verbos extra.

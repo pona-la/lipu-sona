@@ -2,7 +2,7 @@
 % jan Alise
 % 16 de junho de 2023
 
-Diferentes pessoas têm diferentes idéias sobre como toki pona deveria
+Diferentes pessoas têm diferentes ideias sobre como toki pona deveria
 funcionar. Dado que a língua é intencionalmente minimalista em questão de
 gramática e vocabulário, isso é esperado.
 

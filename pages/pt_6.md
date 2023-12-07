@@ -128,7 +128,7 @@ Também tem uma frase que funciona para muitas expressões positivas, de
 
 > %info%
 > Essa parte do documento descreve como alguns cursos de toki pona diferem ao
-> explicar certas idéias.
+> explicar certas ideias.
 
 * O livro oficial usa "lon" com um significado mais abrangente, incluindo
 com. Por exemplo, "Eu falo em toki pona" é traduzido como "mi toki lon toki
