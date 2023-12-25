@@ -4,9 +4,10 @@
 
 | Translations / ante toki             | Author / jan pali | Last update / tenpo pi ante sin |
 |--------------------------------------|-------------------|---------------------------------|
-| [Deutsch / toki Tosi](de_index.html) | [Ret "jan Ke Tami" Samys](https://janketami.wordpress.com) | 2021-08-09 |
+| [Deutsch / toki Tosi](de_index.html) | [Ret "jan Ke Tami" Samys](https://janketami.wordpress.com), Murdock | 2023-08-13 |
 | [Esperanto / toki Epelanto](eo_index.html) | acreativename41, jan Pensa, soweli suno (Eriko) | 2022-07-06 |
 | [Polski / toki Posuka](pl_index.html) | p0-12,x1,x2: Maksymilian Król (jan Otele), p13: Alicja / jan Alise (filiżanka#4087) | 2021-10-13 |
+| [Português / toki Potuke](pt_index.html) | jan Alise - Alice de Paula | 2023-06-17 |
 | [Русский / toki Losi](ru_index.html) | jan Lentan        | 2022-05-22 |
 
 This is a series of pages comprising an attempt at an unofficial educational

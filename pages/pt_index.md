@@ -26,7 +26,7 @@ Falando em contexto, toki pona é uma língua altamente sensível ao contexto.
 Pessoas diferentes podem descrever as mesmas ideias básicas e coisas em
 maneiras completamente diferentes. Isso também é parte da ideia da língua. Até
 algumas regras da língua também são interpretadas diferentemente por pessoas
-diferentes, dependendo da sua língua nativa ou suas opiniões qual a melhor
+diferentes, dependendo da sua língua nativa ou suas opiniões em qual a melhor
 maneira de comunicar algo.
 
 Além disso, toki pona também é projetada para ser de fácil uso independentemente
@@ -55,11 +55,12 @@ algumas diferenças em como usava certas palavras. As versões mais antigas do
 curso atraíram também controversas por incluir muitos comentários e textos
 discriminatórios em seu conteúdo.
 
-Meu objetivo aqui é apresentar uma versão que tenta levar em consideração as
-diferentes maneiras que pessoas falam e escrevem toki pona e a maneira que é
-usada hoje. Algumas páginas irão incluir seções de "diferenças de dialeto", nas
-quais essas diferenças serão destacadas. Algumas das maiores distinções serão
-descritas diretamente. Irei providenciar minhas opiniões pessoais sobre algumas dessas diferenças, então, apesar desse curso realmente tentar ser completo, não
+Meu objetivo aqui é apresentar uma versão que tenta levar em consideração as 
+diferentes maneiras que pessoas falam e escrevem toki pona e a maneira que é 
+usada hoje. Algumas páginas irão incluir seções de "diferenças de dialeto", nas 
+quais essas diferenças serão destacadas. Algumas das maiores distinções serão 
+descritas diretamente. Irei providenciar minhas opiniões pessoais sobre algumas 
+dessas diferenças, então, apesar desse curso realmente tentar ser completo, não 
 é imparcial.
 
 Essa página de número zero irá prover informações básicas da grafia e pronúncia

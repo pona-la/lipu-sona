@@ -65,10 +65,10 @@ Ein paar Beispielsätze:
 > Da das Wort "lukin" an sich eher die Tat des Sehens als das Aussehen beschreibt, 
 > würde man ein Kompliment meistens so ausdrücken:
 > 
-> > sina pona lukin. - You siehst gut aus (bist "optisch gut").
+> > sina pona lukin. - Du siehst gut aus (bist "optisch gut").
 >
  
-## Exercises
+## Übungen
 
 Versucht jetzt herauszufinden, was die folgenden Sätze bedeuten.
 
@@ -89,4 +89,4 @@ Und versucht die folgenden Sätze in Toki Pona zu übersetzen.
 
 [Antworten](de_answers.html#p3)
 
-[Previous page](de_2.html) [Top page](de_index.html) [Next page](de_4.html)
+[Letzte Seite](de_2.html) [Hauptseite](de_index.html) [Nächste Seite](de_4.html)

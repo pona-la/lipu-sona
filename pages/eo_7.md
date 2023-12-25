@@ -153,6 +153,15 @@ novan.
 > Ekzemple, se iu nomiĝas Robert, oni povas nomi tiun "jan Lope" _aŭ_ "jan
 > Robert".
 
+## Dialektaj malsamaĵoj
+
+> %info%
+> Ĉi tiu parto de la dokumento priskribos, kiel tokiponaj kursoj malsame klarigas
+> kelkajn ideojn.
+
+* En la tokipona komunumo, oni ofte uzas vortojn "lon" (kiu povas signifi
+  "vera" aŭ "ekzisti") kaj "ala" ("ne") por "jes" kaj "ne" respektive.
+
 ## Ekzemploj
 
 > o toki ala a! -- Silentu! ("Ne parolu!")
