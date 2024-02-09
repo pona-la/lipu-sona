@@ -9,6 +9,12 @@
 > * Jestem wielki.
 > * To jest pies.
 > * Jesteś zły.
+<!---->
+> * soweli li suli.
+> * ona li lili.
+> * mi suli.
+> * ona li soweli.
+> * sina ike.
 
 <h1><a name="p2" id="p2" href="pl_2.html">strona 2</a></h1>
 
