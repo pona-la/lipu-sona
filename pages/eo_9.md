@@ -12,7 +12,7 @@ La vortprovizo por ĉi tiu paĝo:
 | linja | longa fleksebla objekto, ŝnuro, haro |
 | palisa| longa solida objekto, branĉo, bastono |
 | selo  | ekstera formo, ŝelo, haŭto, limo |
-| sijelo| korpo, fisika stato, torso       |
+| sijelo| korpo, fizika stato, torso       |
 | len   | ŝtofo, vestaĵo, tavolo de privateco |
 | lete  | malvarma, kruda                  |
 | musi  | amuzanta, arta, amuza, ludo      |
