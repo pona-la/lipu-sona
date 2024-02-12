@@ -4,11 +4,11 @@
 
 对不起，我在学习中文，我的普通话不很好。
 
-语言”toki pona” （你会说没有商调：太开破那）只有14个罗马字的字。都toki pona的字说这道：a，e，i，j, k, l, m, n, o, p, s, t, u, w.
-这字都是小写。
+语言”toki pona” （你会说没有声调：太开破那）只有14个字母，它们分别是：a, e, i, j, k, l, m, n, o, p, s, t, u, w.
+这些字母都是小写的。
 说字的字头：
 
-| toki pona |中文的概语音|日本的|
+| toki pona |中文的大概发音|日本的|
 |:---------:|:----------:|:----:|
 | a         |啊          |「あ」|
 | e         |诶          |「え」|
@@ -22,23 +22,23 @@
 | p         |票          |      |
 | s         |三          |      |
 | t         |图          |      |
-| u         |鱼（的韵）  |「う」|
+| u         |乌          |「う」|
 | w         |我          |      |
 
-都tokipona字强调一号音节。
+所有 toki pona 单词的重音都落在第一个音节。
 
-这tokipona字来英文。
+这些 toki pona 单词来自英文。
 
-* mi 来 me
-* kulupu 来 group
-* lukin 来 looking
+* mi 来自 me
+* kulupu 来自 group
+* lukin 来自 looking
 
-这tokipona字来中文。
+这些 toki pona 单词来自中文。
 
-* sinpin 来粤语的 “前邊”
-* kon 来普通话的 “空气”
-* sin 来普通话的 “新”
+* sinpin 来自粤语的 “前邊”
+* kon 来自普通话的 “空气”
+* sin 来自普通话的 “新”
 
 ～jan Sose （周瑟）
 
-[英文toki pona课](index.html)
+[英文 toki pona 课](index.html)
