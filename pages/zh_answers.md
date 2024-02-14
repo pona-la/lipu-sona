@@ -38,3 +38,17 @@
 > * mi pana e lipu.
 > * jan utala ike li lukin e tomo sina.
 > * ilo mi li pali pona.
+
+<h1><a name="p4" id="p4" href="zh_4.html">第四页</a></h1>
+
+> * 我不吃动物（即肉）。
+> * 你的朋友在谈论土地和水。
+> * 重要的人看着城市，并把事物写下来。
+> * 土地有杂草（孬植物）。
+> * 小昆虫又重要又好。
+<!---->
+> * ma tomo sina li jo ala e jan pali.
+> * mije mi li pali ala, li moku, li utala. 
+> * ma mama mi li suli.
+> * sitelen sina li pona lukin.
+> * jan pona mi li jo e kala e kili li pali e moku pona.

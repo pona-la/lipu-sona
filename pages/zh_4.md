@@ -1,0 +1,114 @@
+% toki pona 第三页 - 不好了！更多词汇
+% jan Mosi
+% 2024-02-14
+
+此页的词汇表：
+| 词      | 意思                         |
+| ------- | ---------------------------- |
+| jo      | 拥有/携带/含有/持有          |
+| kala    | 鱼，海洋生物                 |
+| kasi    | 植物，草，草药，叶子         |
+| pipi    | 昆虫，虫子                   |
+| sitelen | 符号，图像，书写，绘画       |
+| toki    | 语言，讲话，语言             |
+| waso    | 鸟，飞行生物                 |
+| ma      | 地球，土地，户外，领土       |
+| kiwen   | 坚硬的物体，金属，石头，固体 |
+| ko      | 粉末，粘土，半固体           |
+
+本页将只涵盖十个新词以及一些小概念。
+
+> jan pali li telo e kasi. - 工人正在浇植物。
+
+> jan wawa li jo e kiwen suli. - 强壮的人正在携带大石头。
+
+> telo suli li jo e kala. - 海洋（大水）有鱼。
+
+> mi sitelen e toki sina. - 我在书写你的发言。
+
+> waso lili li moku e pipi. - 小鸟在吃虫。
+
+> ma tomo mi li suli. - 我的城市（家之领土）很大。
+
+## 谈论话题
+
+> %warning%
+> 关于哪种方式更正确，目前尚无共识，但每种方式都有其优缺点。整个标题中的所有内容都是一个大的“文体差异”，作者对这些差异的看法将在下文中说明。
+
+使用“toki”这个词来指定谈论话题有两种常用的方式。
+
+相对简单的，用于“o kama sona e toki pona!”中, 是将话题指定为形容词：
+
+> ona li toki meli. -- 他么正谈论女人。
+
+但是, 当引入实际适用于“toki”的形容词时，将会带来不确定性。例如，“toki ike”是指“不好地说话”还是“谈论邪恶”？
+
+官方书籍对此问题解释得相当不清楚，但它使用“toki e ijo”来表示“传达事物”，使用“toki wawa”来表示“作证”（“强烈陈述”），而不是“谈论力量”。
+
+此方法的延长版，也是在toki pona社群中常用的方法，就是把话题当作宾语。
+
+> sina toki e kala. -- 你谈论鱼。
+
+虽然对一些人来说，这有时被认为是在相当非传统地使用“e”助词，但它更清楚，更灵活。为了清晰起见，在整个课程中将使用这个选项。
+
+索尼娅·兰在这种情况下使用介词“lon”：
+
+> mi toki lon ijo. -- 我谈论事物。
+
+## 例句
+
+以下是些有趣的短语。
+
+> jan pali li toki utala e tomo mi. - 工人批评（“以争吵的态度说话”）我的家。
+
+> ona li toki ike e jan pona mi. - 他们（辱骂 / 说不好的事情）我的朋友。
+
+你可以在动词或宾语的前面添加多余的“li”或“e”助词来放置好几个动词或宾语。
+
+> meli li toki e waso, e soweli. - 女人正在谈论飞禽与走兽。
+
+> jan pali li pona e ilo, li lukin e lipu. - 工人边修理设备，边阅读文件。
+
+## 短语
+
+当单独使用时，“toki”这个词是一种常见的问候：
+
+> toki! -- 你好！
+
+## 方言性差异
+
+> %info%
+> 此部分文件描述了不同toki pona课程在解释特定概念上的差异。
+
+如果主语是“mi”或“sina”（因此它没有助词“li”），你可以采取以下两种方法之一来添加额外的动词。
+
+* 官方书籍《pu》建议你直接重复你的句子。
+
+> mi pali. mi moku. - 我边做工边吃。
+
+* “12 days of sona pi toki pona”视频中则建议使用助词“li”
+（“o kama sona e toki pona!”也一样）：
+
+> mi pali, li moku. - 我边做工边吃。
+
+## 练习
+
+试试理解这些句子的含义。
+
+* mi moku ala e soweli.
+* jan pona sina li toki e ma, e telo.
+* jan suli li lukin e ma tomo, li sitelen e ijo.
+* ma li jo e kasi ike.
+* pipi lili li suli, li pona.
+
+然后试着把以下句子翻译成toki pona。
+
+* 你的城市没有任何工人。
+* 我的丈夫没有做工，（只是）在吃和打架。
+* 我的家乡（起源地）很大。
+* 你的画很好看。
+* 我的朋友有鱼和水果，（并）做出好吃的食物。
+
+[答案](zh_answers.html#p4)
+
+[上一页](zh_3.html) [首页](index.html) [下一页](zh_5.html)
