@@ -111,4 +111,4 @@
 
 [答案](zh_answers.html#p4)
 
-[上一页](zh_3.html) [首页](index.html) [下一页](zh_5.html)
+[上一页](zh_3.html) [首页](zh_index.html) [下一页](zh_5.html)

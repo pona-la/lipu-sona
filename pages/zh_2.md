@@ -83,6 +83,6 @@
 * 你的儿子很强壮。
 * 小水果很甜。
 
-[Answers](answers.html#p2)
+[答案](zh_answers.html#p2)
 
-[Previous page](zh_1.html) [Top page](index.html) [Next page](zh_3.html)
+[上一页](zh_1.html) [首页](zh_index.html) [下一页](zh_3.html)

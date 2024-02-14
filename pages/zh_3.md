@@ -80,6 +80,6 @@
 * 邪恶的战士正在看你的家。
 * 我的工具运作良好。
 
-[Answers](zh_answers.html#p3)
+[答案](zh_answers.html#p3)
 
-[Previous page](zh_2.html) [Top page](zh_index.html) [Next page](zh_4.html)
+[上一页](zh_2.html) [首页](zh_index.html) [下一页](zh_4.html)
