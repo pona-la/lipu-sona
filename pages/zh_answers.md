@@ -52,3 +52,17 @@
 > * ma mama mi li suli.
 > * sitelen sina li pona lukin.
 > * jan pona mi li jo e kala e kili li pali e moku pona.
+
+<h1><a name="p5" id="p5" href="zh_5.html">第五页</a></h1>
+
+> * 你的社区非常不一样。
+> * 坏人弄坏了我的工具。
+> * 我建了这所房子。
+> * 好战士们保护这个社区。
+> * 这个大社区忍耐并使自己成长。
+<!---->
+> * moku seli li pona mute.
+> * jan lili lape li kalama ala.
+> * jan pali mute li toki e ni: ona li wawa, li kiwen.
+> * sina ante lukin.
+> * tomo ni li awen e seli.
