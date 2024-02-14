@@ -1,0 +1,85 @@
+% toki pona 第三页 - 动词及宾语
+% jan Mosi
+% 2024-02-14
+
+此页的词汇表：
+| 词    | 意思                 |
+| ----- | -------------------- |
+| e     | (指定一个宾语)       |
+| ijo   | 事物，物体           |
+| ilo   | 工具，机器，设备     |
+| lipu  | 书籍，文件，纸张     |
+| lukin | 眼睛，看，寻找       |
+| olin  | 爱，怜悯，情感       |
+| pali  | 做，工作，制造，劳动 |
+| pana  | 给予，发送，释放     |
+| telo  | 水，液体，洗涤，清理 |
+| tomo  | 家，房间，结构       |
+
+想要在句子中使用动词的话，就使用以下的句型:
+
+> [名词] li [动词]
+
+例子：
+
+> mije li pali. - 男人在做工。 / 男人做工.
+
+名词与动词都可以在后面添加形容词。如果把形容词加在动词后面，该形容词就会变成副词。
+
+> jan wawa li pali pona. - 强壮的人做工得好.
+
+> %warning%
+> 你没办法在一个句子中辨认某字的词性。打个比方，句子“mi moku"可以理解为“我在吃”，也可以理解为“我是食物”。
+
+
+> %info%
+> 和中文一样，动词不会带有时态信息。强调时态的方法会在后面解释。
+
+想要添加宾语 -- 也就是动词施加的对象 -- 使用助词“e”以制造出以下句型
+
+> [主语] li [动词] e [宾语]
+
+> jan wawa li pali e tomo. - 强壮的人在建屋子。
+
+宾语也可以添加形容词。
+
+> jan pali li pana e moku pona. - 工人在给美食。
+
+以下是一些句子:
+
+> jan pona mi li pona e ilo lukin. - 我的朋友在（优化/修理）视觉工具（眼镜，望远镜，等等……）
+
+> mi telo e moku. - 我清洗食物。
+
+> mi olin e meli mi. - 我爱我的妻子。
+
+> %warning%
+> 
+> 单词“lukin”指的是“看”的动作，而不是
+> 视觉上的外貌, 所以如果你要对某人的后者给予赞赏，通常你会说：
+> 
+> > sina pona lukin. - 你很好看 （视觉上的好）。
+>
+ 
+## 练习
+
+试试理解这些句子的含义。
+
+* jan lili li pana e telo lukin.
+* ona li lukin e lipu.
+* soweli ike li utala e meli.
+* jan utala li moku e kili suli.
+* soweli lili li moku e telo.
+* mi telo e ijo suli.
+
+然后试着把以下句子翻译成toki pona。
+
+* 她爱每一个人。
+* 浴室（水房）很干净。
+* 我分发文件。
+* 邪恶的战士正在看你的家。
+* 我的工具运作良好。
+
+[Answers](zh_answers.html#p3)
+
+[Previous page](zh_2.html) [Top page](zh_index.html) [Next page](zh_4.html)
