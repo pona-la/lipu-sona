@@ -1,0 +1,154 @@
+% toki pona 第六页 - 介词与位置
+% jan Mosi
+% 2024-02-15
+
+本页的词汇列表将会分为两组。介词：
+
+| 词      | 意思                       |
+| ------- | -------------------------- |
+| kepeken | 使用，利用                 |
+| lon     | 在，于，真实的，存在       |
+| sama    | 同样，相似，像，兄弟姐妹   |
+| tan     | 来自，因为，原因           |
+| tawa    | 向，为了，移动，从……角度看 |
+
+和普通词汇（全都和位置有关）
+| 词     | 意思                   |
+| ------ | ---------------------- |
+| sewi   | 上方，天空，神圣的     |
+| noka   | 脚，腿，底部，下方     |
+| poka   | 臀部，侧面，旁边，附近 |
+| monsi  | 背部，后面，后部，屁股 |
+| sinpin | 脸，最前面，正面，墙壁 |
+
+介词是附加到句子的其他部分以表示地点或时间（将来会更详细介绍）或关于动作的具体细节的词。
+
+在toki pona中，“kepeken”、“lon”、“sama”、“tan”和“tawa”这些词被用作介词，直接添加到句子的末尾，不需要使用额外的助词。
+
+以下是这五个词的一些示例，既作为介词，又作为普通词的用法：
+
+> mi pona e tomo kepeken ilo mi. -- 我正在用我的工具修理房子。
+
+> mi toki kepeken toki pona. -- 我用toki pona说话。
+
+> sina kepeken e ilo sitelen. -- 你在使用 写/画 具（钢笔，铅笔，毛笔）。
+
+> mi lon tomo sina. -- 我在你家。
+
+> jan ike li kalama mute lon tomo lipu. -- 坏人在图书馆里发出许多声音。
+
+> ona li toki e ijo lon. -- 他/她/他们说真话（说关于真实的事物）。
+
+> mi en sina li sama. -- 我和你很相似。
+
+> meli sama mi li pona. -- 我的 姐姐/妹妹 很好。
+
+> kiwen lili li sama lukin pipi. -- 鹅卵石（小石头）看起来很像虫子。
+
+> mi lape tan ni: mi jo ala e wawa. -- 我因为没有精力而睡觉。
+
+> mi tawa tan tomo mi. -- 我正离开我家。
+
+> ona li awen lon tomo lipu. -- 他们呆在图书馆里。
+
+> tomo tawa mi li pona. -- 我的车（移动的 屋子/结构）很好。
+
+> mi tawa tomo moku. -- 我正在去餐馆（食物屋）。
+
+单词“tawa”也可以表示观点。
+
+> sina pona tawa mi. -- 我喜欢你。（“你对我来说很好”）
+
+> %warning%
+> 因为“tawa”可以同时用作形容词与介词，有些短语将会变得模棱两可。打个比方，“tomo tawa mi”可以同时拥有“我的车”和“对于我来说，屋子”的意思。具体的含义取决于上下文。
+
+以下是位置词的例子：
+
+> waso mute li lon sewi. -- 很多鸟在天空。
+
+> mi awen lon tomo mi. -- 我呆在家里。
+
+> mi toki tawa jan sewi. -- 他和（神/天使/神圣的人/天上的人）说话。
+
+> mi tawa kepeken noka mi. -- 我用脚走路。
+
+> kiwen lili li lon noka mi. -- 小石头在我下面。
+
+> mi tawa lon poka sina. -- 我在你旁边走。
+
+> jan poka li ike tawa mi. -- 我不喜欢我的邻居。
+
+> poka mi li pakala. -- 我的臀部受伤了。
+
+> ona li lon monsi sina. -- 他们在你后面。
+
+> jan utala mute li lon sinpin mi. -- 战士们站在我面前。
+
+> lipu suli li lon sinpin ni. -- 重要的文件在这墙壁上。
+
+> sinpin ona li pona lukin. -- 他们的脸很好看。
+
+## 短语
+
+说“再见”有两种方法。如果你要离开，你说：
+
+> mi tawa! -- 再见！（字面上的意思就是“我走了”）
+
+If someone else is leaving, it's:
+ 
+> tawa pona! -- 再见！（字面上的意思就是“一路走好”）
+
+事实上，很多后面加上“pona”的词都被用作问候语。
+
+> moku pona! -- 祝你好胃口 / 用餐愉快（字面上的意思就是“好食物”）
+
+> lape pona! -- 晚安（字面上的意思就是“睡得好”）
+
+也有一些短语可以代表许多正面的表达，从“谢谢”到“愿平安与你同在”：
+
+> pona tawa sina!（字面上的意思就是“对你好”）
+
+## 方言性差异
+
+> %info%
+> 此部分文件描述了不同toki pona课程在解释特定概念上的差异。
+
+* 官方书籍使用“lon”一词的含义更广，其中还包括“用”的意思。例如，“我说toki pona”被翻译为“mi toki lon toki pona”。这似乎不是该词的常见用法。
+
+* 官方书籍使用“noka”一词既表示“脚”又表示“下面”。这是一个相对较新的用法，其他课程更倾向于使用“anpa”而不是“noka”来表示“下面”（仅使用“noka”来明确表示“腿”或“脚”）。单词“anpa”将在[第七页](zh_7.html)介绍。
+
+* 有时，诸如“kepeken”和“tawa”之类的词可以同时用作介词（“用”，“向”）和动词（“使用”，“移动”）。官方书籍提供了一个“kepeken”作为动词使用的例子：
+
+> o kepeken ala ilo ike. -- 不要使用坏工具。
+
+但是在toki pona社群里，助词“e”还是常常会被使用的，因为“kepeken”是及物动词，而不是介词：
+
+> mi kepeken e ilo. -- 我使用工具。
+
+（此方法也成为了“o kama sona e toki pona!”课程的选择。）
+
+不同之处在于，前者的宾语（“ilo ike”）是直接被放置在短语“kepeken ala”的，而在后者“kepeken”后跟着“e”，就像对待任何动词一样。
+
+这门课程将遵循后者的方法，因为这样做可以减少歧义，并且允许更多的语法（例如，可以更清晰地在“kepeken”后添加修饰语）。但在大多数这样的句子中，使用“e”与否不应使意义模糊。
+
+## 练习
+
+试试理解这些句子的含义。
+
+* ona li toki tawa mama mije ona kepeken ilo toki.
+* moku suwi li ike tawa mi.
+* ma mama mi li utala e ma poka.
+* meli sama sina li jan pona mi.
+* pipi lili li lon sinpin sina.
+
+然后试着把以下句子翻译成toki pona。
+
+* 我弄坏了我的车。
+* 男人喂（“给予食物”）小孩。
+* 我不喜欢这个聊天室（“说话结构”）。
+* 我因为你而修理房屋。
+* 他们在图书馆里看书。
+
+[答案](zh_answers.html#p6)
+
+[上一页](zh_5.html) [首页](zh_index.html) [下一页](zh_7.html)

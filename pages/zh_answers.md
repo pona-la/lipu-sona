@@ -66,3 +66,17 @@
 > * jan pali mute li toki e ni: ona li wawa, li kiwen.
 > * sina ante lukin.
 > * tomo ni li awen e seli.
+
+<h1><a name="p6" id="p6" href="zh_6.html">第六页</a></h1>
+
+> * 他们在与他们的父亲打电话。
+> * 我不喜欢甜食 / 甜食对于我来说不好。
+> * 我的家乡正与邻国打战。
+> * 你的 姐姐/妹妹 是我的朋友。
+> * 小虫在你脸上。
+<!---->
+> * sina pakala e tomo tawa mi.
+> * (jan) mije li pana e moku tawa jan lili.
+> * tomo toki ni li ike tawa mi.
+> * mi pona e tomo tan sina.
+> * ona li lukin e lipu lon tomo lipu.
