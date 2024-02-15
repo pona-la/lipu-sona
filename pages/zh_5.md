@@ -86,6 +86,6 @@
 * 你看起来不一样。
 * 这所房子保存着热量。
 
-[Answers](zh_answers.html#p5)
+[答案](zh_answers.html#p5)
 
 [上一页](zh_4.html) [首页](zh_index.html) [下一页](zh_6.html)
