@@ -80,3 +80,17 @@
 > * tomo toki ni li ike tawa mi.
 > * mi pona e tomo tan sina.
 > * ona li lukin e lipu lon tomo lipu.
+
+<h1><a name="p7" id="p7" href="7.html">第六页</a></h1>
+
+> * 丽莎！别吃这些蘑菇！
+> * 堪萨斯队击败了所有其他队伍。
+> * 不要认为工人在领导面前是卑微的。
+> * 为什么你要这么做？
+> * 我的（胃 / 内脏）很痛。救命！
+<!---->
+> * mi toki insa e ni: jan sewi li lon ala.
+> * o kalama ala lon tomo lipu.
+> * jan lawa mi li toki e ni: o lape ala lon tomo pali.
+> * jan sama mije sina li sama mute lukin sina.
+> * o tawa ala lon ma.
