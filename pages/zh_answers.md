@@ -81,7 +81,7 @@
 > * mi pona e tomo tan sina.
 > * ona li lukin e lipu lon tomo lipu.
 
-<h1><a name="p7" id="p7" href="7.html">第七页</a></h1>
+<h1><a name="p7" id="p7" href="zh_7.html">第七页</a></h1>
 
 > * 丽莎！别吃这些蘑菇！
 > * 堪萨斯队击败了所有其他队伍。
@@ -95,7 +95,7 @@
 > * jan sama mije sina li sama mute lukin sina.
 > * o tawa ala lon ma.
 
-<h1><a name="p8" id="p8" href="8.html">第八页</a></h1>
+<h1><a name="p8" id="p8" href="zh_8.html">第八页</a></h1>
 
 > * 我喜欢红色。
 > * 给我黄色的果汁。
@@ -108,3 +108,18 @@
 > * jaki a! moku ni li ike mute a!
 > * mi lon tomo loje.
 > * jan nasa li kute ala e mi.
+
+<h1><a name="p9" id="p9" href="zh_9.html">第九页</a></h1>
+
+> * 我不喜欢多人社群。
+> * 在这所房子里，我说英文和toki pona。
+> * 如果你吃生肉，它对你身体不好。
+> * 他们的音乐（“有趣的声音”）很好。
+> * 如果你滥用（不好地使用）工具，它们会坏掉（变坏）。
+<!---->
+> * sewi laso li pona mute tawa mi. sewi pi pimeja walo li pona lili tawa mi.
+> * sewi li pimeja la o awen lon tomo.
+> * ona li lon tomo pi telo nasa.
+> * jan pi kalama suli li toki e ijo nasa.
+> * meli ni pi linja walo li pona lukin.
+> * sina toki ala tawa jan la sina jo ala e jan pona.
