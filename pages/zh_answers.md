@@ -81,7 +81,7 @@
 > * mi pona e tomo tan sina.
 > * ona li lukin e lipu lon tomo lipu.
 
-<h1><a name="p7" id="p7" href="7.html">第六页</a></h1>
+<h1><a name="p7" id="p7" href="7.html">第七页</a></h1>
 
 > * 丽莎！别吃这些蘑菇！
 > * 堪萨斯队击败了所有其他队伍。
@@ -94,3 +94,17 @@
 > * jan lawa mi li toki e ni: o lape ala lon tomo pali.
 > * jan sama mije sina li sama mute lukin sina.
 > * o tawa ala lon ma.
+
+<h1><a name="p8" id="p8" href="8.html">第八页</a></h1>
+
+> * 我喜欢红色。
+> * 给我黄色的果汁。
+> * 我喜欢你的花看起来的样子。
+> * 我不喝酒。
+> * 别杀他们！
+<!---->
+> * tomo sina li suli. tomo mi li lili.
+> * kasi kule laso li pona mute tawa mi. kasi kule loje li pona lili tawa mi.
+> * jaki a! moku ni li ike mute a!
+> * mi lon tomo loje.
+> * jan nasa li kute ala e mi.
