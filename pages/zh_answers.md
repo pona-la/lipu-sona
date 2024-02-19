@@ -123,3 +123,19 @@
 > * jan pi kalama suli li toki e ijo nasa.
 > * meli ni pi linja walo li pona lukin.
 > * sina toki ala tawa jan la sina jo ala e jan pona.
+
+<h1><a name="p10" id="p10" href="zh_10.html">第十页</a></h1>
+
+> * 把门开了。
+> * 一会儿，我会朝你走去。
+> * 我要去其它国家。
+> * 你可以来我家吗？
+> * 如果你来我家，走（用）林肯街。
+> * 如果你在山上，你可以看到很多东西。
+<!---->
+> * sina sona ala sona pali e ona? / sina sona pali e ona anu seme?
+> * ale li ken.
+> * sina ken ala ken open e lupa? / sina ken open e lupa anu seme?
+> * sina kute ala e jan sona la pali sina li ike.
+> * tenpo suli la mi pali e ni. / mi pali e ni lon tenpo suli.
+> * mi awen kama sona e toki pona.
