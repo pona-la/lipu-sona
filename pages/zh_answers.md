@@ -140,7 +140,7 @@
 > * tenpo suli la mi pali e ni. / mi pali e ni lon tenpo suli.
 > * mi awen kama sona e toki pona.
 
-<h1><a name="p11" id="p11" href="11.html">page 11</a></h1>
+<h1><a name="p11" id="p11" href="zh_11.html">page 11</a></h1>
 
 > * 我想交易这三只大动物。
 > * 昨天，我在 学校/大学（“知识之屋”）。
@@ -153,3 +153,19 @@
 > * tenpo pimeja ni la lete li lon.
 > * (tenpo mun / tenpo sike mun) nanpa luka li (pona / suwi).
 > * sina jo e ilo mute pi kalama musi a!
+
+<h1><a name="p12" id="p12" href="zh_12.html">page 12</a></h1>
+
+> * 如果你想学习toki pona，官方书籍是对此最好的方法。
+> * 今天我心情非常好（“感觉非常好”）。
+> * 你要吃些披萨吗？
+> * 我的床（“睡眠表面”）坏了。因此我不能睡觉。
+> * 近藤麻理惠说：“把不重要的东西丢掉。”
+> * 物质有三种类型。它们是：固体、液体和气体。
+> * 但公主在另一个城堡。
+<!---->
+> * mi lukin e akesi seli laso suli a!
+> * toki! sina pilin seme?
+> * jan alasa li pana e moku soweli mute e kili mute tawa mi mute.
+> * mi lukin e lipu. tenpo lili la ona li pini.
+> * mi ken toki pi pona mute kepeken toki pona.
