@@ -40,7 +40,7 @@
 
 > ilo sina li kalama mute ike. -- 你的器具发出很多杂音。
 
-## The word "ni"
+## 单词“ni”
 
 “ni”最简单的用法是指“这”或“那”:
 
