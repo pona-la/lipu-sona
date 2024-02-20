@@ -139,3 +139,17 @@
 > * sina kute ala e jan sona la pali sina li ike.
 > * tenpo suli la mi pali e ni. / mi pali e ni lon tenpo suli.
 > * mi awen kama sona e toki pona.
+
+<h1><a name="p11" id="p11" href="11.html">page 11</a></h1>
+
+> * 我想交易这三只大动物。
+> * 昨天，我在 学校/大学（“知识之屋”）。
+> * 一个月前，天气很冷。
+> * 我最喜欢你。
+> * 雨持续（下）了40天。
+<!---->
+> * mi lon tomo nanpa mute luka tu pi nasin Wasintan.
+> * ilo pi sitelen tawa li toki e ni: tenpo suno kama la suno li lon.
+> * tenpo pimeja ni la lete li lon.
+> * (tenpo mun / tenpo sike mun) nanpa luka li (pona / suwi).
+> * sina jo e ilo mute pi kalama musi a!
