@@ -1,4 +1,4 @@
-% toki pona 第五页 - 这和那
+% toki pona 第五页 - 这与那
 % jan Mosi
 % 2024-02-14
 
