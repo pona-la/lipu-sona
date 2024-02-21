@@ -169,3 +169,19 @@
 > * jan alasa li pana e moku soweli mute e kili mute tawa mi mute.
 > * mi lukin e lipu. tenpo lili la ona li pini.
 > * mi ken toki pi pona mute kepeken toki pona.
+
+<h1><a name="p13" id="p13" href="13.html">page 13</a></h1>
+
+> * 浣熊是个了不起的动物。
+> * 非二元性别社群无所畏惧.
+> * 医生给了我药。
+> * 如果你想知道更多（“增添知识”），请阅读《Toki Pona辞典》。
+> * 这部电影/电视节目（“动态图像”）很平庸。
+<!---->
+> * seli li monsuta e mi. / seli li monsuta tawa mi. / mi pilin monsuta tan seli. / mi pilin ike tan seli.
+> * sina kokosila tan seme? / sina toki kepeken toki pona ala tan seme?
+> * sina wile ala e ni: oko sina li pakala. o pana e len oko tawa sina. / sina
+> wile ala e ni: lukin sina li pakala. o pana e len lukin tawa sina.
+> * o pana e namako walo suwi tawa mi. / o pana e sin moku walo suwi tawa mi.
+> * sina wile e ni: mi kipisi e sike pan kepeken nasin seme? / sina wile e ni:
+> mi tu e sike pan kepeken nasin seme?
