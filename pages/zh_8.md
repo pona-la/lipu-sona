@@ -1,4 +1,4 @@
-% toki pona 第八页 - 色彩缤纷的语言
+% toki pona 第8页 - 色彩缤纷的语言
 % jan Mosi
 % 2024-02-16
 

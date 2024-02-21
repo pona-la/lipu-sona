@@ -1,4 +1,4 @@
-% toki pona 第二页 - 形容词
+% toki pona 第2页 - 形容词
 % jan Mosi
 % 2024-02-13
 

@@ -1,4 +1,4 @@
-% toki pona 第一页 - 基本句子
+% toki pona 第1页 - 基本句子
 % jan Mosi
 % 2024-02-13
 

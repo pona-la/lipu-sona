@@ -1,4 +1,4 @@
-% toki pona 第七a页 - 创造toki pona非官方词汇
+% toki pona 第7a页 - 创造toki pona非官方词汇
 % jan Mosi
 % 2024-02-16
 
@@ -8,18 +8,18 @@
 
 以下是所有可能组成得音节表格。
 
-| a | e | i | o | u | an| en| in| on| un|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| a | e | i | o | u | an| en| in| on| un|
-|ja |je |   |jo |ju |jan|jen|   |jon|jun|
-|ka |ke |ki |ko |ku |kan|ken|kin|kon|kun|
-|la |le |li |lo |lu |lan|len|lin|lon|lun|
-|ma |me |mi |mo |mu |man|men|min|mon|mun|
-|na |ne |ni |no |nu |nan|nen|nin|non|nun|
-|pa |pe |pi |po |pu |pan|pen|pin|pon|pun|
-|sa |se |si |so |su |san|sen|sin|son|sun|
-|ta |te |   |to |tu |tan|ten|   |ton|tun|
-|wa |we |wi |   |   |wan|wen|win|   |   |
+|   a   |   e   |   i   |   o   |   u   |  an   |  en   |  in   |  on   |  un   |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|   a   |   e   |   i   |   o   |   u   |  an   |  en   |  in   |  on   |  un   |
+|  ja   |  je   |       |  jo   |  ju   |  jan  |  jen  |       |  jon  |  jun  |
+|  ka   |  ke   |  ki   |  ko   |  ku   |  kan  |  ken  |  kin  |  kon  |  kun  |
+|  la   |  le   |  li   |  lo   |  lu   |  lan  |  len  |  lin  |  lon  |  lun  |
+|  ma   |  me   |  mi   |  mo   |  mu   |  man  |  men  |  min  |  mon  |  mun  |
+|  na   |  ne   |  ni   |  no   |  nu   |  nan  |  nen  |  nin  |  non  |  nun  |
+|  pa   |  pe   |  pi   |  po   |  pu   |  pan  |  pen  |  pin  |  pon  |  pun  |
+|  sa   |  se   |  si   |  so   |  su   |  san  |  sen  |  sin  |  son  |  sun  |
+|  ta   |  te   |       |  to   |  tu   |  tan  |  ten  |       |  ton  |  tun  |
+|  wa   |  we   |  wi   |       |       |  wan  |  wen  |  win  |       |       |
 
 还有一个规则是在元音后面不可以再加上元音，并且“n”音的后面不可以加“m”或另一个“n”。
 
@@ -70,4 +70,4 @@
 
 还有其他规则，它们的解释也有所不同。官方书籍有自己的列表，它更简短，但不那么全面。
 
-[回到第七页](zh_7.html) [首页](zh_index.html)
+[回到第7页](zh_7.html) [首页](zh_index.html)

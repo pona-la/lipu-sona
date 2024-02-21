@@ -1,4 +1,4 @@
-% toki pona 第三页 - 动词与宾语
+% toki pona 第3页 - 动词与宾语
 % jan Mosi
 % 2024-02-14
 

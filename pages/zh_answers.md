@@ -2,7 +2,7 @@
 % jan Mosi
 % 2024-02-13
 
-<h1><a name="p1" id="p1" href="zh_1.html">第一页</a></h1>
+<h1><a name="p1" id="p1" href="zh_1.html">第1页</a></h1>
 
 > * soweli li suli.
 > * ona li lili.
@@ -10,7 +10,7 @@
 > * ona li soweli.
 > * sina ike.
 
-<h1><a name="p2" id="p2" href="zh_2.html">第二页</a></h1>
+<h1><a name="p2" id="p2" href="zh_2.html">第2页</a></h1>
 
 > * 我的妻子很好。
 > * 你的丈夫很（大/重要）。
@@ -24,7 +24,7 @@
 > * jan lili mije sina li wawa.
 > * kili lili li suwi.
 
-<h1><a name="p3" id="p3" href="zh_3.html">第三页</a></h1>
+<h1><a name="p3" id="p3" href="zh_3.html">第3页</a></h1>
 
 > * 小孩在哭泣（释放眼睛水）。
 > * （他/她/他们）看文件。
@@ -39,7 +39,7 @@
 > * jan utala ike li lukin e tomo sina.
 > * ilo mi li pali pona.
 
-<h1><a name="p4" id="p4" href="zh_4.html">第四页</a></h1>
+<h1><a name="p4" id="p4" href="zh_4.html">第4页</a></h1>
 
 > * 我不吃动物（即肉）。
 > * 你的朋友在谈论土地和水。
@@ -53,7 +53,7 @@
 > * sitelen sina li pona lukin.
 > * jan pona mi li jo e kala e kili li pali e moku pona.
 
-<h1><a name="p5" id="p5" href="zh_5.html">第五页</a></h1>
+<h1><a name="p5" id="p5" href="zh_5.html">第5页</a></h1>
 
 > * 你的社区非常不一样。
 > * 坏人弄坏了我的工具。
@@ -67,7 +67,7 @@
 > * sina ante lukin.
 > * tomo ni li awen e seli.
 
-<h1><a name="p6" id="p6" href="zh_6.html">第六页</a></h1>
+<h1><a name="p6" id="p6" href="zh_6.html">第6页</a></h1>
 
 > * 他们在与他们的父亲打电话。
 > * 我不喜欢甜食 / 甜食对于我来说不好。
@@ -81,7 +81,7 @@
 > * mi pona e tomo tan sina.
 > * ona li lukin e lipu lon tomo lipu.
 
-<h1><a name="p7" id="p7" href="zh_7.html">第七页</a></h1>
+<h1><a name="p7" id="p7" href="zh_7.html">第7页</a></h1>
 
 > * 丽莎！别吃这些蘑菇！
 > * 堪萨斯队击败了所有其他队伍。
@@ -95,7 +95,7 @@
 > * jan sama mije sina li sama mute lukin sina.
 > * o tawa ala lon ma.
 
-<h1><a name="p8" id="p8" href="zh_8.html">第八页</a></h1>
+<h1><a name="p8" id="p8" href="zh_8.html">第8页</a></h1>
 
 > * 我喜欢红色。
 > * 给我黄色的果汁。
@@ -109,7 +109,7 @@
 > * mi lon tomo loje.
 > * jan nasa li kute ala e mi.
 
-<h1><a name="p9" id="p9" href="zh_9.html">第九页</a></h1>
+<h1><a name="p9" id="p9" href="zh_9.html">第9页</a></h1>
 
 > * 我不喜欢多人社群。
 > * 在这所房子里，我说英文和toki pona。
@@ -124,7 +124,7 @@
 > * meli ni pi linja walo li pona lukin.
 > * sina toki ala tawa jan la sina jo ala e jan pona.
 
-<h1><a name="p10" id="p10" href="zh_10.html">第十页</a></h1>
+<h1><a name="p10" id="p10" href="zh_10.html">第10页</a></h1>
 
 > * 把门开了。
 > * 一会儿，我会朝你走去。

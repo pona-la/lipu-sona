@@ -1,4 +1,4 @@
-% toki pona 第四页 - 不好了！更多词汇
+% toki pona 第4页 - 不好了！更多词汇
 % jan Mosi
 % 2024-02-14
 

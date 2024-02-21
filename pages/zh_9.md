@@ -1,4 +1,4 @@
-% toki pona 第九页 - 复杂的形容词与语境
+% toki pona 第9页 - 复杂的形容词与语境
 % jan Mosi
 % 2024-02-16
 
@@ -45,7 +45,7 @@
 > jan pi toki utala -- 评论家
 
 > %info%
-> 如果你偏向于使用结构“toki [形容词]”形容谈话主题（另见[第四页](zh_4.html)，那么“pi”
+> 如果你偏向于使用结构“toki [形容词]”形容谈话主题（另见[第4页](zh_4.html)，那么“pi”
 > 也可以用于注明用到多个字的话题。
 > 
 > > sina toki pi ma tomo mama sina. -- 你谈论你的家乡。
@@ -53,7 +53,7 @@
 
 ### pi与颜色
 
-其次，“pi”也常常用于混色（[第八页](zh_8.html)中介绍过）：
+其次，“pi”也常常用于混色（[第8页](zh_8.html)中介绍过）：
 
 > sewi pi pimeja walo li ike tawa mi. -- 我不喜欢灰色的天空。
 
