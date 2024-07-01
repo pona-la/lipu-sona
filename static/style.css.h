@@ -55,17 +55,17 @@
 
 @font-face {
     	font-family: "linja pimeja";
-    	src: url("/tokipona/linjapimeja19.woff")
+    	src: url("/linjapimeja19.woff")
 }
 
 @font-face {
     	font-family: "insa pi supa lape";
-    	src: url("/tokipona/supalape.woff")
+    	src: url("/supalape.woff")
 }
 
 @font-face {
 	font-family: "sitelen pona pona";
-	src: url("/tokipona/sitelen-pona-pona.otf");
+	src: url("/sitelen-pona-pona.otf");
 }
 
 html {

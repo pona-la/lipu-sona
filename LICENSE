@@ -26,14 +26,14 @@ details), is available under the conditions of the MIT license:
 
 ---
 
-In addition, the contents of the directories "./pages/tokipona" and
-"./static/tokipona" (with the exception of the Polish translation) are also
-available under the CC-BY-SA 3.0 and CC-BY-SA 4.0 licenses.
+In addition, the contents of the directories "./pages" and "./static" (with the
+exception of the Polish translation) are also available under the CC-BY-SA 3.0
+and CC-BY-SA 4.0 licenses.
 
 * CC-BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/
 * CC-BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
 
-The Polish translation files (the files titled "pl_*" in the "./pages/tokipona"
+The Polish translation files (the files titled "pl_*" in the "./pages"
 directory) are instead also available under the CC-BY-SA 3.0 (Poland) and
 CC-BY-SA 4.0 licenses:
 
