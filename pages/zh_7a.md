@@ -1,0 +1,73 @@
+% toki pona 第7a页 - 创造toki pona非官方词汇
+% jan Mosi
+% 2024-02-16
+
+要学会如何将名称转换为非官方词汇，首先您必须了解 toki pona 的语音学。这个语言的词汇由 \(C\)V\(N\) 系统下的一系列音节组成。这意味着每个音节由一个可选的辅音，然后一个元音，然后一个可选的鼻音（“n”音）组成。
+
+此外，音节“ji”、“ti”、“wo”和“wu”会转换为“i”、“si”、“o”和“u”。
+
+以下是所有可能组成得音节表格。
+
+|   a   |   e   |   i   |   o   |   u   |  an   |  en   |  in   |  on   |  un   |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|   a   |   e   |   i   |   o   |   u   |  an   |  en   |  in   |  on   |  un   |
+|  ja   |  je   |       |  jo   |  ju   |  jan  |  jen  |       |  jon  |  jun  |
+|  ka   |  ke   |  ki   |  ko   |  ku   |  kan  |  ken  |  kin  |  kon  |  kun  |
+|  la   |  le   |  li   |  lo   |  lu   |  lan  |  len  |  lin  |  lon  |  lun  |
+|  ma   |  me   |  mi   |  mo   |  mu   |  man  |  men  |  min  |  mon  |  mun  |
+|  na   |  ne   |  ni   |  no   |  nu   |  nan  |  nen  |  nin  |  non  |  nun  |
+|  pa   |  pe   |  pi   |  po   |  pu   |  pan  |  pen  |  pin  |  pon  |  pun  |
+|  sa   |  se   |  si   |  so   |  su   |  san  |  sen  |  sin  |  son  |  sun  |
+|  ta   |  te   |       |  to   |  tu   |  tan  |  ten  |       |  ton  |  tun  |
+|  wa   |  we   |  wi   |       |       |  wan  |  wen  |  win  |       |       |
+
+还有一个规则是在元音后面不可以再加上元音，并且“n”音的后面不可以加“m”或另一个“n”。
+
+> %info%
+> 在官方书籍中没有提及关于不将“n”后跟“m”或“n”的规则，但是它介绍的所有国家的专有名称都
+> 恰好遵循了这一规则（例如，缅甸（Myanmar）是“ma Mijama”，而不是“ma Mijanma”）。
+
+不存在与toki pona的辅音将会被相似的音所替代。
+打个比方，罗马（Roma）会变成“ma tomo Loma”，雅加达（Jakarta）会变成“ma tomo Sakata”。
+
+| 辅音  | 可代表的音                 |
+| :---: | :------------------------- |
+|   j   | y                          |
+|   k   | k, g, 有时 h, 法语 r       |
+|   l   | l, r                       |
+|   m   | m                          |
+|   n   | n, 音节尾 m                |
+|   p   | p, b, f, 有时 v            |
+|   s   | s, z, j, ch, sh, zh, ts, x |
+|   t   | t, d                       |
+|   w   | v, w, 有时 r               |
+
+如果连续出现好几个辅音或元音，最好直接删除其中一个，但作为另一种选择，你可以添加一个额
+
+外的音节。
+
+如果你要为元音添加新的音节，通常可以使用辅音“j”或“w”。因为它们带有的发音最少
+
+（例: 亚洲（Asia）是“ma Asija”，而厄立特里亚（Eritrea）是“ma Eliteja”）。
+
+如果你为辅音添加新的音节，那么元音要么是从上一个音节中重复的，要么是“u”（例如：冰岛
+（Ísland）是“ma Isilan”，苏格兰（Scotland）是“ma Sukosi”）。
+
+对于城市的名称，最好使用该城市居民会使用的发音。例如，加拿大多伦多市（Toronto）在官方
+书籍中被记录为“ma tomo Towano”，而不是“ma tomo Tolonto”。
+
+
+国家的名称可以从属格或用于指代其国家的人民或语言的形式中衍生出来。例如，日本的日语名称
+发音为“Nippon”，但用于指代日本人和日语的名称分别是“Nihonjin”和“Nihongo”。后两者用于
+创建非官方词汇“Nijon”。类似地，瑞典的名称是“Wensa”，源自于“svenska”（“瑞典语”）。
+
+如果某国家或城市时常以缩写名字称呼，非官方词汇也可以取自于其缩写。打个比方，
+洛杉矶（L.A.）是“ma tomo Ele”，而英国（U.K.）是“ma Juke”。这个规则可以扩展到其他语
+言上 -- 比如，将苏联（СССР，发音为"es-es-es-er"）称为"ma Sesesele"。
+
+一些人使用的一个规则是，如果生成的非官方词汇与一个 toki pona 词完全相同，那么该非官方
+词会被修改。例如，名字“Mary”（“meli”一词的来源）通常被转换为“jan Mewi”以避免混淆。
+
+还有其他规则，它们的解释也有所不同。官方书籍有自己的列表，它更简短，但不那么全面。
+
+[回到第7页](zh_7.html) [首页](zh_index.html)

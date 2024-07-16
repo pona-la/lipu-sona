@@ -1,0 +1,88 @@
+% toki pona 第2页 - 形容词
+% jan Mosi
+% 2024-02-13
+
+此页的词汇表：
+| 词      | 意思                     |
+| ------- | ------------------------ |
+| ala     | 没有，不，零             |
+| ale/ali | 所有，一切，宇宙         |
+| utala   | 打架，战斗，挑战         |
+| wawa    | 强壮的，强大的           |
+| suwi    | 甜的，可爱的，迷人的     |
+| jan     | 人，人类，人性           |
+| mama    | 父母，祖先，创造者，起源 |
+| meli    | 女人，女性，阴性，妻子   |
+| mije    | 男人，男性，阳性，丈夫   |
+| moku    | 食物，吃                 |
+
+为了更清晰地定义主语和形容词，你可以添加额外的词作为形容词。在 toki pona 中，修饰名词的形容词位于名词之后。这与中文不同，中文中形容词在名词之前，但这与法语类似。例如：
+
+> jan wawa -- 强壮的人
+
+许多在前面提过的名词也可以用作形容词。例如，代词“mi”，“sina”和“ona”可以用在名词后来表示领属关系。
+
+> mama mi -- 我的父母
+
+> soweli sina -- 你的动物
+
+> moku ona -- 他/她/他们 的食物 
+
+此外，形容词也可以用作名词:
+
+> wawa sina -- 你的力量
+
+> suli ona -- 他/她/他们 的 大小
+
+> %info%
+> 值得注意的是词语“jan pona”，它字面上的意思是“好人”，
+> 但“朋友”的意思也被广泛（和官方地）接受。
+
+你可以一次过使用好几个形容词:
+
+> soweli lili suwi -- 可爱的宠物（“小动物”）
+
+以下是一些示例句子：
+
+> mama mi li pona. - 我的父母很好。
+
+> kili suwi li moku pona. - 甜果是好果。
+
+> jan utala li wawa. - 战士（“打架的人”）很强壮。
+
+> jan lili mi li suwi. - 我的小孩（"年轻的人"）很可爱。
+
+> soweli lili li wawa ala. - 小动物不强壮。
+
+> %warning%
+> 值得注意的是，只有当主语只是单词“mi”或“sina”时，才会省略助词“li”。如果它附加了任何形容词，则会使用该助词。
+>
+> sina pona. - 你很好.
+> 
+> sina ale li pona. - 你们全部很好.
+>
+
+> %info%
+> 除了“mije”和“meli”之外，一些人也使用“tonsi”这个词来指代非二元性别的人、性别酷儿或其他不符合二元性别的人。 另见[extra page 1](x1.html)以获得更多资讯。// TODO
+
+## 练习
+
+试试理解这些句子的含义。
+
+* meli mi li pona.
+* mije sina li suli.
+* mama mije mi li wawa.
+* soweli ale li pona.
+* kili li moku suli.
+
+然后试着把以下句子翻译成toki pona。
+
+* 我的妻子很可爱。
+* 所有战士都很坏。
+* 我的朋友是你的朋友。
+* 你的儿子很强壮。
+* 小水果很甜。
+
+[答案](zh_answers.html#p2)
+
+[上一页](zh_1.html) [首页](zh_index.html) [下一页](zh_3.html)

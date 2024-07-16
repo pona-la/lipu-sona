@@ -1,0 +1,83 @@
+% toki pona 第8页 - 色彩缤纷的语言
+% jan Mosi
+% 2024-02-16
+
+此页的词汇表：
+| 词     | 意思                         |
+| ------ | ---------------------------- |
+| kule   | 颜色，多彩的                 |
+| jelo   | 黄色（及其色调）             |
+| laso   | 蓝色，绿色（及其色调）       |
+| loje   | 红色（及其色调）             |
+| pimeja | 黑色，深色                   |
+| walo   | 白色，明亮                   |
+| nasa   | 不寻常的，奇怪的，傻的，醉的 |
+| jaki   | 脏的，恶心的，有毒的         |
+| moli   | 死亡，垂死                   |
+| unpa   | 性交，性行为                 |
+
+## Colors
+
+在 toki pona 中，有五种基本色的术语：“loje”（红色），“jelo”（黄色），“laso”（蓝色和绿色），“pimeja”（黑色）和“walo”（白色）。
+"laso" (blue and green), "pimeja" (black) and "walo" (white).
+
+这些颜色可以相互连接，或和指自然事物连接，以组成其它色调。
+
+> laso sewi -- 蓝色（“天空 绿/蓝”）
+
+> laso kasi -- 绿色（“植物 绿/蓝”）
+
+> loje jelo -- 橙色（“黄红色”）
+
+> jelo pimeja -- 棕色（“深黄色”）
+
+> walo pimeja -- 灰色（“深白色”）
+
+> loje walo -- 粉红色（“浅红色”）
+
+## 例句
+
+> kili loje lili li pona tawa mi. -- 我喜欢小红果（草莓/树莓？）
+
+> jan lili li pana e ko jaki tan monsi ona. -- 小孩拉屎了。
+
+> jan Simu o, mije li moli. -- 吉米，他死了。
+
+> tomo ni li jo e jaki mute. ni li ike tawa mi a! -- 这间房布满了很多恶心物质。我不喜欢！
+
+> mije mi li unpa ala e jan ante. -- 我的丈夫很忠诚（“不与其他人发生性关系”）
+
+## 比较句
+
+虽然toki pona中有词汇“好”或“不好”，但并没有“较好”或“较不好”。虽然有“多”与“少”，但并
+没有“较多”与“较少”。
+
+想要造比较句，你可以把句子一分为二：
+
+> mi wawa. sina wawa lili. -- 我比你壮。（我好壮。你比较不壮。）
+
+当然，可以通过改变形容词之间的差异来调整比较程度。
+
+> mi wawa mute. sina wawa ala. -- 我比你壮得多。（我非常壮。你很弱。）
+
+## 练习
+
+试试理解这些句子的含义。
+
+* kule loje li pona tawa mi.
+* o pana e telo kili jelo tawa mi. 
+* kasi kule sina li pona lukin tawa mi.
+* mi moku ala e telo nasa.
+* o moli ala e ona a!
+
+然后试着把以下句子翻译成toki pona。
+
+* 你的家比我的大。
+* 比起蓝花我更喜欢红花。
+* 噫，恶心！这食物太糟糕了！
+* 我在红屋里。
+* 醉汉不听我（说）。
+
+[答案](zh_answers.html#p8)
+
+[上一页](zh_7.html) [首页](zh_index.html) [下一页](zh_9.html)
