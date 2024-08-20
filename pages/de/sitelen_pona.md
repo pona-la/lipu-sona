@@ -110,7 +110,7 @@ Hier ist ein einfacher Text in sitelen pona.
 wan li toki e nimi wan. sitelen ale li lukin sama kon
 ona.](/sitelen_pona_example.png)
 
-[Übersetzung](de_answers.html#sp)
+[Übersetzung](de/answers#sp)
 
 Andere Texte in sitelen pona, einschließlich einer Seite, die versucht, 
 jemandem das Lesen beizubringen ohne andere Schriftsysteme zu verwenden, 
@@ -145,7 +145,7 @@ darzustellen. Hier sind die gebräuchlichsten.
 >
 
  * Ich habe auch eine Schrifart für sitelen pona erstellt, die ich "[insa 
- pi supa  lape](supalape.html)" genannt habe. Sie basiert auf der Schriftart 
+ pi supa  lape](lentan/supalape)" genannt habe. Sie basiert auf der Schriftart 
  "Bedstead"(daher der Name) und benutzt den gleichen Algorithmus, um kleine 
  Bitmap-Bilder oder ähnliche Zeichen in eine voll funktionsfähige 
  Vektorschriftart umwandelt.
@@ -196,8 +196,6 @@ Beispieltext](https://omniglot.com/conscripts/sitelenemoji.htm)
 
 ---
 
-[Seite zu anderen alternativen Schriftsystemen](x2.html)
+[Seite zu anderen alternativen Schriftsystemen](de/x2)
 
-[Hauptseite](de_index.html)
-
-
+[Hauptseite](de)
