@@ -2,7 +2,7 @@
 % /dev/urandom
 % 2020-12-21
 
-<h1><a name="p1" id="p1" href="de_1.html">Seite 1</a></h1>
+<h1><a name="p1" id="p1" href="de/1">Seite 1</a></h1>
 
 > * soweli li suli.
 > * ona li lili.
@@ -10,7 +10,7 @@
 > * ona li soweli.
 > * sina ike.
 
-<h1><a name="p2" id="p2" href="de_2.html">Seite 2</a></h1>
+<h1><a name="p2" id="p2" href="de/2">Seite 2</a></h1>
 
 > * Meine Frau ist gut.
 > * Dein Mann ist (groß/wichtig).
@@ -24,7 +24,7 @@
 > * jan lili mije sina li wawa.
 > * kili lili li suwi.
 
-<h1><a name="p3" id="p3" href="de_3.html">Seite 3</a></h1>
+<h1><a name="p3" id="p3" href="de/3">Seite 3</a></h1>
 
 > * Ein Kind weint (gibt Augen-Wasser ab).
 > * (Er/sie/es) sieht ein Dokument.
@@ -39,7 +39,7 @@
 > * jan utala ike li lukin e tomo sina.
 > * ilo mi li pali pona.
 
-<h1><a name="p4" id="p4" href="de_4.html">Seite 4</a></h1>
+<h1><a name="p4" id="p4" href="de/4">Seite 4</a></h1>
 
 > * Ich esse keine Tiere (bzw. Fleisch).
 > * Dein Fruend spricht über das Land und das Wasser.
@@ -53,7 +53,7 @@
 > * sitelen sina li pona lukin.
 > * jan pona mi li jo e kala e kili li pali e moku pona.
 
-<h1><a name="p5" id="p5" href="de_5.html">Seite 5</a></h1>
+<h1><a name="p5" id="p5" href="de/5">Seite 5</a></h1>
 
 > * Deine Gemeinschaft ist sehr anders.
 > * Eine schlechte Person zerstört meine Werkzeuge.
@@ -67,7 +67,7 @@
 > * sina ante lukin.
 > * tomo ni li awen e seli.
 
-<h1><a name="p6" id="p6" href="de_6.html">Seite 6</a></h1>
+<h1><a name="p6" id="p6" href="de/6">Seite 6</a></h1>
 
 > * Sie reden mit ihrem Vater mithilfe eines Telefons.
 > * Ich mag süßes Essen nicht / Süßes Essen ist schlecht für mich.
@@ -81,7 +81,7 @@
 > * mi pona e tomo tan sina.
 > * ona li lukin e lipu lon tomo lipu.
 
-<h1><a name="p7" id="p7" href="de_7.html">Seite 7</a></h1>
+<h1><a name="p7" id="p7" href="de/7">Seite 7</a></h1>
 
 > * Lisa, iss diese Frucht/dieses Gemüse/diesen Pilz nicht!
 > * Die Mannschaft aus Kansas hat alle anderen Mannschaften besiegt.
@@ -95,7 +95,7 @@
 > * jan sama mije sina li sama mute lukin sina.
 > * o tawa ala lon ma.
 
-<h1><a name="p8" id="p8" href="de_8.html">Seite 8</a></h1>
+<h1><a name="p8" id="p8" href="de/8">Seite 8</a></h1>
 
 > * Ich mag die Farbe rot.
 > * Gib mir den gelbenen Saft (oder Limonade).
@@ -109,7 +109,7 @@
 > * mi lon tomo loje.
 > * jan nasa li kute ala e mi.
 
-<h1><a name="p9" id="p9" href="de_9.html">Seite 9</a></h1>
+<h1><a name="p9" id="p9" href="de/9">Seite 9</a></h1>
 
 > * Ich mag keine Gemeinschaften mit vielen Menschen.
 > * In diesem Haus rede ich Toki Pona und Englisch.
@@ -124,7 +124,7 @@
 > * meli ni pi linja walo li pona lukin.
 > * sina toki ala tawa jan la sina jo ala e jan pona.
 
-<h1><a name="p10" id="p10" href="de_10.html">Seite 10</a></h1>
+<h1><a name="p10" id="p10" href="de/10">Seite 10</a></h1>
 
 > * Öffne die Tür.
 > * Gleich komme ich zu dir.
@@ -140,7 +140,7 @@
 > * tenpo suli la mi pali e ni. / mi pali e ni lon tenpo suli.
 > * mi awen kama sona e toki pona.
 
-<h1><a name="p11" id="p11" href="de_11.html">Seite 11</a></h1>
+<h1><a name="p11" id="p11" href="de/11">Seite 11</a></h1>
 
 > * Ich würde gerne einen Handel über diese drei großen Tiere machen.
 > * Gestern war ich in der Schule/Universität ("Haus des Wissens").
@@ -154,7 +154,7 @@
 > * (tenpo mun / tenpo sike mun) nanpa luka li (pona / suwi).
 > * sina jo e ilo mute pi kalama musi a!
 
-<h1><a name="p12" id="p12" href="de_12.html">Seite 12</a></h1>
+<h1><a name="p12" id="p12" href="de/12">Seite 12</a></h1>
 
 > * Wenn du Toki Pona lernen willst, ist das offizielle Buch der beste Weg dafür.
 > * Heute fühle ich mich gut.
@@ -170,7 +170,7 @@
 > * mi lukin e lipu. tenpo lili la ona li pini.
 > * mi ken toki pi pona mute kepeken toki pona.
 
-<h1><a name="p13" id="p13" href="de_13.html">Seite 13</a></h1>
+<h1><a name="p13" id="p13" href="de/13">Seite 13</a></h1>
 
 > * Waschbären sind großartige Tiere.
 > * Die Trans-/Genderqueer-Community ist furchtlos.
@@ -187,7 +187,7 @@
 > * sina wile e ni: mi kipisi e sike pan kepeken nasin seme? / sina wile e ni:
 > mi tu e sike pan kepeken nasin seme?
 
-<h1><a name="sp" id="sp" href="de_sitelen_pona.html">Seite auf sitelen pona</a></h1>
+<h1><a name="sp" id="sp" href="de/sitelen_pona">Seite auf sitelen pona</a></h1>
 > Dieser Teil des Dokuments ist in sitelen pona geschrieben. Könnt ihr es 
 > verstehen?
 >
@@ -196,4 +196,4 @@
 > Gleichzeitig ist die Gestaltung der Zeichen an der Bedeutung der Wörter 
 > angelehnt.
 
-[Zurück zur Hauptseite](de_index.html)
+[Zurück zur Hauptseite](de)
