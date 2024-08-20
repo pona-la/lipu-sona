@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Appears to be in disuse.
+
 DCMODE=0
 
 while getopts d name
