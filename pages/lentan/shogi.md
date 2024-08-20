@@ -12,7 +12,7 @@
 
 musi Soki li musi supa. 
 
-ijo mute la, ona li sama [musi pi jan lawa moli](chess.html). musi Soki en musi
+ijo mute la, ona li sama [musi pi jan lawa moli](lentan/chess). musi Soki en musi
 pi jan lawa moli li jo e tan sama. ma Insija pi tenpo pini suli la, musi
 "Satulanka" (Chaturanga) li lon.  jan li tawa, ona li tawa e nasin musi, ona li
 ante e ona.  <!-- it's in many ways similar to chess, but also different. that's
@@ -708,7 +708,7 @@ is checkmated. -->
 * kama ni li ken: jan musi li ken ala tawa e ilo musi ona, taso jan lawa ona li
 ken ala moli. ni li lon la, musi li pini. jan musi ante li anpa e jan ni. 
 
-* * taso, kama ni li ken lon tenpo pi mute lili tan ni: tenpo pi mute suli la, jan musi li
+  * taso, kama ni li ken lon tenpo pi mute lili tan ni: tenpo pi mute suli la, jan musi li
 ken tawa e ijo musi tan poki ona. <!-- if a player can't move their pieces, but
 their king is not in check, they lose. however, this is rare because of the
 ability to drop pieces.  -->
@@ -721,7 +721,7 @@ anpa e ona. <!-- any player can resign at any moment. -->
 nasin sama, lon tenpo tawa tu tu pi jan musi sama, musi li pini. jan ala li
 anpa. 
 
-* * taso, jan lawa pi jan wan li ken moli lon tenpo tawa tu tu ni la, jan musi
+  * taso, jan lawa pi jan wan li ken moli lon tenpo tawa tu tu ni la, jan musi
 ante li anpa.  <!-- in professional games, if all the
 pieces are in the same place and can do the same moves during 4 turns of the
 same player, the game ends in a draw (sennichite). but if on these 4 turns one player's king
@@ -732,20 +732,20 @@ jan musi tu li ken toki e ni: "mi ken ala anpa e jan lawa ante. mi wile nanpa e
 ijo musi, wile pini e musi." <!-- if both kings are in the other players' camps,
 players can agree to an impasse. -->
 
-* * ni li lon la, jan musi li lukin e ma musi, e poki ona. ona li lukin e ijo
+  * ni li lon la, jan musi li lukin e ma musi, e poki ona. ona li lukin e ijo
 musi ale ona. <!-- if that happens, they count their pieces (both on the board
 and in hand. -->
 
-* * ijo musi li "ijo pi tawa nasa" anu "tomo tawa" anu "soweli seli" anu "akesi
+  * ijo musi li "ijo pi tawa nasa" anu "tomo tawa" anu "soweli seli" anu "akesi
 seli" la, ona li kama jo e nanpa pona 5. <!-- bishops, rooks and their promoted
 forms are worth 5. -->
 
-* * ijo musi li "jan lawa" la, ala li ante. <!-- the kings don't count. -->
+  * ijo musi li "jan lawa" la, ala li ante. <!-- the kings don't count. -->
 
-* * ijo musi li ijo musi ante la, ona li kama jo e nanpa pona 1. <!-- other
+  * ijo musi li ijo musi ante la, ona li kama jo e nanpa pona 1. <!-- other
 pieces are worth 1 point. -->
 
-* * ni li pini la, jan musi wan li jo e mute pi nanpa pona ni la: ona li lili tawa
+  * ni li pini la, jan musi wan li jo e mute pi nanpa pona ni la: ona li lili tawa
 24, ona li anpa. <!-- if a player gets less than 24 points, they lose. -->
 
 ## suli kiwen pi tenpo tawa <!-- time control -->

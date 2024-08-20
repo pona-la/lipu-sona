@@ -155,10 +155,10 @@ ijo musi weka li ken ala tawa. <!-- captured pieces can't move. -->
   nasin \#8 la, ona li kama ijo musi ante. jan musi ona ken wile
   ante wan: <!-- pawns can promote if they reach the last row -->
 
-* * ona li kama jan utala lon soweli tawa
-* * ona li kama soweli suli utala
-* * ona li kama tomo kiwen tawa
-* * ona li kama jan lawa meli.
+  * ona li kama jan utala lon soweli tawa
+  * ona li kama soweli suli utala
+  * ona li kama tomo kiwen tawa
+  * ona li kama jan lawa meli.
 
 ```
 +---+---+---+---+---+---+---+---+

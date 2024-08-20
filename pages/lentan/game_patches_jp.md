@@ -122,4 +122,4 @@ li kepeken e nasin HTTPS.
 
 ---
 
-[Main page](index.html)
+[Main page](lentan)

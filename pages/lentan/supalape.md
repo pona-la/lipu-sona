@@ -39,7 +39,7 @@ border-radius: 4pt;
 
 ## insa pi supa lape
 
-"insa pi supa lape" is a [sitelen pona](sitelen_pona.html) font I designed,
+"insa pi supa lape" is a [sitelen pona](en/sitelen_pona) font I designed,
 based on "[Bedstead](https://bjh21.me.uk/bedstead/)". It's a vector font that is
 built from a bunch of 5x9 bitmaps for each character. The font includes all 120
 official words, several community-added ones (such as tonsi and leko) and
@@ -257,5 +257,5 @@ page](https://gitlab.com/dev_urandom/insa-pi-supa-lape/), and is also provided
 in a more standard form on the [releases
 page](https://gitlab.com/dev_urandom/insa-pi-supa-lape/-/releases).
 
-[Top page](index.html)
+[Top page](lentan)
 

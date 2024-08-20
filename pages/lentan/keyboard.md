@@ -95,4 +95,4 @@ characters shown when holding the corresponding key down):
 └──────┴────┴────────────────────┴────┴──────┘
 </pre>
 
-[Top page](index.html)
+[Top page](lentan)
