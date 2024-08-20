@@ -2,7 +2,7 @@
 % /dev/urandom
 % 2020-12-16
 
-<h1><a name="p1" id="p1" href="1.html">page 1</a></h1>
+<h1><a name="p1" id="p1" href="en/1">page 1</a></h1>
 
 > * soweli li suli.
 > * ona li lili.
@@ -10,7 +10,7 @@
 > * ona li soweli.
 > * sina ike.
 
-<h1><a name="p2" id="p2" href="2.html">page 2</a></h1>
+<h1><a name="p2" id="p2" href="en/2">page 2</a></h1>
 
 > * My wife is good.
 > * Your husband is (big/important).
@@ -24,7 +24,7 @@
 > * jan lili mije sina li wawa.
 > * kili lili li suwi.
 
-<h1><a name="p3" id="p3" href="3.html">page 3</a></h1>
+<h1><a name="p3" id="p3" href="en/3">page 3</a></h1>
 
 > * A child is crying (emitting eye water).
 > * (He/she/they) look at a document.
@@ -39,7 +39,7 @@
 > * jan utala ike li lukin e tomo sina.
 > * ilo mi li pali pona.
 
-<h1><a name="p4" id="p4" href="4.html">page 4</a></h1>
+<h1><a name="p4" id="p4" href="en/4">page 4</a></h1>
 
 > * I don't eat animals (i.e. meat).
 > * Your friend is talking about the land and the water.
@@ -53,7 +53,7 @@
 > * sitelen sina li pona lukin.
 > * jan pona mi li jo e kala e kili li pali e moku pona.
 
-<h1><a name="p5" id="p5" href="5.html">page 5</a></h1>
+<h1><a name="p5" id="p5" href="en/5">page 5</a></h1>
 
 > * Your community is very different.
 > * A bad person broke my tools.
@@ -67,7 +67,7 @@
 > * sina ante lukin.
 > * tomo ni li awen e seli.
 
-<h1><a name="p6" id="p6" href="6.html">page 6</a></h1>
+<h1><a name="p6" id="p6" href="en/6">page 6</a></h1>
 
 > * They are speaking to their father on a phone.
 > * I don't like sweet food / Sweet food is bad for me.
@@ -81,7 +81,7 @@
 > * mi pona e tomo tan sina.
 > * ona li lukin e lipu lon tomo lipu.
 
-<h1><a name="p7" id="p7" href="7.html">page 7</a></h1>
+<h1><a name="p7" id="p7" href="en/7">page 7</a></h1>
 
 > * Don't eat this fruit/vegetable/mushroom, Lisa!
 > * The Kansas team defeated all other teams.
@@ -95,7 +95,7 @@
 > * jan sama mije sina li sama mute lukin sina.
 > * o tawa ala lon ma.
 
-<h1><a name="p8" id="p8" href="8.html">page 8</a></h1>
+<h1><a name="p8" id="p8" href="en/8">page 8</a></h1>
 
 > * I like the color red.
 > * Give me the yellow juice.
@@ -109,7 +109,7 @@
 > * mi lon tomo loje.
 > * jan nasa li kute ala e mi.
 
-<h1><a name="p9" id="p9" href="9.html">page 9</a></h1>
+<h1><a name="p9" id="p9" href="en/9">page 9</a></h1>
 
 > * I don't like communities with lots of people.
 > * In this house, I speak toki pona and English.
@@ -124,7 +124,7 @@
 > * meli ni pi linja walo li pona lukin.
 > * sina toki ala tawa jan la sina jo ala e jan pona.
 
-<h1><a name="p10" id="p10" href="10.html">page 10</a></h1>
+<h1><a name="p10" id="p10" href="en/10">page 10</a></h1>
 
 > * Open the door.
 > * In a moment, I'll head towards you.
@@ -140,7 +140,7 @@
 > * tenpo suli la mi pali e ni. / mi pali e ni lon tenpo suli.
 > * mi awen kama sona e toki pona.
 
-<h1><a name="p11" id="p11" href="11.html">page 11</a></h1>
+<h1><a name="p11" id="p11" href="en/11">page 11</a></h1>
 
 > * I would like to trade these three large animals.
 > * Yesterday, I was in school/college/university ("house of knowledge").
@@ -154,7 +154,7 @@
 > * (tenpo mun / tenpo sike mun) nanpa luka li (pona / suwi).
 > * sina jo e ilo mute pi kalama musi a!
 
-<h1><a name="p12" id="p12" href="12.html">page 12</a></h1>
+<h1><a name="p12" id="p12" href="en/12">page 12</a></h1>
 
 > * If you want to learn toki pona, the official book is the best way to do so.
 > * Today I feel very good.
@@ -170,7 +170,7 @@
 > * mi lukin e lipu. tenpo lili la ona li pini.
 > * mi ken toki pi pona mute kepeken toki pona.
 
-<h1><a name="p13" id="p13" href="13.html">page 13</a></h1>
+<h1><a name="p13" id="p13" href="en/13">page 13</a></h1>
 
 > * The raccoon is an amazing animal.
 > * The (trans / non-binary) community is fearless.
@@ -187,7 +187,7 @@
 > * sina wile e ni: mi kipisi e sike pan kepeken nasin seme? / sina wile e ni:
 > mi tu e sike pan kepeken nasin seme?
 
-<h1><a name="sp" id="sp" href="sitelen_pona.html">the sitelen pona page</a></h1>
+<h1><a name="sp" id="sp" href="en/sitelen_pona">the sitelen pona page</a></h1>
 > This part of this document is written using sitelen pona. Can you understand
 > it?
 >
@@ -195,4 +195,4 @@
 > a writing system where one character means one word, but all characters look
 > related to their meanings.
 
-[Back to main page](index.html)
+[Back to main page](.)
