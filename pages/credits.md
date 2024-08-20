@@ -36,4 +36,4 @@ Special thanks:
 * the participants of the **ma pona pi toki pona** Discord server and the
   **toki pona** Telegram group
 
-[Top page](index.html)
+[Top page](.)

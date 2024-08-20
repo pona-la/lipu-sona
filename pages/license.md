@@ -9,6 +9,6 @@ This website's contents is available under the following licenses:
 * [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 > %warning%
-> The [Polish translation](/pl_index.html) is instead available under the terms of the [CC-BY-SA
+> The [Polish translation](pl) is instead available under the terms of the [CC-BY-SA
 > 3.0 Poland](https://creativecommons.org/licenses/by-sa/3.0/pl/) and
 > [4.0](https://creativecommons.org/licenses/by-sa/4.0/) licenses.

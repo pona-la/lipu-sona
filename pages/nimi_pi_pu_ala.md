@@ -281,7 +281,7 @@ ilo sona Pisi (PC) en ilo sona Makintosi (Macintosh) en ilo toki Apon (iPhone)
 en ilo toki Antowi (Android) en ilo mute ante li ken pali kepeken __linluwi__. 
 
 lipu ni li lon __linluwi__, li jo e nimi nasin
-`https://lipu-sona.pona.la/nimi_pi_pu_ala.html`.
+`https://lipu-sona.pona.la/nimi_pi_pu_ala/`.
 
 ## misikeke
 
