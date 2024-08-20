@@ -26,371 +26,371 @@ Ekzemple, "moku soweli" povas signifi "besta manĝaĵo" aŭ "viando", depende de
 
 ---
 
-#### [a](eo_7.html)
+#### [a](eo/7)
 * partikulo: (emocia interjekcio, emfazo aŭ konfirmo)
 
-#### [akesi](eo_12.html)
+#### [akesi](eo/12)
 * substantivo: lacerto, reptilio
 
 > %averto%
 > La vorto "akesi" signifis "'malbela' besto" ankaŭ, sed la dua
 > oficiala Tokipona libro forigis ĉi tiun signifon.
 
-#### [ala](eo_2.html)
+#### [ala](eo/2)
 * substantivo: nenio
 * adjektivo: ne, malplena
 * nombro: nulo
 
-#### [alasa](eo_12.html)
+#### [alasa](eo/12)
 * verbo: ĉasi, kolekti
 * verbo (nekonvencia): serĉi
 * antaŭverbo (nekonvencia): provi, peni (fari ion)
 
-#### [ale/ali](eo_2.html)
+#### [ale/ali](eo/2)
 * substantivo: ĉio, universo
 * adjektivo: ĉiu, abunda
 * nombro: ĉio/senfino (simpla sistemo), 100 (malsimpla sistemo)
 
-#### [anpa](eo_7.html)
+#### [anpa](eo/7)
 * substantivo (malnova/ne-pu): malsupra parto
 * adjektivo: kliniĝanta, malsupra, humila, dependa
 * verbo sen objekto: kliniĝi
 * verbo kun objekto: konkeri, venki
 
-#### [ante](eo_5.html)
+#### [ante](eo/5)
 * substantivo: diferenco, ŝanĝo, (nekonvencia) versio
 * adjektivo: diferenca, alia, ŝanĝita
 * verbo: ŝanĝi, ŝanĝiĝi
 
-#### [anu](eo_7.html)
+#### [anu](eo/7)
 * partikulo: aŭ
 
-#### [awen](eo_5.html)
+#### [awen](eo/5)
 * substantivo (nekonvencia): stabileco, sekureco, atendo
 * adjektivo: konservita, sekura, eltenanta, rezistema, atenda, resta
 * verbo: konservi, atendi, rezisti, protekti
 * antaŭverbo: daŭrigi, plu (fari ion)
 
-#### [e](eo_3.html)
+#### [e](eo/3)
 * partikulo: (specifi objekton)
 
-#### [en](eo_5.html)
+#### [en](eo/5)
 * partikulo: kaj (kombinas subjektojn)
 
-#### [esun](eo_11.html)
+#### [esun](eo/11)
 * substantivo: komerco, transakcio, interŝanĝo
 * adjektivo: pri komerco/interŝanĝo, komerca
 * verbo: komerci, interŝanĝi
 
-#### [ijo](eo_3.html)
+#### [ijo](eo/3)
 * substantivo: aĵo, objekto, afero
 * adjektivo: materiala, fizika
 
-#### [ike](eo_1.html)
+#### [ike](eo/1)
 * substantivo: malbono
 * adjektivo: malbona, kompleksa, nenecesa
 * verbo (nekonvencia): malbonigi
 
-#### [ilo](eo_3.html)
+#### [ilo](eo/3)
 * substantivo: ilo, maŝino, aparato
 * adjektivo: utila, (nekonvencia) elektronika, metala
 
-#### [insa](eo_7.html)
+#### [insa](eo/7)
 * substantivo: internoj, enhavoj, centro, stomako
 * adjektivo: centra, interna, inter
 
-#### [jaki](eo_8.html)
+#### [jaki](eo/8)
 * substantivo: malpuraĵo, malŝparo
 * adjektivo: malpura, aĉa, venena, malsana
 * verbo: malpurigi
 
-#### [jan](eo_2.html)
+#### [jan](eo/2)
 * substantivo: homo, homoj, homaro, iu
 * adjektivo: homa, personala
 
-#### [jelo](eo_8.html)
+#### [jelo](eo/8)
 * substantivo/adjektivo: (la koloro) flava (kaj ĝiaj nuancoj)
 * verbo: flavigi
 
-#### [jo](eo_4.html)
+#### [jo](eo/4)
 * substantivo: (nekonvencia) posedo, posedaĵo
 * verbo: havi, porti, enhavi, teni
 
-#### [kala](eo_4.html)
+#### [kala](eo/4)
 * substantivo: fiŝo, mara besto, mara estaĵo
 
-#### [kalama](eo_5.html)
+#### [kalama](eo/5)
 * substantivo: sono, bruo
 * adjektivo: laŭta, brua, sonfarada
 * verbo: fari bruon, deklami, ludi (instrumenton)
 
-#### [kama](eo_10.html)
+#### [kama](eo/10)
 * substantivo: evento, alveno
 * adjektivo: alvena, venanta, estonteco, alvokis
 * antaŭverbo: fariĝi, estiĝi (io), sukcesi
 
-#### [kasi](eo_4.html)
+#### [kasi](eo/4)
 * substantivo: planto, herbo, folio
 
-#### [ken](eo_10.html)
+#### [ken](eo/10)
 * substantivo: ebleco, (nekonvencia) rajto, libereco
 * adjektivo (nekonvencia): ebla
 * antaŭverbo: povi (fari ion), rajti (fari ion)
 
-#### [kepeken](eo_6.html)
+#### [kepeken](eo/6)
 * substantivo: uzo, (nekonvencia) praktiko
 * verbo w/ obj: uzi ion
 * prepozicio: (fari ion) per, kun la helpo de
 
-#### [kili](eo_1.html)
+#### [kili](eo/1)
 * substantivo: frukto, legomo, fungo
 
-#### [kiwen](eo_4.html)
+#### [kiwen](eo/4)
 * substantivo: malmolaĵo, metalo, ŝtono, solido
 * adjektivo: malmola, metala, solida
 
-#### [ko](eo_4.html)
+#### [ko](eo/4)
 * substantivo: pulvoro, argilo, pasto, duonsolida
 
-#### [kon](eo_12.html)
+#### [kon](eo/12)
 * substantivo: aero, esenco, spirito, (nekonvencia) gaso
 * adjektivo: nevidebla, efemera, (nekonvencia) gasa
 
-#### [kule](eo_8.html)
+#### [kule](eo/8)
 * substantivo: koloro, (malofta) genro
 * adjektivo: bunta, pentrita
 * verbo: farbi, kolorigi
 
-#### [kulupu](eo_5.html)
+#### [kulupu](eo/5)
 * substantivo: grupo, komunumo, firmao, socio, nacio, tribo
 * adjektivo: komunuma, socia
 
-#### [kute](eo_7.html)
+#### [kute](eo/7)
 * substantivo: orela, aŭdeblo
 * adjektivo: ...-sonante
 * verbo: aŭdi, aŭskulti, obei
 
-#### [la](eo_9.html)
+#### [la](eo/9)
 * partikulo: "se/kiam" (prezenti kuntekston)
 
-#### [lape](eo_5.html)
+#### [lape](eo/5)
 * substantivo: dormo, ripozo
 * adjektivo: dorma, dormema
 * verbo: dormi, ripozi
 
-#### [laso](eo_8.html)
+#### [laso](eo/8)
 * substantivo/adjektivo: (la koloro) blua, verda (kaj ĝiaj nuancoj)
 * verbo: bluigi, verdigi
 
-#### [lawa](eo_7.html)
+#### [lawa](eo/7)
 * substantivo: kapo, menso
 * adjektivo: ĉefa, primara, kontrolanta, rega
 * verbo: kontroli, direkti, gvidi, posedi, regi
 
-#### [len](eo_9.html)
+#### [len](eo/9)
 * substantivo: ŝtofo, vestaĵo, tavolo de privateco
 * adjektivo: vestita, el ŝtofo
 * verbo: vesti, havigi tavolon de privateco
 
-#### [lete](eo_9.html)
+#### [lete](eo/9)
 * substantivo: malvarmeco
 * adjektivo: malvarma, malvarmeta, kruda, nekuirita
 * verbo: malvarmigi
 
-#### [li](eo_1.html)
+#### [li](eo/1)
 * partikulo: (inter subjekto kaj verbo/adjektivo)
 
-#### [lili](eo_1.html)
+#### [lili](eo/1)
 * substantivo: malgrandeco
 * adjektivo: malgranda, malmultaj, juna
 * verbo: malgrandigi
 
-#### [linja](eo_9.html)
+#### [linja](eo/9)
 * substantivo: longa fleksebla objekto, ŝnuro, haroj
 
-#### [lipu](eo_3.html)
+#### [lipu](eo/3)
 * substantivo: plata objekto, libro, dokumento, papero, paĝo, rekordo, retpaĝo
 * adjektivo: plata, uzata kiel lipu, lipu-simila, de lipu
 
-#### [loje](eo_8.html)
+#### [loje](eo/8)
 * substantivo/adjektivo: (la koloro) ruĝa (kaj ĝiaj nuancoj)
 * verbo: ruĝigi
 
-#### [lon](eo_6.html)
+#### [lon](eo/6)
 * substantivo: vero, vivo, ekzistado
 * adjektivo: reala, vera, aktuala, ekzistanta
 * verbo w/o object: veri, ekzisti
 * prepozicio: en, ĉe, sur
 
-#### [luka](eo_9.html)
+#### [luka](eo/9)
 * substantivo: mano, brako
 * nombro: 5 (malsimpla sistemo)
 
-#### [lukin](eo_3.html)
+#### [lukin](eo/3)
 * substantivo: okulo, vizio
 * adjektivo: ...-aspekta, vida
 * verbo: rigardi, vidi, legi
 * antaŭverbo: serĉi (fari ion)
 
-#### [lupa](eo_10.html)
+#### [lupa](eo/10)
 * substantivo: truo, pordo, orifico, fenestro
 
-#### [ma](eo_4.html)
+#### [ma](eo/4)
 * substantivo: tero, ekstero, teritorio, lando
 
-#### [mama](eo_2.html)
+#### [mama](eo/2)
 * substantivo: gepatro, prapatro, kreinto, origino, prizorganto
 * verbo: krei, gepatri, prizorgi
 
-#### [mani](eo_11.html)
+#### [mani](eo/11)
 * substantivo: mono, granda malsovaĝigita besto
 * adjektivo: (nekonvencia) riĉa
 
-#### [meli](eo_2.html)
+#### [meli](eo/2)
 * substantivo: virino, ino, edzino
 * adjektivo: ina
 
-#### [mi](eo_1.html)
+#### [mi](eo/1)
 * substantivo: mi, min, ni, nin 
 * adjektivo: mia, nia
 
-#### [mije](eo_2.html)
+#### [mije](eo/2)
 * substantivo: viro, iĉo, edzo
 * adjektivo: iĉa
 
-#### [moku](eo_2.html)
+#### [moku](eo/2)
 * substantivo: manĝaĵo
 * adjektivo: manĝebla, de manĝaĵo
 * verbo: manĝi, trinki, gluti
 
-#### [moli](eo_8.html)
+#### [moli](eo/8)
 * substantivo: morto
 * adjektivo: mortita, mortanta
 * verbo: morti, mortigi
 
-#### [monsi](eo_6.html)
+#### [monsi](eo/6)
 * substantivo: dorso, malantaŭo, pugo
 * adjektivo: malantaŭa
 
-#### [mu](eo_7.html)
+#### [mu](eo/7)
 * (iu ajn besta sono)
 
-#### [mun](eo_11.html)
+#### [mun](eo/11)
 * substantivo: luno, stelo, nokta ĉiela objekto
 * adjektivo: luna, stela
 
-#### [musi](eo_9.html)
+#### [musi](eo/9)
 * substantivo: ludo, arto
 * adjektivo: amuzanta, arta
 * verbo: amuzi, ludi, amuziĝi
 
-#### [mute](eo_5.html)
+#### [mute](eo/5)
 * substantivo: kvanto
 * adjektivo: multa, pli
 * nombro: 3 aŭ pli (simpla sistemo), 20 (malsimpla sistemo)
 
-#### [nanpa](eo_11.html)
+#### [nanpa](eo/11)
 * substantivo: nombro
 * adjektivo: -a (ordinala indikilo), matematika, nombra 
     (nekonvencia) cifereca
 
-#### [nasa](eo_8.html)
+#### [nasa](eo/8)
 * adjektivo: stranga, malofta, ebria
 
-#### [nasin](eo_10.html)
+#### [nasin](eo/10)
 * substantivo: vojo, strato, direktivo, maniero, kutimo
 * adjektivo: strat-, kutima
 * verbo (nekonvencia): gvidi, montri la vojon
 
-#### [nena](eo_10.html)
+#### [nena](eo/10)
 * substantivo: monteto, monto, butono, nazo
 * adjektivo: monteta, monta
 
-#### [ni](eo_5.html)
+#### [ni](eo/5)
 * substantivo/adjektivo: ĉi tiu, tiu
 
-#### [nimi](eo_7.html)
+#### [nimi](eo/7)
 * substantivo: vorto, nomo
 
-#### [noka](eo_6.html)
+#### [noka](eo/6)
 * substantivo: piedo, kruro, fundo, malsupra parto, subo
 
-#### [o](eo_7.html)
+#### [o](eo/7)
 * partikulo: (voki al homoj, komandoj)
 
-#### [olin](eo_3.html)
+#### [olin](eo/3)
 * substantivo: amo, kompato, korinklino, respekto
 * adjektivo: amata, ŝatata, respektata
 * verbo: ami, respekti
 
-#### [ona](eo_1.html)
+#### [ona](eo/1)
 * substantivo: li, ŝi, ili, ĝi 
 * adjektivo: lia, ŝia, ilia, ĝia
 
-#### [open](eo_10.html)
+#### [open](eo/10)
 * substantivo: komenco
 * adjektivo: komenca
 * verbo: komenci, ŝalti
 * antaŭverbo: komenci (fari ion)
 
-#### [pakala](eo_5.html)
+#### [pakala](eo/5)
 * substantivo: domaĝo, eraro
 * adjektivo: rompita, malĝusta
 * verbo: rompi, fari erarojn
 * partikulo: (ĝenerala sakraĵo)
 
-#### [pali](eo_3.html)
+#### [pali](eo/3)
 * substantivo: laboro
 * adjektivo: laboranta
 * verbo: (pri)labori, fari
 
-#### [palisa](eo_9.html)
+#### [palisa](eo/9)
 * substantivo: longa solida objekto, branĉo, bastono, (nekonvencia) longeco
 * adjektivo: longa
 
-#### [pan](eo_12.html)
+#### [pan](eo/12)
 * substantivo: pano, greno, maizo, rizo, pico
 
-#### [pana](eo_3.html)
+#### [pana](eo/3)
 * adjektivo: (nekonvencia) donita, sendita, ellasita
 * verbo: doni, sendi, elsendi, lasi
 
-#### [pi](eo_9.html)
+#### [pi](eo/9)
 * partikulo: "de" (regrupigas du aŭ pli modifilojn)
 
-#### [pilin](eo_12.html)
+#### [pilin](eo/12)
 * substantivo: koro, sento, tuŝo, senco
 * adjektivo: sentanta, tuŝbazita
 * verbo: tuŝi, pensi, senti
 
-#### [pimeja](eo_8.html)
+#### [pimeja](eo/8)
 * substantivo: (la koloro) nigra (kaj ĝiaj nuancoj), ombro
 * adjektivo: nigra, malhela
 * verbo: nigrigi, malheligi
 
-#### [pini](eo_10.html)
+#### [pini](eo/10)
 * substantivo: fino
 * adjektivo: fina, farita, finita, pasinteco (kun tenpo)
 * verbo: fini, fermi
 * antaŭverbo: fini/halti ion
 
-#### [pipi](eo_4.html)
+#### [pipi](eo/4)
 * substantivo: insekto, cimo
 
-#### [poka](eo_6.html)
+#### [poka](eo/6)
 * substantivo: kokso, flanko, proksima areo
 * adjektivo: najbara, proksima, apuda, flanka
 
-#### [poki](eo_11.html)
+#### [poki](eo/11)
 * substantivo: skatolo, ujo, bovlo, taso, tirkesto
 * verbo (nekonvencia): meti en skatolon
 
-#### [pona](eo_1.html)
+#### [pona](eo/1)
 * substantivo: bono, simpleco
 * adjektivo: bona, simpla, amika, paca
 * verbo: plibonigi, ripari
 
-#### [pu](eo_12.html)
+#### [pu](eo/12)
 * substantivo: la oficiala Tokipona libro
 * adjektivo: kiel dirita en la oficiala Tokipona libro
 * verbo: interagi kun la oficiala Tokipona libro
@@ -401,115 +401,115 @@ Ekzemple, "moku soweli" povas signifi "besta manĝaĵo" aŭ "viando", depende de
 > Iuj personoj en la Tokipona komunumo preferas nur uzi ĝin laŭ la verba
 > signifo, dum aliaj uzas ĝin ankaŭ laŭ aliaj signifoj.
 
-#### [sama](eo_6.html)
+#### [sama](eo/6)
 * substantivo: simileco, (ies) gefrato
 * adjektivo: simila, egala, gefrata
 * prepozicio: kiel
 
-#### [seli](eo_5.html)
+#### [seli](eo/5)
 * substantivo: varmo, varmeto, kemia reakcio, fonto de varmo
 * adjektivo: varma, varmeta
 * verbo: varmigi
 
-#### [selo](eo_9.html)
+#### [selo](eo/9)
 * substantivo: ekstera formo, ekstera tavolo, ŝelo, haŭto, limo
 * adjektivo: ekstera
 
-#### [seme](eo_7.html)
+#### [seme](eo/7)
 * partikulo: kio? kiu? (por demandoj)
 
-#### [sewi](eo_6.html)
+#### [sewi](eo/6)
 * substantivo: area supra, supro, plej alta parto, ĉielo, dio
 * adjektivo: alta, supra, dia, sankta
 
-#### [sijelo](eo_9.html)
+#### [sijelo](eo/9)
 * substantivo: korpo, fizika stato, torso
 * adjektivo: fizika, korpa
 
-#### [sike](eo_11.html)
+#### [sike](eo/11)
 * substantivo: rondo, pilko, ciklo, rado, (kun tenpo) jaro
 * adjektivo: ronda, cirkla, sfera, de jaro
 * verbo: rondigi, ĉirkaŭi
 
-#### [sin](eo_11.html)
+#### [sin](eo/11)
 * substantivo: noveco, aldono, (nekonvencia) ĝisdatigo, spico
 * adjektivo: nova, aldona, freŝa, ekstra
 * verbo: aldoni, ĝisdatigi
 
-#### [sina](eo_1.html)
+#### [sina](eo/1)
 * substantivo: vi
 * adjektivo: via
 
-#### [sinpin](eo_6.html)
+#### [sinpin](eo/6)
 * substantivo: vizaĝo, antaŭa parto, fronto, muro
 * adjektivo: vizaĝa, antaŭa
 
-#### [sitelen](eo_4.html)
+#### [sitelen](eo/4)
 * substantivo: simbolo, bildo, skribado
 * adjektivo: simbola, skribita, registrita
 * verbo: skribi, desegni, registri
 
-#### [sona](eo_10.html)
+#### [sona](eo/10)
 * substantivo: scio, informo
 * adjektivo: sciita
 * verbo: scii
 * antaŭverbo: scipovi
 
-#### [soweli](eo_1.html)
+#### [soweli](eo/1)
 * substantivo: termamulo, besto
 
-#### [suli](eo_1.html)
+#### [suli](eo/1)
 * substantivo: grandeco
 * adjektivo: granda, peza, alta, grava, plenkreskula
 * verbo: kreski, grandigi, grandiĝi
 
-#### [suno](eo_11.html)
+#### [suno](eo/11)
 * substantivo: suno, lumo, brilo, fonto de lumo
 * adjektivo: suna, hela
 * verbo: lumigi, brili
 
-#### [supa](eo_12.html)
+#### [supa](eo/12)
 * substantivo: horizontala surfaco
 
-#### [suwi](eo_2.html)
+#### [suwi](eo/2)
 * substantivo: (nekonvencia) dolĉaĵoj, aromoj
 * adjektivo: dolĉa, aroma, bela, adorinda
 
-#### [tan](eo_6.html)
+#### [tan](eo/6)
 * substantivo: kaŭzo, kialo, origino
 * adjektivo: origina
 * verbo kun objekto (nekonvencia): kaŭzi
 * prepozicio: de, pro
 
-#### [taso](eo_12.html)
+#### [taso](eo/12)
 * partikulo (ĉe la komenco de frazo): sed, tamen
 * adjektivo: nur
 
-#### [tawa](eo_6.html)
+#### [tawa](eo/6)
 * substantivo: movado
 * adjektivo: movanta
 * verbo: movi
 * prepozicio: al, por, laŭ, opinie de
 
-#### [telo](eo_3.html)
+#### [telo](eo/3)
 * substantivo/adjektivo: akvo, fluido, likvo
 * adjektivo: malseka, fluida, likva
 * verbo: akvumi, purigi
 
-#### [tenpo](eo_10.html)
+#### [tenpo](eo/10)
 * substantivo: tempo, momento, okazo
 * adjektivo: tempa
 
-#### [toki](eo_4.html)
+#### [toki](eo/4)
 * substantivo: parolado, konversacio, lingvo
 * adjektivo: parola, konversacia
 * verbo: paroli, diri, uzi lingvon, pensi
 
-#### [tomo](eo_3.html)
+#### [tomo](eo/3)
 * substantivo: domo, konstruaĵo, strukturo, endoma spaco, ĉambro
 * adjektivo: endoma
 
-#### [tonsi](x1.html)
+#### [tonsi](eo/x1)
 * substantivo: nebinara homo, transgenrulo
 * adjektivo: genra nekonformata, transgenra
 
@@ -517,7 +517,7 @@ Ekzemple, "moku soweli" povas signifi "besta manĝaĵo" aŭ "viando", depende de
 > "tonsi" estas la nura neoficiala vorto en ĉi tiu listo. Ĝin kreis la komunumo 
 > post kiam la oficiala libro eldoniĝis kaj ĝi estas la plej akceptita neoficiala vorto.
 
-#### [tu](eo_11.html)
+#### [tu](eo/11)
 * nombro: 2
 * substantivo: divido
 * adjektivo: dividita
@@ -531,26 +531,26 @@ Ekzemple, "moku soweli" povas signifi "besta manĝaĵo" aŭ "viando", depende de
 >
 > kulupu li tu. -- la komunumo estas dividita.
 
-#### [unpa](eo_8.html)
+#### [unpa](eo/8)
 * substantivo: sekso
 * adjektivo: seksa
 * verbo: seksumi
 
-#### [uta](eo_12.html)
+#### [uta](eo/12)
 * substantivo: buŝo, lipoj
 * adjektivo: buŝa
 
-#### [utala](eo_2.html)
+#### [utala](eo/2)
 * substantivo: batalo, defio, milito
 * adjektivo: agresema, militema
 * verbo: batali, defii
 
-#### [walo](eo_8.html)
+#### [walo](eo/8)
 * substantivo: la koloro blanka (kaj ĝiaj nuancoj)
 * adjektivo: blanka, hela
 * verbo: blankigi
 
-#### [wan](eo_11.html)
+#### [wan](eo/11)
 * nombro: 1
 * substantivo: parto (de io)
 * adjektivo: unuiĝinta, edziĝinta
@@ -568,19 +568,19 @@ Ekzemple, "moku soweli" povas signifi "besta manĝaĵo" aŭ "viando", depende de
 > 
 > kulupu mute li wan -- multaj (aŭ 20) komunumoj estas unuiĝintaj.
 
-#### [waso](eo_4.html)
+#### [waso](eo/4)
 * substantivo: birdo, fluganta estaĵo
 
-#### [wawa](eo_2.html)
+#### [wawa](eo/2)
 * substantivo: forteco, potenco, energio
 * adjektivo: forta, potenca, vigla
 
-#### [weka](eo_12.html)
+#### [weka](eo/12)
 * substantivo: foresto, malproksimeco
 * adjektivo: foresta, fora, malproksima
 * verbo: forigi
 
-#### [wile](eo_10.html)
+#### [wile](eo/10)
 * substantivo: deziro, volo, bezono
 * adjektivo: dezirata, bezonata, postulata
 * verbo: voli ion
@@ -588,4 +588,4 @@ Ekzemple, "moku soweli" povas signifi "besta manĝaĵo" aŭ "viando", depende de
 
 ---
 
-[Unua paĝo](eo_index.html)
+[Unua paĝo](eo)
