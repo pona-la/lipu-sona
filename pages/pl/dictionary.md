@@ -573,4 +573,4 @@ funkcję).
 
 ---
 
-[Strona początkowa](pl_index.html)
+[Strona początkowa](pl)

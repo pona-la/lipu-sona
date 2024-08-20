@@ -2,7 +2,7 @@
 % /dev/urandom
 % 2021-02-26
 
-<h1><a name="p1" id="p1" href="pl_1.html">strona 1</a></h1>
+<h1><a name="p1" id="p1" href="pl/1">strona 1</a></h1>
 
 > * Zwierzęta są ważne.
 > * On jest mały.
@@ -16,7 +16,7 @@
 > * ona li soweli.
 > * sina ike.
 
-<h1><a name="p2" id="p2" href="pl_2.html">strona 2</a></h1>
+<h1><a name="p2" id="p2" href="pl/2">strona 2</a></h1>
 
 > * Moja żona jest dobra.
 > * Twój mąż jest wysoki/ważny.
@@ -30,7 +30,7 @@
 > * jan lili mije sina li wawa.
 > * kili lili li suwi.
 
-<h1><a name="p3" id="p3" href="pl_3.html">strona 3</a></h1>
+<h1><a name="p3" id="p3" href="pl/3">strona 3</a></h1>
 
 > * Dziecko płacze („wydziela oczny płyn”).
 > * On/ona/ono patrzy na dokument.
@@ -45,7 +45,7 @@
 > * jan utala ike li lukin e tomo sina.
 > * ilo mi li pali pona.
 
-<h1><a name="p4" id="p4" href="pl_4.html">strona 4</a></h1>
+<h1><a name="p4" id="p4" href="pl/4">strona 4</a></h1>
 
 > * Nie jem zwierząt (tj. mięsa).
 > * Twój przyjaciel mówi o ziemi i o wodzie.
@@ -59,7 +59,7 @@
 > * sitelen sina li pona lukin.
 > * jan pona mi li jo e kala e kili li pali e moku pona.
 
-<h1><a name="p5" id="p5" href="pl_5.html">strona 5</a></h1>
+<h1><a name="p5" id="p5" href="pl/5">strona 5</a></h1>
 
 > * Twoja społeczność bardzo się różni.
 > * Zły człowiek popsuł moje narzędzia.
@@ -73,7 +73,7 @@
 > * sina ante lukin.
 > * tomo ni li awen e seli.
 
-<h1><a name="p6" id="p6" href="pl_6.html">strona 6</a></h1>
+<h1><a name="p6" id="p6" href="pl/6">strona 6</a></h1>
 
 > * Ona rozmawia ze swoim ojcem przez telefon.
 > * Nie lubię słodkiego jedzenia. / Słodkie jedzenie mi szkodzi.
@@ -87,7 +87,7 @@
 > * mi pona e tomo tan sina.
 > * ona li lukin e lipu lon tomo lipu.
 
-<h1><a name="p7" id="p7" href="pl_7.html">strona 7</a></h1>
+<h1><a name="p7" id="p7" href="pl/7">strona 7</a></h1>
 
 > * Nie jest tego owocu/warzywa/grzyba, Lisa!
 > * Drużyna z Katowic pokonała wszystkie inne drużyny.
@@ -101,7 +101,7 @@
 > * jan sama mije sina li sama mute lukin sina.
 > * o tawa ala lon ma.
 
-<h1><a name="p8" id="p8" href="pl_8.html">strona 8</a></h1>
+<h1><a name="p8" id="p8" href="pl/8">strona 8</a></h1>
 
 > * Lubię kolor czerwony.
 > * Podaj mi żółty sok.
@@ -115,7 +115,7 @@
 > * mi lon tomo loje.
 > * jan nasa li kute ala e mi.
 
-<h1><a name="p9" id="p9" href="pl_9.html">strona 9</a></h1>
+<h1><a name="p9" id="p9" href="pl/9">strona 9</a></h1>
 
 > * Nie lubię społeczności, w których jest dużo ludzi.
 > * W tym domu mówię w toki ponie i po angielsku.
@@ -130,7 +130,7 @@
 > * meli ni pi linja walo li pona lukin.
 > * sina toki ala tawa jan la sina jo ala e jan pona.
 
-<h1><a name="p10" id="p10" href="pl_10.html">strona 10</a></h1>
+<h1><a name="p10" id="p10" href="pl/10">strona 10</a></h1>
 
 > * Otwórz drzwi.
 > * Za chwilę do ciebie przyjdę.
@@ -146,7 +146,7 @@
 > * tenpo suli la mi pali e ni. / mi pali e ni lon tenpo suli.
 > * mi awen kama sona e toki pona.
 
-<h1><a name="p11" id="p11" href="pl_11.html">strona 11</a></h1>
+<h1><a name="p11" id="p11" href="pl/11">strona 11</a></h1>
 
 > * Chcę kupić te trzy duże zwierzęta.
 > * Wczoraj byłam w szkole / na uniwersytecie ("dom wiedzy").
@@ -160,7 +160,7 @@
 > * (tenpo mun / tenpo sike mun) nanpa luka li (pona / suwi).
 > * sina jo e ilo mute pi kalama musi a!
 
-<h1><a name="p12" id="p12" href="pl_12.html">strona 12</a></h1>
+<h1><a name="p12" id="p12" href="pl/12">strona 12</a></h1>
 
 > * Jeśli chcesz nauczyć się języka toki pona, oficjalna książka jest najlepszym na to sposobem.
 > * Dziś czuję się dobrze.
@@ -176,7 +176,7 @@
 > * mi lukin e lipu. tenpo lili la ona li pini.
 > * mi ken toki pi pona mute kepeken toki pona.
 
-<h1><a name="p13" id="p13" href="pl_13.html">strona 13</a></h1>
+<h1><a name="p13" id="p13" href="pl/13">strona 13</a></h1>
 
 > * Szop pracz jest epickim zwierzęciem.
 > * Społeczność trans jest nieustraszona.
@@ -192,11 +192,11 @@
 > * sina wile e ni: mi kipisi e sike pan kepeken nasin seme? / sina wile e ni:
 > mi tu e sike pan kepeken nasin seme?
 
-<h1><a name="sp" id="sp" href="pl_sitelen_pona.html">strona "sitelen pona"</a></h1>
+<h1><a name="sp" id="sp" href="pl/sitelen_pona">strona "sitelen pona"</a></h1>
 > Ta część dokumentu korzysta z pisma sitelen pona. Rozumiesz je?
 >
 > zasób słownictwa toki pony jest maciupki. Dzięki temu możliwe jest stworzenie
 > pisma, w którym jeden symbol odpowiada jednemu wyrazowi, a każde z tym symboli
 > obrazuje dane znaczenie.
 
-[Powrót do strony początkowej](pl_index.html)
+[Powrót do strony początkowej](pl)
