@@ -35,4 +35,4 @@ Agradecimentos especiais:
 * os participantes do servidor do Discord **ma pona pi toki pona** e do grupo
   de Telegram de toki pona.
 
-[Índice](pt_index.html)
+[Índice](pt)
