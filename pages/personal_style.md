@@ -46,4 +46,4 @@ commonly.
 
 * I use "pu" as all possible parts of speech, not just as a verb.
 
-[Back to top page](index.html)
+[Back to top page](.)
