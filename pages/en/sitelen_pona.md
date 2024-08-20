@@ -114,7 +114,7 @@ Here's some basic text written in sitelen pona.
 wan li toki e nimi wan. sitelen ale li lukin sama kon
 ona.](/sitelen_pona_example.png)
 
-[Translation](answers.html#sp)
+[Translation](en/answers#sp)
 
 For some other texts written in sitelen pona, including a page that tries to
 teach someone to read it without using any other writing system, check out the
@@ -149,7 +149,7 @@ the most common ones.
    community-created words.
 
  * I have also designed a font for sitelen pona, called "[insa pi supa
- lape](supalape.html)". It is based on the font "Bedstead"(hence the name) and
+ lape](lentan/supalape)". It is based on the font "Bedstead"(hence the name) and
 uses the same algorithm to convert small bitmaps of different characters into a
 fully-functional vector font.
 
@@ -220,8 +220,6 @@ example text](https://omniglot.com/conscripts/sitelenemoji.htm)
 
 ---
 
-[Page about other alternative writing systems](x2.html)
+[Page about other alternative writing systems](en/x2)
 
-[Top page](index.html)
-
-
+[Top page](.)
