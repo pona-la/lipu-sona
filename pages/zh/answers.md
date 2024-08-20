@@ -2,7 +2,7 @@
 % jan Mosi
 % 2024-02-13
 
-<h1><a name="p1" id="p1" href="zh_1.html">第1页</a></h1>
+<h1><a name="p1" id="p1" href="zh/1">第1页</a></h1>
 
 > * soweli li suli.
 > * ona li lili.
@@ -10,7 +10,7 @@
 > * ona li soweli.
 > * sina ike.
 
-<h1><a name="p2" id="p2" href="zh_2.html">第2页</a></h1>
+<h1><a name="p2" id="p2" href="zh/2">第2页</a></h1>
 
 > * 我的妻子很好。
 > * 你的丈夫很（大/重要）。
@@ -24,7 +24,7 @@
 > * jan lili mije sina li wawa.
 > * kili lili li suwi.
 
-<h1><a name="p3" id="p3" href="zh_3.html">第3页</a></h1>
+<h1><a name="p3" id="p3" href="zh/3">第3页</a></h1>
 
 > * 小孩在哭泣（释放眼睛水）。
 > * （他/她/他们）看文件。
@@ -39,7 +39,7 @@
 > * jan utala ike li lukin e tomo sina.
 > * ilo mi li pali pona.
 
-<h1><a name="p4" id="p4" href="zh_4.html">第4页</a></h1>
+<h1><a name="p4" id="p4" href="zh/4">第4页</a></h1>
 
 > * 我不吃动物（即肉）。
 > * 你的朋友在谈论土地和水。
@@ -53,7 +53,7 @@
 > * sitelen sina li pona lukin.
 > * jan pona mi li jo e kala e kili li pali e moku pona.
 
-<h1><a name="p5" id="p5" href="zh_5.html">第5页</a></h1>
+<h1><a name="p5" id="p5" href="zh/5">第5页</a></h1>
 
 > * 你的社区非常不一样。
 > * 坏人弄坏了我的工具。
@@ -67,7 +67,7 @@
 > * sina ante lukin.
 > * tomo ni li awen e seli.
 
-<h1><a name="p6" id="p6" href="zh_6.html">第6页</a></h1>
+<h1><a name="p6" id="p6" href="zh/6">第6页</a></h1>
 
 > * 他们在与他们的父亲打电话。
 > * 我不喜欢甜食 / 甜食对于我来说不好。
@@ -81,7 +81,7 @@
 > * mi pona e tomo tan sina.
 > * ona li lukin e lipu lon tomo lipu.
 
-<h1><a name="p7" id="p7" href="zh_7.html">第7页</a></h1>
+<h1><a name="p7" id="p7" href="zh/7">第7页</a></h1>
 
 > * 丽莎！别吃这些蘑菇！
 > * 堪萨斯队击败了所有其他队伍。
@@ -95,7 +95,7 @@
 > * jan sama mije sina li sama mute lukin sina.
 > * o tawa ala lon ma.
 
-<h1><a name="p8" id="p8" href="zh_8.html">第8页</a></h1>
+<h1><a name="p8" id="p8" href="zh/8">第8页</a></h1>
 
 > * 我喜欢红色。
 > * 给我黄色的果汁。
@@ -109,7 +109,7 @@
 > * mi lon tomo loje.
 > * jan nasa li kute ala e mi.
 
-<h1><a name="p9" id="p9" href="zh_9.html">第9页</a></h1>
+<h1><a name="p9" id="p9" href="zh/9">第9页</a></h1>
 
 > * 我不喜欢多人社群。
 > * 在这所房子里，我说英文和toki pona。
@@ -124,7 +124,7 @@
 > * meli ni pi linja walo li pona lukin.
 > * sina toki ala tawa jan la sina jo ala e jan pona.
 
-<h1><a name="p10" id="p10" href="zh_10.html">第10页</a></h1>
+<h1><a name="p10" id="p10" href="zh/10">第10页</a></h1>
 
 > * 把门开了。
 > * 一会儿，我会朝你走去。
@@ -140,7 +140,7 @@
 > * tenpo suli la mi pali e ni. / mi pali e ni lon tenpo suli.
 > * mi awen kama sona e toki pona.
 
-<h1><a name="p11" id="p11" href="zh_11.html">page 11</a></h1>
+<h1><a name="p11" id="p11" href="zh/11">page 11</a></h1>
 
 > * 我想交易这三只大动物。
 > * 昨天，我在 学校/大学（“知识之屋”）。
@@ -154,7 +154,7 @@
 > * (tenpo mun / tenpo sike mun) nanpa luka li (pona / suwi).
 > * sina jo e ilo mute pi kalama musi a!
 
-<h1><a name="p12" id="p12" href="zh_12.html">page 12</a></h1>
+<h1><a name="p12" id="p12" href="zh/12">page 12</a></h1>
 
 > * 如果你想学习toki pona，官方书籍是对此最好的方法。
 > * 今天我心情非常好（“感觉非常好”）。
@@ -170,7 +170,7 @@
 > * mi lukin e lipu. tenpo lili la ona li pini.
 > * mi ken toki pi pona mute kepeken toki pona.
 
-<h1><a name="p13" id="p13" href="13.html">page 13</a></h1>
+<h1><a name="p13" id="p13" href="zh/13">page 13</a></h1>
 
 > * 浣熊是个了不起的动物。
 > * 非二元性别社群无所畏惧.
