@@ -47,4 +47,4 @@ comumente.
 
 * Uso "pi" em todas as partes da frase, não apenas como verbo.
 
-[Voltar ao índice](pt_index.html)
+[Voltar ao índice](pt)

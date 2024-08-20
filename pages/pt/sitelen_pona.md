@@ -118,7 +118,7 @@ Aqui tem um texto básico escrito em sitelen pona.
 wan li toki e nimi wan. sitelen ale li lukin sama kon
 ona.](/sitelen_pona_example.png)
 
-[Tradução](pt_answers.html#sp)
+[Tradução](pt/answers#sp)
 
 Para outros textos escritos em sitelen pona, incluindo uma página
 que tenta ensinar alguém a lê-lo sem usar outro sistema de escrita,
@@ -150,7 +150,7 @@ O texto acima é escrito usando uma fonte chamada "linja pimeja". Mas, para most
    pela comunidade.
 
  * Eu tambem fiz uma fonte para sitelen pona, chamada "[insa pi
- supa lape](supalape.html)". É baseada na fonte "Bedstead"(daí o
+ supa lape](lentan/supalape)". É baseada na fonte "Bedstead"(daí o
  nome) e usa o mesmo algorítimo para converter bitmaps pequenos em
  caracteres diferentes em uma fonte de vetores completamente funcional.
 
@@ -215,8 +215,6 @@ web e aplicativos de mensagem.
 
 ---
 
-[Página sobre outros sistemas de escrita alternativos](pt_x2.html)
+[Página sobre outros sistemas de escrita alternativos](pt/x2)
 
-[Índice](pt_index.html)
-
-
+[Índice](pt)
