@@ -2,7 +2,7 @@
 % /dev/urandom
 % 2020-12-16
 
-<h1><a name="p1" id="p1" href="ru_1.html">страница 1</a></h1>
+<h1><a name="p1" id="p1" href="ru/1">страница 1</a></h1>
 
 > * soweli li suli.
 > * ona li lili.
@@ -10,7 +10,7 @@
 > * ona li soweli.
 > * sina ike.
 
-<h1><a name="p2" id="p2" href="ru_2.html">страница 2</a></h1>
+<h1><a name="p2" id="p2" href="ru/2">страница 2</a></h1>
 
 > * Моя жена хороша.
 > * Ваш муж (большой/важный).
@@ -24,7 +24,7 @@
 > * jan lili mije sina li wawa.
 > * kili lili li suwi.
 
-<h1><a name="p3" id="p3" href="ru_3.html">страница 3</a></h1>
+<h1><a name="p3" id="p3" href="ru/3">страница 3</a></h1>
 
 > * Ребёнок плачет ("испускает глазную воду").
 > * (Он/она/они) смотрит на документ.
@@ -39,7 +39,7 @@
 > * jan utala ike li lukin e tomo sina.
 > * ilo mi li pali pona.
 
-<h1><a name="p4" id="p4" href="ru_4.html">страница 4</a></h1>
+<h1><a name="p4" id="p4" href="ru/4">страница 4</a></h1>
 
 > * Я не ем животных (т.е. мясо).
 > * Ваш друг говорит о земле и воде.
@@ -53,7 +53,7 @@
 > * sitelen sina li pona lukin.
 > * jan pona mi li jo e kala e kili li pali e moku pona.
 
-<h1><a name="p5" id="p5" href="ru_5.html">страница 5</a></h1>
+<h1><a name="p5" id="p5" href="ru/5">страница 5</a></h1>
 
 > * Ваше сообщество очень сильно отличается (от нашего).
 > * Плохой человек поломал мои инструменты.
@@ -67,7 +67,7 @@
 > * sina ante lukin.
 > * tomo ni li awen e seli.
 
-<h1><a name="p6" id="p6" href="ru_6.html">страница 6</a></h1>
+<h1><a name="p6" id="p6" href="ru/6">страница 6</a></h1>
 
 > * Он/она разговаривает со своим отцом по телефону.
 > * Мне не нравится сладкая еда. / Сладкая еда вредна для меня.
@@ -82,7 +82,7 @@
 > * ona li lukin e lipu lon tomo lipu.
 >
 
-<h1><a name="p7" id="p7" href="ru_7.html">страница 7</a></h1>
+<h1><a name="p7" id="p7" href="ru/7">страница 7</a></h1>
 
 > * Не ешь этот (фрукт/овощ/гриб), Лиза!
 > * Московская команда победила всех остальных.
@@ -96,7 +96,7 @@
 > * jan sama mije sina li sama mute lukin sina.
 > * o tawa ala lon ma.
 
-<h1><a name="p8" id="p8" href="ru_8.html">страница 8</a></h1>
+<h1><a name="p8" id="p8" href="ru/8">страница 8</a></h1>
 
 > * Мне нравится красный цвет.
 > * Дайте мне жёлтый сок.
@@ -110,7 +110,7 @@
 > * mi lon tomo loje.
 > * jan nasa li kute ala e mi.
 
-<h1><a name="p9" id="p9" href="ru_9.html">страница 9</a></h1>
+<h1><a name="p9" id="p9" href="ru/9">страница 9</a></h1>
 
 > * Мне не нравятся сообщества с большим количеством людей.
 > * В этом доме я говорю на токи поне и по-русски.
@@ -127,7 +127,7 @@
 > * sina toki ala e jan la sina jo ala e jan pona.
 >
 
-<h1><a name="p10" id="p10" href="ru_10.html">страница 10</a></h1>
+<h1><a name="p10" id="p10" href="ru/10">страница 10</a></h1>
 
 > * Открой дверь.
 > * Скоро я пойду к вам.
@@ -144,7 +144,7 @@
 > * mi awen kama sona e toki pona.
 >
 
-<h1><a name="p11" id="p11" href="ru_11.html">страница 11</a></h1>
+<h1><a name="p11" id="p11" href="ru/11">страница 11</a></h1>
 
 > * Мне хотелось бы продать этих трёх больших животных.
 > * Вчера, я был(а) в школе/колледже/университете ("доме знаний").
@@ -158,7 +158,7 @@
 > * (tenpo mun / tenpo sike mun) nanpa luka li (pona / suwi).
 > * sina jo e ilo mute pi kalama musi a!
 
-<h1><a name="p12" id="p12" href="ru_12.html">страница 12</a></h1>
+<h1><a name="p12" id="p12" href="ru/12">страница 12</a></h1>
 
 > * Если вы хотите выучить язык токи пона, то лучший способ это сделать -- это 
 > официальная книга.
@@ -175,7 +175,7 @@
 > * mi lukin e lipu. tenpo lili la ona li pini.
 > * mi ken toki pi pona mute kepeken toki pona.
 
-<h1><a name="p13" id="p13" href="ru_13.html">страница 13</a></h1>
+<h1><a name="p13" id="p13" href="ru/13">страница 13</a></h1>
 
 > * Енот -- это крутое животное.
 > * Странный человек говорит: Ленин - гриб.
@@ -192,7 +192,7 @@
 > * sina wile e ni: mi kipisi e sike pan kepeken nasin seme? / sina wile e ni:
 > mi tu e sike pan kepeken nasin seme?
 
-<h1><a name="sp" id="sp" href="ru_sitelen_pona.html">страница о sitelen pona</a></h1>
+<h1><a name="sp" id="sp" href="ru/sitelen_pona">страница о sitelen pona</a></h1>
 
 > Эта часть этого документа написана с помощью sitelen pona. Можете ли вы её
 > понять?
@@ -200,4 +200,4 @@
 > каждый символ соответствует одному слову, но внешний вид каждого соответствует
 > их смыслу.
 
-[Главная страница](index.html)
+[Главная страница](ru)
