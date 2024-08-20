@@ -17,7 +17,9 @@ jobs:
       - name: cd repo
         run: cd ${{ github.workspace }}
       - name: build
-        run: make
+        run: |
+            cd bin
+            make
       - name: add custom domain
         run: echo "lipu-sona.pona.la" > public/CNAME
       - name: deploy

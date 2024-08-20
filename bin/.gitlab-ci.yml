@@ -1,4 +1,7 @@
 # The base image is Alpine Linux, because it's small and awesome
+
+# Appears to be in disuse.
+
 image: alpine:latest
 
 stages:          # List of stages for jobs, and their order of execution
