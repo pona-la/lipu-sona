@@ -22,7 +22,7 @@
 > %warning%
 >
 > lipu ni li kepeken e nimi "soto", e nimi "teje". ona li nimi pi pu ala. [lipu
-> ni](nimi_pi_pu_ala.html) li toki e ni: nimi ni li toki e seme?
+> ni](nimi_pi_pu_ala/) li toki e ni: nimi ni li toki e seme?
 >
 
 ## musi Lisi Masan
@@ -273,9 +273,9 @@ kulupu ni pi ijo musi li lon:
 
 * "**kulupu nasin**" li jo e ijo musi 3 pi kule sama, pi nanpa poka.
 
-* * ijo musi "Mansu 4" en "Mansu 5" en "Mansu 6" li kulupu nasin.
+  * ijo musi "Mansu 4" en "Mansu 5" en "Mansu 6" li kulupu nasin.
 
-* * sina ken pali e kulupu nasin kepeken ijo nanpa taso.
+  * sina ken pali e kulupu nasin kepeken ijo nanpa taso.
 
 * "**kulupu sama**" li jo e ijo musi 3 sama.
 
@@ -299,11 +299,11 @@ o sona e nasin Jaku pi pali kiwen ala ni:
 
 * **"nasin Jakupa"**. o jo e kulupu pi ijo musi ni:
 
-* * ijo akesi.
+  * ijo akesi.
 
-* * ijo kon ni: sina jan musi pi nasin sama.
+  * ijo kon ni: sina jan musi pi nasin sama.
 
-* * ijo kon ni: tenpo musi pi nasin sama li lon.
+  * ijo kon ni: tenpo musi pi nasin sama li lon.
 
 * **"nasin sama 2"**. o jo e kulupu nasin 2 pi ijo sama.
 
@@ -503,7 +503,7 @@ nasin Jaku ni li lon:
 
 * **kama Lisi** (n.p.s. 1). o toki "Lisi".
 
-* * **kama Lisi, sike 1** (n.p.s. 1). ijo pona li kama lon tenpo ni: sina toki
+  * **kama Lisi, sike 1** (n.p.s. 1). ijo pona li kama lon tenpo ni: sina toki
   "Lisi". sina weka e ijo musi. jan ante li toki ala e nimi "Si", e nimi "Pon",
   e nimi "Kan". sina weka ala e ijo musi ante lon tenpo ni.
 
@@ -536,11 +536,11 @@ nasin Jaku ni li lon:
 * **kama Jakupa** (n.p.s. 1). luka sina li jo e kulupu sama anu kulupu suli pi
   ijo musi ni:
 
-* * ijo akesi
+  * ijo akesi
 
-* * ijo kon pi nasin sina
+  * ijo kon pi nasin sina
 
-* * ijo kon pi nasin tenpo
+  * ijo kon pi nasin tenpo
 
 > nasin sina li sama nasin tenpo la, sina kama jo e nanpa pona suli 2.
 
@@ -618,13 +618,13 @@ luka sina li pona tawa nasin Jaku ni la, sina kama jo e suli Jakuman.
 > * kon pi nasin Pe
 > * ijo wan ante ni: ona li sama ijo wan pi luka sina.
 
-* * ni li ken: sina jo e ijo suli ante 13. ijo musi 13 li pona tawa luka sina.
+  * ni li ken: sina jo e ijo suli ante 13. ijo musi 13 li pona tawa luka sina.
     ni li lon la, luka sina li jo e suli Jakuman 2.
 
 * **kulupu len 4**. sina jo e kulupu sama len 4. taso, ijo pona li
   pini e kulupu sama la, ona li len ala tawa nasin ni.
 
-* * ni li ken: sina jo e kulupu sama len 4. ijo pona sina li pini e kulupu lili.
+  * ni li ken: sina jo e kulupu sama len 4. ijo pona sina li pini e kulupu lili.
     ni li lon la, luka sina li jo e suli Jakuman 2.
 
 * **akesi suli 3**. sina jo e kulupu sama 3 pi ijo akesi.
@@ -665,7 +665,7 @@ taso lon sinpin ona.
 > * ijo 3 pi nanpa 9
 > * ijo nanpa pi kule sama
 
-* * ni li ken: sina jo e ijo nanpa 13. ijo 9 ante li pona tawa luka sina. ni li
+  * ni li ken: sina jo e ijo nanpa 13. ijo 9 ante li pona tawa luka sina. ni li
   lon la, nasin mute la, luka sina li jo e suli Jakuman 2.
 
 * **kulupu suli 4**. o jo e kulupu suli 4 lon luka sina.
@@ -909,7 +909,7 @@ musi Lisi Masan lon insa ona. sina ken musi lon poka ilo musi kepeken ona.
 
 sin la, mi pali e ante toki pi musi "musi Masan pi jan musi 4" ("4 Nin Uchi
 Mahjong", "４人打ち麻雀"). ante toki ni li toki kepeken toki pona. sina ken
-kama jo e lipu ante pi ante toki lon [lipu ni](game_patches.html).
+kama jo e lipu ante pi ante toki lon [lipu ni](lentan/game_patches).
 
 ## sona sin
 

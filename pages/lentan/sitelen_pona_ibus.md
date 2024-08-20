@@ -10,7 +10,7 @@ methods, such as Chinese, Korean and Japanese.
 
 A user by the name of `cominixo#5443` (aka "jan Komi") has submitted to the 
 Discord community "ma pona pi toki pona" the following guide to using IBus to 
-type [sitelen pona](sitelen_pona.html) (with codepoints as defined by the UCSUR 
+type [sitelen pona](en/sitelen_pona) (with codepoints as defined by the UCSUR 
 document). With permission, it (and the data file required) are reproduced here.
 
 ---
@@ -34,4 +34,4 @@ commands)
 
 ---
 
-* [Main page](index.html)
+* [Main page](lentan)

@@ -36,20 +36,20 @@ lipu ante li kepeken e nasin IPS la, ilo ni ale li pona:
 * ilo kon lawa Windows la, ilo [Lunar IPS](https://www.fusoya.eludevisibility.org/lips/) 
   li pona mute. o open e ilo, o pilin e nena
   "Apply IPS Patch", o toki e ijo tu ni kepeken lipu:
-* * ijo \#1 la, o pali kepeken lipu IPS seme?
-* * ijo \#2 la, o ante e lipu seme?
-* * sina pali e ni la, lipu ROM li ante.
+  * ijo \#1 la, o pali kepeken lipu IPS seme?
+  * ijo \#2 la, o ante e lipu seme?
+  * sina pali e ni la, lipu ROM li ante.
 
 * ilo kon lawa MacOS la, ilo
   [MultiPatch](http://www.romhacking.net/utilities/746) li pona. mi ken ala toki
   e ilo ni tan ni: mi sona ala e ilo MacOS.
 
 * ilo kon lawa Linux la, mi sona e ilo tu:
-* * nasin pali lipu (GUI) li pona tawa sina la, ilo
+  * nasin pali lipu (GUI) li pona tawa sina la, ilo
   [Flips](https://www.smwcentral.net/?p=section&a=details&id=11474) li pona.
   sina jo e ilo kon lawa Arch Linux la, sina ken kama jo e ona kepeken nasin
   AUR.
-* * nasin pali pi sitelen toki (command line) li pona tawa sina la, ilo
+  * nasin pali pi sitelen toki (command line) li pona tawa sina la, ilo
   [IPS.pl](https://www.zophar.net/utilities/patchutil/ips-pl.html) li pona. sina
   jo e ilo `perl` la, o kama jo e ona, o ante e ken ona tawa "ken pali" (`chmod +x
   ips.pl`), o toki e ni tawa lipu pi toki ilo: `ips.pl <lipu musi> <lipu ante>`.
@@ -70,7 +70,7 @@ li ken pana e ona. mi wile ala e ni: mi taso li jo e ken pi pali sin."
 
 tan ni, mi ken ante e musi ni. mi ken pana e lipu sin.
 
-* [lipu pi ante toki pi musi ni](jan_lawa_pi_linja_ilo.html)
+* [lipu pi ante toki pi musi ni](lentan/jan_lawa_pi_linja_ilo)
 
 -----
 
@@ -82,7 +82,7 @@ tan ni, mi ken ante e musi ni. mi ken pana e lipu sin.
 * ilo musi: ilo Pamikon (Famicom) (sama ilo Enijesu (NES))
 * toki tan: toki Nijon (日本語)
 
-musi ni li musi pi sitelen tawa pi [musi Soki](shogi.html). ona li musi #1 pi
+musi ni li musi pi sitelen tawa pi [musi Soki](lentan/shogi). ona li musi #1 pi
 musi Soki tawa ilo Pamikon.
 
 "jan Nato" pi nimi musi li jan Kunijo Nato (Kunio Naito, 内藤 國雄). tenpo pini
@@ -117,7 +117,7 @@ sitelen pona.
 * ilo musi: ilo Pamikon (Famicom) (sama ilo Enijesu (NES))
 * toki tan: toki Nijon (日本語)
 
-musi ni li musi pi sitelen tawa pi [musi Lisi Masan](riichi_mahjong.html).
+musi ni li musi pi sitelen tawa pi [musi Lisi Masan](lentan/riichi_mahjong).
 
 nimi pi musi ni li ike lili. jan musi 1 taso li ken musi kepeken musi ni. ilo
 musi li lawa e jan musi 3 ante.
