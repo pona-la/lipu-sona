@@ -97,7 +97,7 @@ Jen bazaj tekstoj skribitaj Sitelenpone.
 wan li toki e nimi wan. sitelen ale li lukin sama kon
 ona.](/sitelen_pona_example.png)
 
-[Traduko](eo_answers.html#sp)
+[Traduko](eo/answers#sp)
 
 Por pliaj tekstoj skribitaj Sitelenpone, inkluzive paĝon kiu instruas
 legadon de Sitelenpono per la signoj mem, rigardu la
@@ -129,7 +129,7 @@ plej oftaj.
  * "[linja suwi](https://linjasuwi.ap5.dev/)" estas freŝe kreita tiparo de
    alienpirate5. Ĝi oferas belaspektajn signojn kaj multe da komunume kreitaj vortoj.
 
- * Mi ambaŭ kreis tiparon por Sitelenpono, nomitan "[insa pi supa lape](supalape.html)". 
+ * Mi ambaŭ kreis tiparon por Sitelenpono, nomitan "[insa pi supa lape](lentan/supalape)". 
  Ĝi baziĝas sur la tiparo "Bedstead" (tial, la nomo) kaj uzas la saman algoritmon 
  por konverti malgrandajn bitmapojn de diversaj signoj en vektoran tiparon plene funkciantan.
 
@@ -177,8 +177,8 @@ en multaj retpaĝoj kaj mesaĝiloj.
 
 ---
 
-[Paĝo pri aliaj skribsistemoj](eo_x2.html)
+[Paĝo pri aliaj skribsistemoj](eo/x2)
 
-[Unua paĝo](eo_index.html)
+[Unua paĝo](eo)
 
 
