@@ -97,7 +97,7 @@ Oto zwykły tekst zapisany za pomocą pisma sitelen pona:
 wan li toki e nimi wan. sitelen ale li lukin sama kon
 ona.](/sitelen_pona_example.png)
 
-[Tłumaczenie](pl_answers.html#sp)
+[Tłumaczenie](pl/answers#sp)
 
 Jeśli chcesz zobaczyć więcej tekstów zapisanych pismem sitelen pona, w tym stronę,
 która uczy czytać, nie używając żadnego innego systemu pisma, odwiedź stronę
@@ -130,7 +130,7 @@ wyświetlić też na wiele innych sposobów. Oto najpopularniejsze z nich:
    i multum słów stworzonych przez społeczność.
 
  * Ja również zaprojektowałem font dla pisma sitelen pona.
-   Nazywa się on „[insa pi supa lape](supalape.html)” i opiera się na istniejącym
+   Nazywa się on „[insa pi supa lape](lentan/supalape)” i opiera się na istniejącym
    foncie „Bedstead” (i stąd pochodzi jego nazwa). Używa on tego samego algorytmu
    konwertującego znaki rozłożone na małej bitmapie i konwertuje je na w pełni
    funkcjonalny, wektorowy font.
@@ -180,6 +180,6 @@ przeglądarek internetowych i aplikacji.
 
 ---
 
-[Strona na temat alternatywnych systemów pisma](pl_x2.html)
+[Strona na temat alternatywnych systemów pisma](pl/x2)
 
-[Strona początkowa](pl_index.html)
+[Strona początkowa](pl)
