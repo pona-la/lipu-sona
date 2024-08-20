@@ -20,6 +20,7 @@ jobs:
         run: |
             cd bin
             make
+            python make-redirects.py
       - name: add custom domain
         run: echo "lipu-sona.pona.la" > public/CNAME
       - name: deploy
