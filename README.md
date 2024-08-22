@@ -1,4 +1,4 @@
-# lipu sona pona source code
+# lipu-sona.pona.la source code
 
 This is the source code to *lipu sona pona*, an educational course for the
 minimalist constructed language *toki pona*.
@@ -9,7 +9,7 @@ Included are all the files and scripts used to build it.
 
 This website uses *GitHub Pages* to automatically build and deploy the latest
 version of itself. Whenever new commits are pushed to GitHub's
-`lipu-sona-pona/lipu-sona-pona.github.io` repository, the website uses them to
+`pona-la/lipu-sona` repository, the website uses them to
 build a new version of the website.
 
 # manually building
@@ -65,16 +65,16 @@ unpack it somewhere.
 
 To clone the repository, use the following command inside the terminal:
 
-`git clone https://codeberg.org/lipu-sona-pona/lipu-sona-pona.git`
+`git clone https://github.com/pona-la/lipu-sona.git`
 
-This should copy the data to a new folder called `lipu-sona-pona`. Enter this
+This should copy the data to a new folder called `lipu-sona`. Enter this
 directory:
 
-`cd lipu-sona-pona`
+`cd lipu-sona`
 
 Now try building the website using the following command:
 
-`make`
+`make -C bin`
 
 (if you run macOS and Homebrew, you might want to use `gmake` instead.)
 
