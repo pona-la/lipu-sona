@@ -1,0 +1,985 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>musi Soki (Shogi)</title>
+		<!-- When working in a fork, change this to "/forkname/" -->
+		<!--<base href="/lipu-sona-pona/" />-->
+		<base href="/" />
+		<meta property="og:site_name" content="lipu sona pona"/>
+		<meta property="og:title" content="musi Soki (Shogi)"/>
+		<meta property="og:type" content="website"/>
+		<meta property="og:url" content="https://lipu-sona.pona.la/lentan/shogi/index.html"/>
+		<link href="style.css" rel="stylesheet" type="text/css" media="handheld,print,screen,projection,tv" title="Default Style">
+		<link rel="icon" type="image/png" href="favicon.png">
+		
+	</head>
+	<body>
+		<div class="header">
+			<div class="header_image"></div>
+			<div class="header_text">
+	<h2><a href=".">lipu sona pona</a><span class="titlesep"> | </span></h2><h3>musi Soki (Shogi)</h3>
+			</div>
+		</div>
+		<div class="middle">
+			<article class="content">
+	<div class="warning"><p>lipu ni li pini ala. ona li ken jo e sona ike. ona li ken jo ala e sona suli.
+/ this document is not finished. it can have errors or missing content.</p></div>
+
+<a name="musi-Soki--28-Shogi-29---3c--21--2d--2d--basic-description--2d--2d--3e-"></a>
+<h2>musi Soki (Shogi) <!-- basic description --></h2>
+
+<p>musi Soki li musi supa.</p>
+
+<p>ijo mute la, ona li sama <a href="lentan/chess">musi pi jan lawa moli</a>. musi Soki en musi
+pi jan lawa moli li jo e tan sama. ma Insija pi tenpo pini suli la, musi
+&ldquo;Satulanka&rdquo; (Chaturanga) li lon.  jan li tawa, ona li tawa e nasin musi, ona li
+ante e ona.  <!-- it's in many ways similar to chess, but also different. that's
+because they share an origin in Chaturanga, a game from ancient India. --></p>
+
+<p>nasin wan la, musi &ldquo;Satulanka&rdquo; li tawa tan ma Insija tawa ma Ilan, tawa ma mute
+pi nasin sewi Silami, tawa ma Losi, tawa ma Elopa. nasin ona li ante. ona li
+kama musi pi jan lawa moli. <!-- in one way, the game traveled to Iran, to the
+Muslim word, and to Europe, and changed, gradually becoming like the chess we
+know. --></p>
+
+<p>nasin ante la, ona li tawa ma Tawi, tawa ma Sonko, tawa ma Anku, tawa ma Nijon.
+nasin ona li ante lon ma ni. taso, nasin musi li awen lon ma ni. musi pi ma
+Sonko li jo e nimi &ldquo;Sijansi&rdquo; (Xiangqi). musi pi ma Nijon li musi Soki (Shogi).</p>
+
+<!-- in another way, it traveled to Thailand, China, Korea and Japan, where each
+country created its own individual variant of the game. The Chinese variant is
+called Xiangqi, and the Japanese one is Shogi.-->
+
+
+<p>musi Soki li jo e sama mute tawa musi pi jan lawa moli, taso ona li jo e ante
+mute. ijo musi li ante mute. ma musi li ante mute. ante #1 li ni: jan musi li
+anpa e ijo musi pi jan musi ante la, ona li kama jo e ona, li ken tawa e ona
+tawa ma musi. <!-- Shogi is similar to chess, but has lots of differences. The
+pieces and the board are different, but the most important difference is that
+when a player captures an opponent's piece, they gain it and can put it back on
+the board. --></p>
+
+<p>jan tu li utala kepeken musi ni tawa ni: ona li wile anpa e ijo musi &ldquo;jan lawa&rdquo;
+pi jan ante. <!-- two players compete to defeat each other's king. --></p>
+
+<a name="supa-musi--3c--21--2d--2d--board-description--2d--2d--3e-"></a>
+<h2>supa musi <!-- board description --></h2>
+
+<p>supa musi li jo e nasin 9 tan poka tawa poka ante. sin la, ona li jo e nasin
+poka 9 tan sinpin tawa monsi. nasin tu ni li kama wan la, ma
+li lon. tan ni, ma 81 li lon. <!-- the board consists of nine columns from
+side to side, each of which in turn is divided by nine rows from front to back.
+--></p>
+
+<p>nimi ma li kama tan nanpa pi nasin poka en nanpa nasin. tan ni, &ldquo;ma pi nanpa 3 en
+7&rdquo; li ma lon nasin poka nanpa 3, lon nasin nanpa 7.</p>
+
+<!-- terminology -->
+
+
+<p>o lukin noka e sitelen pi musi supa:</p>
+
+<pre><code>               poka pi jan musi walo
+         -- +--+--+--+--+--+--+--+--+--+
+    nasin ^ |  |  |  |  |  |  |  |  |  | nasin #1
+   sinpin | +--+--+--+--+--+--+--+--+--+
+          | |  |  |  |  |  |  |  |  |  | nasin #2
+    (tawa | +--+--+--+--+--+--+--+--+--+
+      jan | |  |  |  |  |  |  |  |  |  | nasin #3
+     musi | +--+--+--O--+--+--O--+--+--+
+  pimeja) | |  |  |  |  |  |  |  |  |  | ...
+          | +--+--+--+--+--+--+--+--+--+
+          | |  |  |  |  |  |  |  |  |  |
+          | +--+--+--+--+--+--+--+--+--+
+          | |  |  |  |  |  |  |  |  |  | ...
+          | +--+--+--O--+--+--O--+--+--+
+          | |  |  |  |  |  |  |  |  |  | nasin #7
+          | +--+--+--+--+--+--+--+--+--+
+          | |  |  |  |  |  |  |  |  |  | nasin #8
+    nasin | +--+--+--+--+--+--+--+--+--+
+    monsi V |  |  |  |  |  |  |  |  |  | nasin #9
+         -- +--+--+--+--+--+--+--+--+--+
+             ^ poka pi jan musi pimeja^
+             |                        |
+             |                        |
+        nasin poka #9          nasin poka #1
+</code></pre>
+
+<p>nasin &ldquo;monsi&rdquo; li nasin tawa poka pi jan musi sama.
+nasin &ldquo;sinpin&rdquo; li nasin tawa poka pi jan musi ante.</p>
+
+<a name="ijo-musi-en-tawa-ona--3c--21--2d--2d--pieces-and-basic-moves--2d--2d--3e-"></a>
+<h2>ijo musi en tawa ona <!-- pieces and basic moves --></h2>
+
+<p>jan wan li kama jan musi pimeja. jan ante li kama jan musi walo. <!-- one player
+becomes white, the other black. --></p>
+
+<p>toki Nijon la, jan musi pimeja li jo e nimi &ldquo;Sente&rdquo;. ona li toki e ni: &ldquo;tenpo
+tawa open&rdquo;. jan musi walo li jo e nimi &ldquo;Kote&rdquo; (Gote). ona li toki e ni:
+&ldquo;tenpo tawa pini&rdquo;. <!-- in Japanese, black is called "Sente" (early move), and
+white is called "Gote" (late move). --></p>
+
+<pre><code>           .
+  _-^-_   /|\ poka sinpin
+ /     \   |
+ /     \   |
+/       \  |
+/_______\  |  poka monsi
+</code></pre>
+
+<p>ijo musi ale li lukin sama ni. ona li jo e poka sinpin, e poka monsi. poka monsi
+li sama supa. poka sinpin li sama lukin sewi pi selo tomo. (anu la, ona li sama
+sewi pi sitelen &ldquo;tomo&rdquo; pi sitelen pona.) <!-- all pieces have this shape. the
+rear side is flat, and the front side looks like a roof, or at least like the
+roof of the sitelen pona character "tomo". --></p>
+
+<p>jan musi li jo e ijo musi la, sinpin pi ijo musi ona li wile nasin tawa poka pi
+supa musi pi jan musi ante. <!-- when a player has a piece, it should point to
+the other player's side of the board. --></p>
+
+<p>ijo musi ni li <strong>jan utala</strong> luka tu tu, li <strong>soweli tawa</strong> tu, li <strong>jan utala
+lawa pi kiwen lili</strong> tu, li <strong>jan utala lawa pi kiwen suli</strong> tu, li <strong>tomo kon</strong>
+tu, li <strong>ijo pi tawa nasa</strong> wan, li <strong>tomo tawa</strong> wan, li <strong>jan lawa</strong> wan.</p>
+
+<!-- the pieces are: nine pawns, two knights, two silver generals, two gold
+generals, one bishop, one rook and a king. -->
+
+
+<p>musi open la, tenpo pimeja li lon. <!-- sente/black moves first. --></p>
+
+<p>tenpo pimeja la, jan musi pimeja li ken tawa e ijo musi.
+ona li pini tawa e musi ijo la, tenpo walo li lon.</p>
+
+<p>tenpo walo la, jan musi walo li ken tawa e ijo musi.
+ona li pini tawa e musi ijo la, tenpo pimeja li lon.</p>
+
+<p>jan musi li ken tawa e ijo musi lon tenpo ona taso. <!-- player can only move
+on their turn. --></p>
+
+<p>jan musi li ken tawa e ijo musi ona taso. <!-- player can only move their
+pieces. --></p>
+
+<p>jan musi li ken tawa e ijo musi wan taso. <!-- player can only move 1 piece. --></p>
+
+<p>jan musi li ken tawa e ijo musi la, jan musi ken ala tawa ala e ijo musi. <!--
+if a player can move, they must move a piece. --></p>
+
+<p>jan musi li ken tawa e ijo musi kepeken nasin pi ijo musi ni taso. <!-- player can
+only move pieces according to their rules. --></p>
+
+<p>ijo musi li ken ala tawa ma ni: ijo musi ona li lon ona. <!-- pieces
+can't move to spaces occupied by other pieces of the same color. --></p>
+
+<p>ijo musi li ken tawa ma ni: ijo musi pi jan musi ante li lon ona. ona li pali e
+ni la, jan musi ona li anpa e ijo musi ni. jan musi li tawa e ijo musi ni tawa
+poki ona, li tawa e ijo musi ona tawa ma pini pi ijo musi pi jan musi ante.</p>
+
+<!-- a piece can move to a place occupied by other pieces, in which case it
+captures that piece. a captured piece is removed from the board into the "hand"
+and taking their place. -->
+
+
+<p>ijo musi ante li lon insa pi nasin ona la, ijo musi &ldquo;soweli tawa&rdquo;
+taso li ken tawa ma ni. <!-- only the knight can jump over pieces. --></p>
+
+<p>jan musi li kama anpa e ijo musi pi jan musi ante, ona li kama jan musi ona, li
+tawa poki ona. <!-- when a player captures another player's piece, it
+becomes theirs and moves to that player's "hand". --></p>
+
+<p>jan musi li ken tawa e ijo musi wan ona tan poki ona. ona li pali e ni la, ona
+li ken ala tawa e ijo musi ante lon tenpo ni. <!-- a player can drop pieces from
+their hand. if they do that, they can't move the pieces on the board during this
+turn. --></p>
+
+<p>ijo musi li ken tawa ma, anu ona li ken anpa e ijo musi lon ma, jan li toki e
+ni: ijo musi li &ldquo;utala&rdquo; e ma ni. <!-- if a piece can move onto a square or
+capture a piece on a square, then it "attacks" that square. --></p>
+
+<p>ijo musi li ken ala tawa ma tan ni: ijo musi ante pi jan musi sama li lon ma ni
+la, jan li toki e ni: ijo musi li &ldquo;awen&rdquo; e ma ni, e ijo musi ante ni. ijo musi
+pi jan musi ante li anpa e ijo musi ante la, ijo musi #1 li ken anpa e ijo musi
+pi jan ante ni. <!-- if a piece can't move onto a square because it's taken by
+another piece of the same player, it's "defending" that square and that piece.
+after all, if another player captures the piece on that square, the first piece
+can capture that player's piece. --></p>
+
+<a name="nasin-pi-ijo-musi--3c--21--2d--2d--piece-moves--2d--2d--3e-"></a>
+<h2>nasin pi ijo musi <!-- piece moves --></h2>
+
+<table>
+<thead>
+<tr>
+<th style="text-align:center;"> nimi pi ijo musi             </th>
+<th style="text-align:center;"> nimi lili  </th>
+<th style="text-align:center;"> nimi pi toki Nijon </th>
+<th style="text-align:center;"> sitelen Kansi </th>
+<th style="text-align:center;"> sona pi nimi Nijon </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center;"> jan utala                    </td>
+<td style="text-align:center;"> jan        </td>
+<td style="text-align:center;"> Ujo (fuhyō)        </td>
+<td style="text-align:center;"> 歩兵　（歩）  </td>
+<td style="text-align:center;"> jan pi tawa noka   </td>
+</tr>
+<tr>
+<td style="text-align:center;"> soweli tawa                  </td>
+<td style="text-align:center;"> soweli     </td>
+<td style="text-align:center;"> Kema (keima)       </td>
+<td style="text-align:center;"> 桂馬　（桂）  </td>
+<td style="text-align:center;"> soweli tawa pi kasi Kasija </td>
+</tr>
+<tr>
+<td style="text-align:center;"> jan utala lawa pi kiwen lili </td>
+<td style="text-align:center;"> kiwen lili </td>
+<td style="text-align:center;"> Kinso (ginshō)     </td>
+<td style="text-align:center;"> 銀將　（銀）  </td>
+<td style="text-align:center;"> jan utala lawa pi kiwen ilo walo </td>
+</tr>
+<tr>
+<td style="text-align:center;"> jan utala lawa pi kiwen suli </td>
+<td style="text-align:center;"> kiwen suli </td>
+<td style="text-align:center;"> Kinso (kinshō)     </td>
+<td style="text-align:center;"> 金將　（金）  </td>
+<td style="text-align:center;"> jan utala lawa pi kiwen ilo jelo </td>
+</tr>
+<tr>
+<td style="text-align:center;"> tomo kon                     </td>
+<td style="text-align:center;"> kon        </td>
+<td style="text-align:center;"> Kosa (kyōsha)      </td>
+<td style="text-align:center;"> 香車　（香）  </td>
+<td style="text-align:center;"> tomo pi ijo kon pi pilin nena pona </td>
+</tr>
+<tr>
+<td style="text-align:center;"> ijo pi tawa nasa             </td>
+<td style="text-align:center;"> nasa       </td>
+<td style="text-align:center;"> Kakuko (kakugyō)   </td>
+<td style="text-align:center;"> 角行　（角）  </td>
+<td style="text-align:center;"> ijo pi tawa pi ante palisa </td>
+</tr>
+<tr>
+<td style="text-align:center;"> tomo tawa                    </td>
+<td style="text-align:center;"> tomo       </td>
+<td style="text-align:center;"> Isa (hisha)        </td>
+<td style="text-align:center;"> 飛車　（飛）  </td>
+<td style="text-align:center;"> tomo pi tawa sewi  </td>
+</tr>
+<tr>
+<td style="text-align:center;"> jan lawa (jan pi sona suli)  </td>
+<td style="text-align:center;"> lawa       </td>
+<td style="text-align:center;"> Oso (ōshō)         </td>
+<td style="text-align:center;"> 王將　（王）  </td>
+<td style="text-align:center;"> jan utala lawa pi jan lawa </td>
+</tr>
+<tr>
+<td style="text-align:center;"> jan lawa (jan pi sona lili)  </td>
+<td style="text-align:center;"> lawa       </td>
+<td style="text-align:center;"> Kokuso (gyokushō)  </td>
+<td style="text-align:center;"> 玉將　（玉）  </td>
+<td style="text-align:center;"> jan utala lawa pi kiwen kule </td>
+</tr>
+</tbody>
+</table>
+
+
+<p>o sona e sitelen Kansi pi ijo musi. ijo musi ale li lukin sama mute. ante ona
+taso li suli ona, li sitelen Kansi ona. <!-- remember the kanji on the symbols.
+that, and their size, is the only thing that tells one piece apart from another.
+--></p>
+
+<p>lipu ni li jo e nimi tu tawa jan lawa. kama mute la, jan pi sona mute (jan pi
+nanpa wawa suli anu jan pi tenpo lon suli) li kama jo e ijo musi pi sitelen
+&ldquo;王將&rdquo; anu sitelen &ldquo;王&rdquo;. jan musi ante li kama jo e ijo musi pi sitelen &ldquo;玉將&rdquo;
+anu sitelen &ldquo;玉&rdquo;. ijo musi ni li ante lon nimi taso. ona li sama lon ijo ante
+ale. <!-- typically, the more skilled or older player gets the "ōshō" king. the
+only difference between the two pieces is the name. --></p>
+
+<p><strong>jan utala</strong> li ken tawa ma sinpin wan.</p>
+
+<pre><code>+---+---+---+
+|   | X |   |
++---+---+---+
+|   | O |   |
++---+---+---+
+|   |   |   |
++---+---+---+
+</code></pre>
+
+<p>sitelen ni la, jan utala li lon ma pi sitelen &ldquo;O&rdquo;. ona li ken
+tawa ma pi sitelen &ldquo;X&rdquo;.</p>
+
+<p><strong>soweli tawa</strong> li ken tawa ma tu sinpin en ma wan
+poka. <!-- knights can move two spaces forward and one space sideways. --></p>
+
+<ul>
+<li>ijo musi pi jan musi ante li lon insa nasin pi ma ni, ona li ken tawa ma ni. <!--
+knights can jump over other pieces. --></li>
+</ul>
+
+
+<pre><code>+---+---+---+
+| X |   | X |
++---+---+---+
+|   |   |   |
++---+---+---+
+|   | O |   |
++---+---+---+
+</code></pre>
+
+<p>sitelen ni la, jan utala lon soweli tawa li lon ma pi sitelen &ldquo;O&rdquo;. ona li ken
+tawa ma pi sitelen &ldquo;X&rdquo;.</p>
+
+<p><strong>jan utala lawa pi kiwen lili</strong> li ken tawa ma ni:</p>
+
+<ul>
+<li>ma sinpin wan</li>
+<li>ma poka wan pi ma sinpin wan</li>
+<li>ma poka wan pi ma monsi wan</li>
+</ul>
+
+
+<pre><code>+---+---+---+
+| X | X | X |
++---+---+---+
+|   | O |   |
++---+---+---+
+| X |   | X |
++---+---+---+
+</code></pre>
+
+<p>sitelen ni la, jan utala lawa pi kiwen lili li lon ma pi sitelen &ldquo;O&rdquo;. ona li ken
+tawa ma pi sitelen &ldquo;X&rdquo;.</p>
+
+<p><strong>jan utala lawa pi kiwen suli</strong> li ken tawa ma ni:</p>
+
+<ul>
+<li>ma sinpin wan</li>
+<li>ma poka wan pi ma sinpin wan</li>
+<li>ma poka wan</li>
+<li>ma monsi wan</li>
+</ul>
+
+
+<pre><code>+---+---+---+
+| X | X | X |
++---+---+---+
+| X | O | X |
++---+---+---+
+|   | X |   |
++---+---+---+
+</code></pre>
+
+<p>sitelen ni la, jan utala lawa pi kiwen suli li lon ma pi sitelen &ldquo;O&rdquo;. ona li ken
+tawa ma pi sitelen &ldquo;X&rdquo;.</p>
+
+<p><strong>tomo kon</strong> li ken tawa lon nasin ni: o tawa ma sinpin wan. ona li ken tawa ma
+mute lon nasin ni.</p>
+
+<pre><code>+---+---+---+
+|   | X |   |
++---+---+---+
+|   | X |   |
++---+---+---+
+|   | X |   |
++---+---+---+
+|   | X |   |
++---+---+---+
+|   | O |   |
++---+---+---+
+|   |   |   |
++---+---+---+
+</code></pre>
+
+<p>sitelen ni la, tomo kon li lon ma pi sitelen &ldquo;O&rdquo;. ona li ken
+tawa ma pi sitelen &ldquo;X&rdquo;.</p>
+
+<p><strong>ijo pi tawa nasa</strong> li ken tawa lon nasin ni: o tawa ma sinpin wan anu ma
+monsi wan, o tawa ma poka wan. ona li ken tawa ma mute lon nasin ni.</p>
+
+<pre><code>+---+---+---+---+---+---+---+---+---+
+|   | X |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+
+|   |   | X |   |   |   |   |   | X |
++---+---+---+---+---+---+---+---+---+
+|   |   |   | X |   |   |   | X |   |
++---+---+---+---+---+---+---+---+---+
+|   |   |   |   | X |   | X |   |   |
++---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   | O |   |   |   |
++---+---+---+---+---+---+---+---+---+
+|   |   |   |   | X |   | X |   |   |
++---+---+---+---+---+---+---+---+---+
+|   |   |   | X |   |   |   | X |   |
++---+---+---+---+---+---+---+---+---+
+|   |   | X |   |   |   |   |   | X |
++---+---+---+---+---+---+---+---+---+
+|   | X |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+
+</code></pre>
+
+<p>sitelen ni la, soweli suli utala li lon ma pi sitelen &ldquo;O&rdquo;. ona li ken
+tawa ma pi sitelen &ldquo;X&rdquo;.</p>
+
+<p><strong>tomo tawa</strong> li ken tawa lon nasin ni: o tawa ma sinpin wan anu ma monsi wan
+anu ma poka wan. ona li ken tawa ma mute lon nasin ni.</p>
+
+<ul>
+<li>ijo musi ante li lon insa pi nasin ona la, ona li ken ala tawa ma ni.</li>
+</ul>
+
+
+<pre><code>+---+---+---+---+---+---+---+---+---+
+|   |   |   |   | X |   |   |   |   |
++---+---+---+---+---+---+---+---+---+
+|   |   |   |   | X |   |   |   |   |
++---+---+---+---+---+---+---+---+---+
+|   |   |   |   | X |   |   |   |   |
++---+---+---+---+---+---+---+---+---+
+|   |   |   |   | X |   |   |   |   |
++---+---+---+---+---+---+---+---+---+
+|   |   |   |   | X |   |   |   |   |
++---+---+---+---+---+---+---+---+---+
+| X | X | X | X | O | X | X | X | X |
++---+---+---+---+---+---+---+---+---+
+|   |   |   |   | X |   |   |   |   |
++---+---+---+---+---+---+---+---+---+
+|   |   |   |   | X |   |   |   |   |
++---+---+---+---+---+---+---+---+---+
+|   |   |   |   | X |   |   |   |   |
++---+---+---+---+---+---+---+---+---+
+</code></pre>
+
+<p>sitelen ni la, tomo kiwen tawa li lon ma pi sitelen &ldquo;O&rdquo;. ona li ken
+tawa ma pi sitelen &ldquo;X&rdquo;.</p>
+
+<p><strong>jan lawa</strong> li ken tawa ma wan lon nasin ale.</p>
+
+<ul>
+<li>ijo musi li anpa e jan lawa, jan musi ona li anpa. o awen e jan lawa sina.</li>
+</ul>
+
+
+<pre><code>+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+
+|   |   |   | X | X | X |   |   |
++---+---+---+---+---+---+---+---+
+|   |   |   | X | O | X |   |   |
++---+---+---+---+---+---+---+---+
+|   |   |   | X | X | X |   |   |
++---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+
+</code></pre>
+
+<p>sitelen ni la, jan lawa li lon ma pi sitelen &ldquo;O&rdquo;. ona li ken
+tawa ma pi sitelen &ldquo;X&rdquo;.</p>
+
+<a name="ma-open-pi-ijo-musi--3c--21--2d--2d--starting-positions--2d--2d--3e-"></a>
+<h2>ma open pi ijo musi <!-- starting positions --></h2>
+
+<pre><code>  9   8   7   6   5   4   3   2   1 &lt;-- nasin poka (open nanpa)
++---+---+---+---+---+---+---+---+---+
+|TK |SU |KL |KS |JL |KS |KL |SU |TK | 1 &lt;-- nasin (pini nanpa)
++---+---+---+---+---+---+---+---+---+
+|   |TT |   |   |   |   |   |TN |   | 2
++---+---+---+---+---+---+---+---+---+
+|JU |JU |JU |JU |JU |JU |JU |JU |JU | 3
++---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   | 4
++---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   | 5
++---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   | 6 
++---+---+---+---+---+---+---+---+---+
+|ju |ju |ju |ju |ju |ju |ju |ju |ju | 7
++---+---+---+---+---+---+---+---+---+
+|   |tn |   |   |   |   |   |tt |   | 8
++---+---+---+---+---+---+---+---+---+
+|tk |su |kl |ks |jl |ks |kl |su |tk | 9
++---+---+---+---+---+---+---+---+---+
+</code></pre>
+
+<p>open musi la, ijo musi ale li lon ma open ona.</p>
+
+<p><strong>jan utala pi jan musi walo</strong> ale li lon ma 9 pi nasin #3. <strong>jan utala pi jan
+musi pimeja</strong> ale li lon ma 9 pi nasin #7.</p>
+
+<p><strong>ijo pi tawa nasa</strong> pi jan musi walo li lon ma pi nanpa 8 en 2. ijo pi tawa
+nasa pi jan musi pimeja li lon ma pi nanpa 2 en 8.</p>
+
+<p>ijo musi ante ale li lon nasin #1 tawa jan musi walo, li lon nasin #9
+tawa jan musi pimeja.</p>
+
+<p><strong>tomo kon</strong> li lon ma #1 en ma #9.</p>
+
+<p><strong>soweli utala</strong> li lon ma #2 en ma #8.</p>
+
+<p><strong>jan utala lawa pi kiwen lili</strong> li lon ma #3 en ma #7.</p>
+
+<p><strong>jan utala lawa pi kiwen suli</strong> li lon ma #4 en ma #6.</p>
+
+<p><strong>jan lawa</strong> li lon ma #5.</p>
+
+<p>nasin pi nanpa 1 en 2 en 3 li &ldquo;tomo&rdquo; pi jan musi walo. nasin pi nanpa 7 en 8 en
+9 li &ldquo;tomo&rdquo; pi jan musi pimeja.</p>
+
+<p>sitelen ale kama la, ijo musi pi jan musi pimeja li sitelen kepeken sitelen lili
+(abcde&hellip;). ijo musi pi jan musi walo li sitelen kepeken sitelen suli
+(ABCDE&hellip;).</p>
+
+<a name="kama-wawa-pi-ijo-musi--3c--21--2d--2d--promotions--2d--2d--3e-"></a>
+<h2>kama wawa pi ijo musi <!-- promotions --></h2>
+
+<p>ijo musi mute li ken &ldquo;kama wawa&rdquo;. <!-- pieces can promote --></p>
+
+<p>ijo musi li lon supa musi la, ona li ken kama wawa kepeken nasin ni:</p>
+
+<ul>
+<li>o tawa &ldquo;tomo&rdquo; pi jan musi ante <!-- move into enemy camp --></li>
+<li>o tawa lon &ldquo;tomo&rdquo; pi jan musi ante <!-- move in the enemy camp --></li>
+<li>o tawa tan &ldquo;tomo&rdquo; pi jan musi ante <!-- move from the enemy camp --></li>
+</ul>
+
+
+<p>ijo musi li tawa tan poki la, ona li ken ala kama wawa lon tenpo tawa ni.
+taso, ona li tawa kepeken nasin pi lipu sewi lon tenpo tawa kama la, ona li ken
+kama wawa. <!-- dropped pieces don't instantly promote, but they can promote if
+they move following the rules above on following turns. --></p>
+
+<p>ijo musi li ken kama wawa la, ona li ken ante ala. taso, nasin ni li lon, ona li
+ken ala ante ala:</p>
+
+<ul>
+<li><strong>jan utala</strong> anu <strong>tomo kon</strong> pi jan musi pimeja li lon nasin #1.</li>
+<li><strong>jan utala</strong> anu <strong>tomo kon</strong> pi jan musi walo li lon nasin #9.</li>
+<li><strong>soweli utala</strong> pi jan musi pimeja li lon nasin #1 anu #2.</li>
+<li><strong>soweli utala</strong> pi jan musi walo li lon nasin #8 anu #9.</li>
+</ul>
+
+
+<p>kama ni li lon la, ijo musi ni li ante ala, ona li ken ala tawa lon tenpo ale.</p>
+
+<p>jan musi li anpa e ijo musi wawa pi jan musi ante, wawa ona li weka. <!-- a
+captured piece is demoted. --></p>
+
+<p><strong>jan utala lawa pi kiwen suli</strong> en <strong>jan lawa</strong> li ken ala kama wawa. <!-- gold
+generals and kings never promote. --></p>
+
+<p>ijo musi li kama wawa la, o ante e nasin ona lon nasin ni: poka anpa ona li lon
+sewi ona. sitelen lon poka anpa li jo e sitelen Kansi pi ijo musi wawa. kama
+mute la, sitelen ni li loje.</p>
+
+<p><img src="shogi_piece.gif" alt="sitelen ni li jo e sitelen tu pi ijo musi Soki wan. sitelen #1 li jo e poka
+sewi pi ijo musi &quot;jan utala&quot;. sitelen Kansi &quot;歩&quot; pimeja li lon ona. sitelen #2 li jo e
+poka anpa ona. sitelen Kansi &quot;と&quot; loje li lon ona." /></p>
+
+<p>sitelen ni la, ijo musi &ldquo;jan utala&rdquo; li jo e sitelen pi ijo musi &ldquo;jan utala wawa&rdquo;
+lon poka anpa ona.</p>
+
+<a name="nasin-tawa-pi-ijo-musi-wawa--3c--21--2d--2d--promoted-piece-moves--2d--2d--3e-"></a>
+<h2>nasin tawa pi ijo musi wawa <!-- promoted piece moves --></h2>
+
+<table>
+<thead>
+<tr>
+<th style="text-align:center;"> nimi pi ijo musi             </th>
+<th style="text-align:center;"> nimi lili  </th>
+<th style="text-align:center;"> nimi pi toki Nijon </th>
+<th style="text-align:center;"> sitelen Kansi </th>
+<th style="text-align:center;"> sona pi nimi Nijon </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center;"> jan utala wawa               </td>
+<td style="text-align:center;"> jan wawa   </td>
+<td style="text-align:center;"> Tokin              </td>
+<td style="text-align:center;"> と金　（と）  </td>
+<td style="text-align:center;"> kama kiwen ilo jelo </td>
+</tr>
+<tr>
+<td style="text-align:center;"> soweli wawa                  </td>
+<td style="text-align:center;"> soweli wawa</td>
+<td style="text-align:center;"> Nalike (narikei)   </td>
+<td style="text-align:center;"> 成桂　（圭）  </td>
+<td style="text-align:center;"> kasi Kasija wawa    </td>
+</tr>
+<tr>
+<td style="text-align:center;"> jan utala lawa pi kiwen wawa </td>
+<td style="text-align:center;"> kiwen wawa </td>
+<td style="text-align:center;"> Nalikin (narigin)  </td>
+<td style="text-align:center;"> 成銀　（全）  </td>
+<td style="text-align:center;"> kiwen ilo walo wawa </td>
+</tr>
+<tr>
+<td style="text-align:center;"> tomo kon wawa                </td>
+<td style="text-align:center;"> kon wawa   </td>
+<td style="text-align:center;"> Naliko (narikyō)   </td>
+<td style="text-align:center;"> 成香　（杏）  </td>
+<td style="text-align:center;"> kon pi pilin nena pona wawa </td>
+</tr>
+<tr>
+<td style="text-align:center;"> soweli seli                  </td>
+<td style="text-align:center;"> seli       </td>
+<td style="text-align:center;"> Lijuma (ryūma)     </td>
+<td style="text-align:center;"> 龍馬　（馬）  </td>
+<td style="text-align:center;"> soweli tawa pi akesi seli </td>
+</tr>
+<tr>
+<td style="text-align:center;"> akesi seli                   </td>
+<td style="text-align:center;"> akesi      </td>
+<td style="text-align:center;"> Lijujo (ryūō)      </td>
+<td style="text-align:center;"> 龍王　（龍／竜）  </td>
+<td style="text-align:center;"> akesi seli lawa     </td>
+</tr>
+</tbody>
+</table>
+
+
+<ul>
+<li><strong>jan utala</strong> li kama wawa, ona li kama <strong>jan utala wawa</strong>.</li>
+<li><strong>soweli tawa</strong> li kama wawa, ona li kama <strong>soweli wawa</strong>.</li>
+<li><strong>jan utala lawa pi kiwen lili</strong> li kama wawa, ona li kama <strong>jan utala lawa pi
+kiwen wawa</strong>.</li>
+<li><strong>tomo kon</strong> li kama wawa, ona li kama <strong>tomo kon wawa</strong>.</li>
+</ul>
+
+
+<p>ijo musi wawa ni ale li tawa sama <strong>jan utala lawa pi kiwen suli</strong>. <!-- these
+promoted pieces all move like gold generals. --></p>
+
+<p><strong>ijo pi tawa nasa</strong> li kama wawa, ona li kama <strong>soweli seli</strong>. ona li ken tawa
+sama ijo pi tawa nasi, li ken tawa ma wan lon nasin ale.</p>
+
+<pre><code>+---+---+---+---+---+---+---+---+---+
+|   | X |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+
+|   |   | X |   |   |   |   |   | X |
++---+---+---+---+---+---+---+---+---+
+|   |   |   | X |   |   |   | X |   |
++---+---+---+---+---+---+---+---+---+
+|   |   |   |   | X | X | X |   |   |
++---+---+---+---+---+---+---+---+---+
+|   |   |   |   | X | O | X |   |   |
++---+---+---+---+---+---+---+---+---+
+|   |   |   |   | X | X | X |   |   |
++---+---+---+---+---+---+---+---+---+
+|   |   |   | X |   |   |   | X |   |
++---+---+---+---+---+---+---+---+---+
+|   |   | X |   |   |   |   |   | X |
++---+---+---+---+---+---+---+---+---+
+|   | X |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+
+</code></pre>
+
+<p>sitelen ni la, soweli seli li lon ma pi sitelen &ldquo;O&rdquo;. ona li ken
+tawa ma pi sitelen &ldquo;X&rdquo;.</p>
+
+<p><strong>tomo tawa</strong> li kama wawa, ona li kama <strong>akesi seli</strong>. ona li ken tawa sama
+tomo tawa, li ken tawa ma wan lon nasin ale.</p>
+
+<pre><code>+---+---+---+---+---+---+---+---+---+
+|   |   |   |   | X |   |   |   |   |
++---+---+---+---+---+---+---+---+---+
+|   |   |   |   | X |   |   |   |   |
++---+---+---+---+---+---+---+---+---+
+|   |   |   |   | X |   |   |   |   |
++---+---+---+---+---+---+---+---+---+
+|   |   |   |   | X |   |   |   |   |
++---+---+---+---+---+---+---+---+---+
+|   |   |   | X | X | X |   |   |   |
++---+---+---+---+---+---+---+---+---+
+| X | X | X | X | O | X | X | X | X |
++---+---+---+---+---+---+---+---+---+
+|   |   |   | X | X | X |   |   |   |
++---+---+---+---+---+---+---+---+---+
+|   |   |   |   | X |   |   |   |   |
++---+---+---+---+---+---+---+---+---+
+|   |   |   |   | X |   |   |   |   |
++---+---+---+---+---+---+---+---+---+
+</code></pre>
+
+<p>sitelen ni la, akesi seli li lon ma pi sitelen &ldquo;O&rdquo;. ona li ken
+tawa ma pi sitelen &ldquo;X&rdquo;.</p>
+
+<a name="tawa-tan-poki-lili--3c--21--2d--2d--piece-drops--2d--2d--3e-"></a>
+<h2>tawa tan poki lili <!-- piece drops --></h2>
+
+<p>jan musi li anpa e ijo musi pi jan musi ante, ona li tawa poki ona, li kama ijo
+musi ona. <!-- a captured piece switches sides and moves to a player's hand. --></p>
+
+<p>jan musi li ken tawa e ijo musi tan poki ona tawa supa musi lon tenpo tawa ale
+ona. <!-- a player can drop a piece from the hand during their turn. --></p>
+
+<p>taso, nasin mute li lon:</p>
+
+<ul>
+<li>o tawa ala e ijo musi tawa ma ni: ijo musi ante li lon ma ni. <!-- a piece
+cannot be dropped on a space occupied by another piece. --></li>
+<li>o tawa ala e ijo musi tawa ma ni: ona li ken ala tawa lon tenpo ale kama. <!--
+a piece cannot be dropped on a space from where it can't ever move. --></li>
+<li>ijo musi ni li jan utala la, o tawa ala e ijo musi tawa ma ni: jan utala ante
+pi jan musi sama li lon nasin poka sama. (nasin ni la, jan utala wawa li jan utala
+ala.) <!-- a pawn can't be dropped on the same column as another pawn of the
+same player. promoted pawns don't count as pawns for this rule. --></li>
+<li>ijo musi ni li jan utala la, o tawa ala e ijo musi tawa ma ni: jan lawa pi jan
+musi ante li moli lon tenpo tawa kama wan. <!-- a pawn can't be dropped in a
+way that causes a checkmate. --></li>
+</ul>
+
+
+<a name="jan-lawa-li-ken-moli--3c--21--2d--2d--check-and-checkmate--2d--2d--3e-"></a>
+<h2>jan lawa li ken moli <!-- check and checkmate --></h2>
+
+<p>ijo musi pi jan musi wan li ken anpa e jan lawa pi jan musi ante lon tenpo musi
+kama wan, jan lawa ona li &ldquo;ken moli&rdquo;. <!-- if one player's piece can defeat the
+king on the next move, the king is in check. --></p>
+
+<p>jan lawa li ken moli la, jan musi li wile pali e tawa, tawa ni: ijo musi ante li
+ken ala anpa e jan lawa. jan musi li ken ala pali e tawa ante. <!-- the player
+in check must move in a way that prevents the other player from capturing the
+king. --></p>
+
+<p>jan musi li ken ala pali e ni la, jan lawa ona li moli. jan musi ni li anpa.</p>
+
+<!-- if the player in check can't move in such a way, then the king is
+checkmated and the player loses. -->
+
+
+<p>jan musi li ken ala tawa e ijo musi ona tawa ni: ijo musi pi jan ante li
+ken anpa e jan lawa ona. <!-- a player can't move _into_ check. --></p>
+
+<div class="warning"><p>musi suli la, jan musi li <em>ken</em> tawa e ijo musi kepeken nasin ni. taso, ona li
+pali e ni, ona li anpa lon tenpo tawa kama wan. <!-- in professional games,
+it's possible to move into check, but the player who does that will
+lose the game next turn. --></p></div>
+
+<pre><code>+---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   | KS| JL|
++---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   | JU| JU|
++---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+
+|   |TT |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+
+|   | 3 |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+
+|   |2 3|   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+
+|ks |2 3| 1 |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+ poki pi jan musi pimeja
+| 1 |jl | 1 |   |   |   |   |   |   | li jo e jan utala wan.
++---+---+---+---+---+---+---+---+---+
+| 1 |   | 1 |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+ 
+tenpo tawa pi jan pimeja (ijo musi pi sitelen lili) li lon.
+</code></pre>
+
+<p>sitelen ni la, tomo tawa pi jan walo li ken anpa e jan lawa pimeja lon tenpo
+tawa kama wan. jan lawa pimeja li &ldquo;ken moli&rdquo;. jan musi pimeja li wile tawa ni:
+jan lawa ona li &ldquo;ken moli&rdquo; ala. <!-- in this picture, the white rook can attack
+the black king, so the black king is in check. the black player must move out of
+check. --></p>
+
+<p>ona li ken tawa e jan lawa tawa ma pi sitelen &ldquo;1&rdquo;. ona li pali e ni la, ijo musi
+pi jan walo li ken ala anpa e jan lawa lon ma ni lon tenpo kama wan. <!-- they can
+move the king to spaces labeled "1", so the rook can't attack it. --></p>
+
+<p>anu la, ona li ken tawa e jan utala pi kiwen suli ona tawa ma pi sitelen &ldquo;2&rdquo;.
+ona li pali e ni la, tomo kiwen tawa pi jan walo li ken ala anpa e jan lawa pi
+jan pimeja tan ni: ijo musi ante li lon insa nasin ona. <!-- or they can move
+their gold general to the spaces labeled "2", so it's in the way of the white rook. --></p>
+
+<p>anu la, ona li ken tawa e jan utala tan poki ona tawa ma pi sitelen &ldquo;3&rdquo;. ona li
+pali e ni la, toki kiwen tawa pi jan walo li ken ala anpa e jan lawa pi jan
+pimeja tan nasin sama. <!-- or they can drop a pawn on the spaces labeled "3",
+so it's also in the way of the white rook. --></p>
+
+<pre><code>  9   8   7   6   5   4   3   2   1
++---+---+---+---+---+---+---+---+---+
+|   |   |   | TK|   |   |   |   |   | 1
++---+---+---+---+---+---+---+---+---+
+|   |   |   | JU|   |   |   |   |   | 2
++---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   | JU| JU| JU| 3
++---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   | 4 
++---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   | 5
++---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   | 6
++---+---+---+---+---+---+---+---+---+
+|ju |ju |ju |ju |tk |   |   |   |   | 7
++---+---+---+---+---+---+---+---+---+     poki pi jan musi pimeja
+|   |   |jl |ks |   |   |   |   |   | 8   li jo e jan utala lawa
++---+---+---+---+---+---+---+---+---+     pi kiwen suli wan.
+|   |   |   |   |   |   |   |   |   | 9
++---+---+---+---+---+---+---+---+---+
+tenpo musi pi jan pimeja (ijo musi pi sitelen lili) li lon.
+</code></pre>
+
+
+
+<pre><code>  9   8   7   6   5   4   3   2   1
++---+---+---+---+---+---+---+---+---+
+|   |   |   |   | 2 |JL2| 2 |   |   | 1
++---+---+---+---+---+---+---+---+---+
+|   |   |   |   | 2 | 1 | 2 | JU| JU| 2
++---+---+---+---+---+---+---+---+---+
+|   |   |   |   |kl | 2 |   |   |   | 3
++---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   | 4 
++---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   | 5
++---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   | 6
++---+---+---+---+---+---+---+---+---+
+|ju |ju |ju |ju |   |   |   |   |   | 7
++---+---+---+---+---+---+---+---+---+     poki pi jan musi pimeja
+|   |   |jl |ks |   |   |   |   |   | 8   li jo e jan utala lawa
++---+---+---+---+---+---+---+---+---+     pi kiwen suli wan.
+|   |   |   |   |   |   |   |   |   | 9
++---+---+---+---+---+---+---+---+---+
+tenpo musi pi jan pimeja (ijo musi pi sitelen lili) li lon.
+</code></pre>
+
+<p>sitelen ni la, jan lawa pi jan walo li ken ala moli. taso, jan musi pimeja li
+ken pali e tawa ni: jan lawa pi jan walo li ken moli, li ken ala ante e ni. ona
+li pali e ni la, jan lawa pi jan walo li kama moli. jan musi pimeja li anpa e
+jan musi walo. <!-- in this picture, the white king is not in check, but can be
+checkmated immediately. --></p>
+
+<p>ona li ken tawa e jan utala lawa pi kiwen suli tan poki ona tawa ma pi sitelen
+&ldquo;1&rdquo;. ona li pali e ni, jan utala pi kiwen suli li anpa e ma ale pi sitelen &ldquo;2&rdquo;.
+jan lawa pi jan walo li ken ala tawa ma ni: ijo musi ante li utala ala e ona.
+ona li ken ala anpa e jan utala lawa pi kiwen suli tan ni: jan utala lawa pi
+kiwen lili lon ma pi nanpa 5 en 3 li awen e jan utala lawa pi kiwen suli. <!--
+if black drops a gold general onto the space labeled "1", it will attack all the
+spaces labeled "2".  the white king is attacked and can't move anywhere.
+it can't capture the gold general either, because the silver general on
+53 defends the gold general. --></p>
+
+<p>ni la, jan lawa pi jan walo li kama moli. <!-- because of this, the white king
+is checkmated. --></p>
+
+<a name="kama-ante"></a>
+<h2>kama ante</h2>
+
+<ul>
+<li><p>kama ni li ken: jan musi li ken ala tawa e ilo musi ona, taso jan lawa ona li
+ken ala moli. ni li lon la, musi li pini. jan musi ante li anpa e jan ni.</p>
+
+<ul>
+<li>taso, kama ni li ken lon tenpo pi mute lili tan ni: tenpo pi mute suli la, jan musi li
+ken tawa e ijo musi tan poki ona. <!-- if a player can't move their pieces, but
+their king is not in check, they lose. however, this is rare because of the
+ability to drop pieces.  --></li>
+</ul>
+</li>
+<li><p>tenpo musi ale la, jan musi wan li ken toki e ni: &ldquo;mi anpa.&rdquo; (toki Nijon:
+&ldquo;Makemasita&rdquo; (makemashita)) ona li toki e ni la, musi li pini. jan musi ante li
+anpa e ona. <!-- any player can resign at any moment. --></p></li>
+<li><p>ijo musi ale li lon ma sama, li lon poki pi jan sama, li ken tawa lon
+nasin sama, lon tenpo tawa tu tu pi jan musi sama, musi li pini. jan ala li
+anpa.</p>
+
+<ul>
+<li>taso, jan lawa pi jan wan li ken moli lon tenpo tawa tu tu ni la, jan musi
+ante li anpa.  <!-- in professional games, if all the
+pieces are in the same place and can do the same moves during 4 turns of the
+same player, the game ends in a draw (sennichite). but if on these 4 turns one player's king
+is in check, the other player loses (perpetual check). --></li>
+</ul>
+</li>
+<li><p>musi suli la, nasin ni li lon: jan lawa tu li lon &ldquo;tomo&rdquo; pi jan musi ante la,
+jan musi tu li ken toki e ni: &ldquo;mi ken ala anpa e jan lawa ante. mi wile nanpa e
+ijo musi, wile pini e musi.&rdquo; <!-- if both kings are in the other players' camps,
+players can agree to an impasse. --></p>
+
+<ul>
+<li><p>ni li lon la, jan musi li lukin e ma musi, e poki ona. ona li lukin e ijo
+musi ale ona. <!-- if that happens, they count their pieces (both on the board
+and in hand. --></p></li>
+<li><p>ijo musi li &ldquo;ijo pi tawa nasa&rdquo; anu &ldquo;tomo tawa&rdquo; anu &ldquo;soweli seli&rdquo; anu &ldquo;akesi
+seli&rdquo; la, ona li kama jo e nanpa pona 5. <!-- bishops, rooks and their promoted
+forms are worth 5. --></p></li>
+<li><p>ijo musi li &ldquo;jan lawa&rdquo; la, ala li ante. <!-- the kings don't count. --></p></li>
+<li><p>ijo musi li ijo musi ante la, ona li kama jo e nanpa pona 1. <!-- other
+pieces are worth 1 point. --></p></li>
+<li><p>ni li pini la, jan musi wan li jo e mute pi nanpa pona ni la: ona li lili tawa
+24, ona li anpa. <!-- if a player gets less than 24 points, they lose. --></p></li>
+</ul>
+</li>
+</ul>
+
+
+<a name="suli-kiwen-pi-tenpo-tawa--3c--21--2d--2d--time-control--2d--2d--3e-"></a>
+<h2>suli kiwen pi tenpo tawa <!-- time control --></h2>
+
+<p>musi mute la, jan musi, anu jan pi lawa musi, li wile e ni: tenpo musi li suli
+ala.  ni li lon la, nasin pi suli kiwen pi tenpo tawa li ken lon. <!-- in some
+games, the players or moderators may want to limit the game's duration. --></p>
+
+<p>nasin ni la, jan musi li nanpa e suli tenpo pi tenpo tawa ona kepeken ilo tenpo.
+mute tenpo lawa tu li lon. tenpo lawa #1 li tenpo lawa pi tawa ale. tenpo lawa
+#2 li tenpo lawa pi tawa wan (toki Nijon: &ldquo;Pijojomi&rdquo; (byōyomi)). <!-- if this
+is the case, then players measure their move duration with a clock. there are
+two time limits: a standard time limit and a time limit per turn. --></p>
+
+<p>jan musi wan li jo e tenpo lawa tu ona. <!-- each player has their own time. --></p>
+
+<p>open musi la, tenpo lawa #1 taso li pali. jan musi li ken pali e tawa mute lon
+tenpo ni. tenpo lawa #1 li kama ala la, tenpo lawa #2 li open pali. jan musi
+li wile pali e tawa wan lon tenpo ni. tawa li pini la, tenpo lawa #2 li
+ante tawa suli open ona. (jan musi li awen ken pali e tawa mute la, taso tawa
+wan li wile kepeken e tenpo lili.) <!-- at first, the standard time limit is
+used, but when it runs out, a per-turn time limit is used instead. the players
+can still make as many moves as they want, but each move has to fit in the
+per-move time. --></p>
+
+<p>tenpo lawa #2 pi jan lawa li kama ala la, ona li anpa. <!-- if a player's
+byoyomi runs out, they lose. --></p>
+
+<a name="o-musi-kepeken-ilo-sona"></a>
+<h2>o musi kepeken ilo sona</h2>
+
+<ul>
+<li><p>lipu kon &ldquo;<a href="https://lishogi.org">Lishogi</a>&rdquo; la, jan li ken musi lon poka ilo,
+lon poka jan ante. ona li ken toki kepeken toki Inli, kepeken toki Nijon.</p></li>
+<li><p>lipu kon &ldquo;<a href="https://lishogi.org">81dojo</a>&rdquo; li pali e ijo sama. nasin ona li
+sama nasin musi pi jan sona pi ma Nijon: sina pali e tawa ike la, sina anpa.
+lipu ni li ken toki e toki mute.</p></li>
+</ul>
+
+
+<hr />
+
+<ul>
+<li><p>sona ni li kama tan lipu pi musi Soki pi lipu Wikipesija, tan sitelen tawa pi
+musi Soki pi jan Itesi (Hidetchi) (toki Inli:
+<a href="https://www.youtube.com/user/HIDETCHI">https://www.youtube.com/user/HIDETCHI</a> )</p></li>
+<li><p>kulupu toki pi ilo Siko (toki Inli en toki Nijon): <a href="https://discord.gg/t55wfGae6Q">Shogi Hall
+将棋会館</a></p></li>
+</ul>
+
+
+			</article>
+			<div class="footer">
+			This website's source code is available <a href="https://github.com/lipu-sona-pona/lipu-sona-pona.github.io">on GitHub</a>.
+	</div>
+	</div>
+	</body>
+	<script src="scripts.js"></script>
+</html>

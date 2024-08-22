@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>using IBus to type sitelen pona on Linux</title>
+		<!-- When working in a fork, change this to "/forkname/" -->
+		<!--<base href="/lipu-sona-pona/" />-->
+		<base href="/" />
+		<meta property="og:site_name" content="lipu sona pona"/>
+		<meta property="og:title" content="using IBus to type sitelen pona on Linux"/>
+		<meta property="og:type" content="website"/>
+		<meta property="og:url" content="https://lipu-sona.pona.la/lentan/sitelen_pona_ibus/index.html"/>
+		<link href="style.css" rel="stylesheet" type="text/css" media="handheld,print,screen,projection,tv" title="Default Style">
+		<link rel="icon" type="image/png" href="favicon.png">
+		
+	</head>
+	<body>
+		<div class="header">
+			<div class="header_image"></div>
+			<div class="header_text">
+	<h2><a href=".">lipu sona pona</a><span class="titlesep"> | </span></h2><h3>using IBus to type sitelen pona on Linux</h3>
+			</div>
+		</div>
+		<div class="middle">
+			<article class="content">
+	<a name="what-is-IBus-3f-"></a>
+<h1>what is IBus?</h1>
+
+<p>IBus is an input method framework that is commonly used on Linux- and BSD-based
+operating systems in order to allow input in languages with complex input
+methods, such as Chinese, Korean and Japanese.</p>
+
+<p>A user by the name of <code>cominixo#5443</code> (aka &ldquo;jan Komi&rdquo;) has submitted to the
+Discord community &ldquo;ma pona pi toki pona&rdquo; the following guide to using IBus to
+type <a href="en/sitelen_pona">sitelen pona</a> (with codepoints as defined by the UCSUR
+document). With permission, it (and the data file required) are reproduced here.</p>
+
+<hr />
+
+<p>If you&rsquo;re on Linux, you can use IBus with tables, download the following file
+and run these commands (nanpa lili?):</p>
+
+<pre><code>sudo ibus-table-createdb -n /usr/share/ibus-table/tables/tokipona.db -s sitelen_pona_ibus.txt
+ibus-daemon -drxR
+</code></pre>
+
+<p>Open &ldquo;IBus Preferences&rdquo;, go to &ldquo;Input Method&rdquo;, click &ldquo;Add&rdquo; and then select
+&ldquo;sitelen pona&rdquo; (which will be the last option under &ldquo;English&rdquo;).</p>
+
+<p>Use <code>[</code>,<code>_</code>,<code>]</code> for cartouches, <code>pi_</code> to start long pi and <code>'</code> to extend long pi
+(these can be changed if you edit <code>sitelen_pona_ibus.txt</code> and re-run the
+commands)</p>
+
+<ul>
+<li><a href="/sitelen_pona_ibus.txt">Download the sitelen_pona_ibus file</a></li>
+</ul>
+
+
+<hr />
+
+<ul>
+<li><a href="lentan">Main page</a></li>
+</ul>
+
+
+			</article>
+			<div class="footer">
+			This website's source code is available <a href="https://github.com/lipu-sona-pona/lipu-sona-pona.github.io">on GitHub</a>.
+	</div>
+	</div>
+	</body>
+	<script src="scripts.js"></script>
+</html>
