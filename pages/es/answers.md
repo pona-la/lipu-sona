@@ -187,7 +187,7 @@
 > * sina wile e ni: mi kipisi e sike pan kepeken nasin seme? / sina wile e ni:
 > mi tu e sike pan kepeken nasin seme?
 
-<h1><a name="sp" id="sp" href="sitelen_pona.html">the sitelen pona page</a></h1>
+<h1><a name="sp" id="sp" href="sitelen_pona/">the sitelen pona page</a></h1>
 > Esta parte del documento está escrita usando sitelen pona. ¿Logras entenderla?
 >
 > toki pona tiene un número pequeño de palabras. Por esta razón, es posible crear
