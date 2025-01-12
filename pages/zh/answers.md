@@ -140,7 +140,7 @@
 > * tenpo suli la mi pali e ni. / mi pali e ni lon tenpo suli.
 > * mi awen kama sona e toki pona.
 
-<h1><a name="p11" id="p11" href="zh/11">page 11</a></h1>
+<h1><a name="p11" id="p11" href="zh/11">第11页</a></h1>
 
 > * 我想交易这三只大动物。
 > * 昨天，我在 学校/大学（“知识之屋”）。
@@ -154,7 +154,7 @@
 > * (tenpo mun / tenpo sike mun) nanpa luka li (pona / suwi).
 > * sina jo e ilo mute pi kalama musi a!
 
-<h1><a name="p12" id="p12" href="zh/12">page 12</a></h1>
+<h1><a name="p12" id="p12" href="zh/12">第12页</a></h1>
 
 > * 如果你想学习toki pona，官方书籍是对此最好的方法。
 > * 今天我心情非常好（“感觉非常好”）。
@@ -170,7 +170,7 @@
 > * mi lukin e lipu. tenpo lili la ona li pini.
 > * mi ken toki pi pona mute kepeken toki pona.
 
-<h1><a name="p13" id="p13" href="zh/13">page 13</a></h1>
+<h1><a name="p13" id="p13" href="zh/13">第13页</a></h1>
 
 > * 浣熊是个了不起的动物。
 > * 非二元性别社群无所畏惧.
