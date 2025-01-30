@@ -4,7 +4,7 @@
 
 ## sitelen pona
 
-"sitelen pona"("简单文字"或"良好文字")是toki pona创始人索尼娅·兰为本语言设计的语素文字系统
+"sitelen pona"("简单文字"或"良好文字")是toki pona创始人索尼娅·兰为本语言设计的语素文字系统。
 
 > %info%
 > 官方书籍中有关sitelen pona的部分是以非商业性[CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)授权出版。因此能够容易于网路上其他课程中找到，如[jan Pije网页](https://web.archive.org/web/20220314033939/http://tokipona.net/tp/janpije/hieroglyphs.php)或[Omniglot网站](https://www.omniglot.com/conscripts/sitelenpona.htm)上的简介，与官方书籍的几乎吻合。
@@ -31,7 +31,7 @@
 > %info%
 > 你可能注意到官方书籍封面上的，以及很多网页上代表toki pona的"标志"，其实是"toki pona"于sitelen pona的合成字符⸺"toki"的字符内包含了"pona"的字符。
 
-非官方词汇以名框（圆角长方形）包围，框内根据该词的每一个字母，各写成开首字母与这个字母一样的字。例如：于开首的网页（和官方书籍）里，"ma Kanata"写成"ma[kasi alasa nasin awen telo
+非官方词汇以名框（圆角长方形）包围，框内根据该词的每一个字母，各写成开首字母与这个字母一样的字。例如：于本页顶部的网页（和官方书籍）里，"ma Kanata"被写成"ma[kasi alasa nasin awen telo
 a]"。（在某些字型中，名框可能以括号代替。）
 
 ### sitelen pona常见用法
@@ -39,7 +39,7 @@ a]"。（在某些字型中，名框可能以括号代替。）
 > %info%
 > 以下资讯并非官方所订立，是完全根据社区中sitelen pona的用法。
 
-句子一般以一点（·）或空格分开。其他标点符号（逗号、冒号等）通常不会用到，除非它作为sitelen pona代表其单字。 （这是因为在大多情况下，使用或不使用不同的标点都不影响句子的意思）
+句子一般以一点（·）或空格分开。其他标点符号（逗号、冒号等）通常不会用到，除非它作为sitelen pona字符代表其单字。 （这是因为在大多情况下，使用或不使用不同的标点都不影响句子的意思）
 
 社区新增的词汇通常拥有自己的字符，不用名框方式书写。
 
@@ -49,7 +49,7 @@ a]"。（在某些字型中，名框可能以括号代替。）
 
 有其他人使用另一个系统：字符后有多少个点代表这个字开首的多少个音拍，或以字后加上冒号代表这个字的整个读音。例如："jan Mawijo"可以写成"jan \[mama·wile·jo·\]"，"jan Kilili"可以写成"jan \[kili:lipu·\]"或"jan \[kili·lili:\]"。
 
-注意以上两个系统中，一个音拍和一个音节差不多，但"n"被视为独立音节。举例："nanpa"是分拆为"na"，"n"和"pa"三个音拍。
+注意以上两个系统中，一个音拍和一个音节的定义差不多，但"n"被视为独立音拍。举例："nanpa"要分拆成"na"，"n"和"pa"三个音拍。
 
 ### 示例
 
@@ -66,9 +66,9 @@ ona.](/sitelen_pona_example.png)
 
 ### 字型
 
-以上文本使用了"linja pimeja"字型。不过还有很多于网路上显示sitelen pona的选择。以下是当中较常见的：
+以上文本使用了"linja pimeja"字型。不过还有很多于电子装置上显示sitelen pona的选择。以下是当中较常见的：
 
- * "[linja pona](https://musilili.net/linja-pona/)"是一个特别简洁的字型，并能显示非常多种合成字符，曾经甚至至今仍是最热门的选择。
+ * "[linja pona](https://musilili.net/linja-pona/)"是一个特别简洁的字型，并能显示非常多种合成字符，曾经、甚至至今仍是最热门的选择。
 
  * "[sitelen pona pona](https://jackhumbert.github.io/sitelen-pona-pona/)"中某些字的外观与正常sitelen pona截然不同（因此有些人视它为sitelen pona外另一种书写系统）。但它于不同字型大小、以及不需要编改拉丁字母toki pona文本的情况下，都很美观，因此是我最喜爱的字型。
 
@@ -76,29 +76,24 @@ ona.](/sitelen_pona_example.png)
 > 本网站的某些页面上，你可以选择以拉丁字母或sitelen pona显示。后者会采用"sitelen pona pona"字型显示文本。这适合展示原本为拉丁字母的文字， 并能较好地与新增、非官方词汇、和非toki pona文字并列。
 > 
 
- * "[linja suwi](https://linjasuwi.ap5.dev/)"是 alienpirate5所设计的字型，比以上字型较近期现世。它外观整洁，并包含许多社区新增的词汇。
+ * "[linja suwi](https://linjasuwi.ap5.dev/)"是alienpirate5所设计的字型，比以上字型较近期现世。它外观整洁，并包含许多社区新增的词汇。
 
- * 我亦设计了一套sitelen pona字型，名为"[insa pi supa lape](lentan/supalape)"。它基于"Bedstead"字型（其名字也从此而来），并使用相同的算法把各字符的位图形象化为矢量图字型。
+ * 我亦设计了一套sitelen pona字型，名为"[insa pi supa lape](lentan/supalape)"。它基于"Bedstead"字型（其名字也从此而来），并使用相同的算法把各字符的点阵形象转变为矢量图字型。
 
 <!-- translator's own additions to font list -->
 
  * "[nasin sitelen pu](https://github.com/RetSamys/nasin-sitelen-pu)"使用了"lipu pu"里所展示的sitelen pona图案。
 
- * "[nasin nanpa](https://github.com/ETBCOR/nasin-nanpa)"是jan Etan所设计的字型，并于第三本官方书籍"lipu su nanpa wan"（《绿野仙踪》toki pona翻译）被选为书写sitelen pona的字型。
+ * "[nasin nanpa](https://github.com/ETBCOR/nasin-nanpa)"是jan Etan所设计的字型，并于第三本官方书籍"lipu su nanpa wan"（《绿野仙踪》toki pona翻译）和"lipu pu"波斯语版本被选为书写sitelen pona的字型。
 
  * 其他较普遍的字型：
+   * jan Lepeka的"[sitelen seli kiwen](https://www.kreativekorp.com/software/fonts/sitelenselikiwen/)"手写字型
+   * lipamanka的"[linja lipamanka](https://lipamanka.gay/linjamanka)"
+   * jan Lepeka的"[Fairfax HD](https://www.kreativekorp.com/software/fonts/fairfaxponahd/)"
+   * Umihotaru的"[Nishiki-teki](https://github.com/RetSamys/nishiki-teki-lili/raw/main/nishiki-teki.ttf)"
+   * waso Keli的"[leko majuna sin](https://wasokeli.github.io/sp-font-maker/leko-majuna-sin.html)"像素字型
 
-  *jan Lepeka的"[sitelen seli kiwen](https://www.kreativekorp.com/software/fonts/sitelenselikiwen/)"手写字型
-
-  *lipamanka的"[linja lipamanka](https://lipamanka.gay/linjamanka)"
-
-  *jan Lepeka的"[Fairfax HD](https://www.kreativekorp.com/software/fonts/fairfaxponahd/)"
-
-  *Umihotaru的"[Nishiki-teki](https://github.com/RetSamys/nishiki-teki-lili/raw/main/nishiki-teki.ttf)"
-
-  *waso Keli的"[leko majuna sin](https://wasokeli.github.io/sp-font-maker/leko-majuna-sin.html)"像素字型
-
-你可以于这个[网站](https://antetokipona.infinityfreeapp.com/font/)浏览和预视各种字型。
+你可以于这个[网站](https://antetokipona.infinityfreeapp.com/font/)浏览和预视其他各种字型。
 
 你也可以使用[waso Keli的模板](https://wasokeli.github.io/sp-font-maker/)或依照[这段影片](https://youtu.be/6Emk0nvFFVw)的指示，创造自己的字型。
 
@@ -144,7 +139,7 @@ sitelen pona也正于加入官方统一码的程序中。
 
 > **有关sitelen pona于UCSUR的描述**
 > 
-> 如果你想寻找一个字的编码，把这个字左面和上边的数目相加。例如："lawa"的字符被编至F1924，其左面和上边的数目分别为F1920和4。注意这些是十六进制数目，"10"并非代表"十"，而是"十六"。
+> 如果你想寻找一个字的编码，把这个字左面和上边的数目相加。例如："lawa"的字符被编至F1924，其左面和上边的数目分别为F1920和4。注意这些是十六进制数字，"10"并非代表"十"，而是"十六"。
 
 ### sitelen emoji / sitelen pilin 和 nasin pi sitelen jelo
 <!-- includes sitelen jelo too? -->
