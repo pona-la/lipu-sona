@@ -56,7 +56,7 @@ a]"。（在某些字型中，名框可能以括号代替。）
 以下是以sitelen pona书写的简单句子：
 
 ![wan ni pi lipu ni li sitelen kepeken sitelen pona. sina ken ala ken sona e ni.
-/ toki pona li jo e nimi pi mute lili. tan ni nasin sitelen ni li ken: sitelen
+/ toki pona li jo e nimi pi mute lili. tan ni la nasin sitelen ni li ken: sitelen
 wan li toki e nimi wan. sitelen ale li lukin sama kon
 ona.](/sitelen_pona_example.png)
 
