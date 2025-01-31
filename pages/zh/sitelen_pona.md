@@ -129,6 +129,14 @@ ona.](/sitelen_pona_example.png)
 
 ![](/insa.png)
 
+* nasin sitelen pu:
+
+![](/nasin_sitelen_pu.png)
+
+* nasin nanpa:
+
+![](/nasin_nanpa_Etan.png)
+
 ### sitelen pona（尝试）加入統一码（Unicode）
 
 撰写本文此刻，统一码尚未正式承认toki pona。现在大多sitelen pona字型使用连结字把拉丁字母转换成sitelen pona。不过，toki pona社区已申请把sitelen pona加入[非官方人工文字统一码协调录（USCUR）](https://www.kreativekorp.com/ucsur/)⸺此专案旨在协调人工文字于统一码私人使用区的字元编码。申请[成功](https://www.kreativekorp.com/ucsur/charts/sitelen.html)后，很多以后的字型都会尽量使用以上编配的编码。
