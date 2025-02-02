@@ -199,7 +199,7 @@ result, many newer toki pona fonts now try to use the same range of characters.
 
 ![chart of sitelen pona's UCSUR points](/sitelen_ucsur.gif)
 
-> **Description of sitelen pona in USCUR**
+> **Description of sitelen pona in UCSUR**
 > 
 > If you want to find the codepoint (character number) for a character, take 
 > the large number on the left, the small number on the top and add the two. For 

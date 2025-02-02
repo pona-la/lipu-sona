@@ -194,7 +194,7 @@ Nesse momento, toki pona ainda não foi reconhecida oficialmente pelo Unicode. A
 
 ![tabela dos pontos para sitelen pona no UCSUR](/sitelen_ucsur.gif)
 
-> **Description of sitelen pona in USCUR**
+> **Description of sitelen pona in UCSUR**
 > 
 > Se você quer encontrar o codepoint (número do caracter) para um caracter,
 > pegue o número grande na esquerda, o número pequeno em cima, e adicione os

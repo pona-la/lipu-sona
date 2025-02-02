@@ -185,3 +185,14 @@
 > * o pana e namako walo suwi tawa mi. / o pana e sin moku walo suwi tawa mi.
 > * sina wile e ni: mi kipisi e sike pan kepeken nasin seme? / sina wile e ni:
 > mi tu e sike pan kepeken nasin seme?
+
+<h1><a name="sp" id="sp" href="zh/sitelen_pona">sitelen pona页面</a></h1>
+
+> 本文件的这部分是以sitelen pona书写。你能不能看得懂？
+>
+> toki pona拥有很少单字。因此它的书写系统能够以一个符号表示一个字，所有符号外观上与其意思相似。
+
+
+---
+
+[回到首页](zh)
