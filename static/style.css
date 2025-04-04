@@ -63,19 +63,17 @@ body {
 }
 
 pre {
-  font-size: 12pt;
+  font-size: 1rem;
 }
 
 blockquote {
-  margin: 6pt;
-  padding-inline: 1em;
+  margin-inline: 0;
+  padding-inline: 0.75rem;
   border-inline-start: 4px solid var(--lt-border);
 }
 
 p {
-  line-height: 1.5em;
-  margin: 0.7em 0;
-  text-align: justify;
+  line-height: 1.5;
 }
 
 table {
@@ -83,24 +81,29 @@ table {
   border: 2px solid var(--hv-border);
   border-collapse: collapse;
   width: 100%;
-  margin-bottom: 15px;
+  margin-bottom: 1rem;
+}
+
+ul li {
+  margin-top: 0.25rem;
 }
 
 th,
 td {
   border: 1px solid var(--lt-border);
-  padding: 4pt;
+  padding: 0.25rem 0.5rem;
 }
 
 header {
   background: var(--header-bg);
   color: var(--header-fg);
+  border-bottom: 2px solid var(--b-border);
   font-family: sans-serif;
   min-height: 1px;
 }
 
 .header-text {
-  padding-block: 0.5em;
+  padding-block: 1rem 1.5rem;
 }
 
 header a,
@@ -139,7 +142,7 @@ footer {
   text-align: center;
   font-family: sans-serif;
   font-size: 0.8em;
-  padding: 12pt 6pt;
+  padding-block: 2rem;
 }
 
 footer a,
@@ -149,9 +152,7 @@ footer a:visited {
 }
 
 .content {
-  margin: 0 6pt;
-  color: var(--body-fg);
-  /*font-family: serif;*/
+  padding: 1rem;
 }
 
 .content img {
@@ -171,8 +172,8 @@ footer a:visited {
 .info,
 .warning,
 .error {
-  margin: 6pt;
-  padding-inline-start: 0.5em;
+  margin: 0.5rem;
+  padding-inline-start: 0.5rem;
   font-family: sans-serif;
   overflow: auto;
   border-radius: 6px;
@@ -217,13 +218,7 @@ footer a:visited {
   color: var(--err-fg);
 }
 
-.spoiler {
-  border: 2px solid var(--hv-border);
-  color:;
-  visibility: hidden;
-}
-
-.pona .latin {
+.pona.latin {
   font-family: monospace;
 }
 
@@ -253,41 +248,32 @@ footer a:visited {
   }
 
   body {
-    max-width: 608pt;
+    max-width: unset;
     border-radius: 6px;
     margin: auto;
   }
 
   .header-text {
-    padding-inline: 2em;
-    padding-block: 2em;
-  }
-  .content {
-    padding-inline: 1em;
-    padding-block: 1em;
+    padding: 2rem 2.25rem;
   }
 
   .info,
   .warning,
   .error {
-    padding: 6pt;
+    padding: 0.5rem;
     padding-inline-start: 1em;
   }
 }
 
-@media screen and (min-width: 768pt) {
+@media screen and (min-width: 1024px) {
   header {
     border-radius: 4px 4px 0 0;
   }
 
   body {
-    max-width: 768pt;
+    max-width: 1024px;
     border: 2px solid var(--b-border);
-    margin: 24pt auto;
+    margin: 2rem auto;
     font-size: 110%;
-  }
-
-  footer {
-    border-radius: 0 0 4px 4px;
   }
 }
