@@ -26,24 +26,23 @@
     <?theme style?>
   </head>
   <body>
-    <div class="header">
-      <div class="header_image"></div>
-      <div class="header_text">
+    <header>
+      <div class="header-text">
         <h2><a href=".">lipu sona pona</a><span class="titlesep"> | </span></h2>
         <h3>
           <?theme title?>
         </h3>
       </div>
-    </div>
-    <div class="middle">
+    </header>
+    <main>
       <article class="content">
         <?theme body?>
       </article>
-      <div class="footer">
+      <footer>
         This website's source code is available
         <a href="https://github.com/pona-la/lipu-sona">on GitHub</a>.
-      </div>
-    </div>
+      </footer>
+    </main>
   </body>
   <script src="scripts.js"></script>
 </html>
