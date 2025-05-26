@@ -128,9 +128,9 @@ the most common ones.
 
  * A font called "[linja pona](https://musilili.net/linja-pona/)" is characteristic for
    its basic design and support for tons and tons of different composite
-   characters. It is the most popular option.
+   characters. It used to be, and may still be, the most popular option.
 
- * "[sitelen pona pona](https://jackhumbert.github.io/sitelen-pona-pona/)" is a
+ * "[sitelen sa (previously "sitelen pona pona")](https://jackhumbert.github.io/sitelen-sa/)" is a
    font that features some characters way different from regular sitelen pona,
    but looks very nice on different font sizes and doesn't require any
    modification to toki pona text in order to look good. In particular, this is
@@ -138,7 +138,7 @@ the most common ones.
 
 > %info%
 > Some pages on this website may offer an ability to toggle between Latin and
-> sitelen pona displays. The latter option will use the "sitelen pona pona"
+> sitelen pona displays. The latter option will use the "sitelen sa"
 > font, since it works best with unmodified toki pona texts and falls back
 > nicely in texts that use non-pu, unofficial or outright non-toki-pona
 > words in them.
@@ -177,7 +177,7 @@ fully-functional vector font.
 
 ![](/lpimeja.png)
 
-* sitelen pona pona:
+* sitelen sa:
 
 ![](/spp.png)
 
