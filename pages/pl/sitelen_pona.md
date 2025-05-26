@@ -112,7 +112,7 @@ wyświetlić też na wiele innych sposobów. Oto najpopularniejsze z nich:
  * Font „[linja pona](https://musilili.net/linja-pona/)” charakteryzuje jego prosty design
    i obsługa mnóstwa znaków złożonych. Jest to najpopularniejsza opcja.
 
- * „[sitelen pona pona](https://jackhumbert.github.io/sitelen-pona-pona/)” to font
+ * „[sitelen pona pona/sitelen sa](https://jackhumbert.github.io/sitelen-sa/)” to font
    obrazujący znaki w sposób znacznie różniący się od tego, jaki możemy zauważyć w 
    zwykłym piśmie sitelen pona. Cieszy oko bez względu na wielkość znaków i nie 
    wymaga modyfikowania tekstu, żeby wyglądać dobrze. Ten font w szczególności mi
