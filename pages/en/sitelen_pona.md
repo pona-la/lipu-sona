@@ -126,7 +126,7 @@ The text above is displayed using a font called "linja pimeja". However, for
 displaying sitelen pona text online, there is a ton of other options. Here are
 the most common ones.
 
- * A font called "[linja pona](musilili.net/linja-pona/)" is characteristic for
+ * A font called "[linja pona](https://musilili.net/linja-pona/)" is characteristic for
    its basic design and support for tons and tons of different composite
    characters. It is the most popular option.
 
