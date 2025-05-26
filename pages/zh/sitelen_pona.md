@@ -135,7 +135,7 @@ ona.](/sitelen_pona_example.png)
 
 * nasin nanpa:
 
-![](/nasin_nanpa_Etan.png)
+![](/nasin_nanpa_Itan.png)
 
 ### sitelen pona（尝试）加入統一码（Unicode）
 
