@@ -84,7 +84,7 @@ ona.](/sitelen_pona_example.png)
 
  * "[nasin sitelen pu](https://github.com/RetSamys/nasin-sitelen-pu)"使用了"lipu pu"里所展示的sitelen pona图案。
 
- * "[nasin nanpa](https://github.com/ETBCOR/nasin-nanpa)"是jan Etan所设计的字型，并于第三本官方书籍"lipu su nanpa wan"（《绿野仙踪》toki pona翻译）和其后的"lipu pu"版本被选为书写sitelen pona的字型。
+ * "[nasin nanpa](https://github.com/ETBCOR/nasin-nanpa)"是jan Itan所设计的字型，并于第三本官方书籍"lipu su nanpa wan"（《绿野仙踪》toki pona翻译）和其后的"lipu pu"版本被选为书写sitelen pona的字型。
 
  * 其他较普遍的字型：
    * jan Lepeka的"[sitelen seli kiwen](https://www.kreativekorp.com/software/fonts/sitelenselikiwen/)"手写字型
