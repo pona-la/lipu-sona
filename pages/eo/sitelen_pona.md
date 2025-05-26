@@ -109,7 +109,7 @@ La teksto supra montriĝas per tiparo nomita "linja pimeja". Tamen, por
 montri Sitelenponon interrete, estas multaj aliaj ebloj. Jen la
 plej oftaj.
 
- * Tiparo nomita "[linja pona](musilili.net/linja-pona/)" estas konata pro
+ * Tiparo nomita "[linja pona](https://musilili.net/linja-pona/)" estas konata pro
    siaj simpla estetiko kaj kapablo kunmeti multajn signojn. 
    Ĝi estas la plej populara elekto.
 
