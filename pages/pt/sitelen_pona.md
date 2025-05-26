@@ -133,7 +133,7 @@ O texto acima é escrito usando uma fonte chamada "linja pimeja". Mas, para most
    característica pelo seu design básico e suporte por muitos e muitos
    caracteres compostos diferentes. É a opção mais popular.
 
- * "[sitelen pona pona](https://jackhumbert.github.io/sitelen-pona-pona/)"
+ * "[sitelen pona pona/sitelen sa](https://jackhumbert.github.io/sitelen-sa/)"
    é uma fonte que traz alguns caracteres muito diferentes do
    sitelen pona normal, mas é bem bonita em diferentes tamanhos e
    não precisa de nenhuma modificação no texto de toki pona para
