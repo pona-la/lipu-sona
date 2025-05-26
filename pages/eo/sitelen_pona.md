@@ -113,7 +113,7 @@ plej oftaj.
    siaj simpla estetiko kaj kapablo kunmeti multajn signojn. 
    Ĝi estas la plej populara elekto.
 
- * "[sitelen pona pona](https://jackhumbert.github.io/sitelen-pona-pona/)" estas
+ * "[sitelen pona pona/sitelen sa](https://jackhumbert.github.io/sitelen-sa/)" estas
    tiparo, kiu traktas iujn signojn tre malsimile al kutime en Sitelenpono,
    sed kiu aspektas bele en variaj grandecoj de la tiparo, kaj kiu ne postulas ian
    aliigon de Tokipona teksto por aspekti bele. Precipe, ĉi tiu estas
