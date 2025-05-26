@@ -123,7 +123,7 @@ Der obenstehende Text ist in der Schriftart "linja pimeja" wiedergegeben.
 Allerdings gibt es wesentlich mehr Optionen, einen Text in sitelen pona online 
 darzustellen. Hier sind die gebräuchlichsten.
 
- * Die Schriftart "[linja pona](musilili.net/linja-pona/)" ist charakteristisch 
+ * Die Schriftart "[linja pona](https://musilili.net/linja-pona/)" ist charakteristisch 
    für die Gestaltung und die Ausführung von vielen, vielen zusammengesetzten 
    Zeichen. Sie ist die beliebteste Variante.
 
