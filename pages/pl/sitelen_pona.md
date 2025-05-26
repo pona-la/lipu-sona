@@ -109,7 +109,7 @@ Powyżej zapisany tekst używa fontu „linja pimeja”. Ale pismo sitelen pona 
 wyświetlić też na wiele innych sposobów. Oto najpopularniejsze z nich:
 
 
- * Font „[linja pona](musilili.net/linja-pona/)” charakteryzuje jego prosty design
+ * Font „[linja pona](https://musilili.net/linja-pona/)” charakteryzuje jego prosty design
    i obsługa mnóstwa znaków złożonych. Jest to najpopularniejsza opcja.
 
  * „[sitelen pona pona](https://jackhumbert.github.io/sitelen-pona-pona/)” to font
