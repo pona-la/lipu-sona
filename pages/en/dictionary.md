@@ -205,7 +205,9 @@ Much like interacting with the first official toki pona book was given the word
 "pu", so does the second book with "ku". In fact, in *lipu ku*, words "ju", 
 "lu", "nu", "su" and "u" are all listed as "(word reserved for future use by 
 Sonja Lang)", presumably to be given to the next five official toki pona books 
-that (in my opinion) should be created in the future.
+that (in my opinion) should be created in the future. (In fact, Sonja Lang has
+started publishing a series of illustrated story books, beginning with "The
+Wonderful Wizard of Oz", that are collectively known as *lipu su*)
 
 #### [kule](en/8)
 * noun: color, (rare) gender

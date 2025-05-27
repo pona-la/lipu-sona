@@ -183,7 +183,7 @@
 > * sina kokosila tan seme? / sina toki kepeken toki pona ala tan seme?
 > * sina wile ala e ni: oko sina li pakala. o pana e len oko tawa sina. / sina
 > wile ala e ni: lukin sina li pakala. o pana e len lukin tawa sina.
-> * o pana e namako walo suwi tawa mi. / o pana e sin moku walo suwi tawa mi.
+> * o pana e namako walo suwi tawa mi. / o pana e ko moku walo suwi tawa mi.
 > * sina wile e ni: mi kipisi e sike pan kepeken nasin seme? / sina wile e ni:
 > mi tu e sike pan kepeken nasin seme?
 

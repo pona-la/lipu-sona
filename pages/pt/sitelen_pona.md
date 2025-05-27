@@ -129,11 +129,11 @@ pona"](https://davidar.github.io/tp/) de jan Tepu.
 
 O texto acima é escrito usando uma fonte chamada "linja pimeja". Mas, para mostrar texto em sitelen pona online, tem muitas outras opções. Aqui estão os mais comuns.
 
- * Uma fonte chamada "[linja pona](musilili.net/linja-pona/)" é
+ * Uma fonte chamada "[linja pona](https://musilili.net/linja-pona/)" é
    característica pelo seu design básico e suporte por muitos e muitos
    caracteres compostos diferentes. É a opção mais popular.
 
- * "[sitelen pona pona](https://jackhumbert.github.io/sitelen-pona-pona/)"
+ * "[sitelen pona pona/sitelen sa](https://jackhumbert.github.io/sitelen-sa/)"
    é uma fonte que traz alguns caracteres muito diferentes do
    sitelen pona normal, mas é bem bonita em diferentes tamanhos e
    não precisa de nenhuma modificação no texto de toki pona para

@@ -70,10 +70,10 @@ ona.](/sitelen_pona_example.png)
 
  * "[linja pona](https://musilili.net/linja-pona/)"是一个特别简洁的字型，并能显示非常多种合成字符，曾经、甚至至今仍是最热门的选择。
 
- * "[sitelen pona pona](https://jackhumbert.github.io/sitelen-pona-pona/)"中某些字的外观与正常sitelen pona截然不同（因此有些人视它为sitelen pona外另一种书写系统）。但它于不同字型大小、以及不需要编改拉丁字母toki pona文本的情况下，都很美观，因此是我最喜爱的字型。
+ * "[sitelen sa（旧称 sitelen pona pona）](https://jackhumbert.github.io/sitelen-sa/)"中某些字的外观与正常sitelen pona截然不同（因此有些人视它为sitelen pona外另一种书写系统）。但它于不同字型大小、以及不需要编改拉丁字母toki pona文本的情况下，都很美观，因此是我最喜爱的字型。
 
 > %info%
-> 本网站的某些页面上，你可以选择以拉丁字母或sitelen pona显示。后者会采用"sitelen pona pona"字型显示文本。这适合展示原本为拉丁字母的文字， 并能较好地与新增、非官方词汇、和非toki pona文字并列。
+> 本网站的某些页面上，你可以选择以拉丁字母或sitelen pona显示。后者会采用"sitelen sa"字型显示文本。这适合展示原本为拉丁字母的文字， 并能较好地与新增、非官方词汇、和非toki pona文字并列。
 > 
 
  * "[linja suwi](https://linjasuwi.ap5.dev/)"是alienpirate5所设计的字型，比以上字型较近期现世。它外观整洁，并包含许多社区新增的词汇。
@@ -84,7 +84,7 @@ ona.](/sitelen_pona_example.png)
 
  * "[nasin sitelen pu](https://github.com/RetSamys/nasin-sitelen-pu)"使用了"lipu pu"里所展示的sitelen pona图案。
 
- * "[nasin nanpa](https://github.com/ETBCOR/nasin-nanpa)"是jan Etan所设计的字型，并于第三本官方书籍"lipu su nanpa wan"（《绿野仙踪》toki pona翻译）和其后的"lipu pu"版本被选为书写sitelen pona的字型。
+ * "[nasin nanpa](https://github.com/ETBCOR/nasin-nanpa)"是jan Itan所设计的字型，并于第三本官方书籍"lipu su nanpa wan"（《绿野仙踪》toki pona翻译）和其后的"lipu pu"版本被选为书写sitelen pona的字型。
 
  * 其他较普遍的字型：
    * jan Lepeka的"[sitelen seli kiwen](https://www.kreativekorp.com/software/fonts/sitelenselikiwen/)"手写字型
@@ -121,7 +121,7 @@ ona.](/sitelen_pona_example.png)
 
 ![](/lpimeja.png)
 
-* sitelen pona pona:
+* sitelen sa:
 
 ![](/spp.png)
 
@@ -135,7 +135,7 @@ ona.](/sitelen_pona_example.png)
 
 * nasin nanpa:
 
-![](/nasin_nanpa_Etan.png)
+![](/nasin_nanpa_Itan.png)
 
 ### sitelen pona（尝试）加入統一码（Unicode）
 

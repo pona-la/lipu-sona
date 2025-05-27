@@ -123,11 +123,11 @@ Der obenstehende Text ist in der Schriftart "linja pimeja" wiedergegeben.
 Allerdings gibt es wesentlich mehr Optionen, einen Text in sitelen pona online 
 darzustellen. Hier sind die gebräuchlichsten.
 
- * Die Schriftart "[linja pona](musilili.net/linja-pona/)" ist charakteristisch 
+ * Die Schriftart "[linja pona](https://musilili.net/linja-pona/)" ist charakteristisch 
    für die Gestaltung und die Ausführung von vielen, vielen zusammengesetzten 
    Zeichen. Sie ist die beliebteste Variante.
 
- * "[sitelen pona pona](https://jackhumbert.github.io/sitelen-pona-pona/)" ist 
+ * "[sitelen pona pona/sitelen sa](https://jackhumbert.github.io/sitelen-sa/)" ist 
    eine Schriftart, die manche Zeichen anders als in typischem sitelen pona 
    darstellt, dafür aber in mehreren Schriftgrößen sehr gut aussieht und keine 
    Änderungen im Toki-Pona-Text braucht, um gut auszusehen. 
