@@ -245,7 +245,7 @@ makes it possible to use in most web browsers and messenger apps.
 example text](https://omniglot.com/conscripts/sitelenemoji.htm)
 
 To address [issues such as accessibility for colourblind and dark mode users, 
-sexism, etc](https://discord.com/channels/301377942062366741/1169436328954429540/1201455562739699765),
+female diminutization, etc](https://discord.com/channels/301377942062366741/1169436328954429540/1201455562739699765),
 waso Keli has designed another emoji-based system called "[nasin pi sitelen jelo](https://sona.pona.la/wiki/nasin_pi_sitelen_jelo)".
 This may be the more predominant emoji-based writing system within Discord communities 
 and newer websites, though both systems are still relatively rare.
