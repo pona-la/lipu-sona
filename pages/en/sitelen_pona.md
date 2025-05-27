@@ -212,7 +212,8 @@ follow this [video tutorial](https://youtu.be/6Emk0nvFFVw) to create your own fo
 
 ### sitelen pona in Unicode
 
-At this moment, toki pona has not been recognized by Unicode officially. Most 
+At this moment, toki pona has not been recognized by Unicode officially 
+(though efforts to make this happen are in progress). Most 
 fonts designed for sitelen pona use ligatures in order to convert Latin-based 
 toki pona text into sitelen pona. However, the toki pona community submitted a 
 proposal to encode sitelen pona to the
@@ -232,7 +233,7 @@ result, many newer toki pona fonts now try to use the same range of characters.
 > F1920 and the number on the top is 4. These are base-sixteen numbers. "10" 
 > doesn't mean ten, it means sixteen.
 
-### sitelen emoji / sitelen pilin
+### sitelen emoji / sitelen pilin & nasin pi sitelen jelo
 
 A system called "sitelen emoji" (or "sitelen pilin") adapts sitelen pona by
 using an emoji character for each of the possible sitelen pona characters. This
@@ -242,6 +243,12 @@ makes it possible to use in most web browsers and messenger apps.
 
 * [Description of the system, as well as a Windows emoji character chart and
 example text](https://omniglot.com/conscripts/sitelenemoji.htm)
+
+To address [issues such as accessibility for colourblind and dark mode users, 
+sexism, etc](https://discord.com/channels/301377942062366741/1169436328954429540/1201455562739699765),
+waso Keli has designed another emoji-based system called "[nasin pi sitelen jelo](https://sona.pona.la/wiki/nasin_pi_sitelen_jelo)".
+This may be the more predominant emoji-based writing system within Discord communities 
+and newer websites, though both systems are still relatively rare.
 
 ---
 
